@@ -7,7 +7,7 @@ code = "A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove A
 name = Uppercase;
 }
 );
-copyright = "Copyright 2011 The Bitter Project Authors (https://github.com/solmatas/bitter)";
+copyright = "Copyright 2011 The Bitter Project Authors (https://github.com/solmatas/BitterPro)";
 customParameters = (
 {
 name = fsType;
