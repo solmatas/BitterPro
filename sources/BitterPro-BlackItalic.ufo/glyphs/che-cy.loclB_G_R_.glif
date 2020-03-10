@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="che-cy.loclBGR" format="2">
+  <advance width="614"/>
+  <anchor x="571" y="0" name="bottomright"/>
+  <anchor x="290" y="200" name="center"/>
+  <anchor x="342" y="540" name="top"/>
+  <outline>
+    <contour>
+      <point x="310" y="-6" type="line"/>
+      <point x="571" y="0" type="line"/>
+      <point x="587" y="99" type="line"/>
+      <point x="499" y="133" type="line"/>
+      <point x="520" y="100" type="line"/>
+      <point x="590" y="540" type="line"/>
+      <point x="396" y="540" type="line"/>
+      <point x="368" y="349" type="line" smooth="yes"/>
+      <point x="360" y="296"/>
+      <point x="317" y="271"/>
+      <point x="285" y="271" type="curve" smooth="yes"/>
+      <point x="253" y="271"/>
+      <point x="255" y="297"/>
+      <point x="259" y="321" type="curve" smooth="yes"/>
+      <point x="292" y="544" type="line"/>
+      <point x="46" y="536" type="line"/>
+      <point x="31" y="436" type="line"/>
+      <point x="124" y="393" type="line"/>
+      <point x="83" y="441" type="line"/>
+      <point x="56" y="253" type="line" smooth="yes"/>
+      <point x="45" y="177"/>
+      <point x="88" y="119"/>
+      <point x="187" y="119" type="curve" smooth="yes"/>
+      <point x="299" y="119"/>
+      <point x="414" y="185"/>
+      <point x="445" y="329" type="curve"/>
+      <point x="360" y="228" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>de.kutilek.scrawl.data</key>
+      <data>
+      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
+      </data>
+      <key>de.kutilek.scrawl.rect</key>
+      <array>
+        <integer>-100</integer>
+        <integer>-330</integer>
+        <integer>817</integer>
+        <integer>1200</integer>
+      </array>
+      <key>de.kutilek.scrawl.size</key>
+      <integer>4</integer>
+      <key>de.kutilek.scrawl.unit</key>
+      <integer>2</integer>
+    </dict>
+  </lib>
+</glyph>

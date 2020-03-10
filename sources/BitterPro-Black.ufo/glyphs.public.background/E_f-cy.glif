@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ef-cy" format="2">
+  <outline>
+    <contour>
+      <point x="795" y="382" type="curve"/>
+      <point x="795" y="521"/>
+      <point x="706" y="615"/>
+      <point x="492" y="627" type="curve"/>
+      <point x="492" y="647" type="line"/>
+      <point x="552" y="676" type="line"/>
+      <point x="552" y="766" type="line"/>
+      <point x="263" y="761" type="line"/>
+      <point x="263" y="671" type="line"/>
+      <point x="323" y="647" type="line"/>
+      <point x="323" y="625" type="line"/>
+      <point x="118" y="611"/>
+      <point x="20" y="517"/>
+      <point x="20" y="362" type="curve"/>
+      <point x="20" y="215"/>
+      <point x="107" y="122"/>
+      <point x="323" y="113" type="curve"/>
+      <point x="323" y="94" type="line"/>
+      <point x="263" y="70" type="line"/>
+      <point x="263" y="-20" type="line"/>
+      <point x="552" y="-20" type="line"/>
+      <point x="552" y="70" type="line"/>
+      <point x="492" y="94" type="line"/>
+      <point x="492" y="116" type="line"/>
+      <point x="699" y="133"/>
+      <point x="795" y="237"/>
+    </contour>
+    <contour>
+      <point x="230" y="367" type="curve"/>
+      <point x="229" y="451"/>
+      <point x="255" y="503"/>
+      <point x="323" y="513" type="curve"/>
+      <point x="323" y="229" type="line"/>
+      <point x="248" y="242"/>
+      <point x="231" y="299"/>
+    </contour>
+    <contour>
+      <point x="585" y="377" type="curve"/>
+      <point x="585" y="294"/>
+      <point x="557" y="239"/>
+      <point x="492" y="228" type="curve"/>
+      <point x="492" y="512" type="line"/>
+      <point x="563" y="502"/>
+      <point x="585" y="450"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="macronacutesingle" format="2">
+  <advance width="394"/>
+  <guideline x="264" y="738" angle="0"/>
+  <guideline x="699" y="980" angle="0"/>
+  <guideline x="84" y="529" angle="261"/>
+  <guideline x="404" y="529" angle="261"/>
+  <guideline x="244" y="529" angle="261"/>
+  <anchor x="246" y="540" name="_top"/>
+  <outline>
+    <component base="macron" yOffset="-70"/>
+    <component base="acutecomb.case" xOffset="5" yOffset="-20"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+        <integer>0</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresismacroncomb.case" format="2">
+  <advance width="430"/>
+  <guideline x="-4" y="747" angle="0"/>
+  <guideline x="-4" y="868" angle="0"/>
+  <guideline x="-4" y="834" angle="0"/>
+  <guideline x="-4" y="775" angle="0"/>
+  <anchor x="215" y="692" name="_top"/>
+  <outline>
+    <component base="dieresiscomb" xOffset="-4" yOffset="81"/>
+    <component base="macroncomb" xOffset="-1" yOffset="177"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>0</integer>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

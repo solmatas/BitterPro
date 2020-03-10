@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>color</key>
+    <string>0,1,0.25,0.7</string>
+    <key>lib</key>
+    <dict>
+      <key>com.schriftgestaltung.layerId</key>
+      <string>9BA509B8-E253-4ED6-A712-8F9402C6D7C0</string>
+      <key>com.schriftgestaltung.layerOrderInGlyph.Cheabkhasian-cy</key>
+      <integer>2</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.Schwa-cy</key>
+      <integer>2</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.a</key>
+      <integer>2</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.ae</key>
+      <integer>2</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.cheabkhasian-cy</key>
+      <integer>2</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.e</key>
+      <integer>2</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.ertick-cy</key>
+      <integer>2</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.g</key>
+      <integer>2</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.oe</key>
+      <integer>2</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.ogonek</key>
+      <integer>2</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.ogonekcomb.case.alt</key>
+      <integer>2</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.schwa</key>
+      <integer>2</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.schwa.sc</key>
+      <integer>2</integer>
+    </dict>
+  </dict>
+</plist>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eth.sc" format="2">
+  <advance width="654"/>
+  <outline>
+    <component base="d.sc"/>
+    <component base="strokeshortcomb" xScale="0.95" xOffset="3" yOffset="-10"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <integer>82</integer>
+        <key>width</key>
+        <integer>86</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>d.sc</string>
+    </dict>
+  </lib>
+</glyph>

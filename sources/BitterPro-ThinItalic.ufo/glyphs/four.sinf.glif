@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="four.sinf" format="2">
+  <advance width="326"/>
+  <guideline x="6" y="330" angle="0"/>
+  <guideline x="-301" y="-90" angle="0"/>
+  <outline>
+    <component base="four.dnom" xOffset="-14" yOffset="-90"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <integer>60</integer>
+        <key>width</key>
+        <integer>55</integer>
+      </dict>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

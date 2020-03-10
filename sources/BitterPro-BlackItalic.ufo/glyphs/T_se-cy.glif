@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Tse-cy" format="2">
+  <advance width="769"/>
+  <unicode hex="0426"/>
+  <guideline x="-589" y="-200" angle="0"/>
+  <outline>
+    <contour>
+      <point x="566" y="-205" type="line"/>
+      <point x="680" y="-205" type="line"/>
+      <point x="732" y="135" type="line"/>
+      <point x="613" y="145" type="line"/>
+      <point x="631" y="95" type="line"/>
+      <point x="710" y="598" type="line"/>
+      <point x="689" y="572" type="line"/>
+      <point x="772" y="610" type="line"/>
+      <point x="788" y="710" type="line"/>
+      <point x="475" y="705" type="line"/>
+      <point x="459" y="605" type="line"/>
+      <point x="533" y="571" type="line"/>
+      <point x="513" y="597" type="line"/>
+      <point x="434" y="95" type="line"/>
+      <point x="478" y="145" type="line"/>
+      <point x="238" y="145" type="line"/>
+      <point x="255" y="105" type="line"/>
+      <point x="333" y="598" type="line"/>
+      <point x="312" y="572" type="line"/>
+      <point x="395" y="610" type="line"/>
+      <point x="411" y="710" type="line"/>
+      <point x="98" y="705" type="line"/>
+      <point x="82" y="605" type="line"/>
+      <point x="156" y="571" type="line"/>
+      <point x="136" y="597" type="line"/>
+      <point x="58" y="104" type="line"/>
+      <point x="83" y="132" type="line"/>
+      <point x="2" y="100" type="line"/>
+      <point x="-14" y="0" type="line"/>
+      <point x="551" y="0" type="line"/>
+      <point x="535" y="18" type="line"/>
+    </contour>
+  </outline>
+</glyph>

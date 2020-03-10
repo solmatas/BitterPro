@@ -1,5 +1,5 @@
 {
-.appVersion = "1290";
+.appVersion = "1230";
 classes = (
 {
 automatic = 1;
@@ -42,15 +42,15 @@ value = 1;
 name = "Axis Mappings";
 value = {
 wght = {
-100 = 20;
-200 = 28;
-300 = 46;
-400 = 78;
-500 = 98;
-600 = 118;
-700 = 138;
-800 = 165;
-900 = 193;
+"100" = 20;
+"200" = 28;
+"300" = 46;
+"400" = 78;
+"500" = 98;
+"600" = 118;
+"700" = 138;
+"800" = 165;
+"900" = 193;
 };
 };
 }
@@ -1308,6 +1308,7 @@ alignmentZones = (
 );
 ascender = 762;
 capHeight = 692;
+custom = "Thin Italic";
 customParameters = (
 {
 name = hheaDescender;
@@ -1389,6 +1390,7 @@ horizontalStems = (
 20,
 15
 );
+iconName = Light;
 id = "075BA79B-D813-4287-A9DD-CCAF2D535ED3";
 italicAngle = 9;
 userData = {
@@ -1402,7 +1404,7 @@ width = 20;
 verticalStems = (
 20
 );
-weight = Light;
+visible = 1;
 weightValue = 20;
 xHeight = 522;
 },
@@ -1417,6 +1419,7 @@ alignmentZones = (
 );
 ascender = 780;
 capHeight = 710;
+custom = "Black Italic";
 customParameters = (
 {
 name = hheaDescender;
@@ -1494,6 +1497,7 @@ horizontalStems = (
 130,
 100
 );
+iconName = Bold;
 id = "927AED37-E9E6-4F96-A08E-421C3785EFC6";
 italicAngle = 9;
 userData = {
@@ -1507,7 +1511,7 @@ verticalStems = (
 193,
 197
 );
-weight = Bold;
+visible = 1;
 weightValue = 193;
 xHeight = 540;
 }
@@ -155210,6 +155214,7 @@ width = 702;
 {
 associatedMasterId = "075BA79B-D813-4287-A9DD-CCAF2D535ED3";
 layerId = UUID0;
+visible = 1;
 width = 600;
 }
 );
@@ -156702,7 +156707,7 @@ position = "{779, 595}";
 }
 );
 layerId = "1ADD0B62-BDD9-4E41-9922-E83CFE78C56D";
-name = "Bold [70]";
+name = "Black Italic [70]";
 paths = (
 {
 closed = 1;
@@ -156854,7 +156859,7 @@ position = "{838, 454}";
 }
 );
 layerId = "C73F8804-F6CD-4388-8713-145715CBB2AA";
-name = "Light [70]";
+name = "Thin Italic [70]";
 paths = (
 {
 closed = 1;
@@ -157284,7 +157289,7 @@ position = "{123, 426}";
 }
 );
 layerId = "E884CF81-6618-4408-BBB5-009A29231609";
-name = "Light [130]";
+name = "Thin Italic [130]";
 paths = (
 {
 closed = 1;
@@ -157412,7 +157417,7 @@ nodes = (
 );
 };
 layerId = "B1E9178E-378E-462F-B12F-124403DD2F10";
-name = "Bold [130]";
+name = "Black Italic [130]";
 paths = (
 {
 closed = 1;
@@ -157664,7 +157669,7 @@ nodes = (
 );
 };
 layerId = "3F1A6F00-849C-44B3-95EB-DD565DDE647F";
-name = "Light [70]";
+name = "Thin Italic [70]";
 paths = (
 {
 closed = 1;
@@ -157783,7 +157788,7 @@ nodes = (
 );
 };
 layerId = "EA7C2C05-18FD-4E95-8D06-DFE361A575A6";
-name = "Bold [70]";
+name = "Black Italic [70]";
 paths = (
 {
 closed = 1;
@@ -159209,7 +159214,7 @@ nodes = (
 );
 };
 layerId = "054B5971-13BE-4D55-9524-AD9B6231ADB8";
-name = "Bold [70]";
+name = "Black Italic [70]";
 paths = (
 {
 closed = 1;
@@ -159347,7 +159352,7 @@ nodes = (
 );
 };
 layerId = "CCB81038-706E-4CA7-8966-E66A37235B07";
-name = "Light [70]";
+name = "Thin Italic [70]";
 paths = (
 {
 closed = 1;

@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="n.sc" format="2">
+  <advance width="713"/>
+  <guideline x="158" y="231" angle="261"/>
+  <guideline x="139" y="234" angle="261"/>
+  <guideline x="50" y="234" angle="261"/>
+  <guideline x="576" y="230" angle="261"/>
+  <guideline x="557" y="233" angle="261"/>
+  <guideline x="435" y="726" angle="261"/>
+  <anchor x="320" y="0" name="bottom"/>
+  <anchor x="411" y="568" name="top"/>
+  <outline>
+    <contour>
+      <point x="510" y="564" type="line"/>
+      <point x="508" y="550" type="line"/>
+      <point x="611" y="543" type="line"/>
+      <point x="607" y="550" type="line"/>
+      <point x="524" y="23" type="line"/>
+      <point x="531" y="23" type="line"/>
+      <point x="215" y="568" type="line"/>
+      <point x="102" y="564" type="line"/>
+      <point x="100" y="550" type="line"/>
+      <point x="193" y="542" type="line"/>
+      <point x="189" y="549" type="line"/>
+      <point x="105" y="19" type="line"/>
+      <point x="112" y="26" type="line"/>
+      <point x="15" y="14" type="line"/>
+      <point x="13" y="0" type="line"/>
+      <point x="220" y="0" type="line"/>
+      <point x="222" y="14" type="line"/>
+      <point x="119" y="26" type="line"/>
+      <point x="124" y="18" type="line"/>
+      <point x="209" y="551" type="line"/>
+      <point x="200" y="551" type="line"/>
+      <point x="519" y="0" type="line"/>
+      <point x="540" y="0" type="line"/>
+      <point x="627" y="549" type="line"/>
+      <point x="619" y="542" type="line"/>
+      <point x="716" y="554" type="line"/>
+      <point x="718" y="568" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <integer>82</integer>
+        <key>width</key>
+        <integer>86</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Iishort-cy.loclBGR" format="2">
+  <outline>
+    <component base="Ii-cy.loclBGR" xOffset="34"/>
+    <component base="brevecomb-cy.case" xOffset="220"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>0</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

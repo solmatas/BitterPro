@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tildecomb_acutecomb.case" format="2">
+  <guideline y="774"/>
+  <guideline y="968"/>
+  <guideline y="756"/>
+  <guideline y="998"/>
+  <anchor x="243" y="710" name="_top"/>
+  <anchor x="243" y="1100" name="top"/>
+  <outline>
+    <component base="tildecomb.case" yOffset="-34"/>
+    <component base="acutecomb.case" xScale="0.9962" xyScale="-0.0872" yxScale="0.0872" yScale="0.9962" xOffset="-43" yOffset="189"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>485</integer>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

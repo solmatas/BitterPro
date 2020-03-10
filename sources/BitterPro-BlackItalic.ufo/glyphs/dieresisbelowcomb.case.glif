@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresisbelowcomb.case" format="2">
+  <guideline x="-753" y="-257" angle="0"/>
+  <guideline x="-514" y="-40" angle="0"/>
+  <guideline x="-634" y="-149" angle="0"/>
+  <guideline x="273" y="516" angle="261"/>
+  <guideline x="473" y="516" angle="261"/>
+  <guideline x="73" y="516" angle="261"/>
+  <anchor x="191" y="0" name="_bottom"/>
+  <anchor x="155" y="-230" name="bottom"/>
+  <outline>
+    <component base="dieresisbelowcomb"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>469</integer>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

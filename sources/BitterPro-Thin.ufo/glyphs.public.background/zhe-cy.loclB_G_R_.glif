@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zhe-cy.loclBGR" format="2">
+  <outline>
+    <contour>
+      <point x="18" y="0" type="line"/>
+      <point x="70" y="0" type="line"/>
+      <point x="225" y="240" type="line"/>
+      <point x="354" y="240" type="line"/>
+      <point x="354" y="37" type="line"/>
+      <point x="275" y="12" type="line"/>
+      <point x="275" y="0" type="line"/>
+      <point x="460" y="0" type="line"/>
+      <point x="460" y="12" type="line"/>
+      <point x="383" y="37" type="line"/>
+      <point x="383" y="240" type="line"/>
+      <point x="507" y="240" type="line"/>
+      <point x="684" y="0" type="line"/>
+      <point x="734" y="0" type="line"/>
+      <point x="734" y="12" type="line"/>
+      <point x="658" y="39" type="line"/>
+      <point x="500" y="261" type="line"/>
+      <point x="620" y="485" type="line"/>
+      <point x="695" y="496" type="line"/>
+      <point x="695" y="513" type="line"/>
+      <point x="538" y="508" type="line"/>
+      <point x="538" y="496" type="line"/>
+      <point x="583" y="482" type="line"/>
+      <point x="499" y="281" type="line"/>
+      <point x="383" y="281" type="line"/>
+      <point x="383" y="761" type="line"/>
+      <point x="260" y="762" type="line"/>
+      <point x="260" y="749" type="line"/>
+      <point x="354" y="729" type="line"/>
+      <point x="354" y="281" type="line"/>
+      <point x="227" y="281" type="line"/>
+      <point x="159" y="482" type="line"/>
+      <point x="205" y="496" type="line"/>
+      <point x="205" y="513" type="line"/>
+      <point x="51" y="505" type="line"/>
+      <point x="51" y="496" type="line"/>
+      <point x="126" y="485" type="line"/>
+      <point x="230" y="261" type="line"/>
+      <point x="91" y="39" type="line"/>
+      <point x="18" y="12" type="line"/>
+    </contour>
+  </outline>
+</glyph>

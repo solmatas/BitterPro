@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Iogonek" format="2">
+  <advance width="373"/>
+  <unicode hex="012E"/>
+  <guideline x="289" y="-102" angle="90"/>
+  <guideline x="84" y="-102" angle="90"/>
+  <guideline x="24" y="-102" angle="90"/>
+  <guideline x="349" y="-102" angle="90"/>
+  <outline>
+    <component base="I"/>
+    <component base="ogonekcomb.case.alt" xOffset="61"/>
+  </outline>
+</glyph>

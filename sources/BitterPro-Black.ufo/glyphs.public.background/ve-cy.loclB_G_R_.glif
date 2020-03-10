@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ve-cy.loclBGR" format="2">
+  <outline>
+    <contour>
+      <point x="430" y="429" type="curve"/>
+      <point x="505" y="456"/>
+      <point x="549" y="519"/>
+      <point x="549" y="600" type="curve"/>
+      <point x="549" y="719"/>
+      <point x="450" y="794"/>
+      <point x="306" y="794" type="curve"/>
+      <point x="153" y="794"/>
+      <point x="34" y="713"/>
+      <point x="34" y="542" type="curve"/>
+      <point x="34" y="58" type="line"/>
+      <point x="90" y="17"/>
+      <point x="178" y="-15"/>
+      <point x="294" y="-15" type="curve"/>
+      <point x="447" y="-15"/>
+      <point x="586" y="62"/>
+      <point x="586" y="235" type="curve"/>
+      <point x="586" y="355"/>
+      <point x="518" y="416"/>
+    </contour>
+    <contour>
+      <point x="290" y="649" type="curve"/>
+      <point x="326" y="649"/>
+      <point x="345" y="625"/>
+      <point x="345" y="575" type="curve"/>
+      <point x="345" y="509"/>
+      <point x="315" y="487"/>
+      <point x="267" y="487" type="curve"/>
+      <point x="234" y="487" type="line"/>
+      <point x="234" y="557" type="line"/>
+      <point x="234" y="617"/>
+      <point x="251" y="649"/>
+    </contour>
+    <contour>
+      <point x="298" y="130" type="curve"/>
+      <point x="275" y="130"/>
+      <point x="251" y="137"/>
+      <point x="234" y="146" type="curve"/>
+      <point x="234" y="357" type="line"/>
+      <point x="273" y="357" type="line"/>
+      <point x="340" y="357"/>
+      <point x="379" y="323"/>
+      <point x="379" y="239" type="curve"/>
+      <point x="379" y="156"/>
+      <point x="345" y="130"/>
+    </contour>
+  </outline>
+</glyph>

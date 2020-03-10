@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Hadescender-cy" format="2">
+  <advance width="673"/>
+  <unicode hex="04B2"/>
+  <guideline x="389" y="15" angle="0"/>
+  <outline>
+    <component base="Ha-cy" xOffset="4"/>
+    <component base="descender-cy.case" xOffset="523"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+        <integer>0</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

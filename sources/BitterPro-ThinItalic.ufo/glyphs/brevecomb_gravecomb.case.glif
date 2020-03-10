@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevecomb_gravecomb.case" format="2">
+  <guideline x="155" y="737" angle="0"/>
+  <guideline x="307" y="945" angle="0"/>
+  <guideline x="226" y="834" angle="0"/>
+  <guideline x="183" y="775" angle="0"/>
+  <guideline x="424" y="957" angle="261"/>
+  <guideline x="210" y="957" angle="261"/>
+  <guideline x="317" y="957" angle="261"/>
+  <guideline x="208" y="942" angle="261"/>
+  <guideline x="420" y="932" angle="261"/>
+  <anchor x="276" y="692" name="_top"/>
+  <anchor x="296" y="955" name="top"/>
+  <outline>
+    <component base="brevecomb.case" xOffset="-5" yOffset="-20"/>
+    <component base="acutedbl" xScale="-1" xOffset="449" yOffset="223"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>415</integer>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+        <integer>-1</integer>
+      </array>
+      <key>de.kutilek.scrawl.data</key>
+      <data>
+      iVBORw0KGgoAAAANSUhEUgAAATQAAAJYCAAAAADJNEX/AAAGtklEQVR4Ae3SsREAMAjEM
+      JL9d05mwLWo+Ubn88ZtBe524H8GWqgAGrQgECZKgxYEwkRp0IJAmCgNWhAIE6VBCwJhoj
+      RoQSBMlAYtCISJ0qAFgTBRGrQgECZKgxYEwkRp0IJAmCgNWhAIE6VBCwJhojRoQSBMlAY
+      tCISJ0qAFgTBRGrQgECZKgxYEwkRp0IJAmCgNWhAIE6VBCwJhojRoQSBMlAYtCISJ0qAF
+      gTBRGrQgECZKgxYEwkRp0IJAmCgNWhAIE6VBCwJhojRoQSBMlAYtCISJ0qAFgTBRGrQgE
+      CZKgxYEwkRp0IJAmCgNWhAIE6VBCwJhojRoQSBMlAYtCISJ0qAFgTBRGrQgECZKgxYEwk
+      Rp0IJAmCgNWhAIE6VBCwJhojRoQSBMlAYtCISJ0qAFgTBRGrQgECZKgxYEwkRp0IJAmCg
+      NWhAIE6VBCwJhojRoQSBMlAYtCISJ0qAFgTBRGrQgECZKgxYEwkRp0IJAmCgNWhAIE6VB
+      CwJhojRoQSBMlAYtCISJ0qAFgTBRGrQgECZKgxYEwkRp0IJAmCgNWhAIE6VBCwJhojRoQ
+      SBMlAYtCISJ0qAFgTBRGrQgECZKgxYEwkRp0IJAmCgNWhAIE6VBCwJhojRoQSBMlAYtCI
+      SJ0qAFgTBRGrQgECZKgxYEwkRp0IJAmCgNWhAIE6VBCwJhojRoQSBMlAYtCISJ0qAFgTB
+      RGrQgECZKgxYEwkRp0IJAmCgNWhAIE6VBCwJhojRoQSBMlAYtCISJ0qAFgTBRGrQgECZK
+      gxYEwkRp0IJAmCgNWhAIE6VBCwJhojRoQSBMlAYtCISJ0qAFgTBRGrQgECZKgxYEwkRp0
+      IJAmCgNWhAIE6VBCwJhojRoQSBMlAYtCISJ0qAFgTBRGrQgECZKgxYEwkRp0IJAmCgNWh
+      AIE6VBCwJhojRoQSBMlAYtCISJ0qAFgTBRGrQgECZKgxYEwkRp0IJAmCgNWhAIE6VBCwJ
+      hojRoQSBMlAYtCISJ0qAFgTBRGrQgECZKgxYEwkRp0IJAmCgNWhAIE6VBCwJhojRoQSBM
+      lAYtCISJ0qAFgTBRGrQgECZKgxYEwkRp0IJAmCgNWhAIE6VBCwJhojRoQSBMlAYtCISJ0
+      qAFgTBRGrQgECZKgxYEwkRp0IJAmCgNWhAIE6VBCwJhojRoQSBMlAYtCISJ0qAFgTBRGr
+      QgECZKgxYEwkRp0IJAmCgNWhAIE6VBCwJhojRoQSBMlAYtCISJ0qAFgTBRGrQgECZKgxY
+      EwkRp0IJAmCgNWhAIE6VBCwJhojRoQSBMlAYtCISJ0qAFgTBRGrQgECZKgxYEwkRp0IJA
+      mCgNWhAIE6VBCwJhojRoQSBMlAYtCISJ0qAFgTBRGrQgECZKgxYEwkRp0IJAmCgNWhAIE
+      6VBCwJhojRoQSBMlAYtCISJ0qAFgTBRGrQgECZKgxYEwkRp0IJAmCgNWhAIE6VBCwJhoj
+      RoQSBMlAYtCISJ0qAFgTBRGrQgECZKgxYEwkRp0IJAmCgNWhAIE6VBCwJhojRoQSBMlAY
+      tCISJ0qAFgTBRGrQgECZKgxYEwkRp0IJAmCgNWhAIE6VBCwJhojRoQSBMlAYtCISJ0qAF
+      gTBRGrQgECZKgxYEwkRp0IJAmCgNWhAIE6VBCwJhojRoQSBMlAYtCISJ0qAFgTBRGrQgE
+      CZKgxYEwkRp0IJAmCgNWhAIE6VBCwJhojRoQSBMlAYtCISJ0qAFgTBRGrQgECZKgxYEwk
+      Rp0IJAmCgNWhAIE6VBCwJhojRoQSBMlAYtCISJ0qAFgTBRGrQgECZKgxYEwkRp0IJAmCg
+      NWhAIE6VBCwJhojRoQSBMlAYtCISJ0qAFgTBRGrQgECZKgxYEwkRp0IJAmCgNWhAIE6VB
+      CwJhojRoQSBMlAYtCISJ0qAFgTBRGrQgECZKgxYEwkRp0IJAmCgNWhAIE6VBCwJhojRoQ
+      SBMlAYtCISJ0qAFgTBRGrQgECZKgxYEwkRp0IJAmCgNWhAIE6VBCwJhojRoQSBMlAYtCI
+      SJ0qAFgTBRGrQgECZKgxYEwkRp0IJAmCgNWhAIE6VBCwJhojRoQSBMlAYtCISJ0qAFgTB
+      RGrQgECZKgxYEwkRp0IJAmCgNWhAIE6VBCwJhojRoQSBMlAYtCISJ0qAFgTBRGrQgECZK
+      gxYEwkRp0IJAmCgNWhAIE6VBCwJhojRoQSBMlAYtCISJ0qAFgTBRGrQgECZKgxYEwkRp0
+      IJAmCgNWhAIE6VBCwJhojRoQSBMlAYtCISJ0qAFgTBRGrQgECZKgxYEwkRpAe0DKCsFr1
+      FqrWUAAAAASUVORK5CYII=
+      </data>
+      <key>de.kutilek.scrawl.rect</key>
+      <array>
+        <integer>-100</integer>
+        <integer>-330</integer>
+        <integer>615</integer>
+        <integer>1200</integer>
+      </array>
+      <key>de.kutilek.scrawl.size</key>
+      <integer>2</integer>
+      <key>de.kutilek.scrawl.unit</key>
+      <integer>2</integer>
+    </dict>
+  </lib>
+</glyph>

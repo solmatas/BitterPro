@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexcomb_gravecomb.case" format="2">
+  <guideline x="655" y="967" angle="0"/>
+  <guideline x="646" y="955" angle="0"/>
+  <guideline x="322" y="820" angle="261"/>
+  <guideline x="422" y="820" angle="261"/>
+  <guideline x="222" y="820" angle="261"/>
+  <anchor x="303" y="692" name="_top"/>
+  <anchor x="340" y="925" name="top"/>
+  <outline>
+    <component base="circumflexcomb.case" xOffset="-1" yOffset="-10"/>
+    <component base="gravedbl" xOffset="224" yOffset="223"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>470</integer>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="won.BRACKET.70" format="2">
+  <advance width="1008"/>
+  <outline>
+    <contour>
+      <point x="208" y="0" type="line"/>
+      <point x="398" y="0" type="line"/>
+      <point x="522" y="455" type="line"/>
+      <point x="477" y="456" type="line"/>
+      <point x="600" y="0" type="line"/>
+      <point x="793" y="0" type="line"/>
+      <point x="865" y="255" type="line"/>
+      <point x="839" y="229" type="line"/>
+      <point x="987" y="229" type="line"/>
+      <point x="987" y="319" type="line"/>
+      <point x="731" y="319" type="line"/>
+      <point x="702" y="183" type="line"/>
+      <point x="744" y="184" type="line"/>
+      <point x="603" y="710" type="line"/>
+      <point x="429" y="705" type="line"/>
+      <point x="299" y="182" type="line"/>
+      <point x="339" y="182" type="line"/>
+      <point x="308" y="319" type="line"/>
+      <point x="14" y="319" type="line"/>
+      <point x="14" y="229" type="line"/>
+      <point x="168" y="229" type="line"/>
+      <point x="136" y="253" type="line"/>
+    </contour>
+    <contour>
+      <point x="14" y="359" type="line"/>
+      <point x="300" y="359" type="line"/>
+      <point x="245" y="611" type="line"/>
+      <point x="225" y="575" type="line"/>
+      <point x="299" y="610" type="line"/>
+      <point x="299" y="710" type="line"/>
+      <point x="2" y="705" type="line"/>
+      <point x="2" y="605" type="line"/>
+      <point x="61" y="580" type="line"/>
+      <point x="37" y="611" type="line"/>
+      <point x="87" y="428" type="line"/>
+      <point x="105" y="449" type="line"/>
+      <point x="14" y="449" type="line"/>
+    </contour>
+    <contour>
+      <point x="740" y="359" type="line"/>
+      <point x="987" y="359" type="line"/>
+      <point x="987" y="449" type="line"/>
+      <point x="901" y="449" type="line"/>
+      <point x="914" y="428" type="line"/>
+      <point x="971" y="629" type="line"/>
+      <point x="926" y="577" type="line"/>
+      <point x="1007" y="610" type="line"/>
+      <point x="1007" y="710" type="line"/>
+      <point x="739" y="705" type="line"/>
+      <point x="739" y="605" type="line"/>
+      <point x="808" y="575" type="line"/>
+      <point x="794" y="611" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs._originalLayerName</key>
+      <string>Black [70]</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>W</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>W</string>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

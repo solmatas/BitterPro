@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="macrongravesingle.case" format="2">
+  <advance width="430"/>
+  <guideline y="747"/>
+  <guideline y="868"/>
+  <guideline y="834"/>
+  <guideline y="773"/>
+  <guideline x="100" y="780" angle="90"/>
+  <guideline x="330" y="780" angle="90"/>
+  <guideline y="797"/>
+  <anchor x="215" y="692" name="_top"/>
+  <outline>
+    <component base="macron" xOffset="-1" yOffset="63"/>
+    <component base="gravecomb.case" xScale="0.99756" xyScale="0.06976" yxScale="-0.06976" yScale="0.99756" xOffset="101" yOffset="34"/>
+  </outline>
+</glyph>

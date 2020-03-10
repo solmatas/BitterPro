@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexcomb_tildecomb.case" format="2">
+  <guideline x="228" y="1134" angle="0"/>
+  <guideline y="756"/>
+  <guideline y="998"/>
+  <guideline x="248" y="809" angle="90"/>
+  <anchor x="250" y="710" name="_top"/>
+  <anchor x="250" y="1100" name="top"/>
+  <outline>
+    <component base="circumflexcomb.case" xOffset="-4" yOffset="-20"/>
+    <component base="tildecomb.case" xOffset="7" yOffset="195"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>499</integer>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>0</integer>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

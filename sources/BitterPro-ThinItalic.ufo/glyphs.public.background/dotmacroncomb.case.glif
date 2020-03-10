@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotmacroncomb.case" format="2">
+  <anchor x="262" y="692" name="_top"/>
+  <outline>
+    <component base="dotaccentcomb" xOffset="190" yOffset="75"/>
+    <component base="macroncomb" xOffset="28" yOffset="177"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

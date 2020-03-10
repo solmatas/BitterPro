@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="macrondieresiscomb" format="2">
+  <advance width="486"/>
+  <anchor x="246" y="540" name="_top"/>
+  <outline>
+    <component base="dieresismacroncomb" xScale="-1" yScale="-1" xOffset="486" yOffset="1523"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

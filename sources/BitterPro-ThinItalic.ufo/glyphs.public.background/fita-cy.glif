@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fita-cy" format="2">
+  <anchor x="342" y="522" name="top"/>
+  <outline>
+    <contour>
+      <point x="73" y="256" type="line"/>
+      <point x="481" y="256" type="line"/>
+      <point x="484" y="275" type="line"/>
+      <point x="76" y="275" type="line"/>
+    </contour>
+    <component base="o" xOffset="4"/>
+  </outline>
+</glyph>

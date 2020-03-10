@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevecomb" format="2">
+  <unicode hex="0306"/>
+  <guideline x="90" y="648" angle="261"/>
+  <guideline x="269" y="648" angle="261"/>
+  <guideline x="236" y="615" angle="0"/>
+  <anchor x="252" y="540" name="_top"/>
+  <anchor x="290" y="780" name="top"/>
+  <outline>
+    <component base="breve"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>420</integer>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

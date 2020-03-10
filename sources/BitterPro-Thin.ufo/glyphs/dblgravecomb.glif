@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dblgravecomb" format="2">
+  <unicode hex="030F"/>
+  <anchor x="226" y="522" name="_top"/>
+  <anchor x="191" y="692" name="top"/>
+  <outline>
+    <component base="hungarumlautcomb" xScale="-1" xOffset="376"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>369</integer>
+    </dict>
+  </lib>
+</glyph>

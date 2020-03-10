@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acutedotaccentcomb" format="2">
+  <advance width="386"/>
+  <anchor x="185" y="540" name="_top"/>
+  <outline>
+    <component base="dotaccentcomb" xScale="0.9" yScale="0.9" xOffset="29" yOffset="247"/>
+    <component base="acutecomb" xScale="0.9903" xyScale="-0.1391" yxScale="0.1391" yScale="0.9903" xOffset="-125" yOffset="-12"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

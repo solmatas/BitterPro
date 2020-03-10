@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="f.alt" format="2">
+  <anchor x="186" y="0" name="bottom"/>
+  <anchor x="311" y="780" name="top"/>
+  <outline>
+    <contour>
+      <point x="24" y="0" type="line"/>
+      <point x="344" y="0" type="line"/>
+      <point x="344" y="100" type="line"/>
+      <point x="263" y="128" type="line"/>
+      <point x="279" y="110" type="line"/>
+      <point x="279" y="424" type="line"/>
+      <point x="262" y="405" type="line"/>
+      <point x="483" y="405" type="line"/>
+      <point x="471" y="421" type="line"/>
+      <point x="471" y="112" type="line"/>
+      <point x="483" y="127" type="line"/>
+      <point x="416" y="100" type="line"/>
+      <point x="416" y="0" type="line"/>
+      <point x="726" y="0" type="line"/>
+      <point x="726" y="100" type="line"/>
+      <point x="659" y="127" type="line"/>
+      <point x="671" y="112" type="line"/>
+      <point x="671" y="544" type="line"/>
+      <point x="255" y="535" type="line"/>
+      <point x="279" y="513" type="line"/>
+      <point x="279" y="574" type="line" smooth="yes"/>
+      <point x="279" y="627"/>
+      <point x="297" y="653"/>
+      <point x="339" y="653" type="curve" smooth="yes"/>
+      <point x="348" y="653"/>
+      <point x="358" y="652"/>
+      <point x="368" y="650" type="curve"/>
+      <point x="378" y="789" type="line"/>
+      <point x="354" y="793"/>
+      <point x="330" y="795"/>
+      <point x="308" y="795" type="curve" smooth="yes"/>
+      <point x="167" y="795"/>
+      <point x="79" y="708"/>
+      <point x="79" y="558" type="curve" smooth="yes"/>
+      <point x="79" y="513" type="line"/>
+      <point x="100" y="540" type="line"/>
+      <point x="19" y="510" type="line"/>
+      <point x="19" y="405" type="line"/>
+      <point x="95" y="405" type="line"/>
+      <point x="79" y="424" type="line"/>
+      <point x="79" y="109" type="line"/>
+      <point x="95" y="128" type="line"/>
+      <point x="24" y="100" type="line"/>
+    </contour>
+    <component base="f"/>
+  </outline>
+</glyph>

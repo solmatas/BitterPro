@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gestrokehook-cy" format="2">
+  <advance width="533"/>
+  <unicode hex="04FB"/>
+  <guideline x="-125" y="364" angle="90"/>
+  <outline>
+    <contour>
+      <point x="20" y="178" type="line"/>
+      <point x="365" y="178" type="line"/>
+      <point x="382" y="288" type="line"/>
+      <point x="38" y="288" type="line"/>
+    </contour>
+    <contour>
+      <point x="158" y="150" type="line"/>
+      <point x="131" y="-17" type="line" smooth="yes"/>
+      <point x="122" y="-70"/>
+      <point x="90" y="-102"/>
+      <point x="39" y="-102" type="curve" smooth="yes"/>
+      <point x="4" y="-102" type="line"/>
+      <point x="-27" y="-235" type="line"/>
+      <point x="2" y="-241"/>
+      <point x="26" y="-245"/>
+      <point x="56" y="-245" type="curve" smooth="yes"/>
+      <point x="173" y="-245"/>
+      <point x="296" y="-185"/>
+      <point x="331" y="30" type="curve" smooth="yes"/>
+      <point x="342" y="98" type="line"/>
+    </contour>
+    <component base="ge-cy" xOffset="58"/>
+  </outline>
+</glyph>

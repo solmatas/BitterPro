@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>lib</key>
+    <dict>
+      <key>com.schriftgestaltung.layerId</key>
+      <string>693470E9-8C13-49FF-9EDC-5BFAD0CCE2ED</string>
+      <key>com.schriftgestaltung.layerOrderInGlyph.ogonek</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.layerOrderInGlyph.ogonekcomb.case.alt</key>
+      <integer>3</integer>
+    </dict>
+  </dict>
+</plist>

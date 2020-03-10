@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="commaaccentcomb.case" format="2">
+  <guideline x="-752" y="-257" angle="0"/>
+  <guideline x="-526" y="-52" angle="0"/>
+  <guideline x="-633" y="-149" angle="0"/>
+  <anchor x="81" y="0" name="_bottom"/>
+  <anchor x="28" y="-340" name="bottom"/>
+  <outline>
+    <component base="commaaccentcomb"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>255</integer>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

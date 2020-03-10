@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kastroke-cy" format="2">
+  <advance width="600"/>
+  <unicode hex="049F"/>
+  <guideline x="8" y="373" angle="260.9997"/>
+  <outline>
+    <contour>
+      <point x="35" y="547" type="line"/>
+      <point x="395" y="547" type="line"/>
+      <point x="411" y="647" type="line"/>
+      <point x="51" y="647" type="line"/>
+    </contour>
+    <contour>
+      <point x="13" y="0" type="line"/>
+      <point x="205" y="0" type="line"/>
+      <point x="243" y="238" type="line"/>
+      <point x="211" y="227" type="line"/>
+      <point x="309" y="227" type="line"/>
+      <point x="286" y="238" type="line"/>
+      <point x="350" y="0" type="line"/>
+      <point x="545" y="0" type="line"/>
+      <point x="561" y="100" type="line"/>
+      <point x="494" y="123" type="line"/>
+      <point x="515" y="99" type="line"/>
+      <point x="442" y="332" type="line"/>
+      <point x="430" y="284" type="line"/>
+      <point x="574" y="443" type="line"/>
+      <point x="520" y="414" type="line"/>
+      <point x="597" y="435" type="line"/>
+      <point x="613" y="535" type="line"/>
+      <point x="355" y="525" type="line"/>
+      <point x="339" y="425" type="line"/>
+      <point x="392" y="410" type="line"/>
+      <point x="382" y="429" type="line"/>
+      <point x="296" y="336" type="line"/>
+      <point x="345" y="357" type="line"/>
+      <point x="232" y="357" type="line"/>
+      <point x="257" y="328" type="line"/>
+      <point x="330" y="785" type="line"/>
+      <point x="72" y="777" type="line"/>
+      <point x="56" y="677" type="line"/>
+      <point x="200" y="632" type="line"/>
+      <point x="131" y="745" type="line"/>
+    </contour>
+  </outline>
+</glyph>

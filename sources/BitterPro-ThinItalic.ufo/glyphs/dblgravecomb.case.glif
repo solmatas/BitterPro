@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dblgravecomb.case" format="2">
+  <guideline x="567" y="768" angle="0"/>
+  <guideline x="640" y="868" angle="0"/>
+  <guideline x="552" y="747" angle="0"/>
+  <anchor x="282" y="692" name="_top"/>
+  <anchor x="310" y="840" name="top"/>
+  <outline>
+    <component base="hungarumlautcomb" xScale="-1" xOffset="518" yOffset="111"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>380</integer>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

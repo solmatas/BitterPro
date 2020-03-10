@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Abrevehookabove" format="2">
+  <advance width="662"/>
+  <unicode hex="1EB2"/>
+  <outline>
+    <component base="A"/>
+    <component base="brevecomb_hookabovecomb.case" xOffset="131"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>de.kutilek.scrawl.data</key>
+      <data>
+      iVBORw0KGgoAAAANSUhEUgAAAasAAAJYCAAAAAD5lJabAAAH4ElEQVR4Ae3TAQ0AIBDDw
+      IF/z6Cjyb2Cpv2dNxcxcCOcMDetOl+glVYdAx1Su9KqY6BDaldadQx0SO1Kq46BDqldad
+      Ux0CG1K606BjqkdqVVx0CH1K606hjokNqVVh0DHVK70qpjoENqV1p1DHRI7UqrjoEOqV1
+      p1THQIbUrrToGOqR2pVXHQIfUrrTqGOiQ2pVWHQMdUrvSqmOgQ2pXWnUMdEjtSquOgQ6p
+      XWnVMdAhtSutOgY6pHalVcdAh9SutOoY6JDalVYdAx1Su9KqY6BDaldadQx0SO1Kq46BD
+      qldadUx0CG1K606BjqkdqVVx0CH1K606hjokNqVVh0DHVK70qpjoENqV1p1DHRI7Uqrjo
+      EOqV1p1THQIbUrrToGOqR2pVXHQIfUrrTqGOiQ2pVWHQMdUrvSqmOgQ2pXWnUMdEjtSqu
+      OgQ6pXWnVMdAhtSutOgY6pHalVcdAh9SutOoY6JDalVYdAx1Su9KqY6BDaldadQx0SO1K
+      q46BDqldadUx0CG1K606BjqkdqVVx0CH1K606hjokNqVVh0DHVK70qpjoENqV1p1DHRI7
+      UqrjoEOqV1p1THQIbUrrToGOqR2pVXHQIfUrrTqGOiQ2pVWHQMdUrvSqmOgQ2pXWnUMdE
+      jtSquOgQ6pXWnVMdAhtSutOgY6pHalVcdAh9SutOoY6JDalVYdAx1Su9KqY6BDaldadQx
+      0SO1Kq46BDqldadUx0CG1K606BjqkdqVVx0CH1K606hjokNqVVh0DHVK70qpjoENqV1p1
+      DHRI7UqrjoEOqV1p1THQIbUrrToGOqR2pVXHQIfUrrTqGOiQ2pVWHQMdUrvSqmOgQ2pXW
+      nUMdEjtSquOgQ6pXWnVMdAhtSutOgY6pHalVcdAh9SutOoY6JDalVYdAx1Su9KqY6BDal
+      dadQx0SO1Kq46BDqldadUx0CG1K606BjqkdqVVx0CH1K606hjokNqVVh0DHVK70qpjoEN
+      qV1p1DHRI7UqrjoEOqV1p1THQIbUrrToGOqR2pVXHQIfUrrTqGOiQ2pVWHQMdUrvSqmOg
+      Q2pXWnUMdEjtSquOgQ6pXWnVMdAhtSutOgY6pHalVcdAh9SutOoY6JDalVYdAx1Su9KqY
+      6BDaldadQx0SO1Kq46BDqldadUx0CG1K606BjqkdqVVx0CH1K606hjokNqVVh0DHVK70q
+      pjoENqV1p1DHRI7UqrjoEOqV1p1THQIbUrrToGOqR2pVXHQIfUrrTqGOiQ2pVWHQMdUrv
+      SqmOgQ2pXWnUMdEjtSquOgQ6pXWnVMdAhtSutOgY6pHalVcdAh9SutOoY6JDalVYdAx1S
+      u9KqY6BDaldadQx0SO1Kq46BDqldadUx0CG1K606BjqkdqVVx0CH1K606hjokNqVVh0DH
+      VK70qpjoENqV1p1DHRI7UqrjoEOqV1p1THQIbUrrToGOqR2pVXHQIfUrrTqGOiQ2pVWHQ
+      MdUrvSqmOgQ2pXWnUMdEjtSquOgQ6pXWnVMdAhtSutOgY6pHalVcdAh9SutOoY6JDalVY
+      dAx1Su9KqY6BDaldadQx0SO1Kq46BDqldadUx0CG1K606BjqkdqVVx0CH1K606hjokNqV
+      Vh0DHVK70qpjoENqV1p1DHRI7UqrjoEOqV1p1THQIbUrrToGOqR2pVXHQIfUrrTqGOiQ2
+      pVWHQMdUrvSqmOgQ2pXWnUMdEjtSquOgQ6pXWnVMdAhtSutOgY6pHalVcdAh9SutOoY6J
+      DalVYdAx1Su9KqY6BDaldadQx0SO1Kq46BDqldadUx0CG1K606BjqkdqVVx0CH1K606hj
+      okNqVVh0DHVK70qpjoENqV1p1DHRI7UqrjoEOqV1p1THQIbUrrToGOqR2pVXHQIfUrrTq
+      GOiQ2pVWHQMdUrvSqmOgQ2pXWnUMdEjtSquOgQ6pXWnVMdAhtSutOgY6pHalVcdAh9Sut
+      OoY6JDalVYdAx1Su9KqY6BDaldadQx0SO1Kq46BDqldadUx0CG1K606BjqkdqVVx0CH1K
+      606hjokNqVVh0DHVK70qpjoENqV1p1DHRI7UqrjoEOqV1p1THQIbUrrToGOqR2pVXHQIf
+      UrrTqGOiQ2pVWHQMdUrvSqmOgQ2pXWnUMdEjtSquOgQ6pXWnVMdAhtSutOgY6pHalVcdA
+      h9SutOoY6JDalVYdAx1Su9KqY6BDaldadQx0SO1Kq46BDqldadUx0CG1K606BjqkdqVVx
+      0CH1K606hjokNqVVh0DHVK70qpjoENqV1p1DHRI7UqrjoEOqV1p1THQIbUrrToGOqR2pV
+      XHQIfUrrTqGOiQ2pVWHQMdUrvSqmOgQ2pXWnUMdEjtSquOgQ6pXWnVMdAhtSutOgY6pHa
+      lVcdAh9SutOoY6JDalVYdAx1Su9KqY6BDaldadQx0SO1Kq46BDqldadUx0CG1K606Bjqk
+      dqVVx0CH1K606hjokNqVVh0DHVK70qpjoENqV1p1DHRI7UqrjoEOqV1p1THQIbUrrToGO
+      qR2pVXHQIfUrrTqGOiQ2pVWHQMdUrvSqmOgQ2pXWnUMdEjtSquOgQ6pXWnVMdAhtSutOg
+      Y6pHalVcdAh9SutOoY6JDalVYdAx1Su9KqY6BDaldadQx0SO1Kq46BDqldadUx0CG1K60
+      6BjqkdqVVx0CH1K606hjokNqVVh0DHVK70qpjoENqV51WH/aHBa/3mTwsAAAAAElFTkSu
+      QmCC
+      </data>
+      <key>de.kutilek.scrawl.rect</key>
+      <array>
+        <integer>-100</integer>
+        <integer>-330</integer>
+        <integer>853</integer>
+        <integer>1200</integer>
+      </array>
+      <key>de.kutilek.scrawl.size</key>
+      <integer>2</integer>
+      <key>de.kutilek.scrawl.unit</key>
+      <integer>2</integer>
+    </dict>
+  </lib>
+</glyph>

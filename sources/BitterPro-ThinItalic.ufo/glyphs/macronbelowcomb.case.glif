@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="macronbelowcomb.case" format="2">
+  <guideline x="-328" y="-123" angle="0"/>
+  <guideline x="168" y="-54" angle="261"/>
+  <anchor x="169" y="0" name="_bottom"/>
+  <anchor x="149" y="-128" name="bottom"/>
+  <outline>
+    <component base="macroncomb" xOffset="-128" yOffset="-809"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>443</integer>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

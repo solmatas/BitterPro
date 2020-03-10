@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotmacroncomb" format="2">
+  <advance width="383"/>
+  <guideline x="402" y="827" angle="0"/>
+  <guideline x="187" y="633" angle="0"/>
+  <guideline x="444" y="864" angle="0"/>
+  <guideline x="145" y="596" angle="0"/>
+  <guideline x="125" y="577" angle="0"/>
+  <guideline x="515" y="928" angle="0"/>
+  <guideline x="163" y="780" angle="261"/>
+  <guideline x="373" y="780" angle="261"/>
+  <guideline x="268" y="780" angle="261"/>
+  <anchor x="230" y="540" name="_top"/>
+  <outline>
+    <component base="macroncomb" xOffset="25" yOffset="158"/>
+    <component base="dotaccentcomb" xOffset="47" yOffset="-19"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

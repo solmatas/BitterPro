@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="te-cy.loclSRB" format="2">
+  <advance width="941"/>
+  <outline>
+    <component base="sha-cy.loclBGR"/>
+    <component base="macroncomb" xScale="1.8" xOffset="73"/>
+  </outline>
+</glyph>

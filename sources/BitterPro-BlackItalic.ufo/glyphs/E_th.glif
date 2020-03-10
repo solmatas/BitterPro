@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Eth" format="2">
+  <advance width="695"/>
+  <unicode hex="00D0"/>
+  <guideline x="-290" y="241" angle="90"/>
+  <guideline x="25" y="233" angle="261"/>
+  <guideline x="378" y="231" angle="261"/>
+  <guideline x="490" y="430" angle="0"/>
+  <outline>
+    <component base="D"/>
+    <component base="strokeshortcomb" xScale="0.8" yxScale="0.08378" yScale="1.2" xOffset="-4" yOffset="2"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>D</string>
+    </dict>
+  </lib>
+</glyph>

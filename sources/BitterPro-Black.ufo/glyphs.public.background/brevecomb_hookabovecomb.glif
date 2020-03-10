@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevecomb_hookabovecomb" format="2">
+  <anchor x="202" y="540" name="_top"/>
+  <anchor x="215" y="1090" name="top"/>
+  <outline>
+    <component base="brevecomb" yOffset="-20"/>
+    <component base="hookabovecomb" xOffset="88" yOffset="230"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>0</integer>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

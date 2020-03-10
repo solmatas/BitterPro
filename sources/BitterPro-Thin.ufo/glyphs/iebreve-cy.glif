@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iebreve-cy" format="2">
+  <advance width="570"/>
+  <unicode hex="04D7"/>
+  <outline>
+    <component base="ie-cy" xOffset="12"/>
+    <component base="brevecomb-cy" xOffset="105"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
+      <string>=+12</string>
+      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+      <string>=+12</string>
+    </dict>
+  </lib>
+</glyph>

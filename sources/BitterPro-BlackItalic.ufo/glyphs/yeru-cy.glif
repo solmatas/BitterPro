@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yeru-cy" format="2">
+  <advance width="851"/>
+  <unicode hex="044B"/>
+  <anchor x="460" y="540" name="top"/>
+  <outline>
+    <component base="softsign-cy"/>
+    <component base="idotless-cy" xOffset="524"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>0</integer>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

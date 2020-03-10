@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rightBlackTriangle" format="2">
+  <outline>
+    <contour>
+      <point x="144" y="602" type="line"/>
+      <point x="142" y="59" type="line"/>
+      <point x="614" y="330" type="line"/>
+    </contour>
+  </outline>
+</glyph>

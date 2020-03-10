@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="macrongravesingle" format="2">
+  <advance width="421"/>
+  <guideline x="141" y="724" angle="0"/>
+  <guideline x="98" y="665" angle="0"/>
+  <guideline x="168" y="762" angle="0"/>
+  <guideline x="72" y="630" angle="0"/>
+  <guideline x="201" y="806" angle="0"/>
+  <guideline x="46" y="594" angle="0"/>
+  <guideline x="121" y="394" angle="261"/>
+  <guideline x="342" y="394" angle="261"/>
+  <guideline x="231" y="394" angle="261"/>
+  <anchor x="251" y="522" name="_top"/>
+  <outline>
+    <component base="macron" xOffset="-8" yOffset="-50"/>
+    <component base="gravecomb.case" xScale="0.9976" xyScale="0.0698" yxScale="-0.0698" yScale="0.9976" xOffset="66" yOffset="-72"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="breveinvertedcomb" format="2">
+  <unicode hex="0311"/>
+  <guideline x="353" y="634" angle="261"/>
+  <guideline x="449" y="770" angle="0"/>
+  <guideline x="295" y="732" angle="0"/>
+  <guideline x="252" y="665" angle="0"/>
+  <guideline x="147" y="634" angle="261"/>
+  <guideline x="250" y="637" angle="261"/>
+  <guideline x="701" y="634" angle="261"/>
+  <guideline x="502" y="634" angle="261"/>
+  <anchor x="233" y="522" name="_top"/>
+  <anchor x="259" y="692" name="top"/>
+  <outline>
+    <component base="breve" xScale="-1" yScale="-1" xOffset="530" yOffset="1367"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>386</integer>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

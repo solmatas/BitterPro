@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yi-cy" format="2">
+  <advance width="338"/>
+  <unicode hex="0457"/>
+  <guideline x="320" y="797" angle="0"/>
+  <guideline x="320" y="603" angle="0"/>
+  <outline>
+    <component base="idieresis"/>
+  </outline>
+</glyph>

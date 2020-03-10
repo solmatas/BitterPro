@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotbelowcomb.case" format="2">
+  <anchor x="-29" y="0" name="_bottom"/>
+  <anchor x="-52" y="-141" name="bottom"/>
+  <outline>
+    <component base="dotbelowcomb" xOffset="1"/>
+  </outline>
+</glyph>

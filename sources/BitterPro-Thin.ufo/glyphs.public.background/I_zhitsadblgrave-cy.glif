@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Izhitsadblgrave-cy" format="2">
+  <outline>
+    <contour>
+      <point x="482" y="756" type="line"/>
+      <point x="360" y="892" type="line"/>
+      <point x="335" y="871" type="line"/>
+      <point x="471" y="746" type="line"/>
+    </contour>
+    <contour>
+      <point x="311" y="756" type="line"/>
+      <point x="184" y="888" type="line"/>
+      <point x="160" y="866" type="line"/>
+      <point x="300" y="746" type="line"/>
+    </contour>
+    <contour>
+      <point x="642" y="696" type="curve"/>
+      <point x="601" y="696"/>
+      <point x="565" y="672"/>
+      <point x="530" y="571" type="curve"/>
+      <point x="344" y="26" type="line"/>
+      <point x="130" y="664" type="line"/>
+      <point x="247" y="677" type="line"/>
+      <point x="247" y="692" type="line"/>
+      <point x="14" y="687" type="line"/>
+      <point x="14" y="672" type="line"/>
+      <point x="109" y="664" type="line"/>
+      <point x="333" y="-2" type="line"/>
+      <point x="353" y="-2" type="line"/>
+      <point x="549" y="573" type="line"/>
+      <point x="579" y="661"/>
+      <point x="611" y="679"/>
+      <point x="655" y="677" type="curve"/>
+      <point x="676" y="676" type="line"/>
+      <point x="678" y="692" type="line"/>
+      <point x="665" y="695"/>
+      <point x="653" y="696"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="shcha-cy.loclBGR" format="2">
+  <advance width="958"/>
+  <guideline x="589" y="-145" angle="0"/>
+  <outline>
+    <component base="sha-cy.loclBGR"/>
+    <component base="descender-cy" xOffset="746"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>sha-cy.loclBGR</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>endescender-cy</string>
+      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+      <string>=+19</string>
+    </dict>
+  </lib>
+</glyph>

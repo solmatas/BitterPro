@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ohorn.sc" format="2">
+  <advance width="669"/>
+  <anchor x="277" y="0" name="bottom"/>
+  <anchor x="371" y="591" name="top"/>
+  <outline>
+    <contour>
+      <point x="495" y="502" type="line"/>
+      <point x="631" y="496"/>
+      <point x="711" y="560"/>
+      <point x="711" y="664" type="curve" smooth="yes"/>
+      <point x="711" y="691"/>
+      <point x="706" y="720"/>
+      <point x="695" y="751" type="curve"/>
+      <point x="556" y="721" type="line"/>
+      <point x="560" y="698"/>
+      <point x="562" y="678"/>
+      <point x="562" y="662" type="curve" smooth="yes"/>
+      <point x="562" y="619"/>
+      <point x="546" y="594"/>
+      <point x="486" y="592" type="curve"/>
+    </contour>
+    <contour>
+      <point x="272" y="-15" type="curve" smooth="yes"/>
+      <point x="502" y="-15"/>
+      <point x="649" y="147"/>
+      <point x="649" y="356" type="curve" smooth="yes"/>
+      <point x="649" y="516"/>
+      <point x="561" y="606"/>
+      <point x="387" y="606" type="curve" smooth="yes"/>
+      <point x="154" y="606"/>
+      <point x="20" y="446"/>
+      <point x="20" y="236" type="curve" smooth="yes"/>
+      <point x="20" y="68"/>
+      <point x="107" y="-15"/>
+    </contour>
+    <contour>
+      <point x="299" y="130" type="curve" smooth="yes"/>
+      <point x="241" y="130"/>
+      <point x="223" y="166"/>
+      <point x="223" y="236" type="curve" smooth="yes"/>
+      <point x="223" y="334"/>
+      <point x="259" y="461"/>
+      <point x="369" y="461" type="curve" smooth="yes"/>
+      <point x="426" y="461"/>
+      <point x="446" y="426"/>
+      <point x="446" y="356" type="curve" smooth="yes"/>
+      <point x="446" y="258"/>
+      <point x="407" y="130"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>o.sc</string>
+    </dict>
+  </lib>
+</glyph>
