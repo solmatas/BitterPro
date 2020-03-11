@@ -12,8 +12,13 @@
   <guideline x="231" y="394" angle="261"/>
   <anchor x="251" y="522" name="_top"/>
   <outline>
+    <contour>
+      <point x="386.9618" y="699.3124" type="line"/>
+      <point x="393.89560000000006" y="714.8348" type="line"/>
+      <point x="209.9914" y="807.2282" type="line"/>
+      <point x="194.9168" y="779.1064" type="line"/>
+    </contour>
     <component base="macron" xOffset="-8" yOffset="-50"/>
-    <component base="gravecomb.case" xScale="0.9976" xyScale="0.0698" yxScale="-0.0698" yScale="0.9976" xOffset="66" yOffset="-72"/>
   </outline>
   <lib>
     <dict>

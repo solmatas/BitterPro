@@ -10,8 +10,26 @@
   <guideline x="181" y="820" angle="261"/>
   <anchor x="261" y="692" name="_top"/>
   <outline>
-    <component base="dotaccentcomb" xOffset="170" yOffset="184"/>
-    <component base="acutecomb.case" xScale="0.9976" xyScale="-0.0698" yxScale="0.0698" yScale="0.9976" xOffset="-55" yOffset="-1"/>
+    <contour>
+      <point x="183" y="731" type="line"/>
+      <point x="374" y="811" type="line"/>
+      <point x="363" y="840" type="line"/>
+      <point x="176" y="746" type="line"/>
+    </contour>
+    <contour>
+      <point x="289" y="847" type="curve" smooth="yes"/>
+      <point x="306" y="847"/>
+      <point x="318" y="861"/>
+      <point x="318" y="880" type="curve" smooth="yes"/>
+      <point x="318" y="896"/>
+      <point x="309" y="906"/>
+      <point x="295" y="906" type="curve" smooth="yes"/>
+      <point x="278" y="906"/>
+      <point x="266" y="891"/>
+      <point x="266" y="873" type="curve" smooth="yes"/>
+      <point x="266" y="857"/>
+      <point x="275" y="847"/>
+    </contour>
   </outline>
   <lib>
     <dict>

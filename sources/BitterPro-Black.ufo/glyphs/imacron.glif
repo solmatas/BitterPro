@@ -5,8 +5,13 @@
   <guideline x="21" y="594" angle="90"/>
   <guideline x="331" y="594" angle="90"/>
   <outline>
+    <contour>
+      <point x="323.90000000000003" y="786" type="line"/>
+      <point x="21.5" y="786" type="line"/>
+      <point x="21.5" y="651" type="line"/>
+      <point x="323.90000000000003" y="651" type="line"/>
+    </contour>
     <component base="idotless"/>
-    <component base="macroncomb" xScale="0.9" xOffset="-19"/>
   </outline>
   <lib>
     <dict>

@@ -8,8 +8,13 @@
   <anchor x="305" y="710" name="_top"/>
   <anchor x="352" y="1018" name="top"/>
   <outline>
+    <contour>
+      <point x="514.7096" y="859.8398" type="line"/>
+      <point x="721.5475" y="993.7192" type="line"/>
+      <point x="646.8023000000001" y="1100.1903000000002" type="line"/>
+      <point x="455.24670000000003" y="941.1843" type="line"/>
+    </contour>
     <component base="circumflexcomb.case" xOffset="-3" yOffset="-20"/>
-    <component base="acutedbl" xScale="0.9975" xyScale="-0.0698" yxScale="0.0698" yScale="0.9975" xOffset="349" yOffset="268"/>
   </outline>
   <lib>
     <dict>

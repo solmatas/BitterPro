@@ -7,7 +7,16 @@
   <anchor x="219" y="692" name="_top"/>
   <anchor x="219" y="840" name="top"/>
   <outline>
-    <component base="circumflexcomb.case" xScale="-1" yScale="-1" xOffset="437" yOffset="1614"/>
+    <contour>
+      <point x="348" y="872" type="line"/>
+      <point x="216" y="777" type="line"/>
+      <point x="225" y="777" type="line"/>
+      <point x="89" y="872" type="line"/>
+      <point x="78" y="859" type="line"/>
+      <point x="213" y="752" type="line"/>
+      <point x="228" y="752" type="line"/>
+      <point x="359" y="859" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

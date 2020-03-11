@@ -2,7 +2,12 @@
 <glyph name="circumflexcomb_gravecomb" format="2">
   <anchor x="249" y="540" name="_top"/>
   <outline>
-    <component base="gravedbl" xScale="0.9986" xyScale="-0.0523" yxScale="0.0523" yScale="0.9986" xOffset="208" yOffset="153"/>
+    <contour>
+      <point x="453.185" y="742.965" type="line"/>
+      <point x="534.1043" y="815.8301" type="line"/>
+      <point x="381.3267" y="996.0619" type="line"/>
+      <point x="277.183" y="900.3810000000001" type="line"/>
+    </contour>
     <component base="circumflexcomb" xOffset="-32" yOffset="-35"/>
   </outline>
   <lib>

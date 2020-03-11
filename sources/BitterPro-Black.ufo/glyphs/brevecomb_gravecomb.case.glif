@@ -8,8 +8,13 @@
   <anchor x="218" y="710" name="_top"/>
   <anchor x="218" y="1100" name="top"/>
   <outline>
+    <contour>
+      <point x="220" y="910" type="line"/>
+      <point x="36" y="1058" type="line"/>
+      <point x="135" y="1159" type="line"/>
+      <point x="297" y="987" type="line"/>
+    </contour>
     <component base="brevecomb.case" xOffset="10" yOffset="-30"/>
-    <component base="acutedbl" xScale="-1" xOffset="345" yOffset="308"/>
   </outline>
   <lib>
     <dict>

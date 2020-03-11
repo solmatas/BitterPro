@@ -11,7 +11,12 @@
   <guideline y="594"/>
   <anchor x="215" y="522" name="_top"/>
   <outline>
+    <contour>
+      <point x="124.9246" y="695.9252" type="line"/>
+      <point x="307.9912" y="776.3474" type="line"/>
+      <point x="292.9864" y="805.4668" type="line"/>
+      <point x="115.99560000000002" y="711.5872" type="line"/>
+    </contour>
     <component base="macron" xOffset="-1" yOffset="-50"/>
-    <component base="acutecomb.case" xScale="0.9976" xyScale="-0.0698" yxScale="0.0698" yScale="0.9976" xOffset="-17" yOffset="-43"/>
   </outline>
 </glyph>

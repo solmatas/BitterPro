@@ -2,8 +2,26 @@
 <glyph name="guillemetleft.case" format="2">
   <advance width="461"/>
   <outline>
-    <component base="guilsinglleft" yScale="-1" xOffset="159" yOffset="632"/>
-    <component base="guilsinglleft" yScale="-1" yOffset="632"/>
+    <contour>
+      <point x="368" y="551" type="line"/>
+      <point x="380" y="541" type="line"/>
+      <point x="241" y="354" type="line"/>
+      <point x="241" y="368" type="line"/>
+      <point x="380" y="182" type="line"/>
+      <point x="368" y="172" type="line"/>
+      <point x="226" y="351" type="line"/>
+      <point x="226" y="372" type="line"/>
+    </contour>
+    <contour>
+      <point x="209" y="551" type="line"/>
+      <point x="221" y="541" type="line"/>
+      <point x="82" y="354" type="line"/>
+      <point x="82" y="368" type="line"/>
+      <point x="221" y="182" type="line"/>
+      <point x="209" y="172" type="line"/>
+      <point x="67" y="351" type="line"/>
+      <point x="67" y="372" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

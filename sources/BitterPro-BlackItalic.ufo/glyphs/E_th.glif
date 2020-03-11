@@ -7,8 +7,13 @@
   <guideline x="378" y="231" angle="261"/>
   <guideline x="490" y="430" angle="0"/>
   <outline>
+    <contour>
+      <point x="33.95854" y="293.59999999999997" type="line"/>
+      <point x="365.95854" y="293.59999999999997" type="line"/>
+      <point x="388.77434000000005" y="425.59999999999997" type="line"/>
+      <point x="56.77434" y="425.59999999999997" type="line"/>
+    </contour>
     <component base="D"/>
-    <component base="strokeshortcomb" xScale="0.8" yxScale="0.08378" yScale="1.2" xOffset="-4" yOffset="2"/>
   </outline>
   <lib>
     <dict>

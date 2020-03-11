@@ -5,8 +5,21 @@
   <guideline x="185" y="928" angle="0"/>
   <anchor x="245" y="710" name="_top"/>
   <outline>
+    <contour>
+      <point x="244.6" y="942.8000000000001" type="curve" smooth="yes"/>
+      <point x="301.3" y="942.8000000000001"/>
+      <point x="343.6" y="976.1"/>
+      <point x="343.6" y="1040.9" type="curve" smooth="yes"/>
+      <point x="343.6" y="1106.6"/>
+      <point x="302.20000000000005" y="1138.1"/>
+      <point x="245.5" y="1138.1" type="curve" smooth="yes"/>
+      <point x="187.9" y="1138.1"/>
+      <point x="145.6" y="1105.7"/>
+      <point x="145.6" y="1040.0" type="curve" smooth="yes"/>
+      <point x="145.6" y="977.0"/>
+      <point x="186.10000000000002" y="942.8000000000001"/>
+    </contour>
     <component base="caroncomb.case" xOffset="-9" yOffset="-11"/>
-    <component base="dotaccentcomb" xScale="0.9" yScale="0.9" xOffset="115" yOffset="410"/>
   </outline>
   <lib>
     <dict>

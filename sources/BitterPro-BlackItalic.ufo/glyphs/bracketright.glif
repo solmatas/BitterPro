@@ -5,7 +5,16 @@
   <guideline x="634" y="882" angle="0"/>
   <guideline x="-537" y="-118" angle="0"/>
   <outline>
-    <component base="bracketleft" xScale="-1" yScale="-1" xOffset="379" yOffset="754"/>
+    <contour>
+      <point x="382" y="872" type="line"/>
+      <point x="104" y="867" type="line"/>
+      <point x="85" y="747" type="line"/>
+      <point x="197" y="737" type="line"/>
+      <point x="83" y="17" type="line"/>
+      <point x="-32" y="7" type="line"/>
+      <point x="-51" y="-113" type="line"/>
+      <point x="225" y="-118" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

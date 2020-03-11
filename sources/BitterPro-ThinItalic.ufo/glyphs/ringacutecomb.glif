@@ -10,8 +10,13 @@
   <guideline x="155" y="497" angle="261"/>
   <anchor x="233" y="522" name="_top"/>
   <outline>
+    <contour>
+      <point x="182.69420000000002" y="733.2244000000001" type="line"/>
+      <point x="373.7416" y="813.0882" type="line"/>
+      <point x="362.72720000000004" y="841.9284000000001" type="line"/>
+      <point x="175.69060000000002" y="747.7492000000001" type="line"/>
+    </contour>
     <component base="ringcomb" xOffset="12" yOffset="-43"/>
-    <component base="acutecomb.case" xScale="0.9976" xyScale="-0.0698" yxScale="0.0698" yScale="0.9976" xOffset="-55" yOffset="1"/>
   </outline>
   <lib>
     <dict>

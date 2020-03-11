@@ -2,7 +2,42 @@
 <glyph name="quotedblleft.sc" format="2">
   <advance width="296"/>
   <outline>
-    <component base="quotedblbase" xScale="-1" yScale="-1" xOffset="296" yOffset="505"/>
+    <contour>
+      <point x="110" y="485" type="curve" smooth="yes"/>
+      <point x="110" y="503"/>
+      <point x="94" y="507"/>
+      <point x="94" y="526" type="curve" smooth="yes"/>
+      <point x="94" y="540"/>
+      <point x="99" y="568"/>
+      <point x="125" y="617" type="curve"/>
+      <point x="113" y="625" type="line"/>
+      <point x="75" y="564"/>
+      <point x="60" y="510"/>
+      <point x="60" y="489" type="curve" smooth="yes"/>
+      <point x="60" y="469"/>
+      <point x="73" y="459"/>
+      <point x="86" y="459" type="curve" smooth="yes"/>
+      <point x="98" y="459"/>
+      <point x="110" y="468"/>
+    </contour>
+    <contour>
+      <point x="226" y="485" type="curve" smooth="yes"/>
+      <point x="226" y="503"/>
+      <point x="210" y="507"/>
+      <point x="210" y="526" type="curve" smooth="yes"/>
+      <point x="210" y="540"/>
+      <point x="215" y="568"/>
+      <point x="241" y="617" type="curve"/>
+      <point x="229" y="625" type="line"/>
+      <point x="191" y="564"/>
+      <point x="176" y="510"/>
+      <point x="176" y="489" type="curve" smooth="yes"/>
+      <point x="176" y="469"/>
+      <point x="189" y="459"/>
+      <point x="202" y="459" type="curve" smooth="yes"/>
+      <point x="214" y="459"/>
+      <point x="226" y="468"/>
+    </contour>
   </outline>
   <lib>
     <dict>

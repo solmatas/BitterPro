@@ -10,8 +10,13 @@
   <anchor x="304" y="692" name="_top"/>
   <anchor x="340" y="920" name="top"/>
   <outline>
+    <contour>
+      <point x="242.66430000000003" y="835.7241" type="line"/>
+      <point x="437.61350000000004" y="905.4751" type="line"/>
+      <point x="428.1242" y="934.8498" type="line"/>
+      <point x="236.4309" y="850.5943" type="line"/>
+    </contour>
     <component base="tildecomb.case" xOffset="-4" yOffset="-36"/>
-    <component base="acutecomb.case" xScale="0.9925" xyScale="-0.1219" yxScale="0.1219" yScale="0.9925" xOffset="-33" yOffset="117"/>
   </outline>
   <lib>
     <dict>

@@ -9,7 +9,12 @@
   <guideline y="797"/>
   <anchor x="215" y="692" name="_top"/>
   <outline>
+    <contour>
+      <point x="127.89112" y="796.89892" type="line"/>
+      <point x="310.94692000000003" y="877.32448" type="line"/>
+      <point x="295.94168" y="906.4420799999999" type="line"/>
+      <point x="118.96191999999999" y="812.55992" type="line"/>
+    </contour>
     <component base="macron" xOffset="-1" yOffset="63"/>
-    <component base="acutecomb.case" xScale="0.99756" xyScale="-0.06976" yxScale="0.06976" yScale="0.99756" xOffset="-14" yOffset="58"/>
   </outline>
 </glyph>

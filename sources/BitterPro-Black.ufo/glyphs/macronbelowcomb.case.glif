@@ -3,7 +3,12 @@
   <anchor x="215" y="0" name="_bottom"/>
   <anchor x="215" y="-214" name="bottom"/>
   <outline>
-    <component base="macronbelowcomb"/>
+    <contour>
+      <point x="383" y="-79" type="line"/>
+      <point x="47" y="-79" type="line"/>
+      <point x="47" y="-214" type="line"/>
+      <point x="383" y="-214" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

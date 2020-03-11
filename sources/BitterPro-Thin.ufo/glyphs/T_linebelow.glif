@@ -5,7 +5,12 @@
   <guideline x="155" y="191" angle="90"/>
   <guideline x="405" y="191" angle="90"/>
   <outline>
+    <contour>
+      <point x="414.97650000000004" y="-107.0" type="line"/>
+      <point x="166.2315" y="-107.0" type="line"/>
+      <point x="166.2315" y="-128.0" type="line"/>
+      <point x="414.97650000000004" y="-128.0" type="line"/>
+    </contour>
     <component base="T"/>
-    <component base="macronbelowcomb.case" xScale="1.03" xOffset="57"/>
   </outline>
 </glyph>
