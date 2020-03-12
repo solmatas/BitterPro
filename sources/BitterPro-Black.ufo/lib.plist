@@ -519,7 +519,7 @@
     <key>com.typemytype.robofont.fontIdentifier</key>
     <string>kTg6lOYRCIwu7aK6B4ek21fGtqOoGZMNzXk0HOM0aIA</string>
     <key>com.typemytype.robofont.segmentType</key>
-    <string>qcurve</string>
+    <string>curve</string>
     <key>height</key>
     <integer>6</integer>
     <key>public.glyphOrder</key>

@@ -7,8 +7,13 @@
   <guideline x="399" y="231" angle="261"/>
   <guideline x="97" y="231" angle="261"/>
   <outline>
+    <contour>
+      <point x="130.77436" y="345" type="line"/>
+      <point x="432.19428" y="345" type="line"/>
+      <point x="435.29105999999996" y="364" type="line"/>
+      <point x="133.87114" y="364" type="line"/>
+    </contour>
     <component base="T"/>
-    <component base="strokeshortcomb" xScale="1.03226" xOffset="42" yOffset="55"/>
   </outline>
   <lib>
     <dict>

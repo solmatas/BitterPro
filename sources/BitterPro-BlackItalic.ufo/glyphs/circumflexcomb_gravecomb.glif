@@ -7,7 +7,12 @@
   <guideline x="94" y="529" angle="261"/>
   <anchor x="277" y="540" name="_top"/>
   <outline>
-    <component base="gravedbl" xScale="0.9986" xyScale="-0.0523" yxScale="0.0523" yScale="0.9986" xOffset="238" yOffset="153"/>
+    <contour>
+      <point x="492.17240000000004" y="742.4943" type="line"/>
+      <point x="579.0833" y="815.0456" type="line"/>
+      <point x="457.2623" y="993.6561" type="line"/>
+      <point x="344.13120000000004" y="898.4459" type="line"/>
+    </contour>
     <component base="circumflexcomb" xOffset="-8" yOffset="-35"/>
   </outline>
   <lib>

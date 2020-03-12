@@ -34,8 +34,6 @@ f_idieresis
       <point x="366" y="653"/>
       <point x="403" y="644"/>
       <point x="421" y="625" type="curve"/>
-      <point x="356" y="619" type="line"/>
-      <point x="375" y="825" type="line"/>
       <point x="438" y="774" type="line"/>
       <point x="396" y="788"/>
       <point x="349" y="795"/>

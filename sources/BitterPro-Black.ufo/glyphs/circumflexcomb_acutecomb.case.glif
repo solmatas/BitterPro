@@ -6,8 +6,13 @@
   <anchor x="248" y="710" name="_top"/>
   <anchor x="248" y="950" name="top"/>
   <outline>
+    <contour>
+      <point x="449.70709999999997" y="858.77" type="line"/>
+      <point x="643.5775000000001" y="993.5568" type="line"/>
+      <point x="551.8748" y="1101.2145" type="line"/>
+      <point x="378.2742" y="940.9521" type="line"/>
+    </contour>
     <component base="circumflexcomb.case" xOffset="-4" yOffset="-20"/>
-    <component base="acutedbl" xScale="0.9975" xyScale="-0.0698" yxScale="0.0698" yScale="0.9975" xOffset="283" yOffset="267"/>
   </outline>
   <lib>
     <dict>

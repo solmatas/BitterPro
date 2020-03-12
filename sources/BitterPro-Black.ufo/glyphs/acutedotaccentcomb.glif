@@ -3,8 +3,26 @@
   <advance width="386"/>
   <anchor x="185" y="540" name="_top"/>
   <outline>
-    <component base="dotaccentcomb" xScale="0.9" yScale="0.9" xOffset="29" yOffset="247"/>
-    <component base="acutecomb" xScale="0.9903" xyScale="-0.1391" yxScale="0.1391" yScale="0.9903" xOffset="-125" yOffset="-12"/>
+    <contour>
+      <point x="74.20259999999999" y="557.8438" type="line"/>
+      <point x="354.821" y="664.8539999999999" type="line"/>
+      <point x="276.98400000000004" y="808.0759999999999" type="line"/>
+      <point x="21.067000000000007" y="661.242" type="line"/>
+    </contour>
+    <contour>
+      <point x="159" y="780" type="curve" smooth="yes"/>
+      <point x="215" y="780"/>
+      <point x="258" y="813"/>
+      <point x="258" y="878" type="curve" smooth="yes"/>
+      <point x="258" y="944"/>
+      <point x="216" y="975"/>
+      <point x="160" y="975" type="curve" smooth="yes"/>
+      <point x="102" y="975"/>
+      <point x="60" y="943"/>
+      <point x="60" y="877.0" type="curve" smooth="yes"/>
+      <point x="60" y="814.0"/>
+      <point x="100" y="780"/>
+    </contour>
   </outline>
   <lib>
     <dict>

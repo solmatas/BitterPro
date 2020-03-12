@@ -9,8 +9,13 @@
   <anchor x="237" y="692" name="_top"/>
   <anchor x="237" y="920" name="top"/>
   <outline>
+    <contour>
+      <point x="321.6577" y="828.2447000000001" type="line"/>
+      <point x="439.56960000000004" y="923.2394" type="line"/>
+      <point x="418.0231" y="944.7948" type="line"/>
+      <point x="309.5976" y="842.1196" type="line"/>
+    </contour>
     <component base="circumflexcomb.case" xOffset="20" yOffset="-10"/>
-    <component base="acutedbl" xScale="0.9975" xyScale="-0.0698" yxScale="0.0698" yScale="0.9975" xOffset="219" yOffset="235"/>
   </outline>
   <lib>
     <dict>

@@ -5,7 +5,22 @@
   <guideline x="223" y="-118" angle="0"/>
   <guideline x="298" y="872" angle="0"/>
   <outline>
-    <component base="parenleft" xScale="-1" yScale="-1" xOffset="323" yOffset="751"/>
+    <contour>
+      <point x="-10" y="-83" type="curve"/>
+      <point x="118" y="-158" type="line"/>
+      <point x="253" y="1"/>
+      <point x="315" y="191"/>
+      <point x="315" y="376" type="curve" smooth="yes"/>
+      <point x="315" y="561"/>
+      <point x="253" y="751"/>
+      <point x="118" y="910" type="curve"/>
+      <point x="-10" y="835" type="line"/>
+      <point x="80" y="698"/>
+      <point x="125" y="534"/>
+      <point x="125" y="376" type="curve" smooth="yes"/>
+      <point x="125" y="217"/>
+      <point x="80" y="54"/>
+    </contour>
   </outline>
   <lib>
     <dict>

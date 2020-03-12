@@ -3,8 +3,13 @@
   <advance width="398"/>
   <anchor x="198" y="540" name="_top"/>
   <outline>
+    <contour>
+      <point x="75" y="849" type="line"/>
+      <point x="353" y="950" type="line"/>
+      <point x="281" y="1095" type="line"/>
+      <point x="20" y="955" type="line"/>
+    </contour>
     <component base="ringcomb" xOffset="11" yOffset="-25"/>
-    <component base="acutecomb.case" xOffset="-7" yOffset="93"/>
   </outline>
   <lib>
     <dict>

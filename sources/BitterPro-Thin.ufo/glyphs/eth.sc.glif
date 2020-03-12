@@ -2,8 +2,13 @@
 <glyph name="eth.sc" format="2">
   <advance width="654"/>
   <outline>
+    <contour>
+      <point x="60.0" y="280" type="line"/>
+      <point x="354.5" y="280" type="line"/>
+      <point x="354.5" y="299" type="line"/>
+      <point x="60.0" y="299" type="line"/>
+    </contour>
     <component base="d.sc"/>
-    <component base="strokeshortcomb" xScale="0.95" xOffset="3" yOffset="-10"/>
   </outline>
   <lib>
     <dict>

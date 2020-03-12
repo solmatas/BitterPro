@@ -8,8 +8,13 @@
   <guideline x="77" y="497" angle="261"/>
   <anchor x="240" y="540" name="_top"/>
   <outline>
+    <contour>
+      <point x="178.00167000000002" y="849.00756" type="line"/>
+      <point x="467.00456" y="951.00858" type="line"/>
+      <point x="408.00397000000004" y="1094.01001" type="line"/>
+      <point x="133.00122" y="940.0084700000001" type="line"/>
+    </contour>
     <component base="ringcomb" xOffset="6" yOffset="-25"/>
-    <component base="acutecomb.case" xScale="1.00001" yScale="1.00001" xOffset="11" yOffset="93"/>
   </outline>
   <lib>
     <dict>

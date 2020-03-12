@@ -11,8 +11,13 @@
   <anchor x="303" y="692" name="_top"/>
   <anchor x="340" y="925" name="top"/>
   <outline>
+    <contour>
+      <point x="405.47270000000003" y="823.0795" type="line"/>
+      <point x="535.3546" y="917.2366" type="line"/>
+      <point x="516.8006" y="938.5826000000001" type="line"/>
+      <point x="395.4076" y="836.8148" type="line"/>
+    </contour>
     <component base="circumflexcomb.case" xOffset="-1" yOffset="-10"/>
-    <component base="acutedbl" xScale="0.9975" xyScale="-0.0698" yxScale="0.0698" yScale="0.9975" xOffset="229" yOffset="235"/>
   </outline>
   <lib>
     <dict>

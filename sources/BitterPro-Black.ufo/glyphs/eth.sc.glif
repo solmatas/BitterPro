@@ -3,8 +3,13 @@
   <advance width="637"/>
   <guideline x="28" y="433" angle="90"/>
   <outline>
+    <contour>
+      <point x="26.0" y="245" type="line"/>
+      <point x="355.08" y="245" type="line"/>
+      <point x="355.08" y="355" type="line"/>
+      <point x="26.0" y="355" type="line"/>
+    </contour>
     <component base="d.sc"/>
-    <component base="strokeshortcomb" xScale="0.76" xOffset="-12" yOffset="2"/>
   </outline>
   <lib>
     <dict>

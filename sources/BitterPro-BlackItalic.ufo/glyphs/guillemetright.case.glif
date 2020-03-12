@@ -4,8 +4,26 @@
   <guideline x="-409" y="119" angle="0"/>
   <guideline x="120" y="599" angle="0"/>
   <outline>
-    <component base="guilsinglleft" xScale="-1" yScale="-1" xOffset="568" yOffset="628"/>
-    <component base="guilsinglleft" xScale="-1" yScale="-1" xOffset="318" yOffset="628"/>
+    <contour>
+      <point x="405" y="599" type="line"/>
+      <point x="308" y="525" type="line"/>
+      <point x="400" y="321" type="line"/>
+      <point x="409" y="395" type="line"/>
+      <point x="252" y="188" type="line"/>
+      <point x="333" y="119" type="line"/>
+      <point x="531" y="312" type="line"/>
+      <point x="543" y="406" type="line"/>
+    </contour>
+    <contour>
+      <point x="155" y="599" type="line"/>
+      <point x="58" y="525" type="line"/>
+      <point x="150" y="321" type="line"/>
+      <point x="159" y="395" type="line"/>
+      <point x="2" y="188" type="line"/>
+      <point x="83" y="119" type="line"/>
+      <point x="281" y="312" type="line"/>
+      <point x="293" y="406" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

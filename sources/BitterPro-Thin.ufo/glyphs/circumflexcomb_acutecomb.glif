@@ -2,7 +2,12 @@
 <glyph name="circumflexcomb_acutecomb" format="2">
   <anchor x="206" y="522" name="_top"/>
   <outline>
-    <component base="acutedbl" xScale="0.9945" xyScale="0.1045" yxScale="-0.1045" yScale="0.9945" xOffset="305" yOffset="87"/>
+    <contour>
+      <point x="303.069" y="689.08" type="line"/>
+      <point x="402.695" y="803.113" type="line"/>
+      <point x="377.7315" y="820.5995" type="line"/>
+      <point x="288.782" y="700.65" type="line"/>
+    </contour>
     <component base="circumflexcomb" xOffset="3" yOffset="-58"/>
   </outline>
   <lib>

@@ -3,7 +3,12 @@
   <anchor x="243" y="540" name="_top"/>
   <anchor x="243" y="780" name="top"/>
   <outline>
-    <component base="acutecomb" xScale="0.9816" xyScale="-0.1908" yxScale="0.1908" yScale="0.9816" xOffset="-117" yOffset="219"/>
+    <contour>
+      <point x="111.7824" y="777.5928" type="line"/>
+      <point x="397.6092" y="869.7444" type="line"/>
+      <point x="327.3888" y="1016.8416000000001" type="line"/>
+      <point x="64.1412" y="883.6283999999999" type="line"/>
+    </contour>
     <component base="tildecomb.case" xOffset="-2" yOffset="-200"/>
   </outline>
   <lib>

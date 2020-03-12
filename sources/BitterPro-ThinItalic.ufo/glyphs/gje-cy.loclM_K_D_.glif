@@ -2,8 +2,19 @@
 <glyph name="gje-cy.loclMKD" format="2">
   <advance width="263"/>
   <outline>
+    <contour>
+      <point x="112.75866400000004" y="699.2244000000001" type="line"/>
+      <point x="288.52227200000004" y="779.0882" type="line"/>
+      <point x="278.38902400000006" y="807.9284000000001" type="line"/>
+      <point x="106.31535200000002" y="713.7492000000001" type="line"/>
+    </contour>
+    <contour>
+      <point x="293.36" y="652" type="line"/>
+      <point x="90.04" y="652" type="line"/>
+      <point x="87.28000000000002" y="631" type="line"/>
+      <point x="290.6" y="631" type="line"/>
+    </contour>
     <component base="idotless"/>
-    <component base="macronacutesingle" xScale="0.92" xOffset="-59"/>
   </outline>
   <lib>
     <dict>

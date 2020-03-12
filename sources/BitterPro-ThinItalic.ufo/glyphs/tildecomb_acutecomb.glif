@@ -11,7 +11,12 @@
   <anchor x="266" y="522" name="_top"/>
   <anchor x="293" y="692" name="top"/>
   <outline>
-    <component base="acutecomb" xScale="0.9877" xyScale="-0.1564" yxScale="0.1564" yScale="0.9877" xOffset="-8" yOffset="94"/>
+    <contour>
+      <point x="227.46020000000001" y="698.6186" type="line"/>
+      <point x="405.81570000000005" y="782.7601" type="line"/>
+      <point x="392.2599" y="812.2432" type="line"/>
+      <point x="218.7851" y="714.1668" type="line"/>
+    </contour>
     <component base="tildecomb.case" xOffset="-35" yOffset="-166"/>
   </outline>
   <lib>

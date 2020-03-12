@@ -3,7 +3,22 @@
   <advance width="313"/>
   <guideline x="223" y="-118" angle="0"/>
   <outline>
-    <component base="parenleft.case" xScale="-1" xOffset="313"/>
+    <contour>
+      <point x="-12" y="784" type="curve"/>
+      <point x="116" y="859" type="line"/>
+      <point x="242" y="704"/>
+      <point x="305" y="527"/>
+      <point x="305" y="350" type="curve" smooth="yes"/>
+      <point x="305" y="173"/>
+      <point x="242" y="-4"/>
+      <point x="116" y="-159" type="curve"/>
+      <point x="-12" y="-84" type="line"/>
+      <point x="72" y="53"/>
+      <point x="115" y="202"/>
+      <point x="115" y="350" type="curve" smooth="yes"/>
+      <point x="115" y="499"/>
+      <point x="72" y="648"/>
+    </contour>
   </outline>
   <lib>
     <dict>

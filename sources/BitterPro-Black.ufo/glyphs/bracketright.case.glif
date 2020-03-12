@@ -3,7 +3,16 @@
   <advance width="351"/>
   <guideline x="223" y="-118" angle="0"/>
   <outline>
-    <component base="bracketleft.case" xScale="-1" xOffset="351"/>
+    <contour>
+      <point x="293" y="-118" type="line"/>
+      <point x="5" y="-113" type="line"/>
+      <point x="5" y="7" type="line"/>
+      <point x="123" y="17" type="line"/>
+      <point x="123" y="687" type="line"/>
+      <point x="5" y="697" type="line"/>
+      <point x="5" y="817" type="line"/>
+      <point x="293" y="822" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

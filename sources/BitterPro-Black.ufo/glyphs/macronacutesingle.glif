@@ -7,8 +7,13 @@
   <guideline x="42" y="780" angle="90"/>
   <anchor x="210" y="540" name="_top"/>
   <outline>
+    <contour>
+      <point x="88" y="738" type="line"/>
+      <point x="366" y="839" type="line"/>
+      <point x="294" y="984" type="line"/>
+      <point x="33" y="844" type="line"/>
+    </contour>
     <component base="macron" xOffset="-3" yOffset="-70"/>
-    <component base="acutecomb.case" xOffset="6" yOffset="-18"/>
   </outline>
   <lib>
     <dict>

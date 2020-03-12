@@ -4,8 +4,13 @@
   <unicode hex="00D0"/>
   <guideline x="68" y="249" angle="90"/>
   <outline>
+    <contour>
+      <point x="60.935599999999994" y="345" type="line"/>
+      <point x="380.9362" y="345" type="line"/>
+      <point x="380.9362" y="364" type="line"/>
+      <point x="60.935599999999994" y="364" type="line"/>
+    </contour>
     <component base="D"/>
-    <component base="strokeshortcomb" xScale="1.03226" xOffset="-1" yOffset="55"/>
   </outline>
   <lib>
     <dict>

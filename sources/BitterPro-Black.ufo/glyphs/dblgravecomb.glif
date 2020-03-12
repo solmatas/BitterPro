@@ -4,7 +4,18 @@
   <anchor x="269" y="540" name="_top"/>
   <anchor x="230" y="780" name="top"/>
   <outline>
-    <component base="hungarumlautcomb" xScale="-1" xOffset="452"/>
+    <contour>
+      <point x="146" y="592" type="line"/>
+      <point x="17" y="804" type="line"/>
+      <point x="147" y="872" type="line"/>
+      <point x="246" y="641" type="line"/>
+    </contour>
+    <contour>
+      <point x="338" y="592" type="line"/>
+      <point x="217" y="809" type="line"/>
+      <point x="349" y="872" type="line"/>
+      <point x="440" y="639" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
