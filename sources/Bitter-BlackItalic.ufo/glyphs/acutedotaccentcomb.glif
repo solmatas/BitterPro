@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acutedotaccentcomb" format="2">
+  <advance width="371"/>
+  <guideline x="121" y="577" angle="0"/>
+  <guideline x="511" y="928" angle="0"/>
+  <guideline x="240" y="777" angle="261"/>
+  <guideline x="100" y="777" angle="261"/>
+  <guideline x="380" y="777" angle="261"/>
+  <anchor x="202" y="540" name="_top"/>
+  <outline>
+    <contour>
+      <point x="240.6" y="779.8000000000001" type="curve" smooth="yes"/>
+      <point x="302.70000000000005" y="779.8000000000001"/>
+      <point x="346.8" y="824.8000000000001"/>
+      <point x="346.8" y="887.8000000000001" type="curve" smooth="yes"/>
+      <point x="346.8" y="942.7"/>
+      <point x="313.5" y="975.1"/>
+      <point x="260.4" y="975.1" type="curve" smooth="yes"/>
+      <point x="199.20000000000002" y="975.1"/>
+      <point x="154.2" y="931.0"/>
+      <point x="154.2" y="867.1" type="curve" smooth="yes"/>
+      <point x="154.2" y="814.0"/>
+      <point x="185.7" y="779.8000000000001"/>
+    </contour>
+    <contour>
+      <point x="114.76960000000003" y="558.6948000000001" type="line"/>
+      <point x="402.01240000000007" y="638.1096" type="line"/>
+      <point x="344.4664" y="788.9292" type="line"/>
+      <point x="70.11040000000003" y="667.5372" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dong" format="2">
+  <anchor x="251" y="0" name="bottom"/>
+  <anchor x="293" y="261" name="center"/>
+  <anchor x="334" y="522" name="top"/>
+  <anchor x="602" y="522" name="topright"/>
+  <outline>
+    <contour>
+      <point x="283" y="632" type="line"/>
+      <point x="602" y="632" type="line"/>
+      <point x="605" y="651" type="line"/>
+      <point x="286" y="651" type="line"/>
+    </contour>
+    <contour>
+      <point x="21" y="-96" type="line"/>
+      <point x="487" y="-96" type="line"/>
+      <point x="490" y="-76" type="line"/>
+      <point x="24" y="-76" type="line"/>
+    </contour>
+    <component base="d" xOffset="4"/>
+  </outline>
+</glyph>

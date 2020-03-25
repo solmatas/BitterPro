@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="D" format="2">
+  <anchor x="275" y="0" name="bottom"/>
+  <anchor x="360" y="356" name="center"/>
+  <anchor x="369" y="710" name="top"/>
+  <outline>
+  </outline>
+</glyph>

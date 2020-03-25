@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="semisoftsign-cy" format="2">
+  <outline>
+    <contour>
+      <point x="295" y="312" type="curve"/>
+      <point x="166" y="312" type="line"/>
+      <point x="166" y="503" type="line"/>
+      <point x="326" y="503" type="line"/>
+      <point x="326" y="522" type="line"/>
+      <point x="166" y="522" type="line"/>
+      <point x="166" y="765" type="line"/>
+      <point x="56" y="760" type="line"/>
+      <point x="56" y="745" type="line"/>
+      <point x="146" y="732" type="line"/>
+      <point x="146" y="522" type="line"/>
+      <point x="16" y="522" type="line"/>
+      <point x="16" y="503" type="line"/>
+      <point x="146" y="503" type="line"/>
+      <point x="146" y="28" type="line"/>
+      <point x="56" y="15" type="line"/>
+      <point x="56" y="0" type="line"/>
+      <point x="253" y="0" type="line"/>
+      <point x="404" y="0"/>
+      <point x="467" y="61"/>
+      <point x="467" y="160" type="curve"/>
+      <point x="467" y="257"/>
+      <point x="407" y="312"/>
+    </contour>
+    <contour>
+      <point x="256" y="19" type="curve"/>
+      <point x="166" y="19" type="line"/>
+      <point x="166" y="293" type="line"/>
+      <point x="290" y="293" type="line"/>
+      <point x="394" y="293"/>
+      <point x="446" y="244"/>
+      <point x="446" y="158" type="curve"/>
+      <point x="446" y="68"/>
+      <point x="389" y="19"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tbar" format="2">
+  <advance width="428"/>
+  <unicode hex="0167"/>
+  <guideline x="27" y="454" angle="261"/>
+  <guideline x="415" y="454" angle="261"/>
+  <outline>
+    <contour>
+      <point x="-9.517219999999998" y="225" type="line"/>
+      <point x="372.28278" y="225" type="line"/>
+      <point x="389.84338" y="335" type="line"/>
+      <point x="8.043379999999999" y="335" type="line"/>
+    </contour>
+    <component base="t"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>t</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>t</string>
+    </dict>
+  </lib>
+</glyph>

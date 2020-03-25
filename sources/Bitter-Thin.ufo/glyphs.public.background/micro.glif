@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="micro" format="2">
+  <outline>
+    <contour>
+      <point x="120" y="154" type="line"/>
+      <point x="120" y="45"/>
+      <point x="178" y="-6"/>
+      <point x="266" y="-6" type="curve" smooth="yes"/>
+      <point x="331" y="-6"/>
+      <point x="408" y="25"/>
+      <point x="475" y="95" type="curve"/>
+      <point x="471" y="98" type="line"/>
+      <point x="476" y="-2" type="line"/>
+      <point x="581" y="2" type="line"/>
+      <point x="581" y="17" type="line"/>
+      <point x="484" y="27" type="line"/>
+      <point x="491" y="23" type="line"/>
+      <point x="491" y="522" type="line"/>
+      <point x="381" y="520" type="line"/>
+      <point x="381" y="505" type="line"/>
+      <point x="478" y="492" type="line"/>
+      <point x="471" y="501" type="line"/>
+      <point x="471" y="108" type="line"/>
+      <point x="475" y="119" type="line"/>
+      <point x="406" y="46"/>
+      <point x="329" y="13"/>
+      <point x="267" y="13" type="curve" smooth="yes"/>
+      <point x="188" y="13"/>
+      <point x="138" y="59"/>
+      <point x="138" y="159" type="curve" smooth="yes"/>
+      <point x="138" y="522" type="line"/>
+      <point x="28" y="520" type="line"/>
+      <point x="28" y="505" type="line"/>
+      <point x="125" y="492" type="line"/>
+      <point x="118" y="501" type="line"/>
+      <point x="118" y="-230" type="line"/>
+      <point x="138" y="-230" type="line"/>
+      <point x="138" y="99" type="line"/>
+    </contour>
+  </outline>
+</glyph>

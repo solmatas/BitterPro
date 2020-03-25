@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexcomb" format="2">
+  <unicode hex="0302"/>
+  <guideline x="497" y="864" angle="0"/>
+  <guideline x="198" y="596" angle="0"/>
+  <guideline x="316" y="780" angle="261"/>
+  <anchor x="278" y="540" name="_top"/>
+  <anchor x="316" y="780" name="top"/>
+  <outline>
+    <component base="circumflex" yOffset="-2"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>472</integer>
+    </dict>
+  </lib>
+</glyph>

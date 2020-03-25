@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dzcaron.sc" format="2">
+  <advance width="1191"/>
+  <outline>
+    <component base="d.sc"/>
+    <component base="z.sc" xOffset="626"/>
+    <component base="caroncomb" xOffset="685" yOffset="51"/>
+  </outline>
+</glyph>

@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="enghe-cy" format="2">
+  <advance width="879"/>
+  <unicode hex="04A5"/>
+  <anchor x="662" y="0" name="bottomright"/>
+  <outline>
+    <contour>
+      <point x="607" y="540" type="line"/>
+      <point x="357" y="536" type="line"/>
+      <point x="357" y="436" type="line"/>
+      <point x="437" y="406" type="line"/>
+      <point x="407" y="456" type="line"/>
+      <point x="407" y="296" type="line"/>
+      <point x="457" y="349" type="line"/>
+      <point x="226" y="349" type="line"/>
+      <point x="276" y="296" type="line"/>
+      <point x="276" y="461" type="line"/>
+      <point x="235" y="403" type="line"/>
+      <point x="326" y="444" type="line"/>
+      <point x="326" y="544" type="line"/>
+      <point x="21" y="536" type="line"/>
+      <point x="21" y="436" type="line"/>
+      <point x="127" y="393" type="line"/>
+      <point x="76" y="456" type="line"/>
+      <point x="76" y="75" type="line"/>
+      <point x="113" y="137" type="line"/>
+      <point x="21" y="100" type="line"/>
+      <point x="21" y="0" type="line"/>
+      <point x="326" y="0" type="line"/>
+      <point x="326" y="100" type="line"/>
+      <point x="245" y="131" type="line"/>
+      <point x="276" y="75" type="line"/>
+      <point x="276" y="261" type="line"/>
+      <point x="226" y="208" type="line"/>
+      <point x="457" y="208" type="line"/>
+      <point x="407" y="261" type="line"/>
+      <point x="407" y="75" type="line"/>
+      <point x="438" y="131" type="line"/>
+      <point x="357" y="100" type="line"/>
+      <point x="357" y="0" type="line"/>
+      <point x="662" y="0" type="line"/>
+      <point x="662" y="100" type="line"/>
+      <point x="570" y="137" type="line"/>
+      <point x="607" y="75" type="line"/>
+      <point x="607" y="413" type="line"/>
+      <point x="598" y="395" type="line"/>
+      <point x="744" y="395" type="line"/>
+      <point x="719" y="418" type="line"/>
+      <point x="738" y="291" type="line"/>
+      <point x="858" y="291" type="line"/>
+      <point x="865" y="540" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>ge-cy</string>
+    </dict>
+  </lib>
+</glyph>

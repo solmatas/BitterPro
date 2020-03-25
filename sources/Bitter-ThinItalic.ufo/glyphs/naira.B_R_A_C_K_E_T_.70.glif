@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="naira.BRACKET.70" format="2">
+  <advance width="960"/>
+  <guideline x="135" y="454" angle="90"/>
+  <guideline x="838" y="454" angle="90"/>
+  <outline>
+    <contour>
+      <point x="718" y="0" type="line"/>
+      <point x="738" y="0" type="line"/>
+      <point x="738" y="300" type="line"/>
+      <point x="732" y="295" type="line"/>
+      <point x="838" y="295" type="line"/>
+      <point x="838" y="314" type="line"/>
+      <point x="718" y="314" type="line"/>
+      <point x="718" y="30" type="line"/>
+      <point x="722" y="31" type="line"/>
+      <point x="260" y="692" type="line"/>
+      <point x="135" y="687" type="line"/>
+      <point x="135" y="672" type="line"/>
+      <point x="242" y="663" type="line"/>
+      <point x="235" y="671" type="line"/>
+      <point x="235" y="409" type="line"/>
+      <point x="241" y="414" type="line"/>
+      <point x="135" y="414" type="line"/>
+      <point x="135" y="395" type="line"/>
+      <point x="255" y="395" type="line"/>
+      <point x="255" y="670" type="line"/>
+      <point x="251" y="669" type="line"/>
+    </contour>
+    <contour>
+      <point x="135" y="0" type="line"/>
+      <point x="355" y="0" type="line"/>
+      <point x="355" y="15" type="line"/>
+      <point x="248" y="29" type="line"/>
+      <point x="255" y="21" type="line"/>
+      <point x="255" y="314" type="line"/>
+      <point x="135" y="314" type="line"/>
+      <point x="135" y="295" type="line"/>
+      <point x="241" y="295" type="line"/>
+      <point x="235" y="301" type="line"/>
+      <point x="235" y="21" type="line"/>
+      <point x="242" y="29" type="line"/>
+      <point x="135" y="15" type="line"/>
+    </contour>
+    <contour>
+      <point x="718" y="395" type="line"/>
+      <point x="838" y="395" type="line"/>
+      <point x="838" y="414" type="line"/>
+      <point x="732" y="414" type="line"/>
+      <point x="738" y="408" type="line"/>
+      <point x="738" y="671" type="line"/>
+      <point x="731" y="663" type="line"/>
+      <point x="838" y="677" type="line"/>
+      <point x="838" y="692" type="line"/>
+      <point x="618" y="687" type="line"/>
+      <point x="618" y="672" type="line"/>
+      <point x="725" y="665" type="line"/>
+      <point x="718" y="672" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs._originalLayerName</key>
+      <string>Thin Italic [70]</string>
+    </dict>
+  </lib>
+</glyph>

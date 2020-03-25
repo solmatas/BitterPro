@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevecomb-cy.case" format="2">
+  <guideline x="222" y="747" angle="0"/>
+  <guideline x="310" y="868" angle="0"/>
+  <guideline x="285" y="834" angle="0"/>
+  <guideline x="242" y="775" angle="0"/>
+  <guideline x="394" y="674" angle="261"/>
+  <guideline x="280" y="674" angle="261"/>
+  <guideline x="165" y="674" angle="261"/>
+  <anchor x="283" y="692" name="_top"/>
+  <outline>
+    <contour>
+      <point x="296" y="758" type="curve" smooth="yes"/>
+      <point x="359" y="758"/>
+      <point x="411" y="790"/>
+      <point x="422" y="850" type="curve"/>
+      <point x="400" y="850" type="line"/>
+      <point x="390" y="800"/>
+      <point x="353" y="776"/>
+      <point x="300" y="776" type="curve" smooth="yes"/>
+      <point x="246" y="776"/>
+      <point x="213" y="801"/>
+      <point x="217" y="850" type="curve"/>
+      <point x="193" y="850" type="line"/>
+      <point x="190" y="792"/>
+      <point x="232" y="758"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>429</integer>
+    </dict>
+  </lib>
+</glyph>

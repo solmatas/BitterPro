@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexcomb_tildecomb.case" format="2">
+  <outline>
+    <contour>
+      <point x="211" y="867" type="line"/>
+      <point x="235" y="902"/>
+      <point x="254" y="913"/>
+      <point x="277" y="913" type="curve" smooth="yes"/>
+      <point x="321" y="913"/>
+      <point x="347" y="871"/>
+      <point x="394" y="871" type="curve" smooth="yes"/>
+      <point x="421" y="871"/>
+      <point x="448" y="885"/>
+      <point x="475" y="928" type="curve"/>
+      <point x="463" y="937" type="line"/>
+      <point x="442" y="907"/>
+      <point x="421" y="892"/>
+      <point x="398" y="892" type="curve" smooth="yes"/>
+      <point x="359" y="892"/>
+      <point x="328" y="934"/>
+      <point x="280" y="934" type="curve" smooth="yes"/>
+      <point x="251" y="934"/>
+      <point x="224" y="918"/>
+      <point x="198" y="876" type="curve"/>
+    </contour>
+    <contour>
+      <point x="186" y="721" type="line"/>
+      <point x="325" y="825" type="line"/>
+      <point x="316" y="825" type="line"/>
+      <point x="425" y="721" type="line"/>
+      <point x="439" y="734" type="line"/>
+      <point x="331" y="848" type="line"/>
+      <point x="316" y="848" type="line"/>
+      <point x="177" y="734" type="line"/>
+    </contour>
+  </outline>
+</glyph>

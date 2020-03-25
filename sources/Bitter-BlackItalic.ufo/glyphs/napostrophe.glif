@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="napostrophe" format="2">
+  <advance width="818"/>
+  <unicode hex="0149"/>
+  <outline>
+    <contour>
+      <point x="111.60000000000001" y="701.3" type="curve" smooth="yes"/>
+      <point x="111.60000000000001" y="666.1999999999999"/>
+      <point x="127.80000000000001" y="646.4"/>
+      <point x="127.80000000000001" y="625.6999999999999" type="curve" smooth="yes"/>
+      <point x="127.80000000000001" y="602.3"/>
+      <point x="105.30000000000001" y="567.1999999999999"/>
+      <point x="55.800000000000004" y="498.79999999999995" type="curve"/>
+      <point x="109.80000000000001" y="452.9" type="line"/>
+      <point x="239.40000000000003" y="570.8"/>
+      <point x="277.2" y="655.4"/>
+      <point x="277.2" y="709.4" type="curve" smooth="yes"/>
+      <point x="277.2" y="765.1999999999999"/>
+      <point x="238.5" y="794.0"/>
+      <point x="198.0" y="794.0" type="curve" smooth="yes"/>
+      <point x="153.0" y="794.0"/>
+      <point x="111.60000000000001" y="758.0"/>
+    </contour>
+    <component base="n" xOffset="191"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>0</integer>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

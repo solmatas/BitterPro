@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tlinebelow.sc" format="2">
+  <advance width="563"/>
+  <outline>
+    <contour>
+      <point x="389" y="-79" type="line"/>
+      <point x="66" y="-79" type="line"/>
+      <point x="45" y="-214" type="line"/>
+      <point x="367" y="-214" type="line"/>
+    </contour>
+    <component base="t.sc"/>
+  </outline>
+</glyph>

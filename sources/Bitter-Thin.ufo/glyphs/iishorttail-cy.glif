@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iishorttail-cy" format="2">
+  <advance width="648"/>
+  <unicode hex="048B"/>
+  <outline>
+    <component base="ii-cy"/>
+    <component base="tail-cy" xOffset="430"/>
+  </outline>
+</glyph>

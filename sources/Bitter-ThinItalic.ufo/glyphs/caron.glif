@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="caron" format="2">
+  <advance width="462"/>
+  <unicode hex="02C7"/>
+  <guideline x="231" y="637" angle="0"/>
+  <guideline x="327" y="770" angle="0"/>
+  <guideline x="294" y="724" angle="0"/>
+  <guideline x="251" y="665" angle="0"/>
+  <guideline x="265" y="468" angle="261"/>
+  <outline>
+    <contour>
+      <point x="431" y="768" type="line"/>
+      <point x="292" y="664" type="line"/>
+      <point x="301" y="664" type="line"/>
+      <point x="192" y="768" type="line"/>
+      <point x="178" y="755" type="line"/>
+      <point x="286" y="641" type="line"/>
+      <point x="301" y="641" type="line"/>
+      <point x="440" y="755" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

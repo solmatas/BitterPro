@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ringcomb.case" format="2">
+  <guideline x="177" y="747" angle="0"/>
+  <guideline x="266" y="868" angle="0"/>
+  <guideline x="241" y="834" angle="0"/>
+  <guideline x="256" y="775" angle="261"/>
+  <anchor x="243" y="692" name="_top"/>
+  <anchor x="269" y="860" name="top"/>
+  <outline>
+    <component base="ringcomb" xOffset="17" yOffset="102"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>349</integer>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

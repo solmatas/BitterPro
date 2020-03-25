@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quoteleft" format="2">
+  <advance width="247"/>
+  <unicode hex="2018"/>
+  <guideline x="50" y="414" angle="0"/>
+  <guideline x="50" y="790" angle="0"/>
+  <outline>
+    <contour>
+      <point x="201" y="517" type="curve" smooth="yes"/>
+      <point x="201" y="571"/>
+      <point x="166" y="594"/>
+      <point x="166" y="625" type="curve" smooth="yes"/>
+      <point x="166" y="643"/>
+      <point x="179" y="676"/>
+      <point x="225" y="754" type="curve"/>
+      <point x="161" y="796" type="line"/>
+      <point x="47" y="683"/>
+      <point x="8" y="594"/>
+      <point x="8" y="528" type="curve" smooth="yes"/>
+      <point x="8" y="456"/>
+      <point x="58" y="421"/>
+      <point x="107" y="421" type="curve" smooth="yes"/>
+      <point x="155" y="421"/>
+      <point x="201" y="453"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=|quotesinglbase</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=|quotesinglbase</string>
+    </dict>
+  </lib>
+</glyph>

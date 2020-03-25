@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="commaturnedabovecomb" format="2">
+  <anchor x="164" y="522" name="_top"/>
+  <anchor x="207" y="786" name="top"/>
+  <outline>
+    <component base="commaaccentcomb" xScale="-1" yScale="-1" xOffset="253" yOffset="546"/>
+  </outline>
+</glyph>

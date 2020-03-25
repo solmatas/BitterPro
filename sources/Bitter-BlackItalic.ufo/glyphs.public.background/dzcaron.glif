@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dzcaron" format="2">
+  <outline>
+    <component base="d"/>
+    <component base="z" xOffset="570"/>
+    <component base="caroncomb" xOffset="546"/>
+  </outline>
+</glyph>

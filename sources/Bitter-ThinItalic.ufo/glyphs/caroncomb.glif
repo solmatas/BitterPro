@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="caroncomb" format="2">
+  <unicode hex="030C"/>
+  <guideline x="211" y="637" angle="0"/>
+  <guideline x="308" y="770" angle="0"/>
+  <guideline x="154" y="724" angle="0"/>
+  <guideline x="111" y="665" angle="0"/>
+  <guideline x="265" y="468" angle="261"/>
+  <anchor x="274" y="522" name="_top"/>
+  <anchor x="300" y="692" name="top"/>
+  <outline>
+    <component base="caron"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>462</integer>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

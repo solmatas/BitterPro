@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Cheverticalstroke-cy" format="2">
+  <outline>
+    <contour>
+      <point x="449" y="125" type="line"/>
+      <point x="379" y="100" type="line"/>
+      <point x="379" y="0" type="line"/>
+      <point x="714" y="0" type="line"/>
+      <point x="714" y="100" type="line"/>
+      <point x="654" y="124" type="line"/>
+      <point x="654" y="582" type="line"/>
+      <point x="714" y="610" type="line"/>
+      <point x="714" y="710" type="line"/>
+      <point x="394" y="705" type="line"/>
+      <point x="394" y="605" type="line"/>
+      <point x="449" y="582" type="line"/>
+      <point x="449" y="412" type="line"/>
+      <point x="411" y="400"/>
+      <point x="380" y="396"/>
+      <point x="354" y="396" type="curve"/>
+      <point x="296" y="396"/>
+      <point x="269" y="424"/>
+      <point x="269" y="495" type="curve"/>
+      <point x="269" y="582" type="line"/>
+      <point x="324" y="610" type="line"/>
+      <point x="324" y="710" type="line"/>
+      <point x="4" y="705" type="line"/>
+      <point x="4" y="605" type="line"/>
+      <point x="64" y="582" type="line"/>
+      <point x="64" y="465" type="line"/>
+      <point x="64" y="308"/>
+      <point x="166" y="248"/>
+      <point x="295" y="248" type="curve"/>
+      <point x="346" y="248"/>
+      <point x="398" y="255"/>
+      <point x="449" y="273" type="curve"/>
+    </contour>
+    <contour>
+      <point x="317" y="169" type="line"/>
+      <point x="407" y="169" type="line"/>
+      <point x="407" y="521" type="line"/>
+      <point x="317" y="521" type="line"/>
+    </contour>
+  </outline>
+</glyph>

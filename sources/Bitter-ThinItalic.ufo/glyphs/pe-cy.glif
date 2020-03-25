@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="pe-cy" format="2">
+  <advance width="621"/>
+  <unicode hex="043F"/>
+  <anchor x="533" y="0" name="bottomright"/>
+  <outline>
+    <contour>
+      <point x="426" y="-2" type="line"/>
+      <point x="532" y="2" type="line"/>
+      <point x="534" y="17" type="line"/>
+      <point x="444" y="28" type="line"/>
+      <point x="449" y="21" type="line"/>
+      <point x="526" y="499" type="line"/>
+      <point x="516" y="492" type="line"/>
+      <point x="613" y="508" type="line"/>
+      <point x="615" y="522" type="line"/>
+      <point x="187" y="522" type="line"/>
+      <point x="89" y="520" type="line"/>
+      <point x="87" y="505" type="line"/>
+      <point x="179" y="492" type="line"/>
+      <point x="172" y="502" type="line"/>
+      <point x="96" y="21" type="line"/>
+      <point x="104" y="29" type="line"/>
+      <point x="9" y="15" type="line"/>
+      <point x="6" y="0" type="line"/>
+      <point x="198" y="0" type="line"/>
+      <point x="201" y="15" type="line"/>
+      <point x="110" y="29" type="line"/>
+      <point x="115" y="21" type="line"/>
+      <point x="194" y="512" type="line"/>
+      <point x="184" y="504" type="line"/>
+      <point x="515" y="503" type="line"/>
+      <point x="508" y="512" type="line"/>
+    </contour>
+  </outline>
+</glyph>

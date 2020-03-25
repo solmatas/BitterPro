@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Chekhakassian-cy" format="2">
+  <advance width="688"/>
+  <unicode hex="04CB"/>
+  <guideline x="216" y="-160" angle="0"/>
+  <outline>
+    <contour>
+      <point x="494" y="29" type="line"/>
+      <point x="494" y="0" type="line"/>
+      <point x="397" y="0" type="line"/>
+      <point x="401" y="3" type="line"/>
+      <point x="385" y="-160" type="line"/>
+      <point x="370" y="-160" type="line"/>
+      <point x="369" y="16" type="line"/>
+    </contour>
+    <component base="Che-cy"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>0</integer>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

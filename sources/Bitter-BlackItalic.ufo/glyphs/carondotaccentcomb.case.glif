@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="carondotaccentcomb.case" format="2">
+  <advance width="473"/>
+  <guideline x="179" y="577" angle="0"/>
+  <guideline x="569" y="750" angle="0"/>
+  <guideline x="278" y="523" angle="261"/>
+  <anchor x="308" y="710" name="_top"/>
+  <outline>
+    <contour>
+      <point x="346.6" y="942.8000000000001" type="curve" smooth="yes"/>
+      <point x="408.70000000000005" y="942.8000000000001"/>
+      <point x="452.8" y="987.8000000000001"/>
+      <point x="452.8" y="1050.8000000000002" type="curve" smooth="yes"/>
+      <point x="452.8" y="1105.7"/>
+      <point x="419.5" y="1138.1"/>
+      <point x="366.4" y="1138.1" type="curve" smooth="yes"/>
+      <point x="305.20000000000005" y="1138.1"/>
+      <point x="260.2" y="1094.0"/>
+      <point x="260.2" y="1030.1" type="curve" smooth="yes"/>
+      <point x="260.2" y="977.0"/>
+      <point x="291.7" y="942.8000000000001"/>
+    </contour>
+    <component base="caroncomb.case" xOffset="-2" yOffset="-11"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

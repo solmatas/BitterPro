@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="commaturnedabovecomb.case" format="2">
+  <anchor x="214" y="692" name="_top"/>
+  <anchor x="214" y="840" name="top"/>
+  <outline>
+    <component base="quoteright" xScale="-1" yScale="-1" xOffset="296" yOffset="1434"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

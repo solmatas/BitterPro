@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dcroat.BRACKET.155" format="2">
+  <advance width="615"/>
+  <guideline x="601" y="316" angle="90"/>
+  <outline>
+    <contour>
+      <point x="177" y="696" type="line"/>
+      <point x="177" y="591" type="line"/>
+      <point x="606" y="591" type="line"/>
+      <point x="606" y="696" type="line"/>
+    </contour>
+    <contour>
+      <point x="214" y="-16" type="curve" smooth="yes"/>
+      <point x="280" y="-16"/>
+      <point x="335" y="13"/>
+      <point x="392" y="70" type="curve"/>
+      <point x="372" y="76" type="line"/>
+      <point x="397" y="-11" type="line"/>
+      <point x="608" y="-1" type="line"/>
+      <point x="608" y="99" type="line"/>
+      <point x="531" y="133" type="line"/>
+      <point x="553" y="107" type="line"/>
+      <point x="553" y="784" type="line"/>
+      <point x="353" y="774" type="line"/>
+      <point x="353" y="516" type="line"/>
+      <point x="388" y="537" type="line"/>
+      <point x="363" y="539"/>
+      <point x="339" y="540"/>
+      <point x="317" y="540" type="curve" smooth="yes"/>
+      <point x="123" y="540"/>
+      <point x="16" y="459"/>
+      <point x="16" y="254" type="curve" smooth="yes"/>
+      <point x="16" y="77"/>
+      <point x="96" y="-16"/>
+    </contour>
+    <contour>
+      <point x="294" y="129" type="curve" smooth="yes"/>
+      <point x="245" y="129"/>
+      <point x="224" y="187"/>
+      <point x="224" y="273" type="curve" smooth="yes"/>
+      <point x="224" y="365"/>
+      <point x="248" y="401"/>
+      <point x="311" y="401" type="curve" smooth="yes"/>
+      <point x="329" y="401"/>
+      <point x="350" y="398"/>
+      <point x="376" y="392" type="curve"/>
+      <point x="353" y="437" type="line"/>
+      <point x="353" y="112" type="line"/>
+      <point x="376" y="169" type="line"/>
+      <point x="344" y="143"/>
+      <point x="318" y="129"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs._originalLayerName</key>
+      <string>Black [155]</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>d</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>d</string>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ii-cy" format="2">
+  <outline>
+    <contour>
+      <point x="761" y="677" type="line"/>
+      <point x="761" y="692" type="line"/>
+      <point x="541" y="687" type="line"/>
+      <point x="541" y="672" type="line"/>
+      <point x="641" y="665" type="line"/>
+      <point x="641" y="643" type="line"/>
+      <point x="181" y="90" type="line"/>
+      <point x="181" y="664" type="line"/>
+      <point x="281" y="677" type="line"/>
+      <point x="281" y="692" type="line"/>
+      <point x="61" y="687" type="line"/>
+      <point x="61" y="672" type="line"/>
+      <point x="161" y="664" type="line"/>
+      <point x="161" y="28" type="line"/>
+      <point x="61" y="15" type="line"/>
+      <point x="61" y="0" type="line"/>
+      <point x="281" y="0" type="line"/>
+      <point x="281" y="15" type="line"/>
+      <point x="181" y="28" type="line"/>
+      <point x="181" y="62" type="line"/>
+      <point x="641" y="615" type="line"/>
+      <point x="641" y="28" type="line"/>
+      <point x="541" y="15" type="line"/>
+      <point x="541" y="0" type="line"/>
+      <point x="761" y="0" type="line"/>
+      <point x="761" y="15" type="line"/>
+      <point x="661" y="28" type="line"/>
+      <point x="661" y="664" type="line"/>
+    </contour>
+  </outline>
+</glyph>

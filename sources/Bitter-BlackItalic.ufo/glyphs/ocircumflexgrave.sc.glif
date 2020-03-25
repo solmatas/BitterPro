@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ocircumflexgrave.sc" format="2">
+  <advance width="661"/>
+  <guideline x="369" y="627" angle="0"/>
+  <outline>
+    <component base="o.sc"/>
+    <component base="circumflexcomb_gravecomb" xOffset="110" yOffset="51"/>
+  </outline>
+</glyph>

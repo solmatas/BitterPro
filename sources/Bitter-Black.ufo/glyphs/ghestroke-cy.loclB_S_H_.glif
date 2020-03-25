@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ghestroke-cy.loclBSH" format="2">
+  <advance width="545"/>
+  <guideline x="375" y="168" angle="90"/>
+  <anchor x="346" y="0" name="bottomright"/>
+  <anchor x="295" y="540" name="top"/>
+  <outline>
+    <contour>
+      <point x="76" y="178" type="line"/>
+      <point x="375" y="178" type="line"/>
+      <point x="375" y="288" type="line"/>
+      <point x="76" y="288" type="line"/>
+    </contour>
+    <contour>
+      <point x="531" y="540" type="line"/>
+      <point x="232" y="540" type="line"/>
+      <point x="21" y="536" type="line"/>
+      <point x="21" y="436" type="line"/>
+      <point x="96" y="406" type="line"/>
+      <point x="76" y="437" type="line"/>
+      <point x="76" y="100" type="line"/>
+      <point x="93" y="128" type="line"/>
+      <point x="21" y="100" type="line"/>
+      <point x="21" y="0" type="line"/>
+      <point x="346" y="0" type="line"/>
+      <point x="346" y="100" type="line"/>
+      <point x="255" y="128" type="line"/>
+      <point x="276" y="100" type="line"/>
+      <point x="276" y="413" type="line"/>
+      <point x="267" y="395" type="line"/>
+      <point x="410" y="395" type="line"/>
+      <point x="385" y="418" type="line"/>
+      <point x="404" y="301" type="line"/>
+      <point x="524" y="301" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>en-cy</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>ge-cy</string>
+    </dict>
+  </lib>
+</glyph>

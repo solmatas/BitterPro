@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="en-cy" format="2">
+  <anchor x="534" y="0" name="bottomright"/>
+  <outline>
+    <component base="u" xOffset="14"/>
+  </outline>
+</glyph>

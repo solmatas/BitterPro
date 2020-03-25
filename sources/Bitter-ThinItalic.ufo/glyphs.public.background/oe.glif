@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="oe" format="2">
+  <outline>
+    <component base="o" xOffset="-1"/>
+    <component base="e" xOffset="407"/>
+  </outline>
+</glyph>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresistildecomb.case" format="2">
+  <advance width="470"/>
+  <guideline x="554" y="941" angle="0"/>
+  <guideline x="342" y="743" angle="0"/>
+  <guideline x="257" y="774" angle="0"/>
+  <guideline x="461" y="921" angle="0"/>
+  <guideline x="237" y="756" angle="0"/>
+  <guideline x="504" y="998" angle="0"/>
+  <guideline x="109" y="774" angle="261"/>
+  <guideline x="519" y="780" angle="261"/>
+  <guideline x="314" y="774" angle="261"/>
+  <anchor x="303" y="710" name="_top"/>
+  <outline>
+    <component base="dieresiscomb" xOffset="54" yOffset="337"/>
+    <component base="tildecomb.case" xOffset="-5" yOffset="-34"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>0</integer>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

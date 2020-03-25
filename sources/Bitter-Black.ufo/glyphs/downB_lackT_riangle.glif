@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="downBlackTriangle" format="2">
+  <advance width="631"/>
+  <unicode hex="25BC"/>
+  <outline>
+    <contour>
+      <point x="315" y="61" type="line"/>
+      <point x="572" y="505" type="line"/>
+      <point x="59" y="505" type="line"/>
+    </contour>
+  </outline>
+</glyph>

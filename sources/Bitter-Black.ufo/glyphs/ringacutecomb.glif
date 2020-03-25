@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ringacutecomb" format="2">
+  <advance width="398"/>
+  <anchor x="198" y="540" name="_top"/>
+  <outline>
+    <contour>
+      <point x="75" y="849" type="line"/>
+      <point x="353" y="950" type="line"/>
+      <point x="281" y="1095" type="line"/>
+      <point x="20" y="955" type="line"/>
+    </contour>
+    <component base="ringcomb" xOffset="11" yOffset="-25"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

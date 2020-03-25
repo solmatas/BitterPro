@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tedescender-cy" format="2">
+  <outline>
+    <component base="te-cy" xOffset="5"/>
+    <component base="descender-cy" xOffset="256"/>
+  </outline>
+</glyph>

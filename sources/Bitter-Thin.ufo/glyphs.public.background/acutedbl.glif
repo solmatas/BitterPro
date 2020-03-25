@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acutedbl" format="2">
+  <outline>
+    <contour>
+      <point x="51" y="599" type="line"/>
+      <point x="158" y="702" type="line"/>
+      <point x="135" y="722" type="line"/>
+      <point x="38" y="612" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevecomb_gravecomb" format="2">
+  <guideline x="284" y="607" angle="0"/>
+  <guideline x="739" y="1019" angle="0"/>
+  <guideline x="162" y="577" angle="0"/>
+  <guideline x="252" y="529" angle="261"/>
+  <guideline x="432" y="529" angle="261"/>
+  <guideline x="72" y="529" angle="261"/>
+  <guideline x="351" y="990" angle="0"/>
+  <guideline x="189" y="577" angle="0"/>
+  <anchor x="254" y="540" name="_top"/>
+  <anchor x="311" y="900" name="top"/>
+  <outline>
+    <contour>
+      <point x="302" y="741" type="line"/>
+      <point x="105" y="889" type="line"/>
+      <point x="187" y="990" type="line"/>
+      <point x="367" y="818" type="line"/>
+    </contour>
+    <component base="brevecomb.case" xOffset="-27" yOffset="-184"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>421</integer>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+        <integer>-1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

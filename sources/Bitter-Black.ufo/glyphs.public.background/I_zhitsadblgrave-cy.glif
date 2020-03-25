@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Izhitsadblgrave-cy" format="2">
+  <outline>
+    <contour>
+      <point x="585" y="820" type="line"/>
+      <point x="397" y="1025" type="line"/>
+      <point x="306" y="928" type="line"/>
+      <point x="519" y="752" type="line"/>
+    </contour>
+    <contour>
+      <point x="347" y="826" type="line"/>
+      <point x="144" y="1018" type="line"/>
+      <point x="57" y="912" type="line"/>
+      <point x="286" y="752" type="line"/>
+    </contour>
+    <contour>
+      <point x="667" y="725" type="curve"/>
+      <point x="556" y="725"/>
+      <point x="496" y="662"/>
+      <point x="440" y="474" type="curve"/>
+      <point x="365" y="222" type="line"/>
+      <point x="265" y="589" type="line"/>
+      <point x="316" y="610" type="line"/>
+      <point x="316" y="710" type="line"/>
+      <point x="-6" y="705" type="line"/>
+      <point x="-6" y="605" type="line"/>
+      <point x="35" y="588" type="line"/>
+      <point x="239" y="0" type="line"/>
+      <point x="457" y="0" type="line"/>
+      <point x="604" y="426" type="line"/>
+      <point x="635" y="517"/>
+      <point x="668" y="542"/>
+      <point x="737" y="545" type="curve"/>
+      <point x="767" y="545" type="line"/>
+      <point x="792" y="709" type="line"/>
+      <point x="744" y="720"/>
+      <point x="702" y="725"/>
+    </contour>
+    <component base="Izhitsa-cy"/>
+  </outline>
+</glyph>
