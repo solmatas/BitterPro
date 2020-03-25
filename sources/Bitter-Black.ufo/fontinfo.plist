@@ -3,66 +3,74 @@
 <plist version="1.0">
   <dict>
     <key>ascender</key>
-    <integer>762</integer>
+    <integer>780</integer>
     <key>capHeight</key>
-    <integer>692</integer>
+    <integer>710</integer>
     <key>copyright</key>
     <string>Copyright 2011 The Bitter Project Authors (https://github.com/solmatas/BitterPro)</string>
     <key>descender</key>
     <integer>-230</integer>
     <key>familyName</key>
-    <string>Bitter Pro</string>
+    <string>Bitter</string>
     <key>guidelines</key>
     <array>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>x</key>
+        <integer>261</integer>
+        <key>y</key>
+        <integer>-245</integer>
+      </dict>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>x</key>
+        <integer>355</integer>
+        <key>y</key>
+        <integer>477</integer>
+      </dict>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>x</key>
+        <integer>88</integer>
+        <key>y</key>
+        <integer>872</integer>
+      </dict>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>x</key>
+        <integer>142</integer>
+        <key>y</key>
+        <integer>592</integer>
+      </dict>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>x</key>
+        <integer>23</integer>
+        <key>y</key>
+        <integer>16</integer>
+      </dict>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>x</key>
+        <integer>142</integer>
+        <key>y</key>
+        <integer>1002</integer>
+      </dict>
       <dict>
         <key>angle</key>
         <integer>0</integer>
         <key>name</key>
         <string> [locked]</string>
         <key>x</key>
-        <integer>455</integer>
+        <integer>227</integer>
         <key>y</key>
-        <integer>-242</integer>
-      </dict>
-      <dict>
-        <key>angle</key>
-        <integer>0</integer>
-        <key>x</key>
-        <integer>165</integer>
-        <key>y</key>
-        <integer>782</integer>
-      </dict>
-      <dict>
-        <key>angle</key>
-        <integer>0</integer>
-        <key>x</key>
-        <integer>75</integer>
-        <key>y</key>
-        <integer>593</integer>
-      </dict>
-      <dict>
-        <key>angle</key>
-        <integer>0</integer>
-        <key>x</key>
-        <integer>140</integer>
-        <key>y</key>
-        <integer>868</integer>
-      </dict>
-      <dict>
-        <key>angle</key>
-        <integer>0</integer>
-        <key>x</key>
-        <integer>208</integer>
-        <key>y</key>
-        <integer>744</integer>
-      </dict>
-      <dict>
-        <key>angle</key>
-        <integer>0</integer>
-        <key>x</key>
-        <integer>146</integer>
-        <key>y</key>
-        <integer>49</integer>
+        <integer>193</integer>
       </dict>
     </array>
     <key>italicAngle</key>
@@ -105,16 +113,16 @@
     <integer>376</integer>
     <key>postscriptBlueValues</key>
     <array>
-      <integer>-6</integer>
+      <integer>-15</integer>
       <integer>0</integer>
-      <integer>522</integer>
-      <integer>528</integer>
-      <integer>568</integer>
-      <integer>574</integer>
-      <integer>692</integer>
-      <integer>698</integer>
-      <integer>762</integer>
-      <integer>768</integer>
+      <integer>540</integer>
+      <integer>555</integer>
+      <integer>591</integer>
+      <integer>606</integer>
+      <integer>710</integer>
+      <integer>725</integer>
+      <integer>780</integer>
+      <integer>795</integer>
     </array>
     <key>postscriptFamilyBlues</key>
     <array/>
@@ -122,24 +130,26 @@
     <array/>
     <key>postscriptOtherBlues</key>
     <array>
-      <integer>-236</integer>
+      <integer>-245</integer>
       <integer>-230</integer>
     </array>
     <key>postscriptStemSnapH</key>
     <array>
-      <integer>20</integer>
-      <integer>15</integer>
+      <integer>150</integer>
+      <integer>130</integer>
+      <integer>100</integer>
     </array>
     <key>postscriptStemSnapV</key>
     <array>
-      <integer>20</integer>
+      <integer>200</integer>
+      <integer>220</integer>
     </array>
     <key>postscriptUnderlinePosition</key>
     <integer>-100</integer>
     <key>postscriptUnderlineThickness</key>
     <integer>50</integer>
     <key>styleName</key>
-    <string>Thin</string>
+    <string>Black</string>
     <key>trademark</key>
     <string>Bitter is a trademark of Sol Matas (www.solmatas.com).</string>
     <key>unitsPerEm</key>
@@ -149,6 +159,6 @@
     <key>versionMinor</key>
     <integer>1</integer>
     <key>xHeight</key>
-    <integer>522</integer>
+    <integer>540</integer>
   </dict>
 </plist>

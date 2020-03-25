@@ -3,7 +3,7 @@
 <plist version="1.0">
   <dict>
     <key>angle</key>
-    <integer>20</integer>
+    <integer>30</integer>
     <key>com.defcon.sortDescriptor</key>
     <array>
       <dict>
@@ -434,7 +434,7 @@
     <key>com.schriftgestaltung.appVersion</key>
     <string>1230</string>
     <key>com.schriftgestaltung.customName</key>
-    <string>Black</string>
+    <string>Thin</string>
     <key>com.schriftgestaltung.customParameter.GSFont.Axis Mappings</key>
     <dict>
       <key>wght</key>
@@ -475,7 +475,7 @@
         <key>Axis</key>
         <string>Weight</string>
         <key>Location</key>
-        <integer>200</integer>
+        <integer>20</integer>
       </dict>
     </array>
     <key>com.schriftgestaltung.customParameter.GSFontMaster.customValue</key>
@@ -487,23 +487,23 @@
     <key>com.schriftgestaltung.customParameter.GSFontMaster.customValue3</key>
     <integer>0</integer>
     <key>com.schriftgestaltung.customParameter.GSFontMaster.iconName</key>
-    <string>Bold</string>
+    <string>Light</string>
     <key>com.schriftgestaltung.customParameter.GSFontMaster.paramArea</key>
-    <string>260</string>
+    <string>570</string>
     <key>com.schriftgestaltung.customParameter.GSFontMaster.paramDepth</key>
-    <string>14</string>
+    <string>30</string>
     <key>com.schriftgestaltung.customParameter.GSFontMaster.paramOver</key>
-    <string>3</string>
+    <string>5</string>
     <key>com.schriftgestaltung.customParameter.GSFontMaster.smallCapHeight</key>
-    <integer>591</integer>
+    <integer>568</integer>
     <key>com.schriftgestaltung.customParameter.GSFontMaster.weightValue</key>
-    <integer>200</integer>
+    <integer>20</integer>
     <key>com.schriftgestaltung.customParameter.GSFontMaster.widthValue</key>
     <integer>100</integer>
     <key>com.schriftgestaltung.fontMasterID</key>
-    <string>927AED37-E9E6-4F96-A08E-421C3785EFC6</string>
+    <string>075BA79B-D813-4287-A9DD-CCAF2D535ED3</string>
     <key>com.schriftgestaltung.fontMasterOrder</key>
-    <integer>1</integer>
+    <integer>0</integer>
     <key>com.schriftgestaltung.glyphOrder</key>
     <false/>
     <key>com.schriftgestaltung.keyboardIncrement</key>
@@ -511,17 +511,33 @@
     <key>com.schriftgestaltung.weight</key>
     <string>Regular</string>
     <key>com.schriftgestaltung.weightValue</key>
-    <integer>200</integer>
+    <integer>20</integer>
     <key>com.schriftgestaltung.width</key>
     <string>Regular</string>
     <key>com.schriftgestaltung.widthValue</key>
     <integer>100</integer>
+    <key>com.typemytype.robofont.compileSettings.autohint</key>
+    <true/>
+    <key>com.typemytype.robofont.compileSettings.checkOutlines</key>
+    <false/>
+    <key>com.typemytype.robofont.compileSettings.createDummyDSIG</key>
+    <true/>
+    <key>com.typemytype.robofont.compileSettings.decompose</key>
+    <false/>
+    <key>com.typemytype.robofont.compileSettings.generateFormat</key>
+    <integer>0</integer>
+    <key>com.typemytype.robofont.compileSettings.releaseMode</key>
+    <false/>
     <key>com.typemytype.robofont.fontIdentifier</key>
-    <string>kTg6lOYRCIwu7aK6B4ek21fGtqOoGZMNzXk0HOM0aIA</string>
+    <string>zzXax0HlP756W3kc8Om9XlF2MiRNrSwjsq3Gy9uClCw</string>
+    <key>com.typemytype.robofont.italicSlantOffset</key>
+    <integer>0</integer>
     <key>com.typemytype.robofont.segmentType</key>
     <string>curve</string>
+    <key>com.typemytype.robofont.shouldAddPointsInSplineConversion</key>
+    <integer>1</integer>
     <key>height</key>
-    <integer>6</integer>
+    <integer>22</integer>
     <key>public.glyphOrder</key>
     <array>
       <string>NULL</string>
@@ -3657,7 +3673,9 @@
       <key>zhedieresis-cy</key>
       <string>uni04DD</string>
     </dict>
+    <key>public.skipExportGlyphs</key>
+    <array/>
     <key>width</key>
-    <integer>30</integer>
+    <integer>20</integer>
   </dict>
 </plist>

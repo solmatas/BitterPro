@@ -11,72 +11,30 @@
     <key>descender</key>
     <integer>-230</integer>
     <key>familyName</key>
-    <string>Bitter Pro</string>
+    <string>Bitter</string>
     <key>guidelines</key>
     <array>
       <dict>
         <key>angle</key>
         <integer>0</integer>
         <key>x</key>
-        <integer>261</integer>
+        <integer>468</integer>
         <key>y</key>
-        <integer>-245</integer>
+        <integer>540</integer>
       </dict>
       <dict>
         <key>angle</key>
         <integer>0</integer>
         <key>x</key>
-        <integer>355</integer>
+        <integer>37</integer>
         <key>y</key>
-        <integer>477</integer>
-      </dict>
-      <dict>
-        <key>angle</key>
-        <integer>0</integer>
-        <key>x</key>
-        <integer>88</integer>
-        <key>y</key>
-        <integer>872</integer>
-      </dict>
-      <dict>
-        <key>angle</key>
-        <integer>0</integer>
-        <key>x</key>
-        <integer>142</integer>
-        <key>y</key>
-        <integer>592</integer>
-      </dict>
-      <dict>
-        <key>angle</key>
-        <integer>0</integer>
-        <key>x</key>
-        <integer>23</integer>
-        <key>y</key>
-        <integer>16</integer>
-      </dict>
-      <dict>
-        <key>angle</key>
-        <integer>0</integer>
-        <key>x</key>
-        <integer>142</integer>
-        <key>y</key>
-        <integer>1002</integer>
-      </dict>
-      <dict>
-        <key>angle</key>
-        <integer>0</integer>
-        <key>name</key>
-        <string> [locked]</string>
-        <key>x</key>
-        <integer>227</integer>
-        <key>y</key>
-        <integer>193</integer>
+        <integer>78</integer>
       </dict>
     </array>
     <key>italicAngle</key>
-    <integer>0</integer>
+    <integer>-9</integer>
     <key>openTypeHeadCreated</key>
-    <string>2020/02/14 19:45:02</string>
+    <string>2020/02/14 19:44:21</string>
     <key>openTypeHheaAscender</key>
     <integer>1255</integer>
     <key>openTypeHheaDescender</key>
@@ -141,15 +99,15 @@
     </array>
     <key>postscriptStemSnapV</key>
     <array>
-      <integer>200</integer>
-      <integer>220</integer>
+      <integer>193</integer>
+      <integer>197</integer>
     </array>
     <key>postscriptUnderlinePosition</key>
     <integer>-100</integer>
     <key>postscriptUnderlineThickness</key>
     <integer>50</integer>
     <key>styleName</key>
-    <string>Black</string>
+    <string>Black Italic</string>
     <key>trademark</key>
     <string>Bitter is a trademark of Sol Matas (www.solmatas.com).</string>
     <key>unitsPerEm</key>

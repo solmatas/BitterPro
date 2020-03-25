@@ -49,7 +49,7 @@
     </rule>
   </rules>
   <sources>
-    <source filename="BitterPro-ThinItalic.ufo" name="Bitter Pro Thin Italic" familyname="Bitter Pro" stylename="Thin Italic">
+    <source filename="Bitter-ThinItalic.ufo" name="Bitter Thin Italic" familyname="Bitter" stylename="Thin Italic">
       <lib copy="1"/>
       <groups copy="1"/>
       <features copy="1"/>
@@ -58,24 +58,24 @@
         <dimension name="Weight" xvalue="20"/>
       </location>
     </source>
-    <source filename="BitterPro-ThinItalic.ufo" name="Bitter Pro Thin Italic {100}" layer="{100}">
+    <source filename="Bitter-ThinItalic.ufo" name="Bitter Thin Italic {100}" layer="{100}">
       <location>
         <dimension name="Weight" xvalue="100"/>
       </location>
     </source>
-    <source filename="BitterPro-ThinItalic.ufo" name="Bitter Pro Thin Italic {110}" layer="{110}">
+    <source filename="Bitter-ThinItalic.ufo" name="Bitter Thin Italic {110}" layer="{110}">
       <location>
         <dimension name="Weight" xvalue="110"/>
       </location>
     </source>
-    <source filename="BitterPro-BlackItalic.ufo" name="Bitter Pro Black Italic" familyname="Bitter Pro" stylename="Black Italic">
+    <source filename="Bitter-BlackItalic.ufo" name="Bitter Black Italic" familyname="Bitter" stylename="Black Italic">
       <location>
         <dimension name="Weight" xvalue="193"/>
       </location>
     </source>
   </sources>
   <instances>
-    <instance name="Bitter Pro Thin Italic" familyname="Bitter Pro" stylename="Thin Italic" filename="instance_ufos/BitterPro-ThinItalic.ufo" stylemapfamilyname="Bitter Pro Thin" stylemapstylename="italic">
+    <instance name="Bitter Thin Italic" familyname="Bitter" stylename="Thin Italic" filename="instance_ufos/Bitter-ThinItalic.ufo" stylemapfamilyname="Bitter Thin" stylemapstylename="italic">
       <location>
         <dimension name="Weight" xvalue="20"/>
       </location>
@@ -106,7 +106,7 @@
         </dict>
       </lib>
     </instance>
-    <instance name="Bitter Pro ExtraLight Italic" familyname="Bitter Pro" stylename="ExtraLight Italic" filename="instance_ufos/BitterPro-ExtraLightItalic.ufo" stylemapfamilyname="Bitter Pro ExtraLight" stylemapstylename="italic">
+    <instance name="Bitter ExtraLight Italic" familyname="Bitter" stylename="ExtraLight Italic" filename="instance_ufos/Bitter-ExtraLightItalic.ufo" stylemapfamilyname="Bitter ExtraLight" stylemapstylename="italic">
       <location>
         <dimension name="Weight" xvalue="31"/>
       </location>
@@ -139,7 +139,7 @@
         </dict>
       </lib>
     </instance>
-    <instance name="Bitter Pro Light Italic" familyname="Bitter Pro" stylename="Light Italic" filename="instance_ufos/BitterPro-LightItalic.ufo" stylemapfamilyname="Bitter Pro Light" stylemapstylename="italic">
+    <instance name="Bitter Light Italic" familyname="Bitter" stylename="Light Italic" filename="instance_ufos/Bitter-LightItalic.ufo" stylemapfamilyname="Bitter Light" stylemapstylename="italic">
       <location>
         <dimension name="Weight" xvalue="46"/>
       </location>
@@ -172,7 +172,7 @@
         </dict>
       </lib>
     </instance>
-    <instance name="Bitter Pro Italic" familyname="Bitter Pro" stylename="Italic" filename="instance_ufos/BitterPro-Italic.ufo" stylemapfamilyname="Bitter Pro" stylemapstylename="italic">
+    <instance name="Bitter Italic" familyname="Bitter" stylename="Italic" filename="instance_ufos/Bitter-Italic.ufo" stylemapfamilyname="Bitter" stylemapstylename="italic">
       <location>
         <dimension name="Weight" xvalue="78"/>
       </location>
@@ -205,7 +205,7 @@
         </dict>
       </lib>
     </instance>
-    <instance name="Bitter Pro Medium Italic" familyname="Bitter Pro" stylename="Medium Italic" filename="instance_ufos/BitterPro-MediumItalic.ufo" stylemapfamilyname="Bitter Pro Medium" stylemapstylename="italic">
+    <instance name="Bitter Medium Italic" familyname="Bitter" stylename="Medium Italic" filename="instance_ufos/Bitter-MediumItalic.ufo" stylemapfamilyname="Bitter Medium" stylemapstylename="italic">
       <location>
         <dimension name="Weight" xvalue="98"/>
       </location>
@@ -238,7 +238,7 @@
         </dict>
       </lib>
     </instance>
-    <instance name="Bitter Pro SemiBold Italic" familyname="Bitter Pro" stylename="SemiBold Italic" filename="instance_ufos/BitterPro-SemiBoldItalic.ufo" stylemapfamilyname="Bitter Pro SemiBold " stylemapstylename="italic">
+    <instance name="Bitter SemiBold Italic" familyname="Bitter" stylename="SemiBold Italic" filename="instance_ufos/Bitter-SemiBoldItalic.ufo" stylemapfamilyname="Bitter SemiBold " stylemapstylename="italic">
       <location>
         <dimension name="Weight" xvalue="118"/>
       </location>
@@ -271,7 +271,7 @@
         </dict>
       </lib>
     </instance>
-    <instance name="Bitter Pro Bold Italic" familyname="Bitter Pro" stylename="Bold Italic" filename="instance_ufos/BitterPro-BoldItalic.ufo" stylemapfamilyname="Bitter Pro" stylemapstylename="bold italic">
+    <instance name="Bitter Bold Italic" familyname="Bitter" stylename="Bold Italic" filename="instance_ufos/Bitter-BoldItalic.ufo" stylemapfamilyname="Bitter" stylemapstylename="bold italic">
       <location>
         <dimension name="Weight" xvalue="138"/>
       </location>
@@ -304,7 +304,7 @@
         </dict>
       </lib>
     </instance>
-    <instance name="Bitter Pro ExtraBold Italic" familyname="Bitter Pro" stylename="ExtraBold Italic" filename="instance_ufos/BitterPro-ExtraBoldItalic.ufo" stylemapfamilyname="Bitter Pro ExtraBold" stylemapstylename="italic">
+    <instance name="Bitter ExtraBold Italic" familyname="Bitter" stylename="ExtraBold Italic" filename="instance_ufos/Bitter-ExtraBoldItalic.ufo" stylemapfamilyname="Bitter ExtraBold" stylemapstylename="italic">
       <location>
         <dimension name="Weight" xvalue="165"/>
       </location>
@@ -337,7 +337,7 @@
         </dict>
       </lib>
     </instance>
-    <instance name="Bitter Pro Black Italic" familyname="Bitter Pro" stylename="Black Italic" filename="instance_ufos/BitterPro-BlackItalic.ufo" stylemapfamilyname="Bitter Pro Black" stylemapstylename="italic">
+    <instance name="Bitter Black Italic" familyname="Bitter" stylename="Black Italic" filename="instance_ufos/Bitter-BlackItalic.ufo" stylemapfamilyname="Bitter Black" stylemapstylename="italic">
       <location>
         <dimension name="Weight" xvalue="193"/>
       </location>

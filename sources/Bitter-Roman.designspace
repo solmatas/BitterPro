@@ -56,7 +56,7 @@
     </rule>
   </rules>
   <sources>
-    <source filename="BitterPro-Thin.ufo" name="Bitter Pro Thin" familyname="Bitter Pro" stylename="Thin">
+    <source filename="Bitter-Thin.ufo" name="Bitter Thin" familyname="Bitter" stylename="Thin">
       <lib copy="1"/>
       <groups copy="1"/>
       <features copy="1"/>
@@ -65,24 +65,24 @@
         <dimension name="Weight" xvalue="20"/>
       </location>
     </source>
-    <source filename="BitterPro-Thin.ufo" name="Bitter Pro Thin {100}" layer="{100}">
+    <source filename="Bitter-Thin.ufo" name="Bitter Thin {100}" layer="{100}">
       <location>
         <dimension name="Weight" xvalue="100"/>
       </location>
     </source>
-    <source filename="BitterPro-Thin.ufo" name="Bitter Pro Thin {110}" layer="{110}">
+    <source filename="Bitter-Thin.ufo" name="Bitter Thin {110}" layer="{110}">
       <location>
         <dimension name="Weight" xvalue="110"/>
       </location>
     </source>
-    <source filename="BitterPro-Black.ufo" name="Bitter Pro Black" familyname="Bitter Pro" stylename="Black">
+    <source filename="Bitter-Black.ufo" name="Bitter Black" familyname="Bitter" stylename="Black">
       <location>
         <dimension name="Weight" xvalue="200"/>
       </location>
     </source>
   </sources>
   <instances>
-    <instance name="Bitter Pro Thin" familyname="Bitter Pro" stylename="Thin" filename="instance_ufos/BitterPro-Thin.ufo">
+    <instance name="Bitter Thin" familyname="Bitter" stylename="Thin" filename="instance_ufos/Bitter-Thin.ufo">
       <location>
         <dimension name="Weight" xvalue="20"/>
       </location>
@@ -113,7 +113,7 @@
         </dict>
       </lib>
     </instance>
-    <instance name="Bitter Pro ExtraLight" familyname="Bitter Pro" stylename="ExtraLight" filename="instance_ufos/BitterPro-ExtraLight.ufo">
+    <instance name="Bitter ExtraLight" familyname="Bitter" stylename="ExtraLight" filename="instance_ufos/Bitter-ExtraLight.ufo">
       <location>
         <dimension name="Weight" xvalue="33"/>
       </location>
@@ -146,7 +146,7 @@
         </dict>
       </lib>
     </instance>
-    <instance name="Bitter Pro Light" familyname="Bitter Pro" stylename="Light" filename="instance_ufos/BitterPro-Light.ufo">
+    <instance name="Bitter Light" familyname="Bitter" stylename="Light" filename="instance_ufos/Bitter-Light.ufo">
       <location>
         <dimension name="Weight" xvalue="48"/>
       </location>
@@ -179,7 +179,7 @@
         </dict>
       </lib>
     </instance>
-    <instance name="Bitter Pro Regular" familyname="Bitter Pro" stylename="Regular" filename="instance_ufos/BitterPro-Regular.ufo">
+    <instance name="Bitter Regular" familyname="Bitter" stylename="Regular" filename="instance_ufos/Bitter-Regular.ufo">
       <location>
         <dimension name="Weight" xvalue="80"/>
       </location>
@@ -212,7 +212,7 @@
         </dict>
       </lib>
     </instance>
-    <instance name="Bitter Pro Medium" familyname="Bitter Pro" stylename="Medium" filename="instance_ufos/BitterPro-Medium.ufo">
+    <instance name="Bitter Medium" familyname="Bitter" stylename="Medium" filename="instance_ufos/Bitter-Medium.ufo">
       <location>
         <dimension name="Weight" xvalue="100"/>
       </location>
@@ -245,7 +245,7 @@
         </dict>
       </lib>
     </instance>
-    <instance name="Bitter Pro SemiBold" familyname="Bitter Pro" stylename="SemiBold" filename="instance_ufos/BitterPro-SemiBold.ufo">
+    <instance name="Bitter SemiBold" familyname="Bitter" stylename="SemiBold" filename="instance_ufos/Bitter-SemiBold.ufo">
       <location>
         <dimension name="Weight" xvalue="120"/>
       </location>
@@ -278,7 +278,7 @@
         </dict>
       </lib>
     </instance>
-    <instance name="Bitter Pro Bold" familyname="Bitter Pro" stylename="Bold" filename="instance_ufos/BitterPro-Bold.ufo" stylemapfamilyname="Bitter Pro" stylemapstylename="bold">
+    <instance name="Bitter Bold" familyname="Bitter" stylename="Bold" filename="instance_ufos/Bitter-Bold.ufo" stylemapfamilyname="Bitter" stylemapstylename="bold">
       <location>
         <dimension name="Weight" xvalue="140"/>
       </location>
@@ -311,7 +311,7 @@
         </dict>
       </lib>
     </instance>
-    <instance name="Bitter Pro ExtraBold" familyname="Bitter Pro" stylename="ExtraBold" filename="instance_ufos/BitterPro-ExtraBold.ufo">
+    <instance name="Bitter ExtraBold" familyname="Bitter" stylename="ExtraBold" filename="instance_ufos/Bitter-ExtraBold.ufo">
       <location>
         <dimension name="Weight" xvalue="170"/>
       </location>
@@ -344,7 +344,7 @@
         </dict>
       </lib>
     </instance>
-    <instance name="Bitter Pro Black" familyname="Bitter Pro" stylename="Black" filename="instance_ufos/BitterPro-Black.ufo">
+    <instance name="Bitter Black" familyname="Bitter" stylename="Black" filename="instance_ufos/Bitter-Black.ufo">
       <location>
         <dimension name="Weight" xvalue="200"/>
       </location>
