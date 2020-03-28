@@ -1,6 +1,12 @@
 #!/bin/sh
 set -e
 
+# Go the sources directory to run commands
+SOURCE="${BASH_SOURCE[0]}"
+DIR=$( cd -P "$( dirname "$SOURCE" )" >/dev/null 2>&1 && pwd )
+cd $DIR
+echo $(pwd)
+
 
 echo "Generating Static fonts"
 mkdir -p ../fonts
@@ -24,7 +30,7 @@ ttfs=$(ls ../fonts/ttf/*.ttf)
 for ttf in $ttfs
 do
 	gftools fix-dsig -f $ttf;
-	ttfautohint $ttf "$ttf.fix";
+	python -m ttfautohint $ttf "$ttf.fix";
 	mv "$ttf.fix" $ttf;
 done
 
