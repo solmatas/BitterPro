@@ -1,4 +1,5 @@
-Copyright (c) 2011-2020, Sol Matas (www.solmatas.com), with Reserved Font Name "Bitter Pro". Copyright (c) Bitter Pro project Authors
+Copyright 2011 The Bitter Project Authors (https://github.com/solmatas/BitterPro)
+with Reserved Font Name "Bitter Pro".
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
