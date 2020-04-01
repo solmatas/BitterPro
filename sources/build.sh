@@ -19,8 +19,8 @@ fontmake -m Bitter-Italic.designspace -i -o ttf --output-dir ../fonts/ttf/
 fontmake -m Bitter-Italic.designspace -i -o otf --output-dir ../fonts/otf/
 
 echo "Generating VFs"
-fontmake -m Bitter-Roman.designspace -o variable --output-path ../fonts/vf/Bitter[wght].ttf
-fontmake -m Bitter-Italic.designspace -o variable --output-path ../fonts/vf/Bitter-Italic[wght].ttf
+fontmake -m Bitter-Roman.designspace -o variable --output-path ../fonts/variable/Bitter[wght].ttf
+fontmake -m Bitter-Italic.designspace -o variable --output-path ../fonts/variable/Bitter-Italic[wght].ttf
 
 rm -rf master_ufo/ instance_ufo/ instance_ufos/
 
@@ -34,13 +34,13 @@ do
 	mv "$ttf.fix" $ttf;
 done
 
-vfs=$(ls ../fonts/vf/*.ttf)
+vfs=$(ls ../fonts/variable/*.ttf)
 echo vfs
 echo "Post processing VFs"
 for vf in $vfs
 do
 	gftools fix-dsig -f $vf;
-	ttfautohint-vf --stem-width-mode nnn $vf "$vf.fix";
+	./ttfautohint-vf --stem-width-mode nnn $vf "$vf.fix";
 	mv "$vf.fix" $vf;
 done
 
@@ -53,7 +53,7 @@ do
 	mv "$vf.fix" $vf;
 	ttx -f -x "MVAR" $vf; # Drop MVAR. Table has issue in DW
 	rtrip=$(basename -s .ttf $vf)
-	new_file=../fonts/vf/$rtrip.ttx;
+	new_file=../fonts/variable/$rtrip.ttx;
 	rm $vf;
 	ttx $new_file
 	rm $new_file
@@ -74,9 +74,9 @@ do
 	if [ -f "$ttf.fix" ]; then mv "$ttf.fix" $ttf; fi
 done
 
-rm -f ../fonts/vf/*.ttx
+rm -f ../fonts/variable/*.ttx
 rm -f ../fonts/ttf/*.ttx
-rm -f ../fonts/vf/*gasp.ttf
+rm -f ../fonts/variable/*gasp.ttf
 rm -f ../fonts/ttf/*gasp.ttf
 
 echo "Done"
