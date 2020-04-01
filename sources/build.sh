@@ -12,7 +12,7 @@ echo "Generating Static fonts"
 mkdir -p ../fonts
 mkdir -p ../fonts/otf
 mkdir -p ../fonts/ttf
-mkdir -p ../fonts/vf
+mkdir -p ../fonts/variable
 fontmake -m Bitter-Roman.designspace -i -o ttf --output-dir ../fonts/ttf/
 fontmake -m Bitter-Roman.designspace -i -o otf --output-dir ../fonts/otf/
 fontmake -m Bitter-Italic.designspace -i -o ttf --output-dir ../fonts/ttf/
