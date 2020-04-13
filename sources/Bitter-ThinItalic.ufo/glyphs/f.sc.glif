@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="f.sc" format="2">
   <advance width="492"/>
-  <guideline x="159" y="231" angle="261"/>
-  <guideline x="139" y="234" angle="261"/>
-  <guideline x="50" y="234" angle="261"/>
+  <guideline x="159" y="231" angle="261" identifier="aSUP9tWCww"/>
+  <guideline x="139" y="234" angle="261" identifier="MyKuE3rZWK"/>
+  <guideline x="50" y="234" angle="261" identifier="3T6Uzsm12M"/>
   <anchor x="200" y="0" name="bottom"/>
   <anchor x="290" y="568" name="top"/>
   <outline>

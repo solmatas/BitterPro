@@ -2,8 +2,8 @@
 <glyph name="florin" format="2">
   <advance width="438"/>
   <unicode hex="0192"/>
-  <guideline x="366" y="218" angle="261"/>
-  <guideline x="96" y="218" angle="261"/>
+  <guideline x="366" y="218" angle="261" identifier="zJ6od4Qfam"/>
+  <guideline x="96" y="218" angle="261" identifier="0Ws1G4IxKX"/>
   <outline>
     <contour>
       <point x="23" y="-200" type="curve" smooth="yes"/>

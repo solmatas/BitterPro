@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="f_f" format="2">
   <advance width="557"/>
-  <guideline x="204" y="651" angle="261"/>
-  <guideline x="184" y="651" angle="261"/>
+  <guideline x="204" y="651" angle="261" identifier="DKHvMzBPW3"/>
+  <guideline x="184" y="651" angle="261" identifier="qTr37jhLWI"/>
   <outline>
     <contour>
       <point x="-61" y="-236" type="curve" smooth="yes"/>

@@ -1,17 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="descender-cy.case" format="2">
   <advance width="266"/>
-  <guideline x="388" y="15" angle="0"/>
   <anchor x="69" y="0" name="_bottomright"/>
   <outline>
     <contour>
-      <point x="-31" y="32" type="line"/>
-      <point x="-31" y="0" type="line"/>
-      <point x="61" y="0" type="line"/>
-      <point x="58" y="3" type="line"/>
       <point x="48" y="-160" type="line"/>
       <point x="62" y="-160" type="line"/>
       <point x="91" y="15" type="line"/>
+      <point x="-31" y="32" type="line"/>
+      <point x="-31" y="0" type="line"/>
+      <point x="58" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
