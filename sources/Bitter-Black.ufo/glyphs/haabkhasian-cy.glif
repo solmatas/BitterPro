@@ -2,7 +2,7 @@
 <glyph name="haabkhasian-cy" format="2">
   <advance width="776"/>
   <unicode hex="04A9"/>
-  <guideline x="715" y="575" angle="90"/>
+  <guideline x="715" y="575" angle="90" identifier="0ilkqxyXdh"/>
   <outline>
     <contour>
       <point x="311" y="-15" type="curve" smooth="yes"/>

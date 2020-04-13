@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="hbar.BRACKET.155" format="2">
   <advance width="634"/>
-  <guideline x="6" y="702" angle="90"/>
+  <guideline x="6" y="702" angle="90" identifier="T3O5VG3yOg"/>
   <outline>
     <contour>
       <point x="6" y="0" type="line"/>

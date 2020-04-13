@@ -2,7 +2,7 @@
 <glyph name="ordmasculine" format="2">
   <advance width="463"/>
   <unicode hex="00BA"/>
-  <guideline x="159" y="310" angle="0"/>
+  <guideline x="159" y="310" angle="0" identifier="DA47l1gjyU"/>
   <outline>
     <contour>
       <point x="221" y="310" type="curve" smooth="yes"/>

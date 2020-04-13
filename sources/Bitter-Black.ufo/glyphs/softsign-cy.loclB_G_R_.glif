@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="softsign-cy.loclBGR" format="2">
   <advance width="571"/>
-  <guideline x="387" y="377" angle="0"/>
+  <guideline x="387" y="377" angle="0" identifier="lofMhbnAEg"/>
   <outline>
     <contour>
       <point x="307" y="-15" type="curve" smooth="yes"/>

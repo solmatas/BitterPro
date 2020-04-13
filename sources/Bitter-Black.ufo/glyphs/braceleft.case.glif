@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="braceleft.case" format="2">
   <advance width="382"/>
-  <guideline x="223" y="-118" angle="0"/>
+  <guideline x="223" y="-118" angle="0" identifier="gyH5Zjy0rY"/>
   <outline>
     <contour>
       <point x="294" y="-118" type="curve" smooth="yes"/>

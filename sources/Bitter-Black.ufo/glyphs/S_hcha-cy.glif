@@ -2,8 +2,8 @@
 <glyph name="Shcha-cy" format="2">
   <advance width="1135"/>
   <unicode hex="0429"/>
-  <guideline x="927" y="145" angle="0"/>
-  <guideline x="252" y="-200" angle="0"/>
+  <guideline x="927" y="145" angle="0" identifier="vzHUkpuX8A"/>
+  <guideline x="252" y="-200" angle="0" identifier="EoNPPE9QJY"/>
   <outline>
     <contour>
       <point x="1007" y="-205" type="line"/>

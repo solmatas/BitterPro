@@ -2,7 +2,7 @@
 <glyph name="Semisoftsign-cy" format="2">
   <advance width="638"/>
   <unicode hex="048C"/>
-  <guideline x="34" y="566" angle="90"/>
+  <guideline x="34" y="566" angle="90" identifier="SUwp2b3r0Z"/>
   <outline>
     <contour>
       <point x="34" y="477" type="line"/>

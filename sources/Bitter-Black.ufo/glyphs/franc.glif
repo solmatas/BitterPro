@@ -2,8 +2,8 @@
 <glyph name="franc" format="2">
   <advance width="595"/>
   <unicode hex="20A3"/>
-  <guideline x="52" y="156" angle="90"/>
-  <guideline x="497" y="156" angle="90"/>
+  <guideline x="52" y="156" angle="90" identifier="7NqoA0NNdR"/>
+  <guideline x="497" y="156" angle="90" identifier="V8Ji3ebNHW"/>
   <outline>
     <contour>
       <point x="52" y="0" type="line"/>

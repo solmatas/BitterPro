@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="four.sinf" format="2">
   <advance width="397"/>
-  <guideline x="257" y="-90" angle="0"/>
-  <guideline x="257" y="345" angle="0"/>
+  <guideline x="257" y="-90" angle="0" identifier="1p0zSjDxxU"/>
+  <guideline x="257" y="345" angle="0" identifier="K5vKqmhXlP"/>
   <outline>
     <component base="four.dnom" yOffset="-90"/>
   </outline>

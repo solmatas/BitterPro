@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ampersand.sc" format="2">
   <advance width="655"/>
-  <guideline x="388" y="492" angle="90"/>
-  <guideline x="586" y="492" angle="90"/>
+  <guideline x="388" y="492" angle="90" identifier="QuJmUPC9vH"/>
+  <guideline x="586" y="492" angle="90" identifier="f9SARnPc49"/>
   <outline>
     <contour>
       <point x="283" y="-14" type="curve" smooth="yes"/>

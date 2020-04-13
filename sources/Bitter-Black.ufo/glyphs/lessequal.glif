@@ -2,7 +2,7 @@
 <glyph name="lessequal" format="2">
   <advance width="563"/>
   <unicode hex="2264"/>
-  <guideline x="39" y="365" angle="90"/>
+  <guideline x="39" y="365" angle="90" identifier="xs0Kg9r0Ob"/>
   <outline>
     <contour>
       <point x="464" y="196" type="line"/>

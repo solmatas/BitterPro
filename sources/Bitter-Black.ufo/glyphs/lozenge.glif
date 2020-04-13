@@ -2,9 +2,9 @@
 <glyph name="lozenge" format="2">
   <advance width="636"/>
   <unicode hex="25CA"/>
-  <guideline x="414" y="359" angle="90"/>
-  <guideline x="517" y="355" angle="0"/>
-  <guideline x="231" y="359" angle="90"/>
+  <guideline x="414" y="359" angle="90" identifier="50vBAC640h"/>
+  <guideline x="517" y="355" angle="0" identifier="NVDAoRHuKP"/>
+  <guideline x="231" y="359" angle="90" identifier="QRGkJC4r2X"/>
   <outline>
     <contour>
       <point x="429" y="710" type="line"/>

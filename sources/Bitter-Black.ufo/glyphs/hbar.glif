@@ -2,7 +2,7 @@
 <glyph name="hbar" format="2">
   <advance width="639"/>
   <unicode hex="0127"/>
-  <guideline x="11" y="702" angle="90"/>
+  <guideline x="11" y="702" angle="90" identifier="pcAlYZl0RI"/>
   <outline>
     <contour>
       <point x="1" y="661" type="line"/>

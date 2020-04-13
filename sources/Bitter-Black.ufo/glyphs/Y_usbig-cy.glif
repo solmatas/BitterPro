@@ -2,9 +2,9 @@
 <glyph name="Yusbig-cy" format="2">
   <advance width="1087"/>
   <unicode hex="046A"/>
-  <guideline x="161" y="451" angle="90"/>
-  <guideline x="928" y="451" angle="90"/>
-  <guideline x="434" y="423" angle="0"/>
+  <guideline x="161" y="451" angle="90" identifier="zmSwUxjQed"/>
+  <guideline x="928" y="451" angle="90" identifier="Sj126s5hCa"/>
+  <guideline x="434" y="423" angle="0" identifier="dbEPqsgl8N"/>
   <outline>
     <contour>
       <point x="10" y="0" type="line"/>

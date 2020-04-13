@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="caroncomb.case" format="2">
-  <guideline y="756"/>
-  <guideline y="998"/>
+  <guideline y="756" identifier="m8pB9F4hvp"/>
+  <guideline y="998" identifier="LmM0VSJ4RV"/>
   <anchor x="254" y="710" name="_top"/>
   <anchor x="253" y="950" name="top"/>
   <outline>

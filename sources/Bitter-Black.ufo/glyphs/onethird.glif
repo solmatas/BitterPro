@@ -2,7 +2,7 @@
 <glyph name="onethird" format="2">
   <advance width="986"/>
   <unicode hex="2153"/>
-  <guideline x="975" y="-12" angle="0"/>
+  <guideline x="975" y="-12" angle="0" identifier="sn1cwy5FXM"/>
   <outline>
     <component base="one.numr" xOffset="14"/>
     <component base="fraction" xOffset="361"/>

@@ -2,9 +2,9 @@
 <glyph name="Kastroke-cy" format="2">
   <advance width="738"/>
   <unicode hex="049E"/>
-  <guideline x="36" y="395" angle="90"/>
-  <guideline x="377" y="400" angle="90"/>
-  <guideline x="26" y="400" angle="90"/>
+  <guideline x="36" y="395" angle="90" identifier="43dtykoDaj"/>
+  <guideline x="377" y="400" angle="90" identifier="NRZf8yoSB3"/>
+  <guideline x="26" y="400" angle="90" identifier="5dcPTN8j6l"/>
   <outline>
     <contour>
       <point x="26" y="474" type="line"/>

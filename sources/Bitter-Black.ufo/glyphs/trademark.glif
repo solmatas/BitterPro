@@ -2,8 +2,8 @@
 <glyph name="trademark" format="2">
   <advance width="1032"/>
   <unicode hex="2122"/>
-  <guideline x="428" y="317" angle="0"/>
-  <guideline x="428" y="402" angle="0"/>
+  <guideline x="428" y="317" angle="0" identifier="5wdt1g1pFn"/>
+  <guideline x="428" y="402" angle="0" identifier="nM3AaVX72U"/>
   <outline>
     <contour>
       <point x="108" y="317" type="line"/>

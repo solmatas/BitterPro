@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="descender-cy" format="2">
   <advance width="229"/>
-  <guideline x="76" y="-200" angle="0"/>
+  <guideline x="76" y="-200" angle="0" identifier="zfFaMv93uj"/>
   <anchor x="192" y="0" name="_bottomright"/>
   <outline>
     <contour>

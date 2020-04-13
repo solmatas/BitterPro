@@ -2,8 +2,8 @@
 <glyph name="EnLeftHook-cy" format="2">
   <advance width="768"/>
   <unicode hex="0528"/>
-  <guideline x="119" y="-245" angle="0"/>
-  <guideline x="596" y="293" angle="0"/>
+  <guideline x="119" y="-245" angle="0" identifier="UkvRf7iPxv"/>
+  <guideline x="596" y="293" angle="0" identifier="e6thgk5tZp"/>
   <outline>
     <contour>
       <point x="278" y="99" type="curve" smooth="yes"/>

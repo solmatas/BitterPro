@@ -2,7 +2,7 @@
 <glyph name="ogonek" format="2">
   <advance width="310"/>
   <unicode hex="02DB"/>
-  <guideline x="270" y="220" angle="90"/>
+  <guideline x="270" y="220" angle="90" identifier="VpUSgHftdM"/>
   <outline>
     <contour>
       <point x="149" y="-228" type="curve" smooth="yes"/>

@@ -2,8 +2,8 @@
 <glyph name="Ohm" format="2">
   <advance width="760"/>
   <unicode hex="2126"/>
-  <guideline x="433" y="58" angle="90"/>
-  <guideline x="43" y="58" angle="90"/>
+  <guideline x="433" y="58" angle="90" identifier="581fA2VDUt"/>
+  <guideline x="43" y="58" angle="90" identifier="2tFCzdu0cR"/>
   <outline>
     <contour>
       <point x="42" y="0" type="line"/>

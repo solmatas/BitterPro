@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="tildecomb_acutecomb.case" format="2">
-  <guideline y="774"/>
-  <guideline y="968"/>
-  <guideline y="756"/>
-  <guideline y="998"/>
+  <guideline y="774" identifier="QQhMKlJry3"/>
+  <guideline y="968" identifier="QoKc9B9e1n"/>
+  <guideline y="756" identifier="EVeUVO9sQs"/>
+  <guideline y="998" identifier="Q1mBsgu8as"/>
   <anchor x="243" y="710" name="_top"/>
   <anchor x="243" y="1100" name="top"/>
   <outline>

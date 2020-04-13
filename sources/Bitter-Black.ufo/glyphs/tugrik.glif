@@ -2,8 +2,8 @@
 <glyph name="tugrik" format="2">
   <advance width="651"/>
   <unicode hex="20AE"/>
-  <guideline x="153" y="505" angle="90"/>
-  <guideline x="498" y="505" angle="90"/>
+  <guideline x="153" y="505" angle="90" identifier="VFAe3G9fwH"/>
+  <guideline x="498" y="505" angle="90" identifier="TuZr5f657g"/>
   <outline>
     <contour>
       <point x="130" y="265" type="line"/>

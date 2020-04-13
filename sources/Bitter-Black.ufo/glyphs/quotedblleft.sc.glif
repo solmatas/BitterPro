@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="quotedblleft.sc" format="2">
   <advance width="473"/>
-  <guideline x="246" y="292" angle="0"/>
+  <guideline x="246" y="292" angle="0" identifier="VQAPgkIRlj"/>
   <outline>
     <contour>
       <point x="201" y="387" type="curve" smooth="yes"/>

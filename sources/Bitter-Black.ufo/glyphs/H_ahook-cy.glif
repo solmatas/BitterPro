@@ -2,9 +2,9 @@
 <glyph name="Hahook-cy" format="2">
   <advance width="722"/>
   <unicode hex="04FC"/>
-  <guideline x="767" y="-256" angle="0"/>
-  <guideline x="708" y="330" angle="90"/>
-  <guideline x="659" y="330" angle="90"/>
+  <guideline x="767" y="-256" angle="0" identifier="1agROeP3JU"/>
+  <guideline x="708" y="330" angle="90" identifier="xL53n1eyMj"/>
+  <guideline x="659" y="330" angle="90" identifier="eTW38vGUTL"/>
   <outline>
     <contour>
       <point x="536" y="-245" type="line"/>

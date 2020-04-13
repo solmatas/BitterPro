@@ -2,9 +2,9 @@
 <glyph name="Lslash" format="2">
   <advance width="592"/>
   <unicode hex="0141"/>
-  <guideline x="52" y="445" angle="90"/>
-  <guideline x="74" y="542" angle="359.2052"/>
-  <guideline x="42" y="484" angle="90"/>
+  <guideline x="52" y="445" angle="90" identifier="Kodg52PqM3"/>
+  <guideline x="74" y="542" angle="359.2052" identifier="Myu7V6g9yN"/>
+  <guideline x="42" y="484" angle="90" identifier="StYRpnRWt0"/>
   <outline>
     <contour>
       <point x="9" y="321" type="line"/>

@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="quoteleft.sc" format="2">
   <advance width="247"/>
-  <guideline x="246" y="648" angle="0"/>
-  <guideline x="246" y="274" angle="0"/>
+  <guideline x="246" y="648" angle="0" identifier="FDLaA0H1q4"/>
+  <guideline x="246" y="274" angle="0" identifier="QmNBxSV5qL"/>
   <outline>
     <contour>
       <point x="201" y="371" type="curve" smooth="yes"/>

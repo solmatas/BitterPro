@@ -2,8 +2,8 @@
 <glyph name="Hbar" format="2">
   <advance width="789"/>
   <unicode hex="0126"/>
-  <guideline x="29" y="540" angle="90"/>
-  <guideline x="760" y="540" angle="90"/>
+  <guideline x="29" y="540" angle="90" identifier="0nyPZw7qtf"/>
+  <guideline x="760" y="540" angle="90" identifier="SAXY4T9icK"/>
   <outline>
     <contour>
       <point x="29" y="460" type="line"/>

@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="eth.sc" format="2">
   <advance width="637"/>
-  <guideline x="28" y="433" angle="90"/>
+  <guideline x="28" y="433" angle="90" identifier="nqGi5I814G"/>
   <outline>
     <contour>
       <point x="26.0" y="245" type="line"/>

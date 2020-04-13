@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="one.sinf" format="2">
   <advance width="312"/>
-  <guideline x="257" y="-90" angle="0"/>
-  <guideline x="257" y="345" angle="0"/>
+  <guideline x="257" y="-90" angle="0" identifier="LkBfpYqIKz"/>
+  <guideline x="257" y="345" angle="0" identifier="6egOUdw2b3"/>
   <outline>
     <component base="one.dnom" yOffset="-90"/>
   </outline>

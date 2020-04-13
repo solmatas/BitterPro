@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dieresistildecomb.case" format="2">
   <advance width="493"/>
-  <guideline x="34" y="563" angle="90"/>
-  <guideline x="175" y="928" angle="0"/>
-  <guideline x="165" y="743" angle="0"/>
-  <guideline x="460" y="563" angle="90"/>
-  <guideline y="774"/>
-  <guideline y="968"/>
-  <guideline y="756"/>
-  <guideline y="998"/>
+  <guideline x="34" y="563" angle="90" identifier="vadOaxOwgI"/>
+  <guideline x="175" y="928" angle="0" identifier="ay5n4soz1y"/>
+  <guideline x="165" y="743" angle="0" identifier="6kFn71xi55"/>
+  <guideline x="460" y="563" angle="90" identifier="ywqBPHWVkW"/>
+  <guideline y="774" identifier="RQR7f7jNzq"/>
+  <guideline y="968" identifier="Dx9jGCwdhh"/>
+  <guideline y="756" identifier="VTIs6GdJYh"/>
+  <guideline y="998" identifier="qVC2f7pVy4"/>
   <anchor x="248" y="710" name="_top"/>
   <outline>
     <component base="dieresiscomb" xOffset="4" yOffset="337"/>

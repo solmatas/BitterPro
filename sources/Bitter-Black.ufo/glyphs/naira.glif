@@ -2,10 +2,10 @@
 <glyph name="naira" format="2">
   <advance width="830"/>
   <unicode hex="20A6"/>
-  <guideline x="63" y="595" angle="90"/>
-  <guideline x="779" y="595" angle="90"/>
-  <guideline x="369" y="469" angle="0"/>
-  <guideline x="369" y="249" angle="0"/>
+  <guideline x="63" y="595" angle="90" identifier="dl3ZJP0nMn"/>
+  <guideline x="779" y="595" angle="90" identifier="KspqTAGjLs"/>
+  <guideline x="369" y="469" angle="0" identifier="Y75AHduVvH"/>
+  <guideline x="369" y="249" angle="0" identifier="FPf7wPxPLm"/>
   <outline>
     <contour>
       <point x="63" y="0" type="line"/>

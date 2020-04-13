@@ -2,7 +2,7 @@
 <glyph name="O-cy" format="2">
   <advance width="720"/>
   <unicode hex="041E"/>
-  <guideline x="355" y="764" angle="90"/>
+  <guideline x="355" y="764" angle="90" identifier="kAJckqD05O"/>
   <anchor x="357" y="710" name="top"/>
   <outline>
     <component base="O"/>

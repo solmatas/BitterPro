@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="quotedblright.sc" format="2">
   <advance width="473"/>
-  <guideline x="273" y="290" angle="0"/>
+  <guideline x="273" y="290" angle="0" identifier="bJpKqTeeBz"/>
   <outline>
     <component base="quotedblbase" yOffset="473"/>
   </outline>

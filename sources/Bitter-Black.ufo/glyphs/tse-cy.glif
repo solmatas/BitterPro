@@ -2,7 +2,7 @@
 <glyph name="tse-cy" format="2">
   <advance width="700"/>
   <unicode hex="0446"/>
-  <guideline x="250" y="-180" angle="0"/>
+  <guideline x="250" y="-180" angle="0" identifier="lDEfka9zk6"/>
   <outline>
     <contour>
       <point x="693" y="102" type="line"/>

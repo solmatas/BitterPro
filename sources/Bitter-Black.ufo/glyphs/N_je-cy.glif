@@ -2,8 +2,8 @@
 <glyph name="Nje-cy" format="2">
   <advance width="1034"/>
   <unicode hex="040A"/>
-  <guideline x="556" y="443" angle="0"/>
-  <guideline x="556" y="302" angle="0"/>
+  <guideline x="556" y="443" angle="0" identifier="PXVFMjTQMB"/>
+  <guideline x="556" y="302" angle="0" identifier="SQbTV7WFv1"/>
   <outline>
     <contour>
       <point x="24" y="0" type="line"/>

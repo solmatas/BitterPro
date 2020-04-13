@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="tail-cy.case" format="2">
   <advance width="264"/>
-  <guideline x="156" y="124" angle="0"/>
-  <guideline x="156" y="100" angle="0"/>
+  <guideline x="156" y="124" angle="0" identifier="RrCr3x609C"/>
+  <guideline x="156" y="100" angle="0" identifier="noIE8aNxAg"/>
   <anchor x="217" y="0" name="_bottomright"/>
   <outline>
     <contour>

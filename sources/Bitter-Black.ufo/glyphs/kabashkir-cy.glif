@@ -2,7 +2,7 @@
 <glyph name="kabashkir-cy" format="2">
   <advance width="738"/>
   <unicode hex="04A1"/>
-  <guideline x="405" y="357" angle="180"/>
+  <guideline x="405" y="357" angle="180" identifier="UqVJ8Fdwvi"/>
   <outline>
     <contour>
       <point x="122" y="0" type="line"/>

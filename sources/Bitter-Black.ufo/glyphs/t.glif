@@ -2,10 +2,10 @@
 <glyph name="t" format="2">
   <advance width="429"/>
   <unicode hex="0074"/>
-  <guideline x="830" y="441" angle="90"/>
-  <guideline x="343" y="130" angle="0"/>
-  <guideline x="430" y="445" angle="90"/>
-  <guideline x="401" y="445" angle="90"/>
+  <guideline x="830" y="441" angle="90" identifier="YzKDus9m9D"/>
+  <guideline x="343" y="130" angle="0" identifier="oXA63UVRZw"/>
+  <guideline x="430" y="445" angle="90" identifier="fUVLVxFGSI"/>
+  <guideline x="401" y="445" angle="90" identifier="bSdbqKVQrY"/>
   <anchor x="210" y="0" name="bottom"/>
   <anchor x="200" y="280" name="center"/>
   <anchor x="182" y="625" name="top"/>

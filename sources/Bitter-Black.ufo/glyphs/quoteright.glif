@@ -2,7 +2,7 @@
 <glyph name="quoteright" format="2">
   <advance width="247"/>
   <unicode hex="2019"/>
-  <guideline x="20" y="422" angle="0"/>
+  <guideline x="20" y="422" angle="0" identifier="OiQ3DKFF11"/>
   <outline>
     <component base="quotesinglbase" xOffset="-14" yOffset="626"/>
   </outline>

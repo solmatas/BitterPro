@@ -2,7 +2,7 @@
 <glyph name="Lcaron" format="2">
   <advance width="564"/>
   <unicode hex="013D"/>
-  <guideline x="562" y="569" angle="90"/>
+  <guideline x="562" y="569" angle="90" identifier="UNqNwSKC8k"/>
   <outline>
     <component base="L"/>
     <component base="caroncomb.alt" xOffset="368" yOffset="-70"/>

@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="circumflexcomb_acutecomb.case" format="2">
-  <guideline x="248" y="809" angle="90"/>
-  <guideline y="756"/>
-  <guideline y="998"/>
+  <guideline x="248" y="809" angle="90" identifier="oP1gHrMTzW"/>
+  <guideline y="756" identifier="Wcz3trBzzG"/>
+  <guideline y="998" identifier="5re1tZLpeX"/>
   <anchor x="248" y="710" name="_top"/>
   <anchor x="248" y="950" name="top"/>
   <outline>

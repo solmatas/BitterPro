@@ -2,7 +2,7 @@
 <glyph name="Kahook-cy" format="2">
   <advance width="723"/>
   <unicode hex="04C3"/>
-  <guideline x="693" y="432" angle="90"/>
+  <guideline x="693" y="432" angle="90" identifier="KaliID0ngD"/>
   <outline>
     <contour>
       <point x="482" y="388" type="curve"/>

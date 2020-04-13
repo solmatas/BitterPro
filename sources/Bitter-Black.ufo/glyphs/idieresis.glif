@@ -2,8 +2,8 @@
 <glyph name="idieresis" format="2">
   <advance width="338"/>
   <unicode hex="00EF"/>
-  <guideline x="154" y="800" angle="0"/>
-  <guideline x="154" y="604" angle="0"/>
+  <guideline x="154" y="800" angle="0" identifier="nzHRDq8rVW"/>
+  <guideline x="154" y="604" angle="0" identifier="EKWsCZqRXi"/>
   <anchor x="176" y="0" name="bottom"/>
   <anchor x="331" y="0" name="ogonek"/>
   <outline>

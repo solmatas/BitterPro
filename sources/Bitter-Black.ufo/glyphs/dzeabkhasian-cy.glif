@@ -2,8 +2,8 @@
 <glyph name="dzeabkhasian-cy" format="2">
   <advance width="521"/>
   <unicode hex="04E1"/>
-  <guideline x="518" y="395" angle="90"/>
-  <guideline x="-11" y="398" angle="90"/>
+  <guideline x="518" y="395" angle="90" identifier="0BLomheD1j"/>
+  <guideline x="-11" y="398" angle="90" identifier="DinnHR7Op5"/>
   <outline>
     <contour>
       <point x="238" y="-245" type="curve" smooth="yes"/>

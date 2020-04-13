@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="zero.sinf" format="2">
   <advance width="429"/>
-  <guideline x="257" y="357" angle="0"/>
-  <guideline x="257" y="-102" angle="0"/>
+  <guideline x="257" y="357" angle="0" identifier="MbCh3IFIDn"/>
+  <guideline x="257" y="-102" angle="0" identifier="kdM0RpPjGo"/>
   <outline>
     <component base="zero.dnom" yOffset="-90"/>
   </outline>

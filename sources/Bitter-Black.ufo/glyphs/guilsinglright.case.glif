@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="guilsinglright.case" format="2">
   <advance width="324"/>
-  <guideline x="70" y="119" angle="0"/>
-  <guideline x="70" y="599" angle="0"/>
+  <guideline x="70" y="119" angle="0" identifier="VAZDfpG088"/>
+  <guideline x="70" y="599" angle="0" identifier="3MN0xP7803"/>
   <outline>
     <contour>
       <point x="115" y="599" type="line"/>

@@ -2,8 +2,8 @@
 <glyph name="idotless" format="2">
   <advance width="338"/>
   <unicode hex="0131"/>
-  <guideline x="176" y="454" angle="90"/>
-  <guideline x="697" y="454" angle="90"/>
+  <guideline x="176" y="454" angle="90" identifier="JHMFlp6hBI"/>
+  <guideline x="697" y="454" angle="90" identifier="M3jvpRH3Fq"/>
   <anchor x="176" y="0" name="bottom"/>
   <anchor x="283" y="0" name="ogonek"/>
   <anchor x="176" y="540" name="top"/>

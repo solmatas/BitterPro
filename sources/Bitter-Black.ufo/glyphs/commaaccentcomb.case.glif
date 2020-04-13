@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="commaaccentcomb.case" format="2">
-  <guideline x="176" y="-257" angle="0"/>
-  <guideline x="176" y="-52" angle="0"/>
-  <guideline x="176" y="-149" angle="0"/>
+  <guideline x="176" y="-257" angle="0" identifier="GAtsa0OMvQ"/>
+  <guideline x="176" y="-52" angle="0" identifier="jAwJi8ARMh"/>
+  <guideline x="176" y="-149" angle="0" identifier="yNJYwOBZ6Z"/>
   <anchor x="136" y="0" name="_bottom"/>
   <anchor x="136" y="-340" name="bottom"/>
   <outline>

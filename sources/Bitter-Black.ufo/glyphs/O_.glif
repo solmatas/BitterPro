@@ -2,7 +2,7 @@
 <glyph name="O" format="2">
   <advance width="720"/>
   <unicode hex="004F"/>
-  <guideline x="360" y="764" angle="90"/>
+  <guideline x="360" y="764" angle="90" identifier="sDWQA1bG06"/>
   <anchor x="360" y="0" name="bottom"/>
   <anchor x="360" y="355" name="center"/>
   <anchor x="458" y="0" name="ogonek"/>

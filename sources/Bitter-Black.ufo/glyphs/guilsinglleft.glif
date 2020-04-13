@@ -2,8 +2,8 @@
 <glyph name="guilsinglleft" format="2">
   <advance width="324"/>
   <unicode hex="2039"/>
-  <guideline x="100" y="29" angle="0"/>
-  <guideline x="100" y="509" angle="0"/>
+  <guideline x="100" y="29" angle="0" identifier="R9rwpyXqIW"/>
+  <guideline x="100" y="509" angle="0" identifier="gNjJHGHJpS"/>
   <outline>
     <contour>
       <point x="209" y="29" type="line"/>

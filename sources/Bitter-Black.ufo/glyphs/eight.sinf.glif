@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="eight.sinf" format="2">
   <advance width="392"/>
-  <guideline x="252" y="-90" angle="0"/>
-  <guideline x="252" y="357" angle="0"/>
-  <guideline x="257" y="357" angle="0"/>
-  <guideline x="257" y="-102" angle="0"/>
+  <guideline x="252" y="-90" angle="0" identifier="t0Hw9Si63d"/>
+  <guideline x="252" y="357" angle="0" identifier="hD5DKEopXp"/>
+  <guideline x="257" y="357" angle="0" identifier="lIi5erZBQE"/>
+  <guideline x="257" y="-102" angle="0" identifier="MCtAZHUwDO"/>
   <outline>
     <component base="eight.dnom" yOffset="-90"/>
   </outline>

@@ -2,8 +2,8 @@
 <glyph name="Schwa-cy" format="2">
   <advance width="661"/>
   <unicode hex="04D8"/>
-  <guideline x="671" y="400" angle="90"/>
-  <guideline x="22" y="473" angle="90"/>
+  <guideline x="671" y="400" angle="90" identifier="1Kk9vfq6Jm"/>
+  <guideline x="22" y="473" angle="90" identifier="xEq325NnWz"/>
   <anchor x="329" y="710" name="top"/>
   <outline>
     <contour>

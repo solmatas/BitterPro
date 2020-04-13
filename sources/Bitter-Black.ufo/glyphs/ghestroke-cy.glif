@@ -2,7 +2,7 @@
 <glyph name="ghestroke-cy" format="2">
   <advance width="540"/>
   <unicode hex="0493"/>
-  <guideline x="21" y="143" angle="90"/>
+  <guideline x="21" y="143" angle="90" identifier="cNfMJVnYf1"/>
   <anchor x="346" y="0" name="bottomright"/>
   <anchor x="285" y="540" name="top"/>
   <outline>

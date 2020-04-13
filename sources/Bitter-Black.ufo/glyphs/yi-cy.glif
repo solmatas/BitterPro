@@ -2,8 +2,8 @@
 <glyph name="yi-cy" format="2">
   <advance width="338"/>
   <unicode hex="0457"/>
-  <guideline x="320" y="797" angle="0"/>
-  <guideline x="320" y="603" angle="0"/>
+  <guideline x="320" y="797" angle="0" identifier="iYF8x0JgJy"/>
+  <guideline x="320" y="603" angle="0" identifier="xa1JgAizyB"/>
   <outline>
     <component base="idieresis"/>
   </outline>

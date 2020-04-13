@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="tbar.sc" format="2">
   <advance width="576"/>
-  <guideline x="90" y="164" angle="90"/>
+  <guideline x="90" y="164" angle="90" identifier="QIyyOob3jt"/>
   <outline>
     <contour>
       <point x="93.0" y="230" type="line"/>

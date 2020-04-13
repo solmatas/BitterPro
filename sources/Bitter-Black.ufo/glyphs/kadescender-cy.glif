@@ -13,6 +13,8 @@
         <integer>-1</integer>
         <integer>0</integer>
       </array>
+      <key>public.markColor</key>
+      <string>0.502,0,0.502,1</string>
     </dict>
   </lib>
 </glyph>

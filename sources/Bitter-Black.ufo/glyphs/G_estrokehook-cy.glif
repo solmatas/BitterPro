@@ -2,7 +2,7 @@
 <glyph name="Gestrokehook-cy" format="2">
   <advance width="581"/>
   <unicode hex="04FA"/>
-  <guideline x="-172" y="-245" angle="0"/>
+  <guideline x="-172" y="-245" angle="0" identifier="GRZU18CIvt"/>
   <anchor x="334" y="710" name="top"/>
   <outline>
     <contour>

@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ghestroke-cy.loclBSH" format="2">
   <advance width="545"/>
-  <guideline x="375" y="168" angle="90"/>
+  <guideline x="375" y="168" angle="90" identifier="gc01Td5lQ0"/>
   <anchor x="346" y="0" name="bottomright"/>
   <anchor x="295" y="540" name="top"/>
   <outline>

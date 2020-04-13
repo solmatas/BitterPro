@@ -2,7 +2,7 @@
 <glyph name="kahook-cy" format="2">
   <advance width="651"/>
   <unicode hex="04C4"/>
-  <guideline x="405" y="357" angle="180"/>
+  <guideline x="405" y="357" angle="180" identifier="HLcfrA3RvA"/>
   <outline>
     <contour>
       <point x="319" y="229" type="line"/>

@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="macronacutesingle.case" format="2">
   <advance width="416"/>
-  <guideline x="40" y="780" angle="90"/>
-  <guideline x="376" y="780" angle="90"/>
-  <guideline y="774"/>
-  <guideline y="968"/>
-  <guideline y="756"/>
-  <guideline y="998"/>
+  <guideline x="40" y="780" angle="90" identifier="QotNQM6vh1"/>
+  <guideline x="376" y="780" angle="90" identifier="QpSNfqhEKt"/>
+  <guideline y="774" identifier="x54AJBU57j"/>
+  <guideline y="968" identifier="E4Ry1LojiX"/>
+  <guideline y="756" identifier="l4PTfeuo4D"/>
+  <guideline y="998" identifier="EYoMAWHhLn"/>
   <anchor x="208" y="710" name="_top"/>
   <outline>
     <contour>

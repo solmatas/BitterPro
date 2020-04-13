@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="w.sc" format="2">
   <advance width="905"/>
-  <guideline x="193" y="254" angle="0"/>
+  <guideline x="193" y="254" angle="0" identifier="hvfl9C4BCu"/>
   <anchor x="476" y="0" name="bottom"/>
   <anchor x="475" y="591" name="top"/>
   <outline>

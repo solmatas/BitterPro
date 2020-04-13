@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dieresisgravecomb.case" format="2">
   <advance width="516"/>
-  <guideline x="208" y="746" angle="0"/>
-  <guideline x="208" y="940" angle="0"/>
+  <guideline x="208" y="746" angle="0" identifier="BXZBaLXawP"/>
+  <guideline x="208" y="940" angle="0" identifier="RY0sUGQzwq"/>
   <anchor x="258" y="710" name="_top"/>
   <outline>
     <contour>

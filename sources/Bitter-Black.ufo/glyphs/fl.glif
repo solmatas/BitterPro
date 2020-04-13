@@ -2,7 +2,7 @@
 <glyph name="fl" format="2">
   <advance width="721"/>
   <unicode hex="FB02"/>
-  <guideline x="474" y="710" angle="90"/>
+  <guideline x="474" y="710" angle="90" identifier="PpySXy2SYM"/>
   <anchor x="559" y="0" name="caret_1"/>
   <outline>
     <contour>

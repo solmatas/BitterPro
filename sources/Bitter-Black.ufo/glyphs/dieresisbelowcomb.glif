@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dieresisbelowcomb" format="2">
   <unicode hex="0324"/>
-  <guideline x="175" y="-257" angle="0"/>
-  <guideline x="175" y="-40" angle="0"/>
-  <guideline x="175" y="-149" angle="0"/>
+  <guideline x="175" y="-257" angle="0" identifier="PVylMwcJ7d"/>
+  <guideline x="175" y="-40" angle="0" identifier="tmlfQTeI55"/>
+  <guideline x="175" y="-149" angle="0" identifier="8GAfCGL63a"/>
   <anchor x="240" y="0" name="_bottom"/>
   <anchor x="240" y="-230" name="bottom"/>
   <outline>

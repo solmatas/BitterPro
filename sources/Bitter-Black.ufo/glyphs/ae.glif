@@ -2,8 +2,8 @@
 <glyph name="ae" format="2">
   <advance width="845"/>
   <unicode hex="00E6"/>
-  <guideline x="416" y="221" angle="0"/>
-  <guideline x="416" y="316" angle="0"/>
+  <guideline x="416" y="221" angle="0" identifier="oHRqKLw4vm"/>
+  <guideline x="416" y="316" angle="0" identifier="VQ0XgLOnZB"/>
   <anchor x="421" y="0" name="bottom"/>
   <anchor x="421" y="540" name="top"/>
   <outline>

@@ -2,8 +2,8 @@
 <glyph name="greaterequal" format="2">
   <advance width="563"/>
   <unicode hex="2265"/>
-  <guideline x="518" y="509" angle="0"/>
-  <guideline x="524" y="365" angle="90"/>
+  <guideline x="518" y="509" angle="0" identifier="YFaLF4y322"/>
+  <guideline x="524" y="365" angle="90" identifier="CwLiJJAhHE"/>
   <outline>
     <contour>
       <point x="99" y="679" type="line"/>

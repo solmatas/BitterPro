@@ -2,8 +2,8 @@
 <glyph name="quoteleft" format="2">
   <advance width="247"/>
   <unicode hex="2018"/>
-  <guideline x="50" y="414" angle="0"/>
-  <guideline x="50" y="790" angle="0"/>
+  <guideline x="50" y="414" angle="0" identifier="wHwCd3TuS8"/>
+  <guideline x="50" y="790" angle="0" identifier="rDWdNt9lNP"/>
   <outline>
     <contour>
       <point x="201" y="517" type="curve" smooth="yes"/>

@@ -2,8 +2,8 @@
 <glyph name="kaverticalstroke-cy" format="2">
   <advance width="702"/>
   <unicode hex="049D"/>
-  <guideline x="176" y="352" angle="0"/>
-  <guideline x="405" y="357" angle="180"/>
+  <guideline x="176" y="352" angle="0" identifier="31ykmU4oDU"/>
+  <guideline x="405" y="357" angle="180" identifier="3KcDq7W9UY"/>
   <outline>
     <contour>
       <point x="21" y="0" type="line"/>

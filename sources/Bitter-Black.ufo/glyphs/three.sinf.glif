@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="three.sinf" format="2">
   <advance width="378"/>
-  <guideline x="257" y="357" angle="0"/>
-  <guideline x="257" y="-102" angle="0"/>
+  <guideline x="257" y="357" angle="0" identifier="NntNYkTMVl"/>
+  <guideline x="257" y="-102" angle="0" identifier="SOicdvw01i"/>
   <outline>
     <component base="three.dnom" yOffset="-90"/>
   </outline>

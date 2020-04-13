@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="bracketleft.case" format="2">
   <advance width="351"/>
-  <guideline x="223" y="-118" angle="0"/>
+  <guideline x="223" y="-118" angle="0" identifier="t6E8DDM7kN"/>
   <outline>
     <contour>
       <point x="58" y="-118" type="line"/>

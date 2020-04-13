@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="acute.case.loclPLK" format="2">
   <advance width="390"/>
-  <guideline y="756"/>
-  <guideline y="998"/>
+  <guideline y="756" identifier="rZy9nrX3yJ"/>
+  <guideline y="998" identifier="ySKe8x6XZK"/>
   <anchor x="188" y="710" name="_top"/>
   <anchor x="188" y="980" name="top"/>
   <outline>

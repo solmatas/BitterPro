@@ -2,8 +2,8 @@
 <glyph name="braceleft" format="2">
   <advance width="382"/>
   <unicode hex="007B"/>
-  <guideline x="298" y="872" angle="0"/>
-  <guideline x="223" y="-118" angle="0"/>
+  <guideline x="298" y="872" angle="0" identifier="Feha0m5GtJ"/>
+  <guideline x="223" y="-118" angle="0" identifier="6O6d8LWSGd"/>
   <outline>
     <contour>
       <point x="294" y="-118" type="curve" smooth="yes"/>

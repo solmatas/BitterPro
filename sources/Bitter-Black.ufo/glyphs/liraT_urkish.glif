@@ -2,8 +2,8 @@
 <glyph name="liraTurkish" format="2">
   <advance width="662"/>
   <unicode hex="20BA"/>
-  <guideline x="479" y="544" angle="90"/>
-  <guideline x="-3" y="514" angle="90"/>
+  <guideline x="479" y="544" angle="90" identifier="JGuOSM3aRv"/>
+  <guideline x="-3" y="514" angle="90" identifier="sIKk9IoZuq"/>
   <outline>
     <contour>
       <point x="51" y="0" type="line"/>

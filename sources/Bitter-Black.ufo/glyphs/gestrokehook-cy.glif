@@ -2,8 +2,8 @@
 <glyph name="gestrokehook-cy" format="2">
   <advance width="556"/>
   <unicode hex="04FB"/>
-  <guideline x="36" y="351" angle="0"/>
-  <guideline x="36" y="364" angle="90"/>
+  <guideline x="36" y="351" angle="0" identifier="ND9WuwvQLu"/>
+  <guideline x="36" y="364" angle="90" identifier="Zqaqr4BThp"/>
   <anchor x="300" y="540" name="top"/>
   <outline>
     <contour>

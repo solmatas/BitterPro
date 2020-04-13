@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="tildemacroncomb.case" format="2">
   <advance width="483"/>
-  <guideline x="167" y="577" angle="0"/>
-  <guideline x="171" y="928" angle="0"/>
-  <guideline x="175" y="928" angle="0"/>
-  <guideline y="774"/>
-  <guideline y="968"/>
-  <guideline y="756"/>
-  <guideline y="998"/>
+  <guideline x="167" y="577" angle="0" identifier="D03VAguQDm"/>
+  <guideline x="171" y="928" angle="0" identifier="xQ5Y5jF2O4"/>
+  <guideline x="175" y="928" angle="0" identifier="BM2O2uLUAy"/>
+  <guideline y="774" identifier="1C7bPwAsDP"/>
+  <guideline y="968" identifier="HowzbGPMlV"/>
+  <guideline y="756" identifier="u2TnXJlJgp"/>
+  <guideline y="998" identifier="RBbCGs5kPZ"/>
   <anchor x="241" y="710" name="_top"/>
   <outline>
     <component base="tildecomb.case" xOffset="-1" yOffset="-34"/>

@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="de-cy.loclBGR" format="2">
   <advance width="601"/>
-  <guideline x="15" y="-12" angle="90"/>
+  <guideline x="15" y="-12" angle="90" identifier="yLYkwWZxFs"/>
   <outline>
     <contour>
       <point x="267" y="-245" type="curve" smooth="yes"/>

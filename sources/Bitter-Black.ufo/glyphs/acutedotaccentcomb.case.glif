@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="acutedotaccentcomb.case" format="2">
   <advance width="390"/>
-  <guideline x="17" y="774" angle="0"/>
-  <guideline x="17" y="968" angle="0"/>
-  <guideline x="17" y="756" angle="0"/>
-  <guideline x="17" y="998" angle="0"/>
+  <guideline x="17" y="774" angle="0" identifier="PEBsOu6DcT"/>
+  <guideline x="17" y="968" angle="0" identifier="g9BdqB9dY1"/>
+  <guideline x="17" y="756" angle="0" identifier="DJtMVLlEjQ"/>
+  <guideline x="17" y="998" angle="0" identifier="UZ9WOnZ3Wj"/>
   <anchor x="195" y="710" name="_top"/>
   <outline>
     <contour>

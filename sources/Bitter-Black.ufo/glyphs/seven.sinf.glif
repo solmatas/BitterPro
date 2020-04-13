@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="seven.sinf" format="2">
   <advance width="348"/>
-  <guideline x="240" y="-90" angle="0"/>
-  <guideline x="240" y="345" angle="0"/>
+  <guideline x="240" y="-90" angle="0" identifier="LVuYKrOzCb"/>
+  <guideline x="240" y="345" angle="0" identifier="KSxdPbB9xJ"/>
   <outline>
     <component base="seven.dnom" yOffset="-90"/>
   </outline>

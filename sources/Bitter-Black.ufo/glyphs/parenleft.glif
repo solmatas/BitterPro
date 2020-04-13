@@ -2,8 +2,8 @@
 <glyph name="parenleft" format="2">
   <advance width="323"/>
   <unicode hex="0028"/>
-  <guideline x="223" y="-118" angle="0"/>
-  <guideline x="298" y="872" angle="0"/>
+  <guideline x="223" y="-118" angle="0" identifier="7V38iBmBoM"/>
+  <guideline x="298" y="872" angle="0" identifier="c8G8bP1LMF"/>
   <outline>
     <contour>
       <point x="333" y="834" type="curve"/>

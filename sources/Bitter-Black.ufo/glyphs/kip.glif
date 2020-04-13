@@ -2,8 +2,8 @@
 <glyph name="kip" format="2">
   <advance width="784"/>
   <unicode hex="20AD"/>
-  <guideline x="56" y="499" angle="90"/>
-  <guideline x="724" y="265" angle="90"/>
+  <guideline x="56" y="499" angle="90" identifier="E3Cm5i8YWo"/>
+  <guideline x="724" y="265" angle="90" identifier="xmFPuDL1BV"/>
   <outline>
     <contour>
       <point x="56" y="0" type="line"/>

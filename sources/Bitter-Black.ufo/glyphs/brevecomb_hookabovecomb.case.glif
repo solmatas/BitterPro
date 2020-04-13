@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="brevecomb_hookabovecomb.case" format="2">
-  <guideline x="-2" y="774" angle="0"/>
-  <guideline x="-2" y="968" angle="0"/>
-  <guideline x="-2" y="756" angle="0"/>
-  <guideline x="-2" y="998" angle="0"/>
+  <guideline x="-2" y="774" angle="0" identifier="ytViEr4NpX"/>
+  <guideline x="-2" y="968" angle="0" identifier="1vGiddwgsW"/>
+  <guideline x="-2" y="756" angle="0" identifier="MAqLqC9OlA"/>
+  <guideline x="-2" y="998" angle="0" identifier="0tBxzb4YwQ"/>
   <anchor x="218" y="710" name="_top"/>
   <anchor x="218" y="1100" name="top"/>
   <outline>

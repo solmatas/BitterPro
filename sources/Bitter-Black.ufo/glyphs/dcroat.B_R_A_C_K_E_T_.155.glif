@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dcroat.BRACKET.155" format="2">
   <advance width="615"/>
-  <guideline x="601" y="316" angle="90"/>
+  <guideline x="601" y="316" angle="90" identifier="pQDU8ef0Iy"/>
   <outline>
     <contour>
       <point x="177" y="696" type="line"/>

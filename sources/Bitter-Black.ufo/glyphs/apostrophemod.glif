@@ -2,7 +2,7 @@
 <glyph name="apostrophemod" format="2">
   <advance width="247"/>
   <unicode hex="02BC"/>
-  <guideline x="140" y="780" angle="0"/>
+  <guideline x="140" y="780" angle="0" identifier="KXjQMA0jA5"/>
   <outline>
     <component base="quoteright"/>
   </outline>

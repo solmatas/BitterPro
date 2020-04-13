@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="guillemetright.case" format="2">
   <advance width="574"/>
-  <guideline x="85" y="119" angle="0"/>
-  <guideline x="85" y="599" angle="0"/>
+  <guideline x="85" y="119" angle="0" identifier="6YFEivw6eu"/>
+  <guideline x="85" y="599" angle="0" identifier="c5sy9019Hv"/>
   <outline>
     <contour>
       <point x="115" y="599" type="line"/>

@@ -2,9 +2,9 @@
 <glyph name="kgreenlandic" format="2">
   <advance width="634"/>
   <unicode hex="0138"/>
-  <guideline x="299" y="227" angle="0"/>
-  <guideline x="299" y="357" angle="0"/>
-  <guideline x="405" y="357" angle="180"/>
+  <guideline x="299" y="227" angle="0" identifier="sp2ZYx0guY"/>
+  <guideline x="299" y="357" angle="0" identifier="BKoV6C3GFT"/>
+  <guideline x="405" y="357" angle="180" identifier="SvmRQVPtDa"/>
   <outline>
     <contour>
       <point x="21" y="0" type="line"/>

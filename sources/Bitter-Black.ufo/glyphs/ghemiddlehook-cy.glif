@@ -2,7 +2,7 @@
 <glyph name="ghemiddlehook-cy" format="2">
   <advance width="599"/>
   <unicode hex="0495"/>
-  <guideline x="544" y="309" angle="0"/>
+  <guideline x="544" y="309" angle="0" identifier="xteABbwBkJ"/>
   <outline>
     <contour>
       <point x="329" y="-245" type="curve" smooth="yes"/>

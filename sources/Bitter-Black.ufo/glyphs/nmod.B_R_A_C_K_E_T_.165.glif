@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="nmod.BRACKET.165" format="2">
   <advance width="538"/>
-  <guideline x="131" y="325" angle="0"/>
+  <guideline x="131" y="325" angle="0" identifier="bfqmBK4uUK"/>
   <outline>
     <contour>
       <point x="23" y="325" type="line"/>

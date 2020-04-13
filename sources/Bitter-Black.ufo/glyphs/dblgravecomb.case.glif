@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dblgravecomb.case" format="2">
-  <guideline y="756"/>
-  <guideline y="998"/>
+  <guideline y="756" identifier="9PE5hjwp1o"/>
+  <guideline y="998" identifier="BbAf2lJTfG"/>
   <anchor x="256" y="710" name="_top"/>
   <anchor x="266" y="970" name="top"/>
   <outline>

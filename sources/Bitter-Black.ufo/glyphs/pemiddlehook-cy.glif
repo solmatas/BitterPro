@@ -2,9 +2,9 @@
 <glyph name="pemiddlehook-cy" format="2">
   <advance width="922"/>
   <unicode hex="04A7"/>
-  <guideline x="632" y="176" angle="0"/>
-  <guideline x="632" y="490" angle="0"/>
-  <guideline x="632" y="330" angle="0"/>
+  <guideline x="632" y="176" angle="0" identifier="rq48x4zjpe"/>
+  <guideline x="632" y="490" angle="0" identifier="y1JzzV4bFV"/>
+  <guideline x="632" y="330" angle="0" identifier="6a1yn6viT7"/>
   <outline>
     <contour>
       <point x="586" y="213" type="line"/>

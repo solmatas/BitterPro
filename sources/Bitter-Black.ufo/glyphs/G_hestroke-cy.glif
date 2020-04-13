@@ -2,8 +2,8 @@
 <glyph name="Ghestroke-cy" format="2">
   <advance width="565"/>
   <unicode hex="0492"/>
-  <guideline x="21" y="439" angle="0"/>
-  <guideline x="24" y="486" angle="90"/>
+  <guideline x="21" y="439" angle="0" identifier="HREqe2GEqe"/>
+  <guideline x="24" y="486" angle="90" identifier="PXxcxQqXFV"/>
   <anchor x="364" y="0" name="bottomright"/>
   <anchor x="306" y="710" name="top"/>
   <outline>
