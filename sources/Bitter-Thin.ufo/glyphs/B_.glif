@@ -2,7 +2,7 @@
 <glyph name="B" format="2">
   <advance width="644"/>
   <unicode hex="0042"/>
-  <guideline x="520" y="425" angle="90"/>
+  <guideline x="520" y="425" angle="90" identifier="DP46m7Kxu7"/>
   <anchor x="312" y="0" name="bottom"/>
   <anchor x="312" y="692" name="top"/>
   <outline>
