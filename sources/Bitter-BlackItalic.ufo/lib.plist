@@ -2064,6 +2064,8 @@
     <string>curve</string>
     <key>com.typemytype.robofont.shouldAddPointsInSplineConversion</key>
     <integer>1</integer>
+    <key>com.typemytype.robofont.smartSets.uniqueKey</key>
+    <string>5287671504</string>
     <key>height</key>
     <integer>6</integer>
     <key>public.glyphOrder</key>
@@ -3585,6 +3587,7 @@
       <string>verticalbar-cy.case</string>
       <string>idotaccent.sc</string>
       <string>jacute.sc</string>
+      <string>curve</string>
     </array>
     <key>public.postscriptNames</key>
     <dict>

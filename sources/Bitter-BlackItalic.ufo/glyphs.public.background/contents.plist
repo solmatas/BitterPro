@@ -1112,6 +1112,8 @@
     <string>copyright.glif</string>
     <key>currency</key>
     <string>currency.glif</string>
+    <key>curve</key>
+    <string>curve.glif</string>
     <key>d</key>
     <string>d.glif</string>
     <key>d.sc</key>
