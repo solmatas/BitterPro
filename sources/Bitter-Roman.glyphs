@@ -1,5 +1,8 @@
 {
-.appVersion = "1290";
+.appVersion = "1328";
+DisplayStrings = (
+"/zeroinferior/oneinferior/twoinferior/threeinferior/fourinferior/fiveinferior/sixinferior/seveninferior/eightinferior/nineinferior"
+);
 classes = (
 {
 automatic = 1;
@@ -102657,24 +102660,44 @@ width = 630;
 glyphname = zeroinferior;
 layers = (
 {
+background = {
 components = (
 {
+alignment = -1;
 name = zero.dnom;
-transform = "{1, 0, 0, 1, 0, -90}";
+transform = "{1, 0, 0, 1, 25, -90}";
+}
+);
+};
+components = (
+{
+alignment = -1;
+name = zero.dnom;
+transform = "{1, 0, 0, 1, 25, -90}";
 }
 );
 layerId = "075BA79B-D813-4287-A9DD-CCAF2D535ED3";
-width = 410;
+width = 461;
 },
 {
+background = {
 components = (
 {
+alignment = -1;
 name = zero.dnom;
-transform = "{1, 0, 0, 1, 0, -90}";
+transform = "{1, 0, 0, 1, 21, -90}";
+}
+);
+};
+components = (
+{
+alignment = -1;
+name = zero.dnom;
+transform = "{1, 0, 0, 1, 21, -90}";
 }
 );
 layerId = "927AED37-E9E6-4F96-A08E-421C3785EFC6";
-width = 429;
+width = 471;
 }
 );
 leftKerningGroup = zero.sinf;
@@ -102687,24 +102710,44 @@ unicode = 2080;
 glyphname = oneinferior;
 layers = (
 {
+background = {
 components = (
 {
+alignment = -1;
 name = one.dnom;
-transform = "{1, 0, 0, 1, 0, -90}";
+transform = "{1, 0, 0, 1, 1, -90}";
+}
+);
+};
+components = (
+{
+alignment = -1;
+name = one.dnom;
+transform = "{1, 0, 0, 1, 1, -90}";
 }
 );
 layerId = "075BA79B-D813-4287-A9DD-CCAF2D535ED3";
-width = 258;
+width = 253;
 },
 {
+background = {
 components = (
 {
+alignment = -1;
 name = one.dnom;
-transform = "{1, 0, 0, 1, 0, -90}";
+transform = "{1, 0, 0, 1, 8, -90}";
+}
+);
+};
+components = (
+{
+alignment = -1;
+name = one.dnom;
+transform = "{1, 0, 0, 1, 8, -90}";
 }
 );
 layerId = "927AED37-E9E6-4F96-A08E-421C3785EFC6";
-width = 312;
+width = 323;
 }
 );
 leftKerningGroup = one.sinf;
@@ -102717,24 +102760,44 @@ unicode = 2081;
 glyphname = twoinferior;
 layers = (
 {
+background = {
 components = (
 {
+alignment = -1;
 name = two.dnom;
-transform = "{1, 0, 0, 1, 0, -90}";
+transform = "{1, 0, 0, 1, 11, -90}";
+}
+);
+};
+components = (
+{
+alignment = -1;
+name = two.dnom;
+transform = "{1, 0, 0, 1, 11, -90}";
 }
 );
 layerId = "075BA79B-D813-4287-A9DD-CCAF2D535ED3";
-width = 342;
+width = 362;
 },
 {
+background = {
 components = (
 {
+alignment = -1;
 name = two.dnom;
-transform = "{1, 0, 0, 1, 0, -90}";
+transform = "{1, 0, 0, 1, 10, -90}";
+}
+);
+};
+components = (
+{
+alignment = -1;
+name = two.dnom;
+transform = "{1, 0, 0, 1, 10, -90}";
 }
 );
 layerId = "927AED37-E9E6-4F96-A08E-421C3785EFC6";
-width = 381;
+width = 396;
 }
 );
 leftKerningGroup = two.sinf;
@@ -102747,24 +102810,44 @@ unicode = 2082;
 glyphname = threeinferior;
 layers = (
 {
+background = {
 components = (
 {
+alignment = -1;
 name = three.dnom;
-transform = "{1, 0, 0, 1, 0, -90}";
+transform = "{1, 0, 0, 1, 11, -90}";
+}
+);
+};
+components = (
+{
+alignment = -1;
+name = three.dnom;
+transform = "{1, 0, 0, 1, 11, -90}";
 }
 );
 layerId = "075BA79B-D813-4287-A9DD-CCAF2D535ED3";
-width = 362;
+width = 398;
 },
 {
+background = {
 components = (
 {
+alignment = -1;
 name = three.dnom;
-transform = "{1, 0, 0, 1, 0, -90}";
+transform = "{1, 0, 0, 1, 11, -90}";
+}
+);
+};
+components = (
+{
+alignment = -1;
+name = three.dnom;
+transform = "{1, 0, 0, 1, 11, -90}";
 }
 );
 layerId = "927AED37-E9E6-4F96-A08E-421C3785EFC6";
-width = 378;
+width = 401;
 }
 );
 leftKerningGroup = three.sinf;
@@ -102777,24 +102860,44 @@ unicode = 2083;
 glyphname = fourinferior;
 layers = (
 {
+background = {
 components = (
 {
+alignment = -1;
 name = four.dnom;
-transform = "{1, 0, 0, 1, 0, -90}";
+transform = "{1, 0, 0, 1, 15, -90}";
+}
+);
+};
+components = (
+{
+alignment = -1;
+name = four.dnom;
+transform = "{1, 0, 0, 1, 15, -90}";
 }
 );
 layerId = "075BA79B-D813-4287-A9DD-CCAF2D535ED3";
-width = 340;
+width = 349;
 },
 {
+background = {
 components = (
 {
+alignment = -1;
 name = four.dnom;
-transform = "{1, 0, 0, 1, 0, -90}";
+transform = "{1, 0, 0, 1, 17, -90}";
+}
+);
+};
+components = (
+{
+alignment = -1;
+name = four.dnom;
+transform = "{1, 0, 0, 1, 17, -90}";
 }
 );
 layerId = "927AED37-E9E6-4F96-A08E-421C3785EFC6";
-width = 397;
+width = 413;
 }
 );
 leftKerningGroup = four.sinf;
@@ -102807,24 +102910,44 @@ unicode = 2084;
 glyphname = fiveinferior;
 layers = (
 {
+background = {
 components = (
 {
+alignment = -1;
 name = five.dnom;
-transform = "{1, 0, 0, 1, 0, -90}";
+transform = "{1, 0, 0, 1, 7, -90}";
+}
+);
+};
+components = (
+{
+alignment = -1;
+name = five.dnom;
+transform = "{1, 0, 0, 1, 7, -90}";
 }
 );
 layerId = "075BA79B-D813-4287-A9DD-CCAF2D535ED3";
-width = 350;
+width = 368;
 },
 {
+background = {
 components = (
 {
+alignment = -1;
 name = five.dnom;
-transform = "{1, 0, 0, 1, 0, -90}";
+transform = "{1, 0, 0, 1, 1, -90}";
+}
+);
+};
+components = (
+{
+alignment = -1;
+name = five.dnom;
+transform = "{1, 0, 0, 1, 1, -90}";
 }
 );
 layerId = "927AED37-E9E6-4F96-A08E-421C3785EFC6";
-width = 379;
+width = 391;
 }
 );
 leftKerningGroup = five.sinf;
@@ -102837,24 +102960,44 @@ unicode = 2085;
 glyphname = sixinferior;
 layers = (
 {
+background = {
 components = (
 {
+alignment = -1;
 name = six.dnom;
-transform = "{1, 0, 0, 1, 0, -90}";
+transform = "{1, 0, 0, 1, 24, -90}";
+}
+);
+};
+components = (
+{
+alignment = -1;
+name = six.dnom;
+transform = "{1, 0, 0, 1, 24, -90}";
 }
 );
 layerId = "075BA79B-D813-4287-A9DD-CCAF2D535ED3";
-width = 373;
+width = 409;
 },
 {
+background = {
 components = (
 {
+alignment = -1;
 name = six.dnom;
-transform = "{1, 0, 0, 1, 0, -90}";
+transform = "{1, 0, 0, 1, 20, -90}";
+}
+);
+};
+components = (
+{
+alignment = -1;
+name = six.dnom;
+transform = "{1, 0, 0, 1, 20, -90}";
 }
 );
 layerId = "927AED37-E9E6-4F96-A08E-421C3785EFC6";
-width = 385;
+width = 415;
 }
 );
 leftKerningGroup = six.sinf;
@@ -102867,24 +103010,44 @@ unicode = 2086;
 glyphname = seveninferior;
 layers = (
 {
+background = {
 components = (
 {
+alignment = -1;
 name = seven.dnom;
-transform = "{1, 0, 0, 1, 0, -90}";
+transform = "{1, 0, 0, 1, 8, -90}";
+}
+);
+};
+components = (
+{
+alignment = -1;
+name = seven.dnom;
+transform = "{1, 0, 0, 1, 8, -90}";
 }
 );
 layerId = "075BA79B-D813-4287-A9DD-CCAF2D535ED3";
-width = 287;
+width = 305;
 },
 {
+background = {
 components = (
 {
+alignment = -1;
 name = seven.dnom;
-transform = "{1, 0, 0, 1, 0, -90}";
+transform = "{1, 0, 0, 1, 16, -90}";
+}
+);
+};
+components = (
+{
+alignment = -1;
+name = seven.dnom;
+transform = "{1, 0, 0, 1, 16, -90}";
 }
 );
 layerId = "927AED37-E9E6-4F96-A08E-421C3785EFC6";
-width = 348;
+width = 383;
 }
 );
 leftKerningGroup = seven.sinf;
@@ -102897,24 +103060,44 @@ unicode = 2087;
 glyphname = eightinferior;
 layers = (
 {
+background = {
 components = (
 {
+alignment = -1;
 name = eight.dnom;
-transform = "{1, 0, 0, 1, 0, -90}";
+transform = "{1, 0, 0, 1, 22, -90}";
+}
+);
+};
+components = (
+{
+alignment = -1;
+name = eight.dnom;
+transform = "{1, 0, 0, 1, 22, -90}";
 }
 );
 layerId = "075BA79B-D813-4287-A9DD-CCAF2D535ED3";
-width = 389;
+width = 436;
 },
 {
+background = {
 components = (
 {
+alignment = -1;
 name = eight.dnom;
-transform = "{1, 0, 0, 1, 0, -90}";
+transform = "{1, 0, 0, 1, 13, -90}";
+}
+);
+};
+components = (
+{
+alignment = -1;
+name = eight.dnom;
+transform = "{1, 0, 0, 1, 13, -90}";
 }
 );
 layerId = "927AED37-E9E6-4F96-A08E-421C3785EFC6";
-width = 392;
+width = 417;
 }
 );
 leftKerningGroup = eight.sinf;
@@ -102927,24 +103110,44 @@ unicode = 2088;
 glyphname = nineinferior;
 layers = (
 {
+background = {
 components = (
 {
+alignment = -1;
 name = nine.dnom;
-transform = "{1, 0, 0, 1, 0, -90}";
+transform = "{1, 0, 0, 1, 13, -90}";
+}
+);
+};
+components = (
+{
+alignment = -1;
+name = nine.dnom;
+transform = "{1, 0, 0, 1, 13, -90}";
 }
 );
 layerId = "075BA79B-D813-4287-A9DD-CCAF2D535ED3";
-width = 373;
+width = 409;
 },
 {
+background = {
 components = (
 {
+alignment = -1;
 name = nine.dnom;
-transform = "{1, 0, 0, 1, 0, -90}";
+transform = "{1, 0, 0, 1, 10, -90}";
+}
+);
+};
+components = (
+{
+alignment = -1;
+name = nine.dnom;
+transform = "{1, 0, 0, 1, 10, -90}";
 }
 );
 layerId = "927AED37-E9E6-4F96-A08E-421C3785EFC6";
-width = 385;
+width = 415;
 }
 );
 leftMetricsKey = nine;
@@ -102983,6 +103186,7 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = zero.dnom;
 transform = "{1, 0, 0, 1, 0, -90}";
 }
@@ -103045,6 +103249,7 @@ nodes = (
 };
 components = (
 {
+alignment = -1;
 name = zero.dnom;
 transform = "{1, 0, 0, 1, 0, -90}";
 }
@@ -103104,6 +103309,7 @@ nodes = (
 };
 components = (
 {
+alignment = -1;
 name = one.dnom;
 transform = "{1, 0, 0, 1, 0, -90}";
 }
@@ -103151,6 +103357,7 @@ nodes = (
 };
 components = (
 {
+alignment = -1;
 name = one.dnom;
 transform = "{1, 0, 0, 1, 0, -90}";
 }
@@ -103187,6 +103394,7 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = two.dnom;
 transform = "{1, 0, 0, 1, 0, -90}";
 }
@@ -103273,6 +103481,7 @@ nodes = (
 };
 components = (
 {
+alignment = -1;
 name = two.dnom;
 transform = "{1, 0, 0, 1, 0, -90}";
 }
@@ -103363,6 +103572,7 @@ nodes = (
 };
 components = (
 {
+alignment = -1;
 name = three.dnom;
 transform = "{1, 0, 0, 1, 0, -90}";
 }
@@ -103441,6 +103651,7 @@ nodes = (
 };
 components = (
 {
+alignment = -1;
 name = three.dnom;
 transform = "{1, 0, 0, 1, 0, -90}";
 }
@@ -103477,6 +103688,7 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = four.dnom;
 transform = "{1, 0, 0, 1, 0, -90}";
 }
@@ -103535,6 +103747,7 @@ nodes = (
 };
 components = (
 {
+alignment = -1;
 name = four.dnom;
 transform = "{1, 0, 0, 1, 0, -90}";
 }
@@ -103641,6 +103854,7 @@ nodes = (
 };
 components = (
 {
+alignment = -1;
 name = five.dnom;
 transform = "{1, 0, 0, 1, 0, -90}";
 }
@@ -103702,6 +103916,7 @@ nodes = (
 };
 components = (
 {
+alignment = -1;
 name = five.dnom;
 transform = "{1, 0, 0, 1, 0, -90}";
 }
@@ -103788,6 +104003,7 @@ nodes = (
 };
 components = (
 {
+alignment = -1;
 name = six.dnom;
 transform = "{1, 0, 0, 1, 0, -90}";
 }
@@ -103859,6 +104075,7 @@ nodes = (
 };
 components = (
 {
+alignment = -1;
 name = six.dnom;
 transform = "{1, 0, 0, 1, 0, -90}";
 }
@@ -103915,6 +104132,7 @@ nodes = (
 };
 components = (
 {
+alignment = -1;
 name = seven.dnom;
 transform = "{1, 0, 0, 1, 0, -90}";
 }
@@ -103959,6 +104177,7 @@ nodes = (
 };
 components = (
 {
+alignment = -1;
 name = seven.dnom;
 transform = "{1, 0, 0, 1, 0, -90}";
 }
@@ -104048,6 +104267,7 @@ nodes = (
 };
 components = (
 {
+alignment = -1;
 name = eight.dnom;
 transform = "{1, 0, 0, 1, 0, -90}";
 }
@@ -104125,6 +104345,7 @@ nodes = (
 };
 components = (
 {
+alignment = -1;
 name = eight.dnom;
 transform = "{1, 0, 0, 1, 0, -90}";
 }
@@ -104214,6 +104435,7 @@ nodes = (
 };
 components = (
 {
+alignment = -1;
 name = nine.dnom;
 transform = "{1, 0, 0, 1, 0, -90}";
 }
@@ -104285,6 +104507,7 @@ nodes = (
 };
 components = (
 {
+alignment = -1;
 name = nine.dnom;
 transform = "{1, 0, 0, 1, 0, -90}";
 }
@@ -106177,6 +106400,7 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = zero.dnom;
 transform = "{1, 0, 0, 1, 0, 276}";
 }
@@ -106192,6 +106416,7 @@ width = 410;
 {
 components = (
 {
+alignment = -1;
 name = zero.dnom;
 transform = "{1, 0, 0, 1, 0, 276}";
 }
@@ -106214,6 +106439,7 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = one.dnom;
 transform = "{1, 0, 0, 1, 0, 276}";
 }
@@ -106224,6 +106450,7 @@ width = 258;
 {
 components = (
 {
+alignment = -1;
 name = one.dnom;
 transform = "{1, 0, 0, 1, 0, 276}";
 }
@@ -106241,6 +106468,7 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = two.dnom;
 transform = "{1, 0, 0, 1, 0, 276}";
 }
@@ -106251,6 +106479,7 @@ width = 342;
 {
 components = (
 {
+alignment = -1;
 name = two.dnom;
 transform = "{1, 0, 0, 1, 0, 276}";
 }
@@ -106268,6 +106497,7 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = three.dnom;
 transform = "{1, 0, 0, 1, 0, 276}";
 }
@@ -106278,6 +106508,7 @@ width = 362;
 {
 components = (
 {
+alignment = -1;
 name = three.dnom;
 transform = "{1, 0, 0, 1, 0, 276}";
 }
@@ -106295,6 +106526,7 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = four.dnom;
 transform = "{1, 0, 0, 1, 0, 276}";
 }
@@ -106305,6 +106537,7 @@ width = 340;
 {
 components = (
 {
+alignment = -1;
 name = four.dnom;
 transform = "{1, 0, 0, 1, 0, 276}";
 }
@@ -106322,6 +106555,7 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = five.dnom;
 transform = "{1, 0, 0, 1, 0, 276}";
 }
@@ -106332,6 +106566,7 @@ width = 350;
 {
 components = (
 {
+alignment = -1;
 name = five.dnom;
 transform = "{1, 0, 0, 1, 0, 276}";
 }
@@ -106349,6 +106584,7 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = six.dnom;
 transform = "{1, 0, 0, 1, 0, 276}";
 }
@@ -106359,6 +106595,7 @@ width = 373;
 {
 components = (
 {
+alignment = -1;
 name = six.dnom;
 transform = "{1, 0, 0, 1, 0, 276}";
 }
@@ -106376,6 +106613,7 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = seven.dnom;
 transform = "{1, 0, 0, 1, 0, 276}";
 }
@@ -106386,6 +106624,7 @@ width = 287;
 {
 components = (
 {
+alignment = -1;
 name = seven.dnom;
 transform = "{1, 0, 0, 1, 0, 276}";
 }
@@ -106403,6 +106642,7 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = eight.dnom;
 transform = "{1, 0, 0, 1, 0, 276}";
 }
@@ -106413,6 +106653,7 @@ width = 389;
 {
 components = (
 {
+alignment = -1;
 name = eight.dnom;
 transform = "{1, 0, 0, 1, 0, 276}";
 }
@@ -106430,6 +106671,7 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = nine.dnom;
 transform = "{1, 0, 0, 1, 0, 276}";
 }
@@ -106440,6 +106682,7 @@ width = 373;
 {
 components = (
 {
+alignment = -1;
 name = nine.dnom;
 transform = "{1, 0, 0, 1, 0, 276}";
 }
@@ -106455,24 +106698,44 @@ rightKerningGroup = nine.numr;
 glyphname = zerosuperior;
 layers = (
 {
+background = {
 components = (
 {
+alignment = -1;
 name = zero.dnom;
-transform = "{1, 0, 0, 1, 0, 346}";
+transform = "{1, 0, 0, 1, 25, 346}";
+}
+);
+};
+components = (
+{
+alignment = -1;
+name = zero.dnom;
+transform = "{1, 0, 0, 1, 25, 346}";
 }
 );
 layerId = "075BA79B-D813-4287-A9DD-CCAF2D535ED3";
-width = 410;
+width = 461;
 },
 {
+background = {
 components = (
 {
+alignment = -1;
 name = zero.dnom;
-transform = "{1, 0, 0, 1, 0, 345}";
+transform = "{1, 0, 0, 1, 21, 345}";
+}
+);
+};
+components = (
+{
+alignment = -1;
+name = zero.dnom;
+transform = "{1, 0, 0, 1, 21, 345}";
 }
 );
 layerId = "927AED37-E9E6-4F96-A08E-421C3785EFC6";
-width = 429;
+width = 471;
 }
 );
 leftKerningGroup = zero.numr;
@@ -106485,8 +106748,18 @@ unicode = 2070;
 glyphname = onesuperior;
 layers = (
 {
+background = {
 components = (
 {
+alignment = -1;
+name = one.dnom;
+transform = "{1, 0, 0, 1, 0, 346}";
+}
+);
+};
+components = (
+{
+alignment = -1;
 name = one.dnom;
 transform = "{1, 0, 0, 1, 0, 346}";
 }
@@ -106495,8 +106768,18 @@ layerId = "075BA79B-D813-4287-A9DD-CCAF2D535ED3";
 width = 258;
 },
 {
+background = {
 components = (
 {
+alignment = -1;
+name = one.dnom;
+transform = "{1, 0, 0, 1, 0, 345}";
+}
+);
+};
+components = (
+{
+alignment = -1;
 name = one.dnom;
 transform = "{1, 0, 0, 1, 0, 345}";
 }
@@ -106513,8 +106796,18 @@ unicode = 00B9;
 glyphname = twosuperior;
 layers = (
 {
+background = {
 components = (
 {
+alignment = -1;
+name = two.dnom;
+transform = "{1, 0, 0, 1, 0, 346}";
+}
+);
+};
+components = (
+{
+alignment = -1;
 name = two.dnom;
 transform = "{1, 0, 0, 1, 0, 346}";
 }
@@ -106523,8 +106816,18 @@ layerId = "075BA79B-D813-4287-A9DD-CCAF2D535ED3";
 width = 342;
 },
 {
+background = {
 components = (
 {
+alignment = -1;
+name = two.dnom;
+transform = "{1, 0, 0, 1, 0, 345}";
+}
+);
+};
+components = (
+{
+alignment = -1;
 name = two.dnom;
 transform = "{1, 0, 0, 1, 0, 345}";
 }
@@ -106541,8 +106844,18 @@ unicode = 00B2;
 glyphname = threesuperior;
 layers = (
 {
+background = {
 components = (
 {
+alignment = -1;
+name = three.dnom;
+transform = "{1, 0, 0, 1, 0, 346}";
+}
+);
+};
+components = (
+{
+alignment = -1;
 name = three.dnom;
 transform = "{1, 0, 0, 1, 0, 346}";
 }
@@ -106551,8 +106864,18 @@ layerId = "075BA79B-D813-4287-A9DD-CCAF2D535ED3";
 width = 362;
 },
 {
+background = {
 components = (
 {
+alignment = -1;
+name = three.dnom;
+transform = "{1, 0, 0, 1, 0, 345}";
+}
+);
+};
+components = (
+{
+alignment = -1;
 name = three.dnom;
 transform = "{1, 0, 0, 1, 0, 345}";
 }
@@ -106569,8 +106892,18 @@ unicode = 00B3;
 glyphname = foursuperior;
 layers = (
 {
+background = {
 components = (
 {
+alignment = -1;
+name = four.dnom;
+transform = "{1, 0, 0, 1, 0, 346}";
+}
+);
+};
+components = (
+{
+alignment = -1;
 name = four.dnom;
 transform = "{1, 0, 0, 1, 0, 346}";
 }
@@ -106579,8 +106912,18 @@ layerId = "075BA79B-D813-4287-A9DD-CCAF2D535ED3";
 width = 340;
 },
 {
+background = {
 components = (
 {
+alignment = -1;
+name = four.dnom;
+transform = "{1, 0, 0, 1, 0, 345}";
+}
+);
+};
+components = (
+{
+alignment = -1;
 name = four.dnom;
 transform = "{1, 0, 0, 1, 0, 345}";
 }
@@ -106597,24 +106940,44 @@ unicode = 2074;
 glyphname = fivesuperior;
 layers = (
 {
+background = {
 components = (
 {
+alignment = -1;
 name = five.dnom;
-transform = "{1, 0, 0, 1, 0, 346}";
+transform = "{1, 0, 0, 1, 7, 346}";
+}
+);
+};
+components = (
+{
+alignment = -1;
+name = five.dnom;
+transform = "{1, 0, 0, 1, 7, 346}";
 }
 );
 layerId = "075BA79B-D813-4287-A9DD-CCAF2D535ED3";
-width = 350;
+width = 368;
 },
 {
+background = {
 components = (
 {
+alignment = -1;
 name = five.dnom;
-transform = "{1, 0, 0, 1, 0, 345}";
+transform = "{1, 0, 0, 1, 1, 345}";
+}
+);
+};
+components = (
+{
+alignment = -1;
+name = five.dnom;
+transform = "{1, 0, 0, 1, 1, 345}";
 }
 );
 layerId = "927AED37-E9E6-4F96-A08E-421C3785EFC6";
-width = 379;
+width = 391;
 }
 );
 leftKerningGroup = five.numr;
@@ -106627,24 +106990,44 @@ unicode = 2075;
 glyphname = sixsuperior;
 layers = (
 {
+background = {
 components = (
 {
+alignment = -1;
 name = six.dnom;
-transform = "{1, 0, 0, 1, 0, 346}";
+transform = "{1, 0, 0, 1, 24, 346}";
+}
+);
+};
+components = (
+{
+alignment = -1;
+name = six.dnom;
+transform = "{1, 0, 0, 1, 24, 346}";
 }
 );
 layerId = "075BA79B-D813-4287-A9DD-CCAF2D535ED3";
-width = 373;
+width = 409;
 },
 {
+background = {
 components = (
 {
+alignment = -1;
 name = six.dnom;
-transform = "{1, 0, 0, 1, 0, 345}";
+transform = "{1, 0, 0, 1, 20, 345}";
+}
+);
+};
+components = (
+{
+alignment = -1;
+name = six.dnom;
+transform = "{1, 0, 0, 1, 20, 345}";
 }
 );
 layerId = "927AED37-E9E6-4F96-A08E-421C3785EFC6";
-width = 385;
+width = 415;
 }
 );
 leftKerningGroup = six.numr;
@@ -106657,24 +107040,44 @@ unicode = 2076;
 glyphname = sevensuperior;
 layers = (
 {
+background = {
 components = (
 {
+alignment = -1;
 name = seven.dnom;
-transform = "{1, 0, 0, 1, 0, 346}";
+transform = "{1, 0, 0, 1, 8, 346}";
+}
+);
+};
+components = (
+{
+alignment = -1;
+name = seven.dnom;
+transform = "{1, 0, 0, 1, 8, 346}";
 }
 );
 layerId = "075BA79B-D813-4287-A9DD-CCAF2D535ED3";
-width = 287;
+width = 305;
 },
 {
+background = {
 components = (
 {
+alignment = -1;
 name = seven.dnom;
-transform = "{1, 0, 0, 1, 0, 345}";
+transform = "{1, 0, 0, 1, 16, 345}";
+}
+);
+};
+components = (
+{
+alignment = -1;
+name = seven.dnom;
+transform = "{1, 0, 0, 1, 16, 345}";
 }
 );
 layerId = "927AED37-E9E6-4F96-A08E-421C3785EFC6";
-width = 348;
+width = 383;
 }
 );
 leftKerningGroup = seven.numr;
@@ -106687,24 +107090,44 @@ unicode = 2077;
 glyphname = eightsuperior;
 layers = (
 {
+background = {
 components = (
 {
+alignment = -1;
 name = eight.dnom;
-transform = "{1, 0, 0, 1, 0, 346}";
+transform = "{1, 0, 0, 1, 22, 346}";
+}
+);
+};
+components = (
+{
+alignment = -1;
+name = eight.dnom;
+transform = "{1, 0, 0, 1, 22, 346}";
 }
 );
 layerId = "075BA79B-D813-4287-A9DD-CCAF2D535ED3";
-width = 389;
+width = 436;
 },
 {
+background = {
 components = (
 {
+alignment = -1;
 name = eight.dnom;
-transform = "{1, 0, 0, 1, 0, 345}";
+transform = "{1, 0, 0, 1, 13, 345}";
+}
+);
+};
+components = (
+{
+alignment = -1;
+name = eight.dnom;
+transform = "{1, 0, 0, 1, 13, 345}";
 }
 );
 layerId = "927AED37-E9E6-4F96-A08E-421C3785EFC6";
-width = 392;
+width = 417;
 }
 );
 leftKerningGroup = eight.numr;
@@ -106717,24 +107140,44 @@ unicode = 2078;
 glyphname = ninesuperior;
 layers = (
 {
+background = {
 components = (
 {
+alignment = -1;
 name = nine.dnom;
-transform = "{1, 0, 0, 1, 0, 346}";
+transform = "{1, 0, 0, 1, 13, 346}";
+}
+);
+};
+components = (
+{
+alignment = -1;
+name = nine.dnom;
+transform = "{1, 0, 0, 1, 13, 346}";
 }
 );
 layerId = "075BA79B-D813-4287-A9DD-CCAF2D535ED3";
-width = 373;
+width = 409;
 },
 {
+background = {
 components = (
 {
+alignment = -1;
 name = nine.dnom;
-transform = "{1, 0, 0, 1, 0, 345}";
+transform = "{1, 0, 0, 1, 10, 345}";
+}
+);
+};
+components = (
+{
+alignment = -1;
+name = nine.dnom;
+transform = "{1, 0, 0, 1, 10, 345}";
 }
 );
 layerId = "927AED37-E9E6-4F96-A08E-421C3785EFC6";
-width = 385;
+width = 415;
 }
 );
 leftKerningGroup = nine.numr;
@@ -106749,6 +107192,7 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = zero.dnom;
 transform = "{1, 0, 0, 1, 0, 346}";
 }
@@ -106759,6 +107203,7 @@ width = 410;
 {
 components = (
 {
+alignment = -1;
 name = zero.dnom;
 transform = "{1, 0, 0, 1, 0, 345}";
 }
@@ -106776,6 +107221,7 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = one.dnom;
 transform = "{1, 0, 0, 1, 0, 346}";
 }
@@ -106791,6 +107237,7 @@ width = 258;
 {
 components = (
 {
+alignment = -1;
 name = one.dnom;
 transform = "{1, 0, 0, 1, 0, 345}";
 }
@@ -106813,6 +107260,7 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = two.dnom;
 transform = "{1, 0, 0, 1, 0, 346}";
 }
@@ -106823,6 +107271,7 @@ width = 342;
 {
 components = (
 {
+alignment = -1;
 name = two.dnom;
 transform = "{1, 0, 0, 1, 0, 345}";
 }
@@ -106840,6 +107289,7 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = three.dnom;
 transform = "{1, 0, 0, 1, 0, 346}";
 }
@@ -106850,6 +107300,7 @@ width = 362;
 {
 components = (
 {
+alignment = -1;
 name = three.dnom;
 transform = "{1, 0, 0, 1, 0, 345}";
 }
@@ -106867,6 +107318,7 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = four.dnom;
 transform = "{1, 0, 0, 1, 0, 346}";
 }
@@ -106877,6 +107329,7 @@ width = 340;
 {
 components = (
 {
+alignment = -1;
 name = four.dnom;
 transform = "{1, 0, 0, 1, 0, 345}";
 }
@@ -106894,6 +107347,7 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = five.dnom;
 transform = "{1, 0, 0, 1, 0, 346}";
 }
@@ -106904,6 +107358,7 @@ width = 350;
 {
 components = (
 {
+alignment = -1;
 name = five.dnom;
 transform = "{1, 0, 0, 1, 0, 345}";
 }
@@ -106921,6 +107376,7 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = six.dnom;
 transform = "{1, 0, 0, 1, 0, 346}";
 }
@@ -106931,6 +107387,7 @@ width = 373;
 {
 components = (
 {
+alignment = -1;
 name = six.dnom;
 transform = "{1, 0, 0, 1, 0, 345}";
 }
@@ -106948,6 +107405,7 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = seven.dnom;
 transform = "{1, 0, 0, 1, 0, 346}";
 }
@@ -106958,6 +107416,7 @@ width = 287;
 {
 components = (
 {
+alignment = -1;
 name = seven.dnom;
 transform = "{1, 0, 0, 1, 0, 345}";
 }
@@ -106975,6 +107434,7 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = eight.dnom;
 transform = "{1, 0, 0, 1, 0, 346}";
 }
@@ -106985,6 +107445,7 @@ width = 389;
 {
 components = (
 {
+alignment = -1;
 name = eight.dnom;
 transform = "{1, 0, 0, 1, 0, 345}";
 }
@@ -107002,6 +107463,7 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = nine.dnom;
 transform = "{1, 0, 0, 1, 0, 346}";
 }
@@ -107012,6 +107474,7 @@ width = 373;
 {
 components = (
 {
+alignment = -1;
 name = nine.dnom;
 transform = "{1, 0, 0, 1, 0, 345}";
 }
@@ -108334,32 +108797,32 @@ paths = (
 {
 closed = 1;
 nodes = (
-"268 268 LINE",
-"267 273 OFFCURVE",
-"267 278 OFFCURVE",
-"267 282 CURVE SMOOTH",
-"267 391 OFFCURVE",
-"467 394 OFFCURVE",
-"467 564 CURVE SMOOTH",
-"467 683 OFFCURVE",
-"369 728 OFFCURVE",
-"247 728 CURVE SMOOTH",
-"170 728 OFFCURVE",
-"85 710 OFFCURVE",
-"6 677 CURVE",
-"48 549 LINE",
-"95 565 OFFCURVE",
-"148 579 OFFCURVE",
-"188 579 CURVE SMOOTH",
-"231 579 OFFCURVE",
-"261 563 OFFCURVE",
-"261 528 CURVE SMOOTH",
-"261 447 OFFCURVE",
-"106 453 OFFCURVE",
-"106 320 CURVE SMOOTH",
-"106 302 OFFCURVE",
-"109 282 OFFCURVE",
-"115 260 CURVE"
+"268 265 LINE",
+"267 270 OFFCURVE",
+"267 275 OFFCURVE",
+"267 279 CURVE SMOOTH",
+"267 388 OFFCURVE",
+"467 391 OFFCURVE",
+"467 561 CURVE SMOOTH",
+"467 680 OFFCURVE",
+"369 725 OFFCURVE",
+"247 725 CURVE SMOOTH",
+"170 725 OFFCURVE",
+"85 707 OFFCURVE",
+"6 674 CURVE",
+"48 546 LINE",
+"95 562 OFFCURVE",
+"148 576 OFFCURVE",
+"188 576 CURVE SMOOTH",
+"231 576 OFFCURVE",
+"261 560 OFFCURVE",
+"261 525 CURVE SMOOTH",
+"261 444 OFFCURVE",
+"106 450 OFFCURVE",
+"106 317 CURVE SMOOTH",
+"106 299 OFFCURVE",
+"109 279 OFFCURVE",
+"115 257 CURVE"
 );
 },
 {
@@ -109574,7 +110037,7 @@ transform = "{1, 0, 0, 1, 0, 194}";
 components = (
 {
 name = exclamdown;
-transform = "{1, 0, 0, 1, 0, 194}";
+transform = "{1, 0, 0, 1, 0, 230}";
 }
 );
 layerId = "075BA79B-D813-4287-A9DD-CCAF2D535ED3";
@@ -109585,14 +110048,14 @@ background = {
 components = (
 {
 name = exclamdown;
-transform = "{1, 0, 0, 1, 0, 195}";
+transform = "{1, 0, 0, 1, 0, 170}";
 }
 );
 };
 components = (
 {
 name = exclamdown;
-transform = "{1, 0, 0, 1, 0, 195}";
+transform = "{1, 0, 0, 1, 0, 170}";
 }
 );
 layerId = "927AED37-E9E6-4F96-A08E-421C3785EFC6";
@@ -112690,6 +113153,7 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = exclam.sc;
 transform = "{-1, 0, 0, -1, 270, 562}";
 }
@@ -112700,6 +113164,7 @@ width = 270;
 {
 components = (
 {
+alignment = -1;
 name = exclam.sc;
 transform = "{-1, 0, 0, -1, 280, 591}";
 }
@@ -112878,7 +113343,7 @@ layers = (
 {
 components = (
 {
-alignment = 1;
+alignment = -1;
 name = question.sc;
 transform = "{-1, 0, 0, -1, 347, 568}";
 }
@@ -112889,6 +113354,7 @@ width = 347;
 {
 components = (
 {
+alignment = -1;
 name = question.sc;
 transform = "{-1, 0, 0, -1, 429, 591}";
 }
@@ -113087,6 +113553,7 @@ transform = "{1, 0, 0, 1, -60, 20}";
 };
 components = (
 {
+alignment = -1;
 name = periodcentered.sc;
 transform = "{1, 0, 0, 1, -60, -40}";
 }
@@ -113102,6 +113569,7 @@ width = 90;
 {
 components = (
 {
+alignment = -1;
 name = periodcentered.sc;
 transform = "{1, 0, 0, 1, -43, 34}";
 }
@@ -135312,6 +135780,7 @@ nodes = (
 };
 components = (
 {
+alignment = -1;
 name = circumflexcomb.case;
 transform = "{-1, 0, 0, -1, 437, 1614}";
 }
@@ -135372,6 +135841,7 @@ nodes = (
 };
 components = (
 {
+alignment = -1;
 name = circumflexcomb.case;
 transform = "{-1, 0, 0, -1, 507, 1742}";
 }
@@ -138362,6 +138832,7 @@ transform = "{1, 0, 0, 1, -4, -50}";
 };
 components = (
 {
+alignment = -1;
 name = brevecomb.case;
 transform = "{1, 0, 0, 1, 29, -163}";
 },
@@ -138410,6 +138881,7 @@ transform = "{1, 0, 0, 1, -7, 32}";
 };
 components = (
 {
+alignment = -1;
 name = brevecomb.case;
 transform = "{1, 0, 0, 1, 29, -184}";
 },
@@ -139268,6 +139740,7 @@ transform = "{1, 0, 0, 1, -3, 80}";
 };
 components = (
 {
+alignment = -1;
 name = brevecomb.case;
 transform = "{1, 0, 0, 1, 28, -20}";
 },
@@ -139338,6 +139811,7 @@ transform = "{1, 0, 0, 1, -7, 179}";
 };
 components = (
 {
+alignment = -1;
 name = brevecomb.case;
 transform = "{1, 0, 0, 1, 29, -30}";
 },
@@ -139555,6 +140029,7 @@ transform = "{1, 0, 0, 1, 104, 144}";
 };
 components = (
 {
+alignment = -1;
 name = circumflexcomb.case;
 transform = "{1, 0, 0, 1, 20, -10}";
 },
@@ -139592,6 +140067,7 @@ position = "{250, 950}";
 );
 components = (
 {
+alignment = -1;
 name = circumflexcomb.case;
 transform = "{1, 0, 0, 1, -4, -20}";
 },
@@ -139643,6 +140119,7 @@ transform = "{1, 0, 0, 1, 197, 89}";
 };
 components = (
 {
+alignment = -1;
 name = circumflexcomb.case;
 transform = "{1, 0, 0, 1, 20, -15}";
 },
@@ -139717,6 +140194,7 @@ nodes = (
 };
 components = (
 {
+alignment = -1;
 name = circumflexcomb.case;
 transform = "{1, 0, 0, 1, -4, -20}";
 },
@@ -139782,6 +140260,7 @@ transform = "{1, 0, 0, 1, -1, 100}";
 };
 components = (
 {
+alignment = -1;
 name = circumflexcomb.case;
 transform = "{1, 0, 0, 1, 22, -10}";
 },
@@ -139876,6 +140355,7 @@ nodes = (
 };
 components = (
 {
+alignment = -1;
 name = circumflexcomb.case;
 transform = "{1, 0, 0, 1, -4, -20}";
 },
@@ -141530,6 +142010,7 @@ position = "{242, 540}";
 );
 components = (
 {
+alignment = -1;
 name = tildecomb.case;
 transform = "{1, 0, 0, 1, -1, -200}";
 },
@@ -142244,6 +142725,7 @@ position = "{241, 710}";
 );
 components = (
 {
+alignment = -1;
 name = tildecomb.case;
 transform = "{1, 0, 0, 1, -1, -34}";
 },
@@ -143850,7 +144332,6 @@ itilde = 10;
 "@MMK_R_z" = -15;
 };
 "@MMK_L_L" = {
-"@MMK_R_A" = -25;
 "@MMK_R_J" = -20;
 "@MMK_R_O" = -50;
 "@MMK_R_S" = -50;
@@ -145477,7 +145958,7 @@ itilde = 30;
 "yi-cy" = 30;
 };
 "@MMK_L_L" = {
-"@MMK_R_A" = 5;
+"@MMK_R_A" = 10;
 "@MMK_R_O" = -15;
 "@MMK_R_S" = -25;
 "@MMK_R_T" = -70;
@@ -146271,6 +146752,7 @@ periodcentered.loclCAT.sc = -130;
 "@MMK_R_de-cy" = 15;
 "@MMK_R_el-cy" = 20;
 "@MMK_R_ereversed-cy" = 15;
+"@MMK_R_h" = 10;
 "@MMK_R_ia-cy" = 0;
 "@MMK_R_period" = 20;
 "@MMK_R_question" = -15;
