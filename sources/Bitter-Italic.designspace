@@ -238,7 +238,7 @@
         </dict>
       </lib>
     </instance>
-    <instance name="Bitter SemiBold Italic" familyname="Bitter" stylename="SemiBold Italic" filename="instance_ufos/Bitter-SemiBoldItalic.ufo" stylemapfamilyname="Bitter SemiBold " stylemapstylename="italic">
+    <instance name="Bitter SemiBold Italic" familyname="Bitter" stylename="SemiBold Italic" filename="instance_ufos/Bitter-SemiBoldItalic.ufo" stylemapfamilyname="Bitter SemiBold" stylemapstylename="italic">
       <location>
         <dimension name="Weight" xvalue="118"/>
       </location>
