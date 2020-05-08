@@ -15,6 +15,15 @@
         <string>characterSet</string>
       </dict>
     </array>
+    <key>com.github.googlei18n.ufo2ft.filters</key>
+    <array>
+      <dict>
+        <key>name</key>
+        <string>propagateAnchors</string>
+        <key>pre</key>
+        <true/>
+      </dict>
+    </array>
     <key>com.schriftgestaltung.Glyphs.glyphUserData.a.sc</key>
     <dict>
       <key>RMXScaler</key>
