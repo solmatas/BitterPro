@@ -30,8 +30,8 @@ ttfs=$(ls ../fonts/ttf/*.ttf)
 for ttf in $ttfs
 do
 	gftools fix-dsig -f $ttf;
-	python -m ttfautohint $ttf "$ttf.fix";
-	mv "$ttf.fix" $ttf;
+	# python -m ttfautohint $ttf "$ttf.fix";
+	# mv "$ttf.fix" $ttf;
 done
 
 vfs=$(ls ../fonts/variable/*.ttf)
@@ -40,8 +40,8 @@ echo "Post processing VFs"
 for vf in $vfs
 do
 	gftools fix-dsig -f $vf;
-	./ttfautohint-vf --stem-width-mode nnn $vf "$vf.fix";
-	mv "$vf.fix" $vf;
+	# ./ttfautohint-vf --stem-width-mode nnn $vf "$vf.fix";
+	# mv "$vf.fix" $vf;
 done
 
 echo "Fixing VF Meta"
@@ -62,7 +62,8 @@ done
 echo "Fixing Hinting"
 for vf in $vfs
 do
-	gftools fix-hinting $vf;
+	# gftools fix-hinting $vf;
+	gftools fix-nonhinting $vf $vf;
 	if [ -f "$vf.fix" ]; then mv "$vf.fix" $vf; fi
 	
 	
@@ -70,7 +71,8 @@ done
 
 for ttf in $ttfs
 do
-	gftools fix-hinting $ttf;
+	# gftools fix-hinting $ttf;
+	gftools fix-nonhinting $ttf $ttf;
 	if [ -f "$ttf.fix" ]; then mv "$ttf.fix" $ttf; fi
 done
 
