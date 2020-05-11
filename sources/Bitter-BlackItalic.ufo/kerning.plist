@@ -897,7 +897,7 @@
       <key>public.kern2.question</key>
       <integer>-50</integer>
       <key>public.kern2.quotedblleft</key>
-      <integer>-100</integer>
+      <integer>-60</integer>
       <key>public.kern2.slash</key>
       <integer>15</integer>
       <key>public.kern2.t</key>
@@ -1158,7 +1158,7 @@
       <key>public.kern2.o.sc</key>
       <integer>-20</integer>
       <key>public.kern2.period</key>
-      <integer>-120</integer>
+      <integer>-30</integer>
       <key>public.kern2.reversedze-cy</key>
       <integer>-35</integer>
       <key>public.kern2.s</key>
@@ -1584,7 +1584,7 @@
       <key>public.kern2.hyphen</key>
       <integer>-20</integer>
       <key>public.kern2.period</key>
-      <integer>-160</integer>
+      <integer>-10</integer>
       <key>public.kern2.question</key>
       <integer>-10</integer>
       <key>public.kern2.quotedblleft</key>
@@ -1817,7 +1817,7 @@
       <key>public.kern2.o.sc</key>
       <integer>-20</integer>
       <key>public.kern2.period</key>
-      <integer>-85</integer>
+      <integer>-25</integer>
       <key>public.kern2.quotedblleft</key>
       <integer>10</integer>
       <key>public.kern2.reversedze-cy</key>
@@ -2065,7 +2065,7 @@
       <key>public.kern2.p</key>
       <integer>-25</integer>
       <key>public.kern2.period</key>
-      <integer>-165</integer>
+      <integer>-75</integer>
       <key>public.kern2.question</key>
       <integer>10</integer>
       <key>public.kern2.quotedblleft</key>
@@ -2257,7 +2257,7 @@
       <key>public.kern2.o.sc</key>
       <integer>-25</integer>
       <key>public.kern2.period</key>
-      <integer>-100</integer>
+      <integer>-50</integer>
       <key>public.kern2.reversedze-cy</key>
       <integer>-45</integer>
       <key>public.kern2.s</key>
@@ -2978,7 +2978,11 @@
       <key>public.kern2.O</key>
       <integer>-35</integer>
       <key>public.kern2.T</key>
-      <integer>-75</integer>
+      <integer>-25</integer>
+      <key>public.kern2.V</key>
+      <integer>-70</integer>
+      <key>public.kern2.Y</key>
+      <integer>-50</integer>
       <key>public.kern2.che-cy</key>
       <integer>-110</integer>
       <key>public.kern2.four</key>
@@ -2992,17 +2996,17 @@
       <key>public.kern2.one</key>
       <integer>-10</integer>
       <key>public.kern2.quotedblleft</key>
-      <integer>-80</integer>
+      <integer>-40</integer>
       <key>public.kern2.seven</key>
-      <integer>-60</integer>
+      <integer>-30</integer>
       <key>public.kern2.six</key>
       <integer>-25</integer>
       <key>public.kern2.te-cy</key>
       <integer>-90</integer>
       <key>public.kern2.v</key>
-      <integer>-70</integer>
+      <integer>-35</integer>
       <key>public.kern2.y</key>
-      <integer>-70</integer>
+      <integer>-35</integer>
       <key>public.kern2.zero</key>
       <integer>-35</integer>
     </dict>
@@ -3055,7 +3059,7 @@
       <key>jcircumflex.sc</key>
       <integer>20</integer>
       <key>public.kern2.A</key>
-      <integer>-70</integer>
+      <integer>-60</integer>
       <key>public.kern2.De-cy</key>
       <integer>-70</integer>
       <key>public.kern2.El-cy</key>
@@ -3114,7 +3118,7 @@
       <key>public.kern2.n</key>
       <integer>10</integer>
       <key>public.kern2.period</key>
-      <integer>-80</integer>
+      <integer>-30</integer>
       <key>public.kern2.s</key>
       <integer>-10</integer>
       <key>public.kern2.slash</key>
@@ -3171,7 +3175,7 @@
       <key>public.kern2.one</key>
       <integer>20</integer>
       <key>public.kern2.period</key>
-      <integer>-110</integer>
+      <integer>-50</integer>
       <key>public.kern2.seven</key>
       <integer>10</integer>
       <key>public.kern2.six</key>
@@ -3468,7 +3472,7 @@
       <key>public.kern2.p</key>
       <integer>20</integer>
       <key>public.kern2.period</key>
-      <integer>-70</integer>
+      <integer>-30</integer>
       <key>public.kern2.s</key>
       <integer>-15</integer>
       <key>public.kern2.semisoftsign-cy</key>

@@ -652,7 +652,7 @@
       <key>public.kern2.o.sc</key>
       <integer>-35</integer>
       <key>public.kern2.period</key>
-      <integer>-100</integer>
+      <integer>-50</integer>
       <key>public.kern2.reversedze-cy</key>
       <integer>-45</integer>
       <key>public.kern2.s</key>
@@ -1195,7 +1195,7 @@
       <key>public.kern2.o.sc</key>
       <integer>-10</integer>
       <key>public.kern2.period</key>
-      <integer>-120</integer>
+      <integer>-50</integer>
       <key>public.kern2.question</key>
       <integer>-20</integer>
       <key>public.kern2.reversedze-cy</key>
@@ -1480,7 +1480,7 @@
       <key>public.kern2.o.sc</key>
       <integer>-25</integer>
       <key>public.kern2.period</key>
-      <integer>-70</integer>
+      <integer>-40</integer>
       <key>public.kern2.question</key>
       <integer>-20</integer>
       <key>public.kern2.quotedblleft</key>
@@ -1723,7 +1723,7 @@
       <key>public.kern2.p</key>
       <integer>-55</integer>
       <key>public.kern2.period</key>
-      <integer>-150</integer>
+      <integer>-60</integer>
       <key>public.kern2.question</key>
       <integer>-20</integer>
       <key>public.kern2.reversedze-cy</key>
@@ -1957,7 +1957,7 @@
       <key>public.kern2.o.sc</key>
       <integer>-70</integer>
       <key>public.kern2.period</key>
-      <integer>-130</integer>
+      <integer>-50</integer>
       <key>public.kern2.reversedze-cy</key>
       <integer>-85</integer>
       <key>public.kern2.s</key>
@@ -2628,7 +2628,11 @@
       <key>public.kern2.O</key>
       <integer>-45</integer>
       <key>public.kern2.T</key>
-      <integer>-70</integer>
+      <integer>-40</integer>
+      <key>public.kern2.V</key>
+      <integer>-50</integer>
+      <key>public.kern2.Y</key>
+      <integer>-50</integer>
       <key>public.kern2.che-cy</key>
       <integer>-70</integer>
       <key>public.kern2.de-cy</key>
@@ -2644,9 +2648,9 @@
       <key>public.kern2.one</key>
       <integer>-40</integer>
       <key>public.kern2.quotedblleft</key>
-      <integer>-90</integer>
-      <key>public.kern2.seven</key>
       <integer>-50</integer>
+      <key>public.kern2.seven</key>
+      <integer>-30</integer>
       <key>public.kern2.six</key>
       <integer>-20</integer>
       <key>public.kern2.te-cy</key>
@@ -2654,9 +2658,9 @@
       <key>public.kern2.two</key>
       <integer>10</integer>
       <key>public.kern2.v</key>
-      <integer>-50</integer>
+      <integer>-40</integer>
       <key>public.kern2.y</key>
-      <integer>-60</integer>
+      <integer>-40</integer>
       <key>public.kern2.zero</key>
       <integer>-70</integer>
     </dict>
@@ -2737,7 +2741,7 @@
       <key>public.kern2.parenright</key>
       <integer>-10</integer>
       <key>public.kern2.period</key>
-      <integer>-60</integer>
+      <integer>-30</integer>
       <key>public.kern2.question</key>
       <integer>-10</integer>
       <key>public.kern2.s</key>
@@ -2798,7 +2802,7 @@
       <key>public.kern2.nine</key>
       <integer>-25</integer>
       <key>public.kern2.period</key>
-      <integer>-70</integer>
+      <integer>-50</integer>
       <key>public.kern2.six</key>
       <integer>-15</integer>
       <key>public.kern2.three</key>
@@ -3074,7 +3078,7 @@
       <key>public.kern2.o</key>
       <integer>-25</integer>
       <key>public.kern2.period</key>
-      <integer>-70</integer>
+      <integer>-50</integer>
       <key>public.kern2.s</key>
       <integer>-25</integer>
       <key>public.kern2.u</key>
