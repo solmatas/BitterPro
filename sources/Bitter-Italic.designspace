@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<designspace format="4.0">
+<designspace format="4.1">
   <axes>
     <axis tag="wght" name="Weight" minimum="100" maximum="900" default="100">
       <map input="100" output="20"/>
@@ -90,19 +90,6 @@
               <integer>1</integer>
             </array>
           </array>
-          <key>com.schriftgestaltung.export</key>
-          <true/>
-          <key>com.schriftgestaltung.intanceInterpolations</key>
-          <dict>
-            <key>075BA79B-D813-4287-A9DD-CCAF2D535ED3</key>
-            <integer>1</integer>
-          </dict>
-          <key>com.schriftgestaltung.manualInterpolation</key>
-          <false/>
-          <key>com.schriftgestaltung.weight</key>
-          <string>Thin</string>
-          <key>com.schriftgestaltung.width</key>
-          <string>Medium (normal)</string>
         </dict>
       </lib>
     </instance>
@@ -121,21 +108,6 @@
               <integer>1</integer>
             </array>
           </array>
-          <key>com.schriftgestaltung.export</key>
-          <true/>
-          <key>com.schriftgestaltung.intanceInterpolations</key>
-          <dict>
-            <key>075BA79B-D813-4287-A9DD-CCAF2D535ED3</key>
-            <real>0.93642</real>
-            <key>927AED37-E9E6-4F96-A08E-421C3785EFC6</key>
-            <real>0.06358</real>
-          </dict>
-          <key>com.schriftgestaltung.manualInterpolation</key>
-          <false/>
-          <key>com.schriftgestaltung.weight</key>
-          <string>ExtraLight</string>
-          <key>com.schriftgestaltung.width</key>
-          <string>Medium (normal)</string>
         </dict>
       </lib>
     </instance>
@@ -154,21 +126,6 @@
               <integer>1</integer>
             </array>
           </array>
-          <key>com.schriftgestaltung.export</key>
-          <true/>
-          <key>com.schriftgestaltung.intanceInterpolations</key>
-          <dict>
-            <key>075BA79B-D813-4287-A9DD-CCAF2D535ED3</key>
-            <real>0.84971</real>
-            <key>927AED37-E9E6-4F96-A08E-421C3785EFC6</key>
-            <real>0.15029</real>
-          </dict>
-          <key>com.schriftgestaltung.manualInterpolation</key>
-          <false/>
-          <key>com.schriftgestaltung.weight</key>
-          <string>Light</string>
-          <key>com.schriftgestaltung.width</key>
-          <string>Medium (normal)</string>
         </dict>
       </lib>
     </instance>
@@ -187,21 +144,6 @@
               <integer>1</integer>
             </array>
           </array>
-          <key>com.schriftgestaltung.export</key>
-          <true/>
-          <key>com.schriftgestaltung.intanceInterpolations</key>
-          <dict>
-            <key>075BA79B-D813-4287-A9DD-CCAF2D535ED3</key>
-            <real>0.66474</real>
-            <key>927AED37-E9E6-4F96-A08E-421C3785EFC6</key>
-            <real>0.33526</real>
-          </dict>
-          <key>com.schriftgestaltung.manualInterpolation</key>
-          <false/>
-          <key>com.schriftgestaltung.weight</key>
-          <string>Normal</string>
-          <key>com.schriftgestaltung.width</key>
-          <string>Medium (normal)</string>
         </dict>
       </lib>
     </instance>
@@ -220,21 +162,6 @@
               <integer>1</integer>
             </array>
           </array>
-          <key>com.schriftgestaltung.export</key>
-          <true/>
-          <key>com.schriftgestaltung.intanceInterpolations</key>
-          <dict>
-            <key>075BA79B-D813-4287-A9DD-CCAF2D535ED3</key>
-            <real>0.54913</real>
-            <key>927AED37-E9E6-4F96-A08E-421C3785EFC6</key>
-            <real>0.45087</real>
-          </dict>
-          <key>com.schriftgestaltung.manualInterpolation</key>
-          <false/>
-          <key>com.schriftgestaltung.weight</key>
-          <string>Medium</string>
-          <key>com.schriftgestaltung.width</key>
-          <string>Medium (normal)</string>
         </dict>
       </lib>
     </instance>
@@ -253,21 +180,6 @@
               <integer>1</integer>
             </array>
           </array>
-          <key>com.schriftgestaltung.export</key>
-          <true/>
-          <key>com.schriftgestaltung.intanceInterpolations</key>
-          <dict>
-            <key>075BA79B-D813-4287-A9DD-CCAF2D535ED3</key>
-            <real>0.43353</real>
-            <key>927AED37-E9E6-4F96-A08E-421C3785EFC6</key>
-            <real>0.56647</real>
-          </dict>
-          <key>com.schriftgestaltung.manualInterpolation</key>
-          <false/>
-          <key>com.schriftgestaltung.weight</key>
-          <string>SemiBold</string>
-          <key>com.schriftgestaltung.width</key>
-          <string>Medium (normal)</string>
         </dict>
       </lib>
     </instance>
@@ -286,21 +198,6 @@
               <integer>1</integer>
             </array>
           </array>
-          <key>com.schriftgestaltung.export</key>
-          <true/>
-          <key>com.schriftgestaltung.intanceInterpolations</key>
-          <dict>
-            <key>075BA79B-D813-4287-A9DD-CCAF2D535ED3</key>
-            <real>0.31792</real>
-            <key>927AED37-E9E6-4F96-A08E-421C3785EFC6</key>
-            <real>0.68208</real>
-          </dict>
-          <key>com.schriftgestaltung.manualInterpolation</key>
-          <false/>
-          <key>com.schriftgestaltung.weight</key>
-          <string>Bold</string>
-          <key>com.schriftgestaltung.width</key>
-          <string>Medium (normal)</string>
         </dict>
       </lib>
     </instance>
@@ -319,21 +216,6 @@
               <integer>1</integer>
             </array>
           </array>
-          <key>com.schriftgestaltung.export</key>
-          <true/>
-          <key>com.schriftgestaltung.intanceInterpolations</key>
-          <dict>
-            <key>075BA79B-D813-4287-A9DD-CCAF2D535ED3</key>
-            <real>0.16185</real>
-            <key>927AED37-E9E6-4F96-A08E-421C3785EFC6</key>
-            <real>0.83815</real>
-          </dict>
-          <key>com.schriftgestaltung.manualInterpolation</key>
-          <false/>
-          <key>com.schriftgestaltung.weight</key>
-          <string>ExtraBold</string>
-          <key>com.schriftgestaltung.width</key>
-          <string>Medium (normal)</string>
         </dict>
       </lib>
     </instance>
@@ -352,19 +234,6 @@
               <integer>1</integer>
             </array>
           </array>
-          <key>com.schriftgestaltung.export</key>
-          <true/>
-          <key>com.schriftgestaltung.intanceInterpolations</key>
-          <dict>
-            <key>927AED37-E9E6-4F96-A08E-421C3785EFC6</key>
-            <integer>1</integer>
-          </dict>
-          <key>com.schriftgestaltung.manualInterpolation</key>
-          <false/>
-          <key>com.schriftgestaltung.weight</key>
-          <string>Black</string>
-          <key>com.schriftgestaltung.width</key>
-          <string>Medium (normal)</string>
         </dict>
       </lib>
     </instance>

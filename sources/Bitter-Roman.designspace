@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<designspace format="4.0">
+<designspace format="4.1">
   <axes>
     <axis tag="wght" name="Weight" minimum="100" maximum="900" default="100">
       <map input="100" output="20"/>
@@ -82,7 +82,7 @@
     </source>
   </sources>
   <instances>
-    <instance name="Bitter Thin" familyname="Bitter" stylename="Thin" filename="instance_ufos/Bitter-Thin.ufo">
+    <instance name="Bitter Thin" familyname="Bitter" stylename="Thin" filename="instance_ufos/Bitter-Thin.ufo" stylemapfamilyname="Bitter Thin" stylemapstylename="regular">
       <location>
         <dimension name="Weight" xvalue="20"/>
       </location>
@@ -97,23 +97,10 @@
               <integer>1</integer>
             </array>
           </array>
-          <key>com.schriftgestaltung.export</key>
-          <true/>
-          <key>com.schriftgestaltung.intanceInterpolations</key>
-          <dict>
-            <key>075BA79B-D813-4287-A9DD-CCAF2D535ED3</key>
-            <integer>1</integer>
-          </dict>
-          <key>com.schriftgestaltung.manualInterpolation</key>
-          <false/>
-          <key>com.schriftgestaltung.weight</key>
-          <string>Thin</string>
-          <key>com.schriftgestaltung.width</key>
-          <string>Medium (normal)</string>
         </dict>
       </lib>
     </instance>
-    <instance name="Bitter ExtraLight" familyname="Bitter" stylename="ExtraLight" filename="instance_ufos/Bitter-ExtraLight.ufo">
+    <instance name="Bitter ExtraLight" familyname="Bitter" stylename="ExtraLight" filename="instance_ufos/Bitter-ExtraLight.ufo" stylemapfamilyname="Bitter ExtraLight" stylemapstylename="regular">
       <location>
         <dimension name="Weight" xvalue="33"/>
       </location>
@@ -128,25 +115,10 @@
               <integer>1</integer>
             </array>
           </array>
-          <key>com.schriftgestaltung.export</key>
-          <true/>
-          <key>com.schriftgestaltung.intanceInterpolations</key>
-          <dict>
-            <key>075BA79B-D813-4287-A9DD-CCAF2D535ED3</key>
-            <real>0.92778</real>
-            <key>927AED37-E9E6-4F96-A08E-421C3785EFC6</key>
-            <real>0.07222</real>
-          </dict>
-          <key>com.schriftgestaltung.manualInterpolation</key>
-          <false/>
-          <key>com.schriftgestaltung.weight</key>
-          <string>ExtraLight</string>
-          <key>com.schriftgestaltung.width</key>
-          <string>Medium (normal)</string>
         </dict>
       </lib>
     </instance>
-    <instance name="Bitter Light" familyname="Bitter" stylename="Light" filename="instance_ufos/Bitter-Light.ufo">
+    <instance name="Bitter Light" familyname="Bitter" stylename="Light" filename="instance_ufos/Bitter-Light.ufo" stylemapfamilyname="Bitter Light" stylemapstylename="regular">
       <location>
         <dimension name="Weight" xvalue="48"/>
       </location>
@@ -161,25 +133,10 @@
               <integer>1</integer>
             </array>
           </array>
-          <key>com.schriftgestaltung.export</key>
-          <true/>
-          <key>com.schriftgestaltung.intanceInterpolations</key>
-          <dict>
-            <key>075BA79B-D813-4287-A9DD-CCAF2D535ED3</key>
-            <real>0.84444</real>
-            <key>927AED37-E9E6-4F96-A08E-421C3785EFC6</key>
-            <real>0.15556</real>
-          </dict>
-          <key>com.schriftgestaltung.manualInterpolation</key>
-          <false/>
-          <key>com.schriftgestaltung.weight</key>
-          <string>Light</string>
-          <key>com.schriftgestaltung.width</key>
-          <string>Medium (normal)</string>
         </dict>
       </lib>
     </instance>
-    <instance name="Bitter Regular" familyname="Bitter" stylename="Regular" filename="instance_ufos/Bitter-Regular.ufo">
+    <instance name="Bitter Regular" familyname="Bitter" stylename="Regular" filename="instance_ufos/Bitter-Regular.ufo" stylemapfamilyname="Bitter" stylemapstylename="regular">
       <location>
         <dimension name="Weight" xvalue="80"/>
       </location>
@@ -194,25 +151,10 @@
               <integer>1</integer>
             </array>
           </array>
-          <key>com.schriftgestaltung.export</key>
-          <true/>
-          <key>com.schriftgestaltung.intanceInterpolations</key>
-          <dict>
-            <key>075BA79B-D813-4287-A9DD-CCAF2D535ED3</key>
-            <real>0.66667</real>
-            <key>927AED37-E9E6-4F96-A08E-421C3785EFC6</key>
-            <real>0.33333</real>
-          </dict>
-          <key>com.schriftgestaltung.manualInterpolation</key>
-          <false/>
-          <key>com.schriftgestaltung.weight</key>
-          <string>Normal</string>
-          <key>com.schriftgestaltung.width</key>
-          <string>Medium (normal)</string>
         </dict>
       </lib>
     </instance>
-    <instance name="Bitter Medium" familyname="Bitter" stylename="Medium" filename="instance_ufos/Bitter-Medium.ufo">
+    <instance name="Bitter Medium" familyname="Bitter" stylename="Medium" filename="instance_ufos/Bitter-Medium.ufo" stylemapfamilyname="Bitter Medium" stylemapstylename="regular">
       <location>
         <dimension name="Weight" xvalue="100"/>
       </location>
@@ -227,25 +169,10 @@
               <integer>1</integer>
             </array>
           </array>
-          <key>com.schriftgestaltung.export</key>
-          <true/>
-          <key>com.schriftgestaltung.intanceInterpolations</key>
-          <dict>
-            <key>075BA79B-D813-4287-A9DD-CCAF2D535ED3</key>
-            <real>0.55556</real>
-            <key>927AED37-E9E6-4F96-A08E-421C3785EFC6</key>
-            <real>0.44444</real>
-          </dict>
-          <key>com.schriftgestaltung.manualInterpolation</key>
-          <false/>
-          <key>com.schriftgestaltung.weight</key>
-          <string>Medium</string>
-          <key>com.schriftgestaltung.width</key>
-          <string>Medium (normal)</string>
         </dict>
       </lib>
     </instance>
-    <instance name="Bitter SemiBold" familyname="Bitter" stylename="SemiBold" filename="instance_ufos/Bitter-SemiBold.ufo">
+    <instance name="Bitter SemiBold" familyname="Bitter" stylename="SemiBold" filename="instance_ufos/Bitter-SemiBold.ufo" stylemapfamilyname="Bitter SemiBold" stylemapstylename="regular">
       <location>
         <dimension name="Weight" xvalue="120"/>
       </location>
@@ -260,21 +187,6 @@
               <integer>1</integer>
             </array>
           </array>
-          <key>com.schriftgestaltung.export</key>
-          <true/>
-          <key>com.schriftgestaltung.intanceInterpolations</key>
-          <dict>
-            <key>075BA79B-D813-4287-A9DD-CCAF2D535ED3</key>
-            <real>0.44444</real>
-            <key>927AED37-E9E6-4F96-A08E-421C3785EFC6</key>
-            <real>0.55556</real>
-          </dict>
-          <key>com.schriftgestaltung.manualInterpolation</key>
-          <false/>
-          <key>com.schriftgestaltung.weight</key>
-          <string>SemiBold</string>
-          <key>com.schriftgestaltung.width</key>
-          <string>Medium (normal)</string>
         </dict>
       </lib>
     </instance>
@@ -293,25 +205,10 @@
               <integer>1</integer>
             </array>
           </array>
-          <key>com.schriftgestaltung.export</key>
-          <true/>
-          <key>com.schriftgestaltung.intanceInterpolations</key>
-          <dict>
-            <key>075BA79B-D813-4287-A9DD-CCAF2D535ED3</key>
-            <real>0.33333</real>
-            <key>927AED37-E9E6-4F96-A08E-421C3785EFC6</key>
-            <real>0.66667</real>
-          </dict>
-          <key>com.schriftgestaltung.manualInterpolation</key>
-          <false/>
-          <key>com.schriftgestaltung.weight</key>
-          <string>Bold</string>
-          <key>com.schriftgestaltung.width</key>
-          <string>Medium (normal)</string>
         </dict>
       </lib>
     </instance>
-    <instance name="Bitter ExtraBold" familyname="Bitter" stylename="ExtraBold" filename="instance_ufos/Bitter-ExtraBold.ufo">
+    <instance name="Bitter ExtraBold" familyname="Bitter" stylename="ExtraBold" filename="instance_ufos/Bitter-ExtraBold.ufo" stylemapfamilyname="Bitter ExtraBold" stylemapstylename="regular">
       <location>
         <dimension name="Weight" xvalue="170"/>
       </location>
@@ -326,25 +223,10 @@
               <integer>1</integer>
             </array>
           </array>
-          <key>com.schriftgestaltung.export</key>
-          <true/>
-          <key>com.schriftgestaltung.intanceInterpolations</key>
-          <dict>
-            <key>075BA79B-D813-4287-A9DD-CCAF2D535ED3</key>
-            <real>0.16667</real>
-            <key>927AED37-E9E6-4F96-A08E-421C3785EFC6</key>
-            <real>0.83333</real>
-          </dict>
-          <key>com.schriftgestaltung.manualInterpolation</key>
-          <false/>
-          <key>com.schriftgestaltung.weight</key>
-          <string>ExtraBold</string>
-          <key>com.schriftgestaltung.width</key>
-          <string>Medium (normal)</string>
         </dict>
       </lib>
     </instance>
-    <instance name="Bitter Black" familyname="Bitter" stylename="Black" filename="instance_ufos/Bitter-Black.ufo">
+    <instance name="Bitter Black" familyname="Bitter" stylename="Black" filename="instance_ufos/Bitter-Black.ufo" stylemapfamilyname="Bitter Black" stylemapstylename="regular">
       <location>
         <dimension name="Weight" xvalue="200"/>
       </location>
@@ -359,19 +241,6 @@
               <integer>1</integer>
             </array>
           </array>
-          <key>com.schriftgestaltung.export</key>
-          <true/>
-          <key>com.schriftgestaltung.intanceInterpolations</key>
-          <dict>
-            <key>927AED37-E9E6-4F96-A08E-421C3785EFC6</key>
-            <integer>1</integer>
-          </dict>
-          <key>com.schriftgestaltung.manualInterpolation</key>
-          <false/>
-          <key>com.schriftgestaltung.weight</key>
-          <string>Black</string>
-          <key>com.schriftgestaltung.width</key>
-          <string>Medium (normal)</string>
         </dict>
       </lib>
     </instance>
