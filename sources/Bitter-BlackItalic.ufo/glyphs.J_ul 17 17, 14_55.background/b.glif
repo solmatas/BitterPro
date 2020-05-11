@@ -16,6 +16,5 @@
       <point x="259" y="386" type="line"/>
       <point x="234" y="426" type="line"/>
     </contour>
-    <component base="curve" xScale="-1" yScale="-1" xOffset="579" yOffset="541"/>
   </outline>
 </glyph>

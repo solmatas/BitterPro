@@ -4,6 +4,5 @@
   <anchor x="504" y="2" name="ogonek"/>
   <anchor x="333" y="522" name="top"/>
   <outline>
-    <component base="curve" xOffset="3"/>
   </outline>
 </glyph>
