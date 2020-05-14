@@ -2,7 +2,6 @@
 <glyph name="verticallinemod" format="2">
   <advance width="246"/>
   <unicode hex="02C8"/>
-  <anchor x="123" y="540" name="_top"/>
   <outline>
     <contour>
       <point x="48" y="592" type="line"/>

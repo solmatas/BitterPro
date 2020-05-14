@@ -8,7 +8,6 @@
   <guideline x="242" y="596" angle="0"/>
   <guideline x="244" y="633" angle="261"/>
   <guideline x="268" y="680" angle="0"/>
-  <anchor x="229" y="540" name="_top"/>
   <outline>
     <contour>
       <point x="243" y="592" type="curve" smooth="yes"/>

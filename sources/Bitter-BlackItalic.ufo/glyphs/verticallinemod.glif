@@ -7,7 +7,6 @@
   <guideline x="532" y="864" angle="0"/>
   <guideline x="233" y="592" angle="0"/>
   <guideline x="153" y="517" angle="261"/>
-  <anchor x="156" y="540" name="_top"/>
   <outline>
     <contour>
       <point x="91" y="592" type="line"/>
