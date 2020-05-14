@@ -2,7 +2,6 @@
 <glyph name="ring" format="2">
   <advance width="375"/>
   <unicode hex="02DA"/>
-  <anchor x="188" y="540" name="_top"/>
   <outline>
     <contour>
       <point x="186" y="592" type="curve" smooth="yes"/>

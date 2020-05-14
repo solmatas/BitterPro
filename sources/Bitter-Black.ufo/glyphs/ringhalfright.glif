@@ -2,7 +2,6 @@
 <glyph name="ringhalfright" format="2">
   <advance width="220"/>
   <unicode hex="02BE"/>
-  <anchor x="110" y="540" name="_top"/>
   <outline>
     <contour>
       <point x="30" y="592" type="line"/>

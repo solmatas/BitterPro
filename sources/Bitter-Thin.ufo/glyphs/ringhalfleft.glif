@@ -2,7 +2,6 @@
 <glyph name="ringhalfleft" format="2">
   <advance width="266"/>
   <unicode hex="02BF"/>
-  <anchor x="133" y="522" name="_top"/>
   <outline>
     <contour>
       <point x="173" y="627" type="curve"/>
