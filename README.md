@@ -29,7 +29,7 @@ This license is copied below, and is also available with a FAQ at:
 http://scripts.sil.org/OFL
 
 ## Changelog
-### Version 1.001 
+### Version 1.010 
 - Google commissioned Sol Matas to do an extension weight of the Bitter font.
 - This is a mayor update. A new weight distribution across the variables was applied.
 - If you want to maintain the appearance of the text you can use the old version. 
