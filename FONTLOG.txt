@@ -55,5 +55,5 @@ solmatas@gmail.com
 
 ChangeLog
 
-14 February 2020 (v.1.001)
+28 May 2020 (v.1.010)
 Released new version
