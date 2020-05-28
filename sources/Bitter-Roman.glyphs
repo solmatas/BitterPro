@@ -1,5 +1,5 @@
 {
-.appVersion = "1328";
+.appVersion = "1338";
 DisplayStrings = (
 "/zeroinferior/oneinferior/twoinferior/threeinferior/fourinferior/fiveinferior/sixinferior/seveninferior/eightinferior/nineinferior"
 );
@@ -58,7 +58,7 @@ wght = {
 };
 }
 );
-date = "2020-02-14 19:45:02 +0000";
+date = "2020-05-28 12:33:08 +0000";
 designer = "Sol Matas, and Bitter project Authors";
 designerURL = "https://www.solmatas.com/";
 familyName = "Bitter Pro";
@@ -147756,5 +147756,5 @@ tH = "75";
 };
 };
 versionMajor = 1;
-versionMinor = 1;
+versionMinor = 10;
 }
