@@ -82,9 +82,9 @@
     <key>openTypeHeadCreated</key>
     <string>2020/02/14 19:45:02</string>
     <key>openTypeHheaAscender</key>
-    <integer>1255</integer>
+    <integer>935</integer>
     <key>openTypeHheaDescender</key>
-    <integer>-376</integer>
+    <integer>-265</integer>
     <key>openTypeHheaLineGap</key>
     <integer>0</integer>
     <key>openTypeNameDesigner</key>
@@ -106,9 +106,9 @@
     <key>openTypeOS2Type</key>
     <array/>
     <key>openTypeOS2TypoAscender</key>
-    <integer>1255</integer>
+    <integer>935</integer>
     <key>openTypeOS2TypoDescender</key>
-    <integer>-376</integer>
+    <integer>-265</integer>
     <key>openTypeOS2TypoLineGap</key>
     <integer>0</integer>
     <key>openTypeOS2WinAscent</key>
