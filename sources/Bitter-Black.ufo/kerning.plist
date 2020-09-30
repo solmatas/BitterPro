@@ -2225,8 +2225,6 @@
       <integer>-55</integer>
       <key>public.kern2.o.sc</key>
       <integer>-30</integer>
-      <key>public.kern2.p</key>
-      <integer>-25</integer>
       <key>public.kern2.period</key>
       <integer>-75</integer>
       <key>public.kern2.question</key>
@@ -3302,8 +3300,6 @@
       <integer>125</integer>
       <key>public.kern2.n</key>
       <integer>10</integer>
-      <key>public.kern2.p</key>
-      <integer>40</integer>
       <key>public.kern2.underscore</key>
       <integer>60</integer>
       <key>public.kern2.v</key>
@@ -3537,8 +3533,6 @@
       <integer>-30</integer>
       <key>public.kern2.o</key>
       <integer>-35</integer>
-      <key>public.kern2.p</key>
-      <integer>-35</integer>
       <key>public.kern2.parenright</key>
       <integer>40</integer>
       <key>public.kern2.slash</key>
@@ -3636,8 +3630,6 @@
       <integer>75</integer>
       <key>public.kern2.o</key>
       <integer>-15</integer>
-      <key>public.kern2.p</key>
-      <integer>20</integer>
       <key>public.kern2.parenright</key>
       <integer>25</integer>
       <key>public.kern2.period</key>
@@ -3746,8 +3738,6 @@
       <integer>20</integer>
       <key>public.kern2.o</key>
       <integer>-10</integer>
-      <key>public.kern2.p</key>
-      <integer>20</integer>
       <key>public.kern2.period</key>
       <integer>-20</integer>
       <key>public.kern2.s</key>

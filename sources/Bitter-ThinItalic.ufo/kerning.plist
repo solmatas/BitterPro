@@ -760,8 +760,6 @@
       <integer>-35</integer>
       <key>public.kern2.o</key>
       <integer>-45</integer>
-      <key>public.kern2.p</key>
-      <integer>-30</integer>
       <key>public.kern2.period</key>
       <integer>-60</integer>
       <key>public.kern2.s</key>
@@ -1592,8 +1590,6 @@
       <integer>-70</integer>
       <key>public.kern2.o.sc</key>
       <integer>-65</integer>
-      <key>public.kern2.p</key>
-      <integer>-60</integer>
       <key>public.kern2.period</key>
       <integer>-60</integer>
       <key>public.kern2.question</key>
