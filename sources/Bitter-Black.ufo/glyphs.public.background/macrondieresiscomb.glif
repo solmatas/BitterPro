@@ -4,13 +4,4 @@
     <component base="dieresiscomb" yScale="-1" yOffset="1574"/>
     <component base="macroncomb" yScale="-1" xOffset="17" yOffset="1391"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.componentsAlignment</key>
-      <array>
-        <integer>0</integer>
-        <integer>-1</integer>
-      </array>
-    </dict>
-  </lib>
 </glyph>

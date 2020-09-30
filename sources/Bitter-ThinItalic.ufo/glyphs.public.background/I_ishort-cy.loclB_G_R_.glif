@@ -4,13 +4,4 @@
     <component base="Ii-cy.loclBGR" xOffset="34"/>
     <component base="brevecomb-cy.case" xOffset="220"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.componentsAlignment</key>
-      <array>
-        <integer>0</integer>
-        <integer>1</integer>
-      </array>
-    </dict>
-  </lib>
 </glyph>

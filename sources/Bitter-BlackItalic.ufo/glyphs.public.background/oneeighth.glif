@@ -5,14 +5,4 @@
     <component base="fraction" xOffset="363"/>
     <component base="eight.dnom" xOffset="572"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.componentsAlignment</key>
-      <array>
-        <integer>-1</integer>
-        <integer>0</integer>
-        <integer>0</integer>
-      </array>
-    </dict>
-  </lib>
 </glyph>

@@ -15,13 +15,4 @@
     <component base="dieresiscomb" xOffset="27" yOffset="60"/>
     <component base="tildecomb.case" xOffset="-32" yOffset="-166"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.componentsAlignment</key>
-      <array>
-        <integer>-1</integer>
-        <integer>-1</integer>
-      </array>
-    </dict>
-  </lib>
 </glyph>

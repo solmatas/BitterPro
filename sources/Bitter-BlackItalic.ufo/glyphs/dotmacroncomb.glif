@@ -15,13 +15,4 @@
     <component base="macroncomb" xOffset="25" yOffset="158"/>
     <component base="dotaccentcomb" xOffset="47" yOffset="-19"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.componentsAlignment</key>
-      <array>
-        <integer>-1</integer>
-        <integer>-1</integer>
-      </array>
-    </dict>
-  </lib>
 </glyph>

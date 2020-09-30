@@ -5,12 +5,4 @@
   <outline>
     <component base="macronbelowcomb" xScale="1.05"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.componentsAlignment</key>
-      <array>
-        <integer>1</integer>
-      </array>
-    </dict>
-  </lib>
 </glyph>

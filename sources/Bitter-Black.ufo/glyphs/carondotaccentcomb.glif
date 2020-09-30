@@ -19,13 +19,4 @@
     </contour>
     <component base="caroncomb" xOffset="80" yOffset="-19"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.componentsAlignment</key>
-      <array>
-        <integer>-1</integer>
-        <integer>-1</integer>
-      </array>
-    </dict>
-  </lib>
 </glyph>

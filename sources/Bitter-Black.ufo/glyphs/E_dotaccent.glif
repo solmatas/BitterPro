@@ -6,13 +6,4 @@
     <component base="E"/>
     <component base="dotaccentcomb.case" xOffset="159"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.componentsAlignment</key>
-      <array>
-        <integer>0</integer>
-        <integer>1</integer>
-      </array>
-    </dict>
-  </lib>
 </glyph>

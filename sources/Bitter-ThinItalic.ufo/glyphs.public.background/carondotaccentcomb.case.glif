@@ -5,13 +5,4 @@
     <component base="caroncomb.case" xOffset="-2" yOffset="-10"/>
     <component base="dotaccentcomb" xOffset="165" yOffset="184"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.componentsAlignment</key>
-      <array>
-        <integer>-1</integer>
-        <integer>-1</integer>
-      </array>
-    </dict>
-  </lib>
 </glyph>

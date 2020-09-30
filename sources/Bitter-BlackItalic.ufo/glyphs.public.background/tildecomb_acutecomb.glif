@@ -6,13 +6,4 @@
     <component base="tildecomb" xOffset="-8" yOffset="-50"/>
     <component base="acutecomb" xScale="0.9877" xyScale="-0.1564" yxScale="0.1564" yScale="0.9877" xOffset="-76" yOffset="207"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.componentsAlignment</key>
-      <array>
-        <integer>-1</integer>
-        <integer>-1</integer>
-      </array>
-    </dict>
-  </lib>
 </glyph>

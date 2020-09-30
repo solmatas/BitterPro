@@ -6,13 +6,4 @@
     <component base="brevecomb" yOffset="-20"/>
     <component base="hookabovecomb" xOffset="88" yOffset="230"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.componentsAlignment</key>
-      <array>
-        <integer>0</integer>
-        <integer>-1</integer>
-      </array>
-    </dict>
-  </lib>
 </glyph>

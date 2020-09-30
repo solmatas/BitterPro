@@ -5,13 +5,4 @@
     <component base="ae.sc"/>
     <component base="acutecomb" xOffset="411" yOffset="46"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.componentsAlignment</key>
-      <array>
-        <integer>0</integer>
-        <integer>1</integer>
-      </array>
-    </dict>
-  </lib>
 </glyph>

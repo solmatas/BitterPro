@@ -5,13 +5,4 @@
     <component base="acutecomb" xOffset="117"/>
     <component base="dotaccentcomb" xOffset="151" yOffset="93"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.componentsAlignment</key>
-      <array>
-        <integer>1</integer>
-        <integer>-1</integer>
-      </array>
-    </dict>
-  </lib>
 </glyph>

@@ -11,11 +11,6 @@
       <string>u</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>endescender-cy</string>
-      <key>com.schriftgestaltung.componentsAlignment</key>
-      <array>
-        <integer>-1</integer>
-        <integer>0</integer>
-      </array>
       <key>public.markColor</key>
       <string>0.502,0,0.502,1</string>
     </dict>

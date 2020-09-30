@@ -5,13 +5,4 @@
     <component base="macroncomb" xOffset="58" yOffset="-70"/>
     <component base="dieresiscomb" xOffset="18" yOffset="113"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.componentsAlignment</key>
-      <array>
-        <integer>-1</integer>
-        <integer>-1</integer>
-      </array>
-    </dict>
-  </lib>
 </glyph>

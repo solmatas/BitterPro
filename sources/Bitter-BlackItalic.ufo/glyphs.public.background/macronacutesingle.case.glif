@@ -5,13 +5,4 @@
     <component base="macron" xOffset="22" yOffset="105"/>
     <component base="acutecomb.case" xOffset="24" yOffset="153"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.componentsAlignment</key>
-      <array>
-        <integer>-1</integer>
-        <integer>0</integer>
-      </array>
-    </dict>
-  </lib>
 </glyph>

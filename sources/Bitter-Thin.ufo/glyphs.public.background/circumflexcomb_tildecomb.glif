@@ -6,13 +6,4 @@
     <component base="circumflexcomb.case" xOffset="23" yOffset="-182"/>
     <component base="tildecomb.case" xOffset="-16" yOffset="-52"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.componentsAlignment</key>
-      <array>
-        <integer>0</integer>
-        <integer>-1</integer>
-      </array>
-    </dict>
-  </lib>
 </glyph>

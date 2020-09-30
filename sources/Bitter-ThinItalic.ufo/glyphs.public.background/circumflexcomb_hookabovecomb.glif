@@ -6,13 +6,4 @@
     <component base="hookabovecomb.case" xOffset="239" yOffset="-55"/>
     <component base="circumflexcomb" xOffset="70" yOffset="-58"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.componentsAlignment</key>
-      <array>
-        <integer>-1</integer>
-        <integer>-1</integer>
-      </array>
-    </dict>
-  </lib>
 </glyph>

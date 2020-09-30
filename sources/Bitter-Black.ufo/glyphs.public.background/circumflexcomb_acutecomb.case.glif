@@ -6,13 +6,4 @@
     <component base="circumflexcomb.case" xOffset="-4"/>
     <component base="acutedbl" xScale="0.9945" xyScale="-0.1045" yxScale="0.1045" yScale="0.9945" xOffset="257" yOffset="296"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.componentsAlignment</key>
-      <array>
-        <integer>0</integer>
-        <integer>-1</integer>
-      </array>
-    </dict>
-  </lib>
 </glyph>
