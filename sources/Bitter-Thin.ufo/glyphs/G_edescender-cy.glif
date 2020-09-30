@@ -6,4 +6,10 @@
     <component base="Ge-cy"/>
     <component base="descender-cy.case" xOffset="124"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.580,0.129,0.573,1</string>
+    </dict>
+  </lib>
 </glyph>

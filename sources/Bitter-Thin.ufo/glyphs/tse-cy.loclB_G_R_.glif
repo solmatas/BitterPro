@@ -13,6 +13,8 @@
       <string>endescender-cy</string>
       <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
       <string>=+18</string>
+      <key>public.markColor</key>
+      <string>0.502,0,0.502,1</string>
     </dict>
   </lib>
 </glyph>

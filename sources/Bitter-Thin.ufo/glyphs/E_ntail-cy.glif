@@ -6,4 +6,10 @@
     <component base="En-cy"/>
     <component base="tail-cy.case" xOffset="570"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.580,0.129,0.573,1</string>
+    </dict>
+  </lib>
 </glyph>

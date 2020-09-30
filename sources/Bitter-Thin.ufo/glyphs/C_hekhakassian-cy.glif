@@ -14,4 +14,10 @@
     </contour>
     <component base="Che-cy"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.502,0,0.502,1</string>
+    </dict>
+  </lib>
 </glyph>
