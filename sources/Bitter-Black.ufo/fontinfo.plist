@@ -138,10 +138,6 @@
       <integer>780</integer>
       <integer>795</integer>
     </array>
-    <key>postscriptFamilyBlues</key>
-    <array/>
-    <key>postscriptFamilyOtherBlues</key>
-    <array/>
     <key>postscriptOtherBlues</key>
     <array>
       <integer>-245</integer>
@@ -162,6 +158,10 @@
     <integer>-100</integer>
     <key>postscriptUnderlineThickness</key>
     <integer>50</integer>
+    <key>styleMapFamilyName</key>
+    <string>Bitter Black</string>
+    <key>styleMapStyleName</key>
+    <string>regular</string>
     <key>styleName</key>
     <string>Black</string>
     <key>trademark</key>
