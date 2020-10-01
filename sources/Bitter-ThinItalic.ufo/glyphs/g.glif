@@ -50,7 +50,7 @@
       <point x="428" y="496"/>
       <point x="478" y="467" type="curve"/>
       <point x="473" y="479" type="line"/>
-      <point x="450" y="335" type="line"/>
+      <point x="450" y="335" type="line" smooth="yes"/>
       <point x="413" y="111"/>
       <point x="281" y="13"/>
     </contour>
