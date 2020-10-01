@@ -2000,8 +2000,6 @@
         <integer>193</integer>
       </dict>
     </dict>
-    <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
-    <string></string>
     <key>com.schriftgestaltung.customParameter.GSFont.Use Line Breaks</key>
     <integer>1</integer>
     <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
@@ -2041,12 +2039,8 @@
     <integer>193</integer>
     <key>com.schriftgestaltung.customParameter.GSFontMaster.widthValue</key>
     <integer>100</integer>
-    <key>com.schriftgestaltung.fontMasterID</key>
-    <string>927AED37-E9E6-4F96-A08E-421C3785EFC6</string>
     <key>com.schriftgestaltung.fontMasterOrder</key>
     <integer>1</integer>
-    <key>com.schriftgestaltung.glyphOrder</key>
-    <false/>
     <key>com.schriftgestaltung.keyboardIncrement</key>
     <integer>1</integer>
     <key>com.schriftgestaltung.weight</key>
@@ -5208,8 +5202,6 @@
       <key>zhedieresis-cy</key>
       <string>uni04DD</string>
     </dict>
-    <key>public.skipExportGlyphs</key>
-    <array/>
     <key>width</key>
     <integer>30</integer>
   </dict>

@@ -3682,8 +3682,6 @@
       <key>zhedieresis-cy</key>
       <string>uni04DD</string>
     </dict>
-    <key>public.skipExportGlyphs</key>
-    <array/>
     <key>width</key>
     <integer>30</integer>
   </dict>
