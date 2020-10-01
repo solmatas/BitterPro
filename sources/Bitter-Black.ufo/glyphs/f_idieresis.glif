@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="f_idieresis" format="2">
   <advance width="746"/>
-  <note>
-f_idieresis
-</note>
   <guideline x="168" y="604" angle="0" identifier="R3JLpZL1VU"/>
   <outline>
     <contour>

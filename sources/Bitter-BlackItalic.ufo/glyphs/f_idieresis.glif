@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="f_idieresis" format="2">
   <advance width="712"/>
-  <note>
-f_idieresis
-</note>
   <outline>
     <contour>
       <point x="-47" y="-245" type="curve" smooth="yes"/>

@@ -2,9 +2,6 @@
 <glyph name="twodotenleader" format="2">
   <advance width="615"/>
   <unicode hex="2025"/>
-  <note>
-twodotenleader
-</note>
   <outline>
     <component base="period"/>
     <component base="period" xOffset="314"/>
