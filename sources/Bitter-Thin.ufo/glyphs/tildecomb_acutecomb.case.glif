@@ -8,10 +8,10 @@
   <anchor x="240" y="920" name="top"/>
   <outline>
     <contour>
-      <point x="150.3843" y="836.4265" type="line"/>
-      <point x="337.3935" y="907.1527000000001" type="line"/>
-      <point x="323.9342" y="937.015" type="line"/>
-      <point x="142.2878" y="852.5330000000001" type="line"/>
+      <point x="150" y="836" type="line"/>
+      <point x="337" y="907" type="line"/>
+      <point x="324" y="937" type="line"/>
+      <point x="142" y="853" type="line"/>
     </contour>
     <component base="tildecomb.case" yOffset="-36"/>
   </outline>

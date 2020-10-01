@@ -7,10 +7,10 @@
   <anchor x="250" y="950" name="top"/>
   <outline>
     <contour>
-      <point x="470.6812" y="858.0516" type="line"/>
-      <point x="554.1030000000001" y="928.0446000000001" type="line"/>
-      <point x="407.717" y="1113.5174000000002" type="line"/>
-      <point x="300.286" y="1021.534" type="line"/>
+      <point x="471" y="858" type="line"/>
+      <point x="554" y="928" type="line"/>
+      <point x="408" y="1114" type="line"/>
+      <point x="300" y="1022" type="line"/>
     </contour>
     <component base="circumflexcomb.case" xOffset="-4" yOffset="-20"/>
   </outline>

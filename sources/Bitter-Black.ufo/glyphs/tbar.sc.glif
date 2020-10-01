@@ -4,10 +4,10 @@
   <guideline x="90" y="164" angle="90" identifier="QIyyOob3jt"/>
   <outline>
     <contour>
-      <point x="93.0" y="230" type="line"/>
-      <point x="482.7" y="230" type="line"/>
-      <point x="482.7" y="340" type="line"/>
-      <point x="93.0" y="340" type="line"/>
+      <point x="93" y="230" type="line"/>
+      <point x="483" y="230" type="line"/>
+      <point x="483" y="340" type="line"/>
+      <point x="93" y="340" type="line"/>
     </contour>
     <component base="t.sc"/>
   </outline>

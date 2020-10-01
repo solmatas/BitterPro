@@ -3,10 +3,10 @@
   <anchor x="249" y="540" name="_top"/>
   <outline>
     <contour>
-      <point x="453.185" y="742.965" type="line"/>
-      <point x="534.1043" y="815.8301" type="line"/>
-      <point x="381.3267" y="996.0619" type="line"/>
-      <point x="277.183" y="900.3810000000001" type="line"/>
+      <point x="453" y="743" type="line"/>
+      <point x="534" y="816" type="line"/>
+      <point x="381" y="996" type="line"/>
+      <point x="277" y="900" type="line"/>
     </contour>
     <component base="circumflexcomb" xOffset="-32" yOffset="-35"/>
   </outline>

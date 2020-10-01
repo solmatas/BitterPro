@@ -11,10 +11,10 @@
   <anchor x="233" y="522" name="_top"/>
   <outline>
     <contour>
-      <point x="182.69420000000002" y="733.2244000000001" type="line"/>
-      <point x="373.7416" y="813.0882" type="line"/>
-      <point x="362.72720000000004" y="841.9284000000001" type="line"/>
-      <point x="175.69060000000002" y="747.7492000000001" type="line"/>
+      <point x="183" y="733" type="line"/>
+      <point x="374" y="813" type="line"/>
+      <point x="363" y="842" type="line"/>
+      <point x="176" y="748" type="line"/>
     </contour>
     <component base="ringcomb" xOffset="12" yOffset="-43"/>
   </outline>
