@@ -4,17 +4,6 @@
   <dict>
     <key>angle</key>
     <integer>20</integer>
-    <key>com.defcon.sortDescriptor</key>
-    <array>
-      <dict>
-        <key>allowPseudoUnicode</key>
-        <integer>0</integer>
-        <key>ascending</key>
-        <string>Amstelvar DB Best</string>
-        <key>type</key>
-        <string>characterSet</string>
-      </dict>
-    </array>
     <key>com.github.googlei18n.ufo2ft.filters</key>
     <array>
       <dict>
