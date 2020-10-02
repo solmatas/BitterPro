@@ -2486,8 +2486,6 @@
       <string>uni04AC</string>
       <key>Tetse-cy</key>
       <string>uni04B4</string>
-      <key>Tetse-cy.BRACKET.145</key>
-      <string>uni04B4.BRACKET.145</string>
       <key>Tlinebelow</key>
       <string>uni1E6E</string>
       <key>Tse-cy</key>
@@ -3176,8 +3174,6 @@
       <string>uni03BC</string>
       <key>naira</key>
       <string>uni20A6</string>
-      <key>naira.BRACKET.70</key>
-      <string>uni20A6.BRACKET.70</string>
       <key>nbspace</key>
       <string>uni00A0</string>
       <key>ncommaaccent</key>
@@ -3338,8 +3334,6 @@
       <string>uni04A7</string>
       <key>peso</key>
       <string>uni20B1</string>
-      <key>peso.BRACKET.70</key>
-      <string>uni20B1.BRACKET.70</string>
       <key>punctuationspace</key>
       <string>uni2008</string>
       <key>qa-cy</key>
@@ -3612,8 +3606,6 @@
       <string>uni25A1</string>
       <key>won</key>
       <string>uni20A9</string>
-      <key>won.BRACKET.70</key>
-      <string>uni20A9.BRACKET.70</string>
       <key>yat-cy</key>
       <string>uni0463</string>
       <key>ydotaccent</key>
