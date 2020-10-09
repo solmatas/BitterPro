@@ -6,13 +6,4 @@
     <component base="acutedbl" xScale="0.9945" xyScale="0.1045" yxScale="-0.1045" yScale="0.9945" xOffset="292" yOffset="87"/>
     <component base="circumflexcomb" xOffset="-10" yOffset="-58"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.componentsAlignment</key>
-      <array>
-        <integer>-1</integer>
-        <integer>-1</integer>
-      </array>
-    </dict>
-  </lib>
 </glyph>

@@ -6,20 +6,11 @@
   <guideline x="331" y="594" angle="90" identifier="M4KUirDuOw"/>
   <outline>
     <contour>
-      <point x="323.90000000000003" y="786" type="line"/>
-      <point x="21.5" y="786" type="line"/>
-      <point x="21.5" y="651" type="line"/>
-      <point x="323.90000000000003" y="651" type="line"/>
+      <point x="324" y="786" type="line"/>
+      <point x="22" y="786" type="line"/>
+      <point x="22" y="651" type="line"/>
+      <point x="324" y="651" type="line"/>
     </contour>
     <component base="idotless"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.componentsAlignment</key>
-      <array>
-        <integer>0</integer>
-        <integer>-1</integer>
-      </array>
-    </dict>
-  </lib>
 </glyph>

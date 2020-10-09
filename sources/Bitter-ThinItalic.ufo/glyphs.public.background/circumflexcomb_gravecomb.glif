@@ -6,13 +6,4 @@
     <component base="gravedbl" xScale="0.9962" xyScale="-0.0872" yxScale="0.0872" yScale="0.9962" xOffset="139" yOffset="112"/>
     <component base="circumflexcomb" xOffset="70" yOffset="-58"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.componentsAlignment</key>
-      <array>
-        <integer>-1</integer>
-        <integer>-1</integer>
-      </array>
-    </dict>
-  </lib>
 </glyph>

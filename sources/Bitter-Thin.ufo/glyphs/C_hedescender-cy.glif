@@ -8,11 +8,8 @@
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.componentsAlignment</key>
-      <array>
-        <integer>1</integer>
-        <integer>1</integer>
-      </array>
+      <key>public.markColor</key>
+      <string>0.580,0.129,0.573,1</string>
     </dict>
   </lib>
 </glyph>

@@ -28,10 +28,6 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.originalWidth</key>
       <integer>400</integer>
-      <key>com.schriftgestaltung.componentsAlignment</key>
-      <array>
-        <integer>-1</integer>
-      </array>
     </dict>
   </lib>
 </glyph>

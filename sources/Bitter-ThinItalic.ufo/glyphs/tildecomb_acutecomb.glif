@@ -12,10 +12,10 @@
   <anchor x="293" y="692" name="top"/>
   <outline>
     <contour>
-      <point x="227.46020000000001" y="698.6186" type="line"/>
-      <point x="405.81570000000005" y="782.7601" type="line"/>
-      <point x="392.2599" y="812.2432" type="line"/>
-      <point x="218.7851" y="714.1668" type="line"/>
+      <point x="227" y="699" type="line"/>
+      <point x="406" y="783" type="line"/>
+      <point x="392" y="812" type="line"/>
+      <point x="219" y="714" type="line"/>
     </contour>
     <component base="tildecomb.case" xOffset="-35" yOffset="-166"/>
   </outline>
@@ -23,11 +23,6 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.originalWidth</key>
       <integer>451</integer>
-      <key>com.schriftgestaltung.componentsAlignment</key>
-      <array>
-        <integer>-1</integer>
-        <integer>-1</integer>
-      </array>
     </dict>
   </lib>
 </glyph>

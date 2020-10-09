@@ -11,13 +11,4 @@
     </contour>
     <component base="ringcomb" xOffset="11" yOffset="-25"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.componentsAlignment</key>
-      <array>
-        <integer>-1</integer>
-        <integer>-1</integer>
-      </array>
-    </dict>
-  </lib>
 </glyph>

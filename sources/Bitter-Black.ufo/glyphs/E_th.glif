@@ -5,10 +5,10 @@
   <guideline x="27" y="241" angle="90" identifier="72xROKXwKc"/>
   <outline>
     <contour>
-      <point x="24.455" y="293.59999999999997" type="line"/>
-      <point x="383.45529999999997" y="293.59999999999997" type="line"/>
-      <point x="383.45529999999997" y="425.59999999999997" type="line"/>
-      <point x="24.455" y="425.59999999999997" type="line"/>
+      <point x="24" y="294" type="line"/>
+      <point x="383" y="294" type="line"/>
+      <point x="383" y="426" type="line"/>
+      <point x="24" y="426" type="line"/>
     </contour>
     <component base="D"/>
   </outline>

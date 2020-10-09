@@ -5,12 +5,4 @@
   <outline>
     <component base="horncomb" xOffset="26" yOffset="170"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.componentsAlignment</key>
-      <array>
-        <integer>-1</integer>
-      </array>
-    </dict>
-  </lib>
 </glyph>

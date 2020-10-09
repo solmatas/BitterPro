@@ -5,13 +5,4 @@
     <component base="ringcomb" xOffset="6" yOffset="-25"/>
     <component base="acutecomb.case" xScale="0.9994" xyScale="-0.0349" yxScale="0.0349" yScale="0.9994" xOffset="-22" yOffset="112"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.componentsAlignment</key>
-      <array>
-        <integer>-1</integer>
-        <integer>-1</integer>
-      </array>
-    </dict>
-  </lib>
 </glyph>

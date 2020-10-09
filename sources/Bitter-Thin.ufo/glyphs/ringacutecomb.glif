@@ -4,20 +4,11 @@
   <anchor x="212" y="522" name="_top"/>
   <outline>
     <contour>
-      <point x="119.9246" y="733.9252" type="line"/>
-      <point x="302.9912" y="814.3474" type="line"/>
-      <point x="287.9864" y="843.4668" type="line"/>
-      <point x="110.99560000000002" y="749.5872" type="line"/>
+      <point x="120" y="734" type="line"/>
+      <point x="303" y="814" type="line"/>
+      <point x="288" y="843" type="line"/>
+      <point x="111" y="750" type="line"/>
     </contour>
     <component base="ringcomb" xOffset="39" yOffset="-43"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.componentsAlignment</key>
-      <array>
-        <integer>-1</integer>
-        <integer>-1</integer>
-      </array>
-    </dict>
-  </lib>
 </glyph>

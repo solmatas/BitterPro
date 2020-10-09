@@ -5,12 +5,4 @@
   <outline>
     <component base="acutecomb" xOffset="14"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.componentsAlignment</key>
-      <array>
-        <integer>-1</integer>
-      </array>
-    </dict>
-  </lib>
 </glyph>

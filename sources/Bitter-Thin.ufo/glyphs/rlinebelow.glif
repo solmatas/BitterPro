@@ -6,10 +6,10 @@
   <guideline x="277" y="89" angle="90"/>
   <outline>
     <contour>
-      <point x="258.38" y="-107" type="line"/>
-      <point x="32.980000000000004" y="-107" type="line"/>
-      <point x="32.980000000000004" y="-128" type="line"/>
-      <point x="258.38" y="-128" type="line"/>
+      <point x="258" y="-107" type="line"/>
+      <point x="33" y="-107" type="line"/>
+      <point x="33" y="-128" type="line"/>
+      <point x="258" y="-128" type="line"/>
     </contour>
     <component base="r"/>
   </outline>

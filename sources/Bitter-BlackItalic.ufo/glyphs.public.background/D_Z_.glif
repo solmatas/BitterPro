@@ -5,14 +5,4 @@
     <component base="Z" xOffset="684"/>
     <component base="caroncomb.case" xOffset="731"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.componentsAlignment</key>
-      <array>
-        <integer>-1</integer>
-        <integer>0</integer>
-        <integer>0</integer>
-      </array>
-    </dict>
-  </lib>
 </glyph>

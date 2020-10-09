@@ -12,10 +12,10 @@
   <anchor x="215" y="522" name="_top"/>
   <outline>
     <contour>
-      <point x="308.2354" y="696.3552000000001" type="line"/>
-      <point x="316.16679999999997" y="711.9474" type="line"/>
-      <point x="139.176" y="805.8270000000001" type="line"/>
-      <point x="122.2458" y="775.5704" type="line"/>
+      <point x="308" y="696" type="line"/>
+      <point x="316" y="712" type="line"/>
+      <point x="139" y="806" type="line"/>
+      <point x="122" y="776" type="line"/>
     </contour>
     <component base="macron" xOffset="-1" yOffset="-50"/>
   </outline>

@@ -6,28 +6,19 @@
   <anchor x="245" y="710" name="_top"/>
   <outline>
     <contour>
-      <point x="244.6" y="942.8000000000001" type="curve" smooth="yes"/>
-      <point x="301.3" y="942.8000000000001"/>
-      <point x="343.6" y="976.1"/>
-      <point x="343.6" y="1040.9" type="curve" smooth="yes"/>
-      <point x="343.6" y="1106.6"/>
-      <point x="302.20000000000005" y="1138.1"/>
-      <point x="245.5" y="1138.1" type="curve" smooth="yes"/>
-      <point x="187.9" y="1138.1"/>
-      <point x="145.6" y="1105.7"/>
-      <point x="145.6" y="1040.0" type="curve" smooth="yes"/>
-      <point x="145.6" y="977.0"/>
-      <point x="186.10000000000002" y="942.8000000000001"/>
+      <point x="245" y="943" type="curve" smooth="yes"/>
+      <point x="301" y="943"/>
+      <point x="344" y="976"/>
+      <point x="344" y="1041" type="curve" smooth="yes"/>
+      <point x="344" y="1107"/>
+      <point x="302" y="1138"/>
+      <point x="246" y="1138" type="curve" smooth="yes"/>
+      <point x="188" y="1138"/>
+      <point x="146" y="1106"/>
+      <point x="146" y="1040" type="curve" smooth="yes"/>
+      <point x="146" y="977"/>
+      <point x="186" y="943"/>
     </contour>
     <component base="caroncomb.case" xOffset="-9" yOffset="-11"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.componentsAlignment</key>
-      <array>
-        <integer>-1</integer>
-        <integer>-1</integer>
-      </array>
-    </dict>
-  </lib>
 </glyph>

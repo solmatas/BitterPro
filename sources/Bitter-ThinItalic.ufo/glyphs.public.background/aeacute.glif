@@ -4,13 +4,4 @@
     <component base="ae" xOffset="-3"/>
     <component base="acutecomb" xOffset="280"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.componentsAlignment</key>
-      <array>
-        <integer>0</integer>
-        <integer>1</integer>
-      </array>
-    </dict>
-  </lib>
 </glyph>

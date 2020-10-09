@@ -8,10 +8,10 @@
   <guideline x="107" y="231" angle="261"/>
   <outline>
     <contour>
-      <point x="102.70972" y="270.59999999999997" type="line"/>
-      <point x="531.09762" y="270.59999999999997" type="line"/>
-      <point x="548.64604" y="402.59999999999997" type="line"/>
-      <point x="120.25814" y="402.59999999999997" type="line"/>
+      <point x="103" y="271" type="line"/>
+      <point x="531" y="271" type="line"/>
+      <point x="549" y="403" type="line"/>
+      <point x="120" y="403" type="line"/>
     </contour>
     <component base="T"/>
   </outline>

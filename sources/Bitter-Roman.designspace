@@ -13,7 +13,7 @@
       <map input="900" output="200"/>
     </axis>
   </axes>
-  <rules>
+  <rules processing="last">
     <rule name="BRACKET.70.200">
       <conditionset>
         <condition name="Weight" minimum="70" maximum="200"/>

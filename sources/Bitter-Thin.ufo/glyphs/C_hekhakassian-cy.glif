@@ -16,11 +16,8 @@
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.componentsAlignment</key>
-      <array>
-        <integer>0</integer>
-        <integer>-1</integer>
-      </array>
+      <key>public.markColor</key>
+      <string>0.502,0,0.502,1</string>
     </dict>
   </lib>
 </glyph>

@@ -7,14 +7,4 @@
     <component base="fraction" xOffset="361"/>
     <component base="two.dnom" xOffset="600"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.componentsAlignment</key>
-      <array>
-        <integer>-1</integer>
-        <integer>0</integer>
-        <integer>0</integer>
-      </array>
-    </dict>
-  </lib>
 </glyph>

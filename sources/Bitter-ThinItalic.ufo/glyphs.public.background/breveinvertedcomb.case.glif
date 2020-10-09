@@ -5,12 +5,4 @@
   <outline>
     <component base="breveinvertedcomb" xOffset="12" yOffset="100"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.componentsAlignment</key>
-      <array>
-        <integer>-1</integer>
-      </array>
-    </dict>
-  </lib>
 </glyph>

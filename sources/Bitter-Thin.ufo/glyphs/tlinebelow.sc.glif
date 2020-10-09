@@ -5,20 +5,11 @@
   <guideline x="364" y="-13" angle="90"/>
   <outline>
     <contour>
-      <point x="363.31" y="-107" type="line"/>
-      <point x="131.01" y="-107" type="line"/>
-      <point x="131.01" y="-128" type="line"/>
-      <point x="363.31" y="-128" type="line"/>
+      <point x="363" y="-107" type="line"/>
+      <point x="131" y="-107" type="line"/>
+      <point x="131" y="-128" type="line"/>
+      <point x="363" y="-128" type="line"/>
     </contour>
     <component base="t.sc"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.componentsAlignment</key>
-      <array>
-        <integer>0</integer>
-        <integer>-1</integer>
-      </array>
-    </dict>
-  </lib>
 </glyph>

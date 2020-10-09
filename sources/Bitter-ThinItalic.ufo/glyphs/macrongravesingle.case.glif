@@ -11,20 +11,11 @@
   <anchor x="278" y="692" name="_top"/>
   <outline>
     <contour>
-      <point x="393.99168" y="790.29744" type="line"/>
-      <point x="400.92608" y="805.81952" type="line"/>
-      <point x="217.02608" y="898.22" type="line"/>
-      <point x="201.9504" y="870.09888" type="line"/>
+      <point x="394" y="790" type="line"/>
+      <point x="401" y="806" type="line"/>
+      <point x="217" y="898" type="line"/>
+      <point x="202" y="870" type="line"/>
     </contour>
     <component base="macron" xOffset="10" yOffset="63"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.componentsAlignment</key>
-      <array>
-        <integer>-1</integer>
-        <integer>-1</integer>
-      </array>
-    </dict>
-  </lib>
 </glyph>

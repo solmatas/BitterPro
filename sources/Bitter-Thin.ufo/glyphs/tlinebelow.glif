@@ -5,20 +5,11 @@
   <guideline x="300" y="388" angle="90"/>
   <outline>
     <contour>
-      <point x="299.90000000000003" y="-107" type="line"/>
-      <point x="92.9" y="-107" type="line"/>
-      <point x="92.9" y="-128" type="line"/>
-      <point x="299.90000000000003" y="-128" type="line"/>
+      <point x="300" y="-107" type="line"/>
+      <point x="93" y="-107" type="line"/>
+      <point x="93" y="-128" type="line"/>
+      <point x="300" y="-128" type="line"/>
     </contour>
     <component base="t"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.componentsAlignment</key>
-      <array>
-        <integer>0</integer>
-        <integer>-1</integer>
-      </array>
-    </dict>
-  </lib>
 </glyph>

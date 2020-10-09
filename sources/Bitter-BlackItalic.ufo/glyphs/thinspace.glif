@@ -6,44 +6,6 @@
   </outline>
   <lib>
     <dict>
-      <key>de.kutilek.scrawl.data</key>
-      <data>
-      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
-      CYII=
-      </data>
-      <key>de.kutilek.scrawl.rect</key>
-      <array>
-        <integer>-100</integer>
-        <integer>-330</integer>
-        <integer>384</integer>
-        <integer>1200</integer>
-      </array>
       <key>de.kutilek.scrawl.size</key>
       <integer>2</integer>
       <key>de.kutilek.scrawl.unit</key>

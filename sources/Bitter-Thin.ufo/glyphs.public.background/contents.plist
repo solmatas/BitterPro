@@ -230,8 +230,6 @@
     <string>T_edescender-cy.glif</string>
     <key>Tetse-cy</key>
     <string>T_etse-cy.glif</string>
-    <key>Tetse-cy.BRACKET.145</key>
-    <string>T_etse-cy.B_R_A_C_K_E_T_.145.glif</string>
     <key>Thorn</key>
     <string>T_horn.glif</string>
     <key>Tse-cy</key>
@@ -372,12 +370,8 @@
     <string>c.sc.glif</string>
     <key>c_h</key>
     <string>c_h.glif</string>
-    <key>c_h.BRACKET.165</key>
-    <string>c_h.B_R_A_C_K_E_T_.165.glif</string>
     <key>c_t</key>
     <string>c_t.glif</string>
-    <key>c_t.BRACKET.165</key>
-    <string>c_t.B_R_A_C_K_E_T_.165.glif</string>
     <key>careof</key>
     <string>careof.glif</string>
     <key>caroncomb.alt</key>
@@ -458,8 +452,6 @@
     <string>dcaron.glif</string>
     <key>dcroat</key>
     <string>dcroat.glif</string>
-    <key>dcroat.BRACKET.155</key>
-    <string>dcroat.B_R_A_C_K_E_T_.155.glif</string>
     <key>de-cy</key>
     <string>de-cy.glif</string>
     <key>de-cy.loclBGR</key>
@@ -688,8 +680,6 @@
     <string>guilsinglleft.glif</string>
     <key>h</key>
     <string>h.glif</string>
-    <key>h.BRACKET.165</key>
-    <string>h.B_R_A_C_K_E_T_.165.glif</string>
     <key>h.sc</key>
     <string>h.sc.glif</string>
     <key>haabkhasian-cy</key>
@@ -822,8 +812,6 @@
     <string>lslash.sc.glif</string>
     <key>m</key>
     <string>m.glif</string>
-    <key>m.BRACKET.165</key>
-    <string>m.B_R_A_C_K_E_T_.165.glif</string>
     <key>m.sc</key>
     <string>m.sc.glif</string>
     <key>macronacutesingle</key>
@@ -848,14 +836,10 @@
     <string>minute.glif</string>
     <key>n</key>
     <string>n.glif</string>
-    <key>n.BRACKET.165</key>
-    <string>n.B_R_A_C_K_E_T_.165.glif</string>
     <key>n.sc</key>
     <string>n.sc.glif</string>
     <key>naira</key>
     <string>naira.glif</string>
-    <key>naira.BRACKET.70</key>
-    <string>naira.B_R_A_C_K_E_T_.70.glif</string>
     <key>nine</key>
     <string>nine.glif</string>
     <key>nine.dnom</key>
@@ -866,8 +850,6 @@
     <string>nje-cy.glif</string>
     <key>nmod</key>
     <string>nmod.glif</string>
-    <key>nmod.BRACKET.165</key>
-    <string>nmod.B_R_A_C_K_E_T_.165.glif</string>
     <key>notequal</key>
     <string>notequal.glif</string>
     <key>ntilde</key>
@@ -936,12 +918,8 @@
     <string>periodcentered.loclC_A_T_.sc.glif</string>
     <key>peseta</key>
     <string>peseta.glif</string>
-    <key>peseta.BRACKET.130</key>
-    <string>peseta.B_R_A_C_K_E_T_.130.glif</string>
     <key>peso</key>
     <string>peso.glif</string>
-    <key>peso.BRACKET.70</key>
-    <string>peso.B_R_A_C_K_E_T_.70.glif</string>
     <key>pi</key>
     <string>pi.glif</string>
     <key>plus</key>
@@ -1070,8 +1048,6 @@
     <string>tenge.glif</string>
     <key>tetse-cy</key>
     <string>tetse-cy.glif</string>
-    <key>tetse-cy.BRACKET.165</key>
-    <string>tetse-cy.B_R_A_C_K_E_T_.165.glif</string>
     <key>thorn.sc</key>
     <string>thorn.sc.glif</string>
     <key>three</key>
@@ -1144,8 +1120,6 @@
     <string>whiteD_iamond.glif</string>
     <key>won</key>
     <string>won.glif</string>
-    <key>won.BRACKET.70</key>
-    <string>won.B_R_A_C_K_E_T_.70.glif</string>
     <key>x</key>
     <string>x.glif</string>
     <key>x.sc</key>

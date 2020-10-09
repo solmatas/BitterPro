@@ -18,11 +18,6 @@
       <string>n.sc</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>j.sc</string>
-      <key>com.schriftgestaltung.componentsAlignment</key>
-      <array>
-        <integer>1</integer>
-        <integer>1</integer>
-      </array>
     </dict>
   </lib>
 </glyph>

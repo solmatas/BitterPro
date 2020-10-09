@@ -46,67 +46,6 @@
   </outline>
   <lib>
     <dict>
-      <key>de.kutilek.scrawl.data</key>
-      <data>
-      iVBORw0KGgoAAAANSUhEUgAAAYoAAAJYCAAAAABZC/51AAAKEUlEQVR4Ae3TsW0DURADU
-      cn91+XUxTh0IHdwwYLBBO/SjyWImeP78/I1CHw1amjxelGR+QuooCJDIFPEKqjIEMgUsQ
-      oqMgQyRayCigyBTBGroCJDIFPEKqjIEMgUsQoqMgQyRayCigyBTBGroCJDIFPEKqjIEMg
-      UsQoqMgQyRayCigyBTBGroCJDIFPEKqjIEMgUsQoqMgQyRayCigyBTBGroCJDIFPEKqjI
-      EMgUsQoqMgQyRayCigyBTBGroCJDIFPEKqjIEMgUsQoqMgQyRayCigyBTBGroCJDIFPEK
-      qjIEMgUsQoqMgQyRayCigyBTBGroCJDIFPEKqjIEMgUsQoqMgQyRayCigyBTBGroCJDIF
-      PEKqjIEMgUsQoqMgQyRayCigyBTBGroCJDIFPEKqjIEMgUsQoqMgQyRayCigyBTBGroCJ
-      DIFPEKqjIEMgUsQoqMgQyRayCigyBTBGroCJDIFPEKqjIEMgUsQoqMgQyRayCigyBTBGr
-      oCJDIFPEKqjIEMgUsQoqMgQyRayCigyBTBGroCJDIFPEKqjIEMgUsQoqMgQyRayCigyBT
-      BGroCJDIFPEKqjIEMgUsQoqMgQyRayCigyBTBGroCJDIFPEKqjIEMgUsQoqMgQyRayCig
-      yBTBGroCJDIFPEKqjIEMgUsQoqMgQyRayCigyBTBGroCJDIFPEKqjIEMgUsQoqMgQyRay
-      CigyBTBGroCJDIFPEKqjIEMgUsQoqMgQyRayCigyBTBGroCJDIFPEKqjIEMgUsQoqMgQy
-      RayCigyBTBGroCJDIFPEKqjIEMgUsQoqMgQyRayCigyBTBGroCJDIFPEKqjIEMgUsQoqM
-      gQyRayCigyBTBGroCJDIFPEKqjIEMgUsQoqMgQyRayCigyBTBGroCJDIFPEKqjIEMgUsQ
-      oqMgQyRayCigyBTBGroCJDIFPEKqjIEMgUsQoqMgQyRayCigyBTBGroCJDIFPEKqjIEMg
-      UsQoqMgQyRayCigyBTBGroCJDIFPEKqjIEMgUsQoqMgQyRayCigyBTBGroCJDIFPEKqjI
-      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
-      </data>
-      <key>de.kutilek.scrawl.rect</key>
-      <array>
-        <integer>-100</integer>
-        <integer>-330</integer>
-        <integer>787</integer>
-        <integer>1200</integer>
-      </array>
       <key>de.kutilek.scrawl.size</key>
       <integer>2</integer>
       <key>de.kutilek.scrawl.unit</key>

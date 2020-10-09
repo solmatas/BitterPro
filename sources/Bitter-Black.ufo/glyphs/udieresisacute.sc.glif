@@ -5,13 +5,4 @@
     <component base="u.sc"/>
     <component base="dieresisacutecomb" xOffset="84" yOffset="51"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.componentsAlignment</key>
-      <array>
-        <integer>1</integer>
-        <integer>0</integer>
-      </array>
-    </dict>
-  </lib>
 </glyph>

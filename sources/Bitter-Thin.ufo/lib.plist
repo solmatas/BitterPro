@@ -4,17 +4,6 @@
   <dict>
     <key>angle</key>
     <integer>30</integer>
-    <key>com.defcon.sortDescriptor</key>
-    <array>
-      <dict>
-        <key>allowPseudoUnicode</key>
-        <integer>0</integer>
-        <key>ascending</key>
-        <string>Amstelvar DB Best</string>
-        <key>type</key>
-        <string>characterSet</string>
-      </dict>
-    </array>
     <key>com.github.googlei18n.ufo2ft.filters</key>
     <array>
       <dict>
@@ -472,8 +461,6 @@
         <integer>200</integer>
       </dict>
     </dict>
-    <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
-    <string></string>
     <key>com.schriftgestaltung.customParameter.GSFont.Use Line Breaks</key>
     <integer>1</integer>
     <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
@@ -513,12 +500,8 @@
     <integer>20</integer>
     <key>com.schriftgestaltung.customParameter.GSFontMaster.widthValue</key>
     <integer>100</integer>
-    <key>com.schriftgestaltung.fontMasterID</key>
-    <string>075BA79B-D813-4287-A9DD-CCAF2D535ED3</string>
     <key>com.schriftgestaltung.fontMasterOrder</key>
     <integer>0</integer>
-    <key>com.schriftgestaltung.glyphOrder</key>
-    <false/>
     <key>com.schriftgestaltung.keyboardIncrement</key>
     <integer>1</integer>
     <key>com.schriftgestaltung.weight</key>
@@ -2497,8 +2480,6 @@
       <string>uni04AC</string>
       <key>Tetse-cy</key>
       <string>uni04B4</string>
-      <key>Tetse-cy.BRACKET.145</key>
-      <string>uni04B4.BRACKET.145</string>
       <key>Tlinebelow</key>
       <string>uni1E6E</string>
       <key>Tse-cy</key>
@@ -3185,8 +3166,6 @@
       <string>uni03BC</string>
       <key>naira</key>
       <string>uni20A6</string>
-      <key>naira.BRACKET.70</key>
-      <string>uni20A6.BRACKET.70</string>
       <key>nbspace</key>
       <string>uni00A0</string>
       <key>ncommaaccent</key>
@@ -3217,8 +3196,6 @@
       <string>uni1E49.sc</string>
       <key>nmod</key>
       <string>uni207F</string>
-      <key>nmod.BRACKET.165</key>
-      <string>uni207F.BRACKET.165</string>
       <key>numero</key>
       <string>uni2116</string>
       <key>o-cy</key>
@@ -3349,8 +3326,6 @@
       <string>uni04A7</string>
       <key>peso</key>
       <string>uni20B1</string>
-      <key>peso.BRACKET.70</key>
-      <string>uni20B1.BRACKET.70</string>
       <key>punctuationspace</key>
       <string>uni2008</string>
       <key>qa-cy</key>
@@ -3491,8 +3466,6 @@
       <string>uni20B8</string>
       <key>tetse-cy</key>
       <string>uni04B5</string>
-      <key>tetse-cy.BRACKET.165</key>
-      <string>uni04B5.BRACKET.165</string>
       <key>thinspace</key>
       <string>uni2009</string>
       <key>threeinferior</key>
@@ -3625,8 +3598,6 @@
       <string>uni25A1</string>
       <key>won</key>
       <string>uni20A9</string>
-      <key>won.BRACKET.70</key>
-      <string>uni20A9.BRACKET.70</string>
       <key>yat-cy</key>
       <string>uni0463</string>
       <key>ydotaccent</key>
@@ -3688,8 +3659,6 @@
       <key>zhedieresis-cy</key>
       <string>uni04DD</string>
     </dict>
-    <key>public.skipExportGlyphs</key>
-    <array/>
     <key>width</key>
     <integer>20</integer>
   </dict>

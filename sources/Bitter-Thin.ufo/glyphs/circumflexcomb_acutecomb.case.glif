@@ -10,10 +10,10 @@
   <anchor x="237" y="920" name="top"/>
   <outline>
     <contour>
-      <point x="321.6577" y="828.2447000000001" type="line"/>
-      <point x="439.56960000000004" y="923.2394" type="line"/>
-      <point x="418.0231" y="944.7948" type="line"/>
-      <point x="309.5976" y="842.1196" type="line"/>
+      <point x="322" y="828" type="line"/>
+      <point x="440" y="923" type="line"/>
+      <point x="418" y="945" type="line"/>
+      <point x="310" y="842" type="line"/>
     </contour>
     <component base="circumflexcomb.case" xOffset="20" yOffset="-10"/>
   </outline>
@@ -21,11 +21,6 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.originalWidth</key>
       <integer>493</integer>
-      <key>com.schriftgestaltung.componentsAlignment</key>
-      <array>
-        <integer>-1</integer>
-        <integer>-1</integer>
-      </array>
     </dict>
   </lib>
 </glyph>

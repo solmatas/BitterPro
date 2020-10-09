@@ -4,13 +4,4 @@
     <component base="n.sc"/>
     <component base="j.sc" xOffset="644"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.componentsAlignment</key>
-      <array>
-        <integer>1</integer>
-        <integer>1</integer>
-      </array>
-    </dict>
-  </lib>
 </glyph>
