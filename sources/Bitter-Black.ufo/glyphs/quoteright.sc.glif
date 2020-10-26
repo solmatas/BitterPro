@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quoteright.sc" format="2">
+  <advance width="247"/>
+  <guideline x="259" y="292" angle="0" identifier="0TvUHu9yII"/>
+  <outline>
+    <component base="quotesinglbase" yOffset="473"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>quotesinglbase</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>quotesinglbase</string>
+    </dict>
+  </lib>
+</glyph>

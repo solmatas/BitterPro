@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cedillacomb.case" format="2">
+  <anchor x="52" y="0" name="_bottom"/>
+  <anchor x="13" y="-245" name="bottom"/>
+  <outline>
+    <component base="cedillacomb"/>
+  </outline>
+</glyph>

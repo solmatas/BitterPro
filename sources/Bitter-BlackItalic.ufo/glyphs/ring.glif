@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ring" format="2">
+  <advance width="372"/>
+  <unicode hex="02DA"/>
+  <guideline x="486" y="827" angle="0"/>
+  <guideline x="271" y="633" angle="0"/>
+  <guideline x="545" y="864" angle="0"/>
+  <guideline x="242" y="596" angle="0"/>
+  <guideline x="244" y="633" angle="261"/>
+  <guideline x="268" y="680" angle="0"/>
+  <outline>
+    <contour>
+      <point x="243" y="592" type="curve" smooth="yes"/>
+      <point x="358" y="592"/>
+      <point x="418" y="674"/>
+      <point x="418" y="757" type="curve" smooth="yes"/>
+      <point x="418" y="828"/>
+      <point x="377" y="886"/>
+      <point x="281" y="886" type="curve" smooth="yes"/>
+      <point x="168" y="886"/>
+      <point x="104" y="806"/>
+      <point x="104" y="719" type="curve" smooth="yes"/>
+      <point x="104" y="651"/>
+      <point x="146" y="592"/>
+    </contour>
+    <contour>
+      <point x="250" y="680" type="curve" smooth="yes"/>
+      <point x="223" y="680"/>
+      <point x="214" y="696"/>
+      <point x="214" y="723" type="curve" smooth="yes"/>
+      <point x="214" y="760"/>
+      <point x="231" y="798"/>
+      <point x="272" y="798" type="curve" smooth="yes"/>
+      <point x="298" y="798"/>
+      <point x="308" y="782"/>
+      <point x="308" y="755" type="curve" smooth="yes"/>
+      <point x="308" y="719"/>
+      <point x="291" y="680"/>
+    </contour>
+  </outline>
+</glyph>

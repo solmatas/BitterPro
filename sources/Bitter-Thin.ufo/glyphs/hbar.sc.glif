@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hbar.sc" format="2">
+  <advance width="725"/>
+  <outline>
+    <contour>
+      <point x="54" y="415" type="line"/>
+      <point x="672" y="415" type="line"/>
+      <point x="672" y="434" type="line"/>
+      <point x="54" y="434" type="line"/>
+    </contour>
+    <contour>
+      <point x="54" y="0" type="line"/>
+      <point x="269" y="0" type="line"/>
+      <point x="269" y="14" type="line"/>
+      <point x="158" y="26" type="line"/>
+      <point x="165" y="19" type="line"/>
+      <point x="165" y="286" type="line"/>
+      <point x="158" y="279" type="line"/>
+      <point x="568" y="279" type="line"/>
+      <point x="562" y="286" type="line"/>
+      <point x="562" y="19" type="line"/>
+      <point x="568" y="26" type="line"/>
+      <point x="459" y="14" type="line"/>
+      <point x="459" y="0" type="line"/>
+      <point x="672" y="0" type="line"/>
+      <point x="672" y="14" type="line"/>
+      <point x="576" y="26" type="line"/>
+      <point x="582" y="19" type="line"/>
+      <point x="582" y="549" type="line"/>
+      <point x="576" y="542" type="line"/>
+      <point x="672" y="554" type="line"/>
+      <point x="672" y="568" type="line"/>
+      <point x="459" y="564" type="line"/>
+      <point x="459" y="550" type="line"/>
+      <point x="568" y="543" type="line"/>
+      <point x="562" y="549" type="line"/>
+      <point x="562" y="291" type="line"/>
+      <point x="568" y="298" type="line"/>
+      <point x="158" y="298" type="line"/>
+      <point x="165" y="291" type="line"/>
+      <point x="165" y="549" type="line"/>
+      <point x="158" y="542" type="line"/>
+      <point x="269" y="554" type="line"/>
+      <point x="269" y="568" type="line"/>
+      <point x="54" y="564" type="line"/>
+      <point x="54" y="550" type="line"/>
+      <point x="151" y="542" type="line"/>
+      <point x="145" y="549" type="line"/>
+      <point x="145" y="19" type="line"/>
+      <point x="151" y="26" type="line"/>
+      <point x="54" y="14" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <integer>82</integer>
+        <key>width</key>
+        <integer>86</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>h.sc</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>h.sc</string>
+    </dict>
+  </lib>
+</glyph>

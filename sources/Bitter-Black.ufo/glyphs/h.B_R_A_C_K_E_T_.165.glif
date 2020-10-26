@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="h.BRACKET.165" format="2">
+  <advance width="643"/>
+  <guideline x="262" y="440" angle="90" identifier="kUFgmScNLg"/>
+  <anchor x="317" y="0" name="bottom"/>
+  <anchor x="319" y="270" name="center"/>
+  <anchor x="319" y="771" name="top"/>
+  <outline>
+    <contour>
+      <point x="9" y="0" type="line"/>
+      <point x="309" y="0" type="line"/>
+      <point x="309" y="100" type="line"/>
+      <point x="248" y="126" type="line"/>
+      <point x="264" y="99" type="line"/>
+      <point x="264" y="395" type="line"/>
+      <point x="251" y="368" type="line"/>
+      <point x="279" y="392"/>
+      <point x="308" y="405"/>
+      <point x="331" y="405" type="curve" smooth="yes"/>
+      <point x="362" y="405"/>
+      <point x="384" y="383"/>
+      <point x="384" y="337" type="curve" smooth="yes"/>
+      <point x="384" y="0" type="line"/>
+      <point x="639" y="0" type="line"/>
+      <point x="639" y="100" type="line"/>
+      <point x="568" y="129" type="line"/>
+      <point x="584" y="103" type="line"/>
+      <point x="584" y="380" type="line" smooth="yes"/>
+      <point x="584" y="496"/>
+      <point x="512" y="555"/>
+      <point x="422" y="555" type="curve" smooth="yes"/>
+      <point x="357" y="555"/>
+      <point x="282" y="523"/>
+      <point x="219" y="461" type="curve"/>
+      <point x="264" y="453" type="line"/>
+      <point x="264" y="785" type="line"/>
+      <point x="9" y="775" type="line"/>
+      <point x="9" y="675" type="line"/>
+      <point x="86" y="645" type="line"/>
+      <point x="64" y="675" type="line"/>
+      <point x="64" y="103" type="line"/>
+      <point x="86" y="130" type="line"/>
+      <point x="9" y="100" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs._originalLayerName</key>
+      <string>Black [165]</string>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="macrondieresiscomb.case" format="2">
+  <advance width="468"/>
+  <guideline x="257" y="774" angle="0"/>
+  <guideline x="471" y="968" angle="0"/>
+  <guideline x="237" y="756" angle="0"/>
+  <guideline x="504" y="998" angle="0"/>
+  <guideline x="109" y="774" angle="261"/>
+  <guideline x="519" y="780" angle="261"/>
+  <guideline x="314" y="774" angle="261"/>
+  <anchor x="303" y="710" name="_top"/>
+  <outline>
+    <component base="macroncomb" xOffset="59" yOffset="105"/>
+    <component base="dieresiscomb" xOffset="51" yOffset="317"/>
+  </outline>
+</glyph>

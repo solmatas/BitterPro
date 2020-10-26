@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fita-cy" format="2">
+  <outline>
+    <contour>
+      <point x="44" y="220" type="line"/>
+      <point x="403" y="220" type="line"/>
+      <point x="420" y="330" type="line"/>
+      <point x="62" y="330" type="line"/>
+    </contour>
+  </outline>
+</glyph>

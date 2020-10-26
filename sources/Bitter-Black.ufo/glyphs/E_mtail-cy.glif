@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Emtail-cy" format="2">
+  <advance width="879"/>
+  <unicode hex="04CD"/>
+  <outline>
+    <component base="Em-cy"/>
+    <component base="tail-cy.case" xOffset="614"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.502,0,0.502,1</string>
+    </dict>
+  </lib>
+</glyph>

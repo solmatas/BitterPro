@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gedescender-cy" format="2">
+  <advance width="540"/>
+  <unicode hex="04F7"/>
+  <outline>
+    <component base="ge-cy"/>
+    <component base="descender-cy" xOffset="154"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.502,0,0.502,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevecomb_tildecomb.case" format="2">
+  <guideline x="215" y="780" angle="0" identifier="aAcHvu2DDQ"/>
+  <guideline x="215" y="1134" angle="0" identifier="C38uDTJkcw"/>
+  <guideline y="774" identifier="aqH8ivk31i"/>
+  <guideline y="968" identifier="VZArMgNeOz"/>
+  <guideline y="756" identifier="QAulnMVBM4"/>
+  <guideline y="998" identifier="cdnZ9u8ryY"/>
+  <guideline x="49" y="823" angle="90" identifier="mYTbCvT4qH"/>
+  <guideline x="424" y="823" angle="90" identifier="XQlKKkretK"/>
+  <anchor x="235" y="710" name="_top"/>
+  <anchor x="234" y="1100" name="top"/>
+  <outline>
+    <contour>
+      <point x="109" y="951" type="line"/>
+      <point x="129" y="982"/>
+      <point x="143" y="996"/>
+      <point x="163" y="996" type="curve" smooth="yes"/>
+      <point x="197" y="996"/>
+      <point x="259" y="953"/>
+      <point x="308" y="953" type="curve" smooth="yes"/>
+      <point x="365" y="953"/>
+      <point x="408" y="995"/>
+      <point x="435" y="1097" type="curve"/>
+      <point x="357" y="1132" type="line"/>
+      <point x="338" y="1100"/>
+      <point x="322" y="1085"/>
+      <point x="299" y="1085" type="curve" smooth="yes"/>
+      <point x="261" y="1085"/>
+      <point x="204" y="1129"/>
+      <point x="151" y="1129" type="curve" smooth="yes"/>
+      <point x="97" y="1129"/>
+      <point x="60" y="1087"/>
+      <point x="33" y="987" type="curve"/>
+    </contour>
+    <component base="brevecomb.case" xOffset="29" yOffset="-30"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>469</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="oe.sc" format="2">
+  <outline>
+    <contour>
+      <point x="724" y="189" type="line"/>
+      <point x="703" y="109" type="line"/>
+      <point x="732" y="138" type="line"/>
+      <point x="564" y="138" type="line"/>
+      <point x="596" y="109" type="line"/>
+      <point x="596" y="264" type="line"/>
+      <point x="564" y="237" type="line"/>
+      <point x="756" y="237" type="line"/>
+      <point x="756" y="363" type="line"/>
+      <point x="564" y="363" type="line"/>
+      <point x="596" y="335" type="line"/>
+      <point x="596" y="482" type="line"/>
+      <point x="564" y="453" type="line"/>
+      <point x="722" y="453" type="line"/>
+      <point x="693" y="478" type="line"/>
+      <point x="713" y="407" type="line"/>
+      <point x="833" y="407" type="line"/>
+      <point x="833" y="591" type="line"/>
+      <point x="604" y="591" type="line"/>
+      <point x="343" y="587" type="line"/>
+      <point x="343" y="487" type="line"/>
+      <point x="417" y="457" type="line"/>
+      <point x="393" y="493" type="line"/>
+      <point x="393" y="93" type="line"/>
+      <point x="418" y="131" type="line"/>
+      <point x="343" y="100" type="line"/>
+      <point x="343" y="0" type="line"/>
+      <point x="842" y="0" type="line"/>
+      <point x="844" y="189" type="line"/>
+    </contour>
+  </outline>
+</glyph>

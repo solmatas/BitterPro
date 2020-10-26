@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acutecomb.loclPLK" format="2">
+  <guideline x="365" y="827" angle="0"/>
+  <guideline x="150" y="633" angle="0"/>
+  <guideline x="406" y="864" angle="0"/>
+  <guideline x="114" y="601" angle="0"/>
+  <anchor x="118" y="540" name="_top"/>
+  <anchor x="165" y="840" name="top"/>
+  <outline>
+    <contour>
+      <point x="137" y="592" type="line"/>
+      <point x="318" y="781" type="line"/>
+      <point x="201" y="861" type="line"/>
+      <point x="61" y="638" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>230</integer>
+    </dict>
+  </lib>
+</glyph>

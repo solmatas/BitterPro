@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="twothirds" format="2">
+  <outline>
+    <component base="two.numr" xOffset="9"/>
+    <component base="fraction" xOffset="390"/>
+    <component base="three.dnom" xOffset="609"/>
+  </outline>
+</glyph>

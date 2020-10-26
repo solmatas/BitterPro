@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hungarumlautcomb.case" format="2">
+  <guideline y="756" identifier="FzVa8DECau"/>
+  <guideline y="998" identifier="iFIIFKiBzQ"/>
+  <anchor x="188" y="710" name="_top"/>
+  <anchor x="188" y="950" name="top"/>
+  <outline>
+    <component base="hungarumlautcomb" xOffset="-2" yOffset="150"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>443</integer>
+    </dict>
+  </lib>
+</glyph>

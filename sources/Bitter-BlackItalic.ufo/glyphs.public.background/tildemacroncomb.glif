@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tildemacroncomb" format="2">
+  <anchor x="231" y="540" name="_top"/>
+  <outline>
+    <component base="tildecomb.case" xOffset="-1" yOffset="-200"/>
+    <component base="macroncomb" xOffset="20" yOffset="142"/>
+  </outline>
+</glyph>

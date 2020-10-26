@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ustrait-cy" format="2">
+  <outline>
+    <contour>
+      <point x="328" y="-20" type="line"/>
+      <point x="572" y="442" type="line"/>
+      <point x="544" y="415" type="line"/>
+      <point x="607" y="445" type="line"/>
+      <point x="622" y="545" type="line"/>
+      <point x="367" y="535" type="line"/>
+      <point x="352" y="435" type="line"/>
+      <point x="397" y="417" type="line"/>
+      <point x="390" y="431" type="line"/>
+      <point x="257" y="104" type="line"/>
+      <point x="290" y="104" type="line"/>
+      <point x="263" y="442" type="line"/>
+      <point x="247" y="419" type="line"/>
+      <point x="303" y="445" type="line"/>
+      <point x="319" y="545" type="line"/>
+      <point x="42" y="535" type="line"/>
+      <point x="26" y="435" type="line"/>
+      <point x="85" y="415" type="line"/>
+      <point x="64" y="435" type="line"/>
+      <point x="151" y="-20" type="line"/>
+      <point x="151" y="24" type="line"/>
+      <point x="123" y="-155" type="line"/>
+      <point x="161" y="-99" type="line"/>
+      <point x="69" y="-130" type="line"/>
+      <point x="53" y="-230" type="line"/>
+      <point x="360" y="-230" type="line"/>
+      <point x="376" y="-130" type="line"/>
+      <point x="289" y="-93" type="line"/>
+      <point x="315" y="-155" type="line"/>
+      <point x="343" y="24" type="line"/>
+    </contour>
+  </outline>
+</glyph>

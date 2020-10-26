@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="h.sc" format="2">
+  <advance width="707"/>
+  <guideline x="150" y="726" angle="261"/>
+  <guideline x="345" y="726" angle="261"/>
+  <guideline x="102" y="726" angle="261"/>
+  <guideline x="506" y="726" angle="261"/>
+  <guideline x="457" y="726" angle="261"/>
+  <guideline x="394" y="726" angle="261"/>
+  <guideline x="749" y="726" angle="261"/>
+  <guideline x="701" y="726" angle="261"/>
+  <anchor x="310" y="0" name="bottom"/>
+  <anchor x="358" y="301" name="center"/>
+  <anchor x="404" y="591" name="top"/>
+  <anchor x="49" y="591" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="-13" y="0" type="line"/>
+      <point x="279" y="0" type="line"/>
+      <point x="295" y="100" type="line"/>
+      <point x="227" y="131" type="line"/>
+      <point x="245" y="93" type="line"/>
+      <point x="272" y="264" type="line"/>
+      <point x="235" y="235" type="line"/>
+      <point x="455" y="235" type="line"/>
+      <point x="433" y="264" type="line"/>
+      <point x="406" y="93" type="line"/>
+      <point x="435" y="131" type="line"/>
+      <point x="358" y="100" type="line"/>
+      <point x="342" y="0" type="line"/>
+      <point x="634" y="0" type="line"/>
+      <point x="650" y="100" type="line"/>
+      <point x="581" y="131" type="line"/>
+      <point x="601" y="93" type="line"/>
+      <point x="665" y="497" type="line"/>
+      <point x="631" y="456" type="line"/>
+      <point x="712" y="493" type="line"/>
+      <point x="728" y="593" type="line"/>
+      <point x="435" y="589" type="line"/>
+      <point x="419" y="489" type="line"/>
+      <point x="490" y="454" type="line"/>
+      <point x="469" y="495" type="line"/>
+      <point x="446" y="344" type="line"/>
+      <point x="480" y="373" type="line"/>
+      <point x="260" y="373" type="line"/>
+      <point x="285" y="345" type="line"/>
+      <point x="309" y="497" type="line"/>
+      <point x="272" y="455" type="line"/>
+      <point x="357" y="493" type="line"/>
+      <point x="373" y="593" type="line"/>
+      <point x="80" y="587" type="line"/>
+      <point x="64" y="487" type="line"/>
+      <point x="137" y="454" type="line"/>
+      <point x="114" y="496" type="line"/>
+      <point x="50" y="93" type="line"/>
+      <point x="81" y="131" type="line"/>
+      <point x="3" y="100" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <integer>83</integer>
+        <key>width</key>
+        <integer>86</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

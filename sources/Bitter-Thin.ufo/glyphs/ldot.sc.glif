@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ldot.sc" format="2">
+  <advance width="498"/>
+  <outline>
+    <component base="l.sc"/>
+    <component base="periodcentered.sc" xOffset="314" yOffset="-40"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>l.sc</string>
+    </dict>
+  </lib>
+</glyph>

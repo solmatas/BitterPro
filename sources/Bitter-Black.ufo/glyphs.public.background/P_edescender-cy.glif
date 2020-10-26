@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Pedescender-cy" format="2">
+  <outline>
+    <contour>
+      <point x="786" y="-200" type="line"/>
+      <point x="784" y="100" type="line"/>
+      <point x="685" y="124" type="line"/>
+      <point x="685" y="582" type="line"/>
+      <point x="745" y="610" type="line"/>
+      <point x="745" y="710" type="line"/>
+      <point x="289" y="710" type="line"/>
+      <point x="24" y="705" type="line"/>
+      <point x="24" y="605" type="line"/>
+      <point x="84" y="582" type="line"/>
+      <point x="84" y="124" type="line"/>
+      <point x="24" y="100" type="line"/>
+      <point x="24" y="0" type="line"/>
+      <point x="349" y="0" type="line"/>
+      <point x="349" y="100" type="line"/>
+      <point x="289" y="124" type="line"/>
+      <point x="289" y="565" type="line"/>
+      <point x="480" y="565" type="line"/>
+      <point x="480" y="124" type="line"/>
+      <point x="420" y="100" type="line"/>
+      <point x="420" y="0" type="line"/>
+      <point x="610" y="0" type="line"/>
+      <point x="666" y="-200" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="intersection" format="2">
+  <outline>
+    <contour>
+      <point x="21" y="0" type="line"/>
+      <point x="213" y="0" type="line"/>
+      <point x="281" y="425" type="line" smooth="yes"/>
+      <point x="297" y="527"/>
+      <point x="322" y="570"/>
+      <point x="383" y="570" type="curve" smooth="yes"/>
+      <point x="442" y="570"/>
+      <point x="451" y="530"/>
+      <point x="437" y="440" type="curve" smooth="yes"/>
+      <point x="367" y="1" type="line"/>
+      <point x="559" y="1" type="line"/>
+      <point x="629" y="440" type="line" smooth="yes"/>
+      <point x="660" y="640"/>
+      <point x="595" y="725"/>
+      <point x="414" y="725" type="curve" smooth="yes"/>
+      <point x="226" y="725"/>
+      <point x="122" y="637"/>
+      <point x="89" y="425" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotmacroncomb" format="2">
+  <advance width="422"/>
+  <guideline x="404" y="724" angle="0"/>
+  <guideline x="360" y="682" angle="0"/>
+  <guideline x="430" y="775" angle="0"/>
+  <guideline x="329" y="636" angle="0"/>
+  <guideline x="300" y="820" angle="261"/>
+  <guideline x="410" y="820" angle="261"/>
+  <guideline x="190" y="820" angle="261"/>
+  <anchor x="253" y="522" name="_top"/>
+  <outline>
+    <component base="macroncomb" xOffset="12" yOffset="71"/>
+    <component base="dotaccentcomb" xOffset="151" yOffset="-40"/>
+  </outline>
+</glyph>

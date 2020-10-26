@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="one.sinf" format="2">
+  <outline>
+    <contour>
+      <point x="287" y="-11" type="line"/>
+      <point x="287" y="345" type="line"/>
+      <point x="157" y="345" type="line"/>
+      <point x="25" y="258" type="line"/>
+      <point x="65" y="165" type="line"/>
+      <point x="163" y="213" type="line"/>
+      <point x="127" y="211" type="line"/>
+      <point x="127" y="-11" type="line"/>
+      <point x="149" y="16" type="line"/>
+      <point x="49" y="-10" type="line"/>
+      <point x="49" y="-90" type="line"/>
+      <point x="339" y="-90" type="line"/>
+      <point x="339" y="-10" type="line"/>
+      <point x="265" y="21" type="line"/>
+    </contour>
+  </outline>
+</glyph>

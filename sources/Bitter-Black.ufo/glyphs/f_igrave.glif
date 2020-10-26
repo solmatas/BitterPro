@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="f_igrave" format="2">
+  <advance width="703"/>
+  <outline>
+    <contour>
+      <point x="24" y="0" type="line"/>
+      <point x="344" y="0" type="line"/>
+      <point x="344" y="100" type="line"/>
+      <point x="263" y="128" type="line"/>
+      <point x="279" y="110" type="line"/>
+      <point x="279" y="424" type="line"/>
+      <point x="262" y="405" type="line"/>
+      <point x="479" y="405" type="line"/>
+      <point x="451" y="421" type="line"/>
+      <point x="451" y="112" type="line"/>
+      <point x="463" y="127" type="line"/>
+      <point x="396" y="100" type="line"/>
+      <point x="396" y="0" type="line"/>
+      <point x="706" y="0" type="line"/>
+      <point x="706" y="100" type="line"/>
+      <point x="639" y="127" type="line"/>
+      <point x="651" y="112" type="line"/>
+      <point x="651" y="544" type="line"/>
+      <point x="255" y="535" type="line"/>
+      <point x="279" y="513" type="line"/>
+      <point x="279" y="574" type="line" smooth="yes"/>
+      <point x="279" y="636"/>
+      <point x="298" y="656"/>
+      <point x="352" y="656" type="curve" smooth="yes"/>
+      <point x="362" y="656"/>
+      <point x="373" y="655"/>
+      <point x="385" y="654" type="curve"/>
+      <point x="396" y="790" type="line"/>
+      <point x="371" y="794"/>
+      <point x="346" y="795"/>
+      <point x="328" y="795" type="curve" smooth="yes"/>
+      <point x="174" y="795"/>
+      <point x="79" y="719"/>
+      <point x="79" y="558" type="curve" smooth="yes"/>
+      <point x="79" y="513" type="line"/>
+      <point x="100" y="540" type="line"/>
+      <point x="19" y="510" type="line"/>
+      <point x="19" y="405" type="line"/>
+      <point x="95" y="405" type="line"/>
+      <point x="79" y="424" type="line"/>
+      <point x="79" y="109" type="line"/>
+      <point x="95" y="128" type="line"/>
+      <point x="24" y="100" type="line"/>
+    </contour>
+    <contour>
+      <point x="641" y="592" type="line"/>
+      <point x="715" y="693" type="line"/>
+      <point x="505" y="871" type="line"/>
+      <point x="405" y="736" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>f</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>igrave</string>
+    </dict>
+  </lib>
+</glyph>

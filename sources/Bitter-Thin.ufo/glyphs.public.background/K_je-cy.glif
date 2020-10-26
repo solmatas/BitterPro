@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Kje-cy" format="2">
+  <outline>
+    <contour>
+      <point x="502" y="859" type="line"/>
+      <point x="484" y="888" type="line"/>
+      <point x="294" y="759" type="line"/>
+      <point x="303" y="744" type="line"/>
+    </contour>
+    <contour>
+      <point x="585" y="28" type="line"/>
+      <point x="344" y="359" type="line"/>
+      <point x="537" y="665" type="line"/>
+      <point x="637" y="678" type="line"/>
+      <point x="637" y="693" type="line"/>
+      <point x="417" y="688" type="line"/>
+      <point x="417" y="673" type="line"/>
+      <point x="517" y="666" type="line"/>
+      <point x="326" y="364" type="line"/>
+      <point x="188" y="364" type="line"/>
+      <point x="188" y="665" type="line"/>
+      <point x="288" y="678" type="line"/>
+      <point x="288" y="693" type="line"/>
+      <point x="68" y="688" type="line"/>
+      <point x="68" y="673" type="line"/>
+      <point x="168" y="665" type="line"/>
+      <point x="168" y="28" type="line"/>
+      <point x="68" y="15" type="line"/>
+      <point x="68" y="0" type="line"/>
+      <point x="288" y="0" type="line"/>
+      <point x="288" y="15" type="line"/>
+      <point x="188" y="28" type="line"/>
+      <point x="188" y="345" type="line"/>
+      <point x="330" y="345" type="line"/>
+      <point x="561" y="28" type="line"/>
+      <point x="466" y="15" type="line"/>
+      <point x="466" y="0" type="line"/>
+      <point x="685" y="0" type="line"/>
+      <point x="685" y="15" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tildemacroncomb.case" format="2">
+  <advance width="469"/>
+  <guideline x="155" y="737" angle="0"/>
+  <guideline x="244" y="868" angle="0"/>
+  <guideline x="219" y="834" angle="0"/>
+  <guideline x="176" y="775" angle="0"/>
+  <guideline x="202" y="780" angle="261"/>
+  <guideline x="419" y="780" angle="261"/>
+  <guideline x="311" y="780" angle="261"/>
+  <anchor x="297" y="692" name="_top"/>
+  <outline>
+    <component base="macroncomb" xOffset="47" yOffset="177"/>
+    <component base="tildecomb.case" xOffset="-14" yOffset="-36"/>
+  </outline>
+</glyph>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Pe-cy" format="2">
+  <advance width="784"/>
+  <unicode hex="041F"/>
+  <anchor x="724" y="0" name="bottomright"/>
+  <outline>
+    <contour>
+      <point x="61" y="0" type="line"/>
+      <point x="281" y="0" type="line"/>
+      <point x="281" y="15" type="line"/>
+      <point x="174" y="29" type="line"/>
+      <point x="181" y="21" type="line"/>
+      <point x="181" y="681" type="line"/>
+      <point x="174" y="672" type="line"/>
+      <point x="611" y="673" type="line"/>
+      <point x="604" y="681" type="line"/>
+      <point x="604" y="21" type="line"/>
+      <point x="611" y="29" type="line"/>
+      <point x="504" y="15" type="line"/>
+      <point x="504" y="0" type="line"/>
+      <point x="724" y="0" type="line"/>
+      <point x="724" y="15" type="line"/>
+      <point x="617" y="29" type="line"/>
+      <point x="624" y="21" type="line"/>
+      <point x="624" y="671" type="line"/>
+      <point x="617" y="663" type="line"/>
+      <point x="724" y="677" type="line"/>
+      <point x="724" y="692" type="line"/>
+      <point x="181" y="692" type="line"/>
+      <point x="61" y="687" type="line"/>
+      <point x="61" y="672" type="line"/>
+      <point x="168" y="663" type="line"/>
+      <point x="161" y="671" type="line"/>
+      <point x="161" y="21" type="line"/>
+      <point x="168" y="29" type="line"/>
+      <point x="61" y="15" type="line"/>
+    </contour>
+  </outline>
+</glyph>

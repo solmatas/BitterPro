@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gje-cy.loclMKD" format="2">
+  <advance width="263"/>
+  <outline>
+    <contour>
+      <point x="293" y="652" type="line"/>
+      <point x="90" y="652" type="line"/>
+      <point x="87" y="631" type="line"/>
+      <point x="291" y="631" type="line"/>
+    </contour>
+    <contour>
+      <point x="113" y="699" type="line"/>
+      <point x="289" y="779" type="line"/>
+      <point x="278" y="808" type="line"/>
+      <point x="106" y="714" type="line"/>
+    </contour>
+    <component base="idotless"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

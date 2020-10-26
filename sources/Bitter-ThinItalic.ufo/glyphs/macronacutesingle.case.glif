@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="macronacutesingle.case" format="2">
+  <advance width="421"/>
+  <guideline x="177" y="747" angle="0"/>
+  <guideline x="266" y="868" angle="0"/>
+  <guideline x="229" y="790" angle="0"/>
+  <guideline x="198" y="775" angle="0"/>
+  <guideline x="139" y="503" angle="261"/>
+  <guideline x="249" y="503" angle="261"/>
+  <guideline x="359" y="503" angle="261"/>
+  <anchor x="279" y="692" name="_top"/>
+  <outline>
+    <contour>
+      <point x="207" y="790" type="line"/>
+      <point x="398" y="870" type="line"/>
+      <point x="387" y="899" type="line"/>
+      <point x="200" y="805" type="line"/>
+    </contour>
+    <component base="macron" xOffset="9" yOffset="63"/>
+  </outline>
+</glyph>

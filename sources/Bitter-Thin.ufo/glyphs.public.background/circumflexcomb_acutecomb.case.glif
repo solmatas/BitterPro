@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexcomb_acutecomb.case" format="2">
+  <anchor x="223" y="692" name="_top"/>
+  <anchor x="223" y="933" name="top"/>
+  <outline>
+    <component base="circumflexcomb.case" xOffset="20"/>
+    <component base="acutedbl" xScale="0.9945" xyScale="-0.1045" yxScale="0.1045" yScale="0.9945" xOffset="202" yOffset="261"/>
+  </outline>
+</glyph>

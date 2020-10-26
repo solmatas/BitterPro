@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="guilsinglleft.case" format="2">
+  <advance width="279"/>
+  <guideline x="-150" y="171" angle="0"/>
+  <guideline x="127" y="550" angle="0"/>
+  <outline>
+    <component base="guilsinglleft" xOffset="14" yOffset="90"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>guilsinglleft</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>guilsinglleft</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevecomb_hookabovecomb.case" format="2">
+  <guideline y="747"/>
+  <guideline y="868"/>
+  <guideline y="834"/>
+  <guideline y="775"/>
+  <anchor x="212" y="692" name="_top"/>
+  <anchor x="212" y="960" name="top"/>
+  <outline>
+    <component base="brevecomb.case" yOffset="-20"/>
+    <component base="hookabovecomb.case" xOffset="68" yOffset="71"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>424</integer>
+    </dict>
+  </lib>
+</glyph>

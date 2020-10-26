@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tse-cy" format="2">
+  <advance width="700"/>
+  <unicode hex="0446"/>
+  <guideline x="250" y="-180" angle="0" identifier="lDEfka9zk6"/>
+  <outline>
+    <contour>
+      <point x="693" y="102" type="line"/>
+      <point x="560" y="133" type="line"/>
+      <point x="599" y="75" type="line"/>
+      <point x="599" y="461" type="line"/>
+      <point x="562" y="403" type="line"/>
+      <point x="654" y="444" type="line"/>
+      <point x="654" y="544" type="line"/>
+      <point x="354" y="536" type="line"/>
+      <point x="354" y="436" type="line"/>
+      <point x="429" y="406" type="line"/>
+      <point x="399" y="456" type="line"/>
+      <point x="399" y="85" type="line"/>
+      <point x="449" y="145" type="line"/>
+      <point x="226" y="145" type="line"/>
+      <point x="276" y="85" type="line"/>
+      <point x="276" y="461" type="line"/>
+      <point x="235" y="403" type="line"/>
+      <point x="321" y="444" type="line"/>
+      <point x="321" y="544" type="line"/>
+      <point x="21" y="536" type="line"/>
+      <point x="21" y="436" type="line"/>
+      <point x="127" y="393" type="line"/>
+      <point x="76" y="456" type="line"/>
+      <point x="76" y="75" type="line"/>
+      <point x="113" y="137" type="line"/>
+      <point x="21" y="100" type="line"/>
+      <point x="21" y="0" type="line"/>
+      <point x="563" y="0" type="line"/>
+      <point x="531" y="18" type="line"/>
+      <point x="570" y="-185" type="line"/>
+      <point x="695" y="-185" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>n</string>
+    </dict>
+  </lib>
+</glyph>

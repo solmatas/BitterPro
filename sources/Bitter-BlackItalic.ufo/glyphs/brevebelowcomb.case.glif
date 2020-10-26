@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevebelowcomb.case" format="2">
+  <guideline x="90" y="648" angle="261"/>
+  <guideline x="269" y="648" angle="261"/>
+  <anchor x="166" y="0" name="_bottom"/>
+  <anchor x="126" y="-250" name="bottom"/>
+  <outline>
+    <component base="brevebelowcomb"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>420</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tildecomb" format="2">
+  <unicode hex="0303"/>
+  <guideline x="278" y="529" angle="261"/>
+  <guideline x="478" y="529" angle="261"/>
+  <guideline x="78" y="529" angle="261"/>
+  <guideline x="125" y="633" angle="0"/>
+  <anchor x="280" y="540" name="_top"/>
+  <anchor x="318" y="780" name="top"/>
+  <outline>
+    <component base="tilde"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>474</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ertick-cy" format="2">
+  <outline>
+    <contour>
+      <point x="448" y="-74" type="line"/>
+      <point x="519" y="-27" type="line"/>
+      <point x="357" y="226" type="line"/>
+      <point x="287" y="177" type="line"/>
+    </contour>
+    <component base="p" xOffset="6"/>
+  </outline>
+</glyph>

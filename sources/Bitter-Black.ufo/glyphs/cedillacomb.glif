@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cedillacomb" format="2">
+  <unicode hex="0327"/>
+  <guideline x="74" y="23" angle="90" identifier="03IAlVNV1M"/>
+  <anchor x="132" y="0" name="_bottom"/>
+  <anchor x="134" y="-230" name="bottom"/>
+  <outline>
+    <component base="cedilla"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>322</integer>
+    </dict>
+  </lib>
+</glyph>

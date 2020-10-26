@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="pe-cy.loclSRB" format="2">
+  <advance width="631"/>
+  <outline>
+    <component base="u" xOffset="12"/>
+    <component base="macroncomb" xOffset="89"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
+      <string>=+12</string>
+      <key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+      <string>=+11</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hbar" format="2">
+  <outline>
+    <contour>
+      <point x="84" y="641" type="line"/>
+      <point x="81" y="622" type="line"/>
+      <point x="383" y="622" type="line"/>
+      <point x="386" y="641" type="line"/>
+    </contour>
+  </outline>
+</glyph>

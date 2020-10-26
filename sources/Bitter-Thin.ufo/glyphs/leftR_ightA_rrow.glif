@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="leftRightArrow" format="2">
+  <advance width="1073"/>
+  <unicode hex="2194"/>
+  <outline>
+    <contour>
+      <point x="339" y="44" type="line"/>
+      <point x="353" y="57" type="line"/>
+      <point x="79" y="348" type="line"/>
+      <point x="79" y="336" type="line"/>
+      <point x="994" y="336" type="line"/>
+      <point x="994" y="348" type="line"/>
+      <point x="720" y="57" type="line"/>
+      <point x="734" y="44" type="line"/>
+      <point x="1014" y="339" type="line"/>
+      <point x="1014" y="353" type="line"/>
+      <point x="734" y="648" type="line"/>
+      <point x="720" y="635" type="line"/>
+      <point x="994" y="344" type="line"/>
+      <point x="994" y="356" type="line"/>
+      <point x="79" y="356" type="line"/>
+      <point x="79" y="344" type="line"/>
+      <point x="353" y="635" type="line"/>
+      <point x="339" y="648" type="line"/>
+      <point x="59" y="353" type="line"/>
+      <point x="59" y="339" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>leftArrow</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=|leftArrow</string>
+    </dict>
+  </lib>
+</glyph>

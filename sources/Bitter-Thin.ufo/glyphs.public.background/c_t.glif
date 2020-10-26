@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="c_t" format="2">
+  <outline>
+    <component base="c"/>
+    <component base="t" xOffset="494"/>
+  </outline>
+</glyph>

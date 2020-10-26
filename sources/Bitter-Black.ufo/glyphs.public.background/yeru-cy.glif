@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yeru-cy" format="2">
+  <anchor x="739" y="0" name="bottom"/>
+  <anchor x="889" y="20" name="ogonek"/>
+  <anchor x="466" y="540" name="top"/>
+  <outline>
+    <contour>
+      <point x="832" y="443" type="line"/>
+      <point x="802" y="412" type="line"/>
+      <point x="887" y="444" type="line"/>
+      <point x="887" y="544" type="line"/>
+      <point x="577" y="536" type="line"/>
+      <point x="577" y="436" type="line"/>
+      <point x="652" y="406" type="line"/>
+      <point x="632" y="442" type="line"/>
+      <point x="632" y="112" type="line"/>
+      <point x="644" y="127" type="line"/>
+      <point x="577" y="100" type="line"/>
+      <point x="577" y="0" type="line"/>
+      <point x="887" y="0" type="line"/>
+      <point x="887" y="100" type="line"/>
+      <point x="820" y="127" type="line"/>
+      <point x="832" y="112" type="line"/>
+    </contour>
+    <component base="softsign-cy"/>
+  </outline>
+</glyph>
