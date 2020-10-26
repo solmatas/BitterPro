@@ -1,6 +1,6 @@
 ### The Bitter Pro Project
 
-by Sol Matas 
+by Sol Matas
 
 
 Bitter Pro is is the extended version based on Bitter Project.
@@ -29,11 +29,33 @@ This license is copied below, and is also available with a FAQ at:
 http://scripts.sil.org/OFL
 
 ## Changelog
-### Version 1.010 
+### Version 1.001
 - Google commissioned Sol Matas to do an extension weight of the Bitter font.
 - This is a mayor update. A new weight distribution across the variables was applied.
-- If you want to maintain the appearance of the text you can use the old version. 
+- If you want to maintain the appearance of the text you can use the old version.
 - Bitter Pro has extended Latin support, Small caps, a wider set of figures and symbols, and extended Cyrillic support (GF Cyrillic Pro).
 
 
 
+#### Requirements
+
+- Glyphs (for editing sources)
+- Python 3 (for building fonts)
+
+
+#### Setup
+
+To run any of the commands, you need to generate the virtual environment (venv) and install dependencies. It will generate a `venv` folder with all dependencies
+
+```bash
+python3 -m venv venv
+. venv/bin/activate
+pip install -r requirements.txt
+```
+
+
+#### Build ufos and generate fonts
+
+To build the fonts open the file `sources/build.sh` or run in terminal
+
+    . sources/build.sh

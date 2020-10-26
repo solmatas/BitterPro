@@ -7,23 +7,29 @@ DIR=$( cd -P "$( dirname "$SOURCE" )" >/dev/null 2>&1 && pwd )
 cd $DIR
 echo $(pwd)
 
+echo "rm old fonts"
+rm -rf ../fonts
+
+echo "Set venv"
+. ../venv/bin/activate
+
+echo "Converting to designspace"
+glyphs2ufo Bitter-Roman.glyphs -m ../temp/
+glyphs2ufo Bitter-Italic.glyphs -m ../temp/
 
 echo "Generating Static fonts"
 mkdir -p ../fonts
 mkdir -p ../fonts/otf
 mkdir -p ../fonts/ttf
 mkdir -p ../fonts/variable
-fontmake -m Bitter-Roman.designspace -i -o ttf --output-dir ../fonts/ttf/
-fontmake -m Bitter-Roman.designspace -i -o otf --output-dir ../fonts/otf/
-fontmake -m Bitter-Italic.designspace -i -o ttf --output-dir ../fonts/ttf/
-fontmake -m Bitter-Italic.designspace -i -o otf --output-dir ../fonts/otf/
+fontmake -m ../temp/Bitter-Roman.designspace -i -o ttf --output-dir ../fonts/ttf/
+fontmake -m ../temp/Bitter-Roman.designspace -i -o otf --output-dir ../fonts/otf/
+fontmake -m ../temp/Bitter-Italic.designspace -i -o ttf --output-dir ../fonts/ttf/
+fontmake -m ../temp/Bitter-Italic.designspace -i -o otf --output-dir ../fonts/otf/
 
 echo "Generating VFs"
-fontmake -m Bitter-Roman.designspace -o variable --output-path ../fonts/variable/Bitter[wght].ttf
-fontmake -m Bitter-Italic.designspace -o variable --output-path ../fonts/variable/Bitter-Italic[wght].ttf
-
-rm -rf master_ufo/ instance_ufo/ instance_ufos/
-
+fontmake -m ../temp/Bitter-Roman.designspace -o variable --output-path ../fonts/variable/Bitter[wght].ttf
+fontmake -m ../temp/Bitter-Italic.designspace -o variable --output-path ../fonts/variable/Bitter-Italic[wght].ttf
 
 echo "Post processing"
 ttfs=$(ls ../fonts/ttf/*.ttf)
@@ -65,8 +71,6 @@ do
 	# gftools fix-hinting $vf;
 	gftools fix-nonhinting $vf $vf;
 	if [ -f "$vf.fix" ]; then mv "$vf.fix" $vf; fi
-	
-	
 done
 
 for ttf in $ttfs
