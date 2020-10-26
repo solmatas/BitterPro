@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ustraitstroke-cy" format="2">
+  <outline>
+    <contour>
+      <point x="130" y="0" type="line"/>
+      <point x="401" y="0" type="line"/>
+      <point x="401" y="19" type="line"/>
+      <point x="130" y="19" type="line"/>
+    </contour>
+    <component base="ustrait-cy" xOffset="6"/>
+  </outline>
+</glyph>

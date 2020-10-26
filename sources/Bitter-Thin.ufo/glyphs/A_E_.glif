@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="AE" format="2">
+  <advance width="949"/>
+  <unicode hex="00C6"/>
+  <anchor x="470" y="0" name="bottom"/>
+  <anchor x="589" y="692" name="top"/>
+  <outline>
+    <contour>
+      <point x="0" y="0" type="line"/>
+      <point x="229" y="0" type="line"/>
+      <point x="229" y="15" type="line"/>
+      <point x="108" y="29" type="line"/>
+      <point x="112" y="22" type="line"/>
+      <point x="226" y="232" type="line"/>
+      <point x="216" y="226" type="line"/>
+      <point x="488" y="226" type="line"/>
+      <point x="481" y="233" type="line"/>
+      <point x="481" y="21" type="line"/>
+      <point x="488" y="29" type="line"/>
+      <point x="381" y="15" type="line"/>
+      <point x="381" y="0" type="line"/>
+      <point x="865" y="0" type="line"/>
+      <point x="865" y="141" type="line"/>
+      <point x="850" y="141" type="line"/>
+      <point x="835" y="12" type="line"/>
+      <point x="843" y="19" type="line"/>
+      <point x="494" y="19" type="line"/>
+      <point x="501" y="12" type="line"/>
+      <point x="501" y="366" type="line"/>
+      <point x="494" y="359" type="line"/>
+      <point x="784" y="359" type="line"/>
+      <point x="784" y="378" type="line"/>
+      <point x="494" y="378" type="line"/>
+      <point x="501" y="371" type="line"/>
+      <point x="501" y="680" type="line"/>
+      <point x="494" y="673" type="line"/>
+      <point x="830" y="673" type="line"/>
+      <point x="822" y="680" type="line"/>
+      <point x="837" y="556" type="line"/>
+      <point x="852" y="556" type="line"/>
+      <point x="852" y="692" type="line"/>
+      <point x="502" y="692" type="line"/>
+      <point x="348" y="687" type="line"/>
+      <point x="348" y="672" type="line"/>
+      <point x="447" y="664" type="line"/>
+      <point x="443" y="671" type="line"/>
+      <point x="90" y="22" type="line"/>
+      <point x="100" y="29" type="line"/>
+      <point x="0" y="15" type="line"/>
+    </contour>
+    <contour>
+      <point x="230" y="239" type="line"/>
+      <point x="469" y="679" type="line"/>
+      <point x="459" y="673" type="line"/>
+      <point x="488" y="673" type="line"/>
+      <point x="481" y="680" type="line"/>
+      <point x="481" y="238" type="line"/>
+      <point x="488" y="245" type="line"/>
+      <point x="226" y="245" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>E</string>
+    </dict>
+  </lib>
+</glyph>

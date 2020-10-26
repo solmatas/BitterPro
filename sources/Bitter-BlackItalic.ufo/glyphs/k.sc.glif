@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="k.sc" format="2">
+  <advance width="667"/>
+  <guideline x="148" y="726" angle="261"/>
+  <guideline x="343" y="726" angle="261"/>
+  <guideline x="100" y="726" angle="261"/>
+  <guideline x="422" y="726" angle="261"/>
+  <anchor x="307" y="0" name="bottom"/>
+  <anchor x="400" y="591" name="top"/>
+  <outline>
+    <contour>
+      <point x="597" y="99" type="line"/>
+      <point x="479" y="331" type="line"/>
+      <point x="475" y="283" type="line"/>
+      <point x="643" y="492" type="line"/>
+      <point x="596" y="459" type="line"/>
+      <point x="669" y="493" type="line"/>
+      <point x="684" y="593" type="line"/>
+      <point x="424" y="588" type="line"/>
+      <point x="409" y="488" type="line"/>
+      <point x="473" y="465" type="line"/>
+      <point x="466" y="494" type="line"/>
+      <point x="344" y="340" type="line"/>
+      <point x="404" y="373" type="line"/>
+      <point x="258" y="373" type="line"/>
+      <point x="282" y="340" type="line"/>
+      <point x="307" y="501" type="line"/>
+      <point x="277" y="459" type="line"/>
+      <point x="355" y="493" type="line"/>
+      <point x="371" y="593" type="line"/>
+      <point x="80" y="587" type="line"/>
+      <point x="64" y="487" type="line"/>
+      <point x="125" y="459" type="line"/>
+      <point x="114" y="496" type="line"/>
+      <point x="51" y="93" type="line"/>
+      <point x="77" y="129" type="line"/>
+      <point x="4" y="100" type="line"/>
+      <point x="-12" y="0" type="line"/>
+      <point x="277" y="0" type="line"/>
+      <point x="293" y="100" type="line"/>
+      <point x="226" y="134" type="line"/>
+      <point x="243" y="93" type="line"/>
+      <point x="271" y="271" type="line"/>
+      <point x="235" y="238" type="line"/>
+      <point x="357" y="238" type="line"/>
+      <point x="316" y="271" type="line"/>
+      <point x="442" y="0" type="line"/>
+      <point x="611" y="0" type="line"/>
+      <point x="626" y="100" type="line"/>
+      <point x="567" y="130" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <integer>83</integer>
+        <key>width</key>
+        <integer>86</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ringacutecomb" format="2">
+  <advance width="394"/>
+  <guideline x="167" y="577" angle="0"/>
+  <guideline x="557" y="849" angle="0"/>
+  <guideline x="233" y="497" angle="261"/>
+  <guideline x="390" y="497" angle="261"/>
+  <guideline x="77" y="497" angle="261"/>
+  <anchor x="240" y="540" name="_top"/>
+  <outline>
+    <contour>
+      <point x="178" y="849" type="line"/>
+      <point x="467" y="951" type="line"/>
+      <point x="408" y="1094" type="line"/>
+      <point x="133" y="940" type="line"/>
+    </contour>
+    <component base="ringcomb" xOffset="6" yOffset="-25"/>
+  </outline>
+</glyph>

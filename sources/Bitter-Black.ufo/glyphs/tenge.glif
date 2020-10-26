@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tenge" format="2">
+  <advance width="653"/>
+  <unicode hex="20B8"/>
+  <outline>
+    <contour>
+      <point x="154" y="0" type="line"/>
+      <point x="499" y="0" type="line"/>
+      <point x="499" y="100" type="line"/>
+      <point x="396" y="135" type="line"/>
+      <point x="429" y="85" type="line"/>
+      <point x="429" y="475" type="line"/>
+      <point x="389" y="445" type="line"/>
+      <point x="531" y="445" type="line"/>
+      <point x="489" y="475" type="line"/>
+      <point x="519" y="354" type="line"/>
+      <point x="639" y="354" type="line"/>
+      <point x="639" y="580" type="line"/>
+      <point x="14" y="580" type="line"/>
+      <point x="14" y="354" type="line"/>
+      <point x="134" y="354" type="line"/>
+      <point x="166" y="483" type="line"/>
+      <point x="122" y="445" type="line"/>
+      <point x="264" y="445" type="line"/>
+      <point x="224" y="475" type="line"/>
+      <point x="224" y="85" type="line"/>
+      <point x="259" y="135" type="line"/>
+      <point x="154" y="100" type="line"/>
+    </contour>
+    <contour>
+      <point x="14" y="620" type="line"/>
+      <point x="639" y="620" type="line"/>
+      <point x="639" y="710" type="line"/>
+      <point x="14" y="710" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>T</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>T</string>
+    </dict>
+  </lib>
+</glyph>

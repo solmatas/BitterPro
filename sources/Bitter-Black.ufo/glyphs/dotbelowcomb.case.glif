@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotbelowcomb.case" format="2">
+  <guideline x="56" y="-41" angle="0" identifier="vR6DCtjaD9"/>
+  <anchor x="145" y="0" name="_bottom"/>
+  <anchor x="144" y="-260" name="bottom"/>
+  <outline>
+    <component base="dotbelowcomb"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>290</integer>
+    </dict>
+  </lib>
+</glyph>

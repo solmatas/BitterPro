@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="EnLeftHook-cy" format="2">
+  <outline>
+    <contour>
+      <point x="36" y="-237" type="curve" smooth="yes"/>
+      <point x="101" y="-237"/>
+      <point x="169" y="-213"/>
+      <point x="169" y="-110" type="curve" smooth="yes"/>
+      <point x="169" y="349" type="line"/>
+      <point x="162" y="342" type="line"/>
+      <point x="619" y="342" type="line"/>
+      <point x="612" y="349" type="line"/>
+      <point x="612" y="21" type="line"/>
+      <point x="619" y="29" type="line"/>
+      <point x="512" y="15" type="line"/>
+      <point x="512" y="0" type="line"/>
+      <point x="732" y="0" type="line"/>
+      <point x="732" y="15" type="line"/>
+      <point x="625" y="29" type="line"/>
+      <point x="632" y="21" type="line"/>
+      <point x="632" y="671" type="line"/>
+      <point x="625" y="663" type="line"/>
+      <point x="732" y="677" type="line"/>
+      <point x="732" y="692" type="line"/>
+      <point x="512" y="687" type="line"/>
+      <point x="512" y="672" type="line"/>
+      <point x="619" y="664" type="line"/>
+      <point x="612" y="671" type="line"/>
+      <point x="612" y="354" type="line"/>
+      <point x="619" y="361" type="line"/>
+      <point x="162" y="361" type="line"/>
+      <point x="169" y="354" type="line"/>
+      <point x="169" y="671" type="line"/>
+      <point x="162" y="663" type="line"/>
+      <point x="269" y="677" type="line"/>
+      <point x="269" y="692" type="line"/>
+      <point x="49" y="687" type="line"/>
+      <point x="49" y="672" type="line"/>
+      <point x="156" y="663" type="line"/>
+      <point x="149" y="671" type="line"/>
+      <point x="149" y="-110" type="line" smooth="yes"/>
+      <point x="149" y="-192"/>
+      <point x="108" y="-218"/>
+      <point x="30" y="-218" type="curve" smooth="yes"/>
+      <point x="20" y="-218"/>
+      <point x="11" y="-218"/>
+      <point x="1" y="-218" type="curve"/>
+      <point x="-1" y="-235" type="line"/>
+      <point x="11" y="-236"/>
+      <point x="23" y="-237"/>
+    </contour>
+  </outline>
+</glyph>

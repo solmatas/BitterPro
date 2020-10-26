@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Tedescender-cy" format="2">
+  <outline>
+    <contour>
+      <point x="475" y="565" type="line"/>
+      <point x="498" y="474" type="line"/>
+      <point x="618" y="474" type="line"/>
+      <point x="618" y="710" type="line"/>
+      <point x="3" y="710" type="line"/>
+      <point x="3" y="474" type="line"/>
+      <point x="123" y="474" type="line"/>
+      <point x="146" y="565" type="line"/>
+      <point x="208" y="565" type="line"/>
+      <point x="208" y="123" type="line"/>
+      <point x="138" y="100" type="line"/>
+      <point x="138" y="0" type="line"/>
+      <point x="348" y="0" type="line"/>
+      <point x="404" y="-200" type="line"/>
+      <point x="524" y="-200" type="line"/>
+      <point x="522" y="100" type="line"/>
+      <point x="413" y="126" type="line"/>
+      <point x="413" y="565" type="line"/>
+    </contour>
+  </outline>
+</glyph>

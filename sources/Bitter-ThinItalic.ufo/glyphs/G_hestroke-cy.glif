@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ghestroke-cy" format="2">
+  <advance width="548"/>
+  <unicode hex="0492"/>
+  <guideline x="98" y="479" angle="261"/>
+  <anchor x="240" y="0" name="bottomright"/>
+  <anchor x="396" y="692" name="top"/>
+  <outline>
+    <contour>
+      <point x="433" y="356" type="line"/>
+      <point x="78" y="356" type="line"/>
+      <point x="75" y="337" type="line"/>
+      <point x="430" y="337" type="line"/>
+    </contour>
+    <contour>
+      <point x="23" y="0" type="line"/>
+      <point x="253" y="0" type="line"/>
+      <point x="255" y="15" type="line"/>
+      <point x="136" y="29" type="line"/>
+      <point x="142" y="21" type="line"/>
+      <point x="246" y="678" type="line"/>
+      <point x="237" y="673" type="line"/>
+      <point x="553" y="673" type="line"/>
+      <point x="547" y="680" type="line"/>
+      <point x="541" y="547" type="line"/>
+      <point x="556" y="547" type="line"/>
+      <point x="578" y="692" type="line"/>
+      <point x="248" y="692" type="line"/>
+      <point x="131" y="687" type="line"/>
+      <point x="129" y="672" type="line"/>
+      <point x="231" y="663" type="line"/>
+      <point x="225" y="671" type="line"/>
+      <point x="122" y="21" type="line"/>
+      <point x="130" y="29" type="line"/>
+      <point x="25" y="15" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>En-cy</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Ge-cy</string>
+    </dict>
+  </lib>
+</glyph>

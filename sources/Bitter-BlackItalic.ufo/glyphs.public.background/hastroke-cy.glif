@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hastroke-cy" format="2">
+  <outline>
+    <contour>
+      <point x="71" y="222" type="line"/>
+      <point x="479" y="222" type="line"/>
+      <point x="497" y="332" type="line"/>
+      <point x="89" y="332" type="line"/>
+    </contour>
+    <component base="x" xOffset="9"/>
+  </outline>
+</glyph>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Itilde" format="2">
+  <anchor x="184" y="691" name="_top"/>
+  <anchor x="176" y="829" name="top"/>
+  <outline>
+    <component base="I"/>
+    <component base="tildecomb.case" xOffset="-60" yOffset="-1"/>
+  </outline>
+</glyph>

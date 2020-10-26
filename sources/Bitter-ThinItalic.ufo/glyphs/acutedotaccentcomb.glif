@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acutedotaccentcomb" format="2">
+  <advance width="360"/>
+  <guideline x="155" y="739" angle="0"/>
+  <guideline x="112" y="665" angle="0"/>
+  <guideline x="182" y="762" angle="0"/>
+  <guideline x="86" y="630" angle="0"/>
+  <guideline x="215" y="806" angle="0"/>
+  <guideline x="60" y="594" angle="0"/>
+  <guideline x="270" y="820" angle="261"/>
+  <guideline x="340" y="820" angle="261"/>
+  <guideline x="200" y="820" angle="261"/>
+  <anchor x="223" y="522" name="_top"/>
+  <outline>
+    <contour>
+      <point x="256" y="739" type="curve" smooth="yes"/>
+      <point x="273" y="739"/>
+      <point x="285" y="753"/>
+      <point x="285" y="772" type="curve" smooth="yes"/>
+      <point x="285" y="788"/>
+      <point x="276" y="798"/>
+      <point x="262" y="798" type="curve" smooth="yes"/>
+      <point x="245" y="798"/>
+      <point x="233" y="783"/>
+      <point x="233" y="765" type="curve" smooth="yes"/>
+      <point x="233" y="749"/>
+      <point x="242" y="739"/>
+    </contour>
+    <contour>
+      <point x="190" y="597" type="line"/>
+      <point x="353" y="708" type="line"/>
+      <point x="335" y="735" type="line"/>
+      <point x="179" y="611" type="line"/>
+    </contour>
+  </outline>
+</glyph>

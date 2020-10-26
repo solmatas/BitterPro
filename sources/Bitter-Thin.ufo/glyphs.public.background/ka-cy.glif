@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ka-cy" format="2">
+  <outline>
+    <contour>
+      <point x="45" y="0" type="line"/>
+      <point x="259" y="0" type="line"/>
+      <point x="259" y="15" type="line"/>
+      <point x="148" y="29" type="line"/>
+      <point x="155" y="21" type="line"/>
+      <point x="155" y="275" type="line"/>
+      <point x="148" y="268" type="line"/>
+      <point x="301" y="268" type="line"/>
+      <point x="291" y="274" type="line"/>
+      <point x="466" y="0" type="line"/>
+      <point x="559" y="0" type="line"/>
+      <point x="559" y="14" type="line"/>
+      <point x="465" y="31" type="line"/>
+      <point x="475" y="24" type="line"/>
+      <point x="304" y="289" type="line"/>
+      <point x="307" y="277" type="line"/>
+      <point x="435" y="502" type="line"/>
+      <point x="425" y="495" type="line"/>
+      <point x="521" y="511" type="line"/>
+      <point x="521" y="525" type="line"/>
+      <point x="322" y="520" type="line"/>
+      <point x="322" y="506" type="line"/>
+      <point x="419" y="495" type="line"/>
+      <point x="416" y="502" type="line"/>
+      <point x="288" y="281" type="line"/>
+      <point x="296" y="287" type="line"/>
+      <point x="148" y="287" type="line"/>
+      <point x="155" y="280" type="line"/>
+      <point x="155" y="765" type="line"/>
+      <point x="45" y="760" type="line"/>
+      <point x="45" y="745" type="line"/>
+      <point x="142" y="731" type="line"/>
+      <point x="135" y="739" type="line"/>
+      <point x="135" y="21" type="line"/>
+      <point x="142" y="29" type="line"/>
+      <point x="45" y="15" type="line"/>
+    </contour>
+  </outline>
+</glyph>

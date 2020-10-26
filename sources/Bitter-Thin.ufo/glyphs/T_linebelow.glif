@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Tlinebelow" format="2">
+  <advance width="558"/>
+  <unicode hex="1E6E"/>
+  <guideline x="155" y="191" angle="90"/>
+  <guideline x="405" y="191" angle="90"/>
+  <outline>
+    <contour>
+      <point x="415" y="-107" type="line"/>
+      <point x="166" y="-107" type="line"/>
+      <point x="166" y="-128" type="line"/>
+      <point x="415" y="-128" type="line"/>
+    </contour>
+    <component base="T"/>
+  </outline>
+</glyph>

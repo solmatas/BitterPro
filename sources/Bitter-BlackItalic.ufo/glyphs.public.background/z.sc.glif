@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="z.sc" format="2">
+  <anchor x="244" y="0" name="bottom"/>
+  <anchor x="338" y="593" name="top"/>
+  <outline>
+    <contour>
+      <point x="-14" y="0" type="line"/>
+      <point x="488" y="0" type="line"/>
+      <point x="519" y="199" type="line"/>
+      <point x="404" y="199" type="line"/>
+      <point x="373" y="120" type="line"/>
+      <point x="416" y="138" type="line"/>
+      <point x="197" y="138" type="line"/>
+      <point x="208" y="117" type="line"/>
+      <point x="557" y="459" type="line"/>
+      <point x="579" y="593" type="line"/>
+      <point x="98" y="593" type="line"/>
+      <point x="66" y="393" type="line"/>
+      <point x="181" y="393" type="line"/>
+      <point x="216" y="466" type="line"/>
+      <point x="170" y="455" type="line"/>
+      <point x="377" y="455" type="line"/>
+      <point x="350" y="468" type="line"/>
+      <point x="7" y="136" type="line"/>
+    </contour>
+  </outline>
+</glyph>

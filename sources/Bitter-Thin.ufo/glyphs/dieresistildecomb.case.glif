@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresistildecomb.case" format="2">
+  <advance width="440"/>
+  <guideline x="107" y="762" angle="90"/>
+  <guideline x="334" y="762" angle="90"/>
+  <guideline y="747"/>
+  <guideline y="868"/>
+  <guideline y="834"/>
+  <guideline y="775"/>
+  <anchor x="220" y="692" name="_top"/>
+  <outline>
+    <component base="dieresiscomb" xOffset="2" yOffset="178"/>
+    <component base="tildecomb.case" xOffset="-17" yOffset="-36"/>
+  </outline>
+</glyph>

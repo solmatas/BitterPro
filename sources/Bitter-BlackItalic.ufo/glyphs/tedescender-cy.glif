@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tedescender-cy" format="2">
+  <advance width="942"/>
+  <unicode hex="04AD"/>
+  <outline>
+    <component base="te-cy.loclBGR" xOffset="5"/>
+    <component base="descender-cy" xOffset="764"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

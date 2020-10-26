@@ -1,0 +1,323 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="4.1">
+  <axes>
+    <axis tag="wght" name="Weight" minimum="100" maximum="900" default="100">
+      <map input="100" output="20"/>
+      <map input="200" output="33"/>
+      <map input="300" output="48"/>
+      <map input="400" output="80"/>
+      <map input="500" output="100"/>
+      <map input="600" output="120"/>
+      <map input="700" output="140"/>
+      <map input="800" output="170"/>
+      <map input="900" output="200"/>
+    </axis>
+  </axes>
+  <rules processing="last">
+    <rule name="BRACKET.70.200">
+      <conditionset>
+        <condition name="Weight" minimum="70" maximum="200"/>
+      </conditionset>
+      <sub name="naira" with="naira.BRACKET.70"/>
+      <sub name="peso" with="peso.BRACKET.70"/>
+      <sub name="won" with="won.BRACKET.70"/>
+    </rule>
+    <rule name="BRACKET.130.200">
+      <conditionset>
+        <condition name="Weight" minimum="130" maximum="200"/>
+      </conditionset>
+      <sub name="peseta" with="peseta.BRACKET.130"/>
+    </rule>
+    <rule name="BRACKET.145.200">
+      <conditionset>
+        <condition name="Weight" minimum="145" maximum="200"/>
+      </conditionset>
+      <sub name="Tetse-cy" with="Tetse-cy.BRACKET.145"/>
+    </rule>
+    <rule name="BRACKET.155.200">
+      <conditionset>
+        <condition name="Weight" minimum="155" maximum="200"/>
+      </conditionset>
+      <sub name="dcroat" with="dcroat.BRACKET.155"/>
+      <sub name="hbar" with="hbar.BRACKET.155"/>
+    </rule>
+    <rule name="BRACKET.165.200">
+      <conditionset>
+        <condition name="Weight" minimum="165" maximum="200"/>
+      </conditionset>
+      <sub name="T_h" with="T_h.BRACKET.165"/>
+      <sub name="c_h" with="c_h.BRACKET.165"/>
+      <sub name="c_t" with="c_t.BRACKET.165"/>
+      <sub name="h" with="h.BRACKET.165"/>
+      <sub name="m" with="m.BRACKET.165"/>
+      <sub name="n" with="n.BRACKET.165"/>
+      <sub name="nmod" with="nmod.BRACKET.165"/>
+      <sub name="tetse-cy" with="tetse-cy.BRACKET.165"/>
+    </rule>
+  </rules>
+  <sources>
+    <source filename="Bitter-Thin.ufo" name="Bitter Thin" familyname="Bitter" stylename="Thin">
+      <lib copy="1"/>
+      <groups copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Weight" xvalue="20"/>
+      </location>
+    </source>
+    <source filename="Bitter-Thin.ufo" name="Bitter Thin {100}" layer="{100}">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+      </location>
+    </source>
+    <source filename="Bitter-Thin.ufo" name="Bitter Thin {110}" layer="{110}">
+      <location>
+        <dimension name="Weight" xvalue="110"/>
+      </location>
+    </source>
+    <source filename="Bitter-Black.ufo" name="Bitter Black" familyname="Bitter" stylename="Black">
+      <location>
+        <dimension name="Weight" xvalue="200"/>
+      </location>
+    </source>
+  </sources>
+  <instances>
+    <instance name="Bitter Thin" familyname="Bitter" stylename="Thin" filename="instance_ufos/Bitter-Thin.ufo" stylemapfamilyname="Bitter Thin" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="20"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Update Features</string>
+              <integer>1</integer>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Bitter ExtraLight" familyname="Bitter" stylename="ExtraLight" filename="instance_ufos/Bitter-ExtraLight.ufo" stylemapfamilyname="Bitter ExtraLight" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="33"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Update Features</string>
+              <integer>1</integer>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Bitter Light" familyname="Bitter" stylename="Light" filename="instance_ufos/Bitter-Light.ufo" stylemapfamilyname="Bitter Light" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="48"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Update Features</string>
+              <integer>1</integer>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Bitter Regular" familyname="Bitter" stylename="Regular" filename="instance_ufos/Bitter-Regular.ufo" stylemapfamilyname="Bitter" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="80"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Update Features</string>
+              <integer>1</integer>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Bitter Medium" familyname="Bitter" stylename="Medium" filename="instance_ufos/Bitter-Medium.ufo" stylemapfamilyname="Bitter Medium" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Update Features</string>
+              <integer>1</integer>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Bitter SemiBold" familyname="Bitter" stylename="SemiBold" filename="instance_ufos/Bitter-SemiBold.ufo" stylemapfamilyname="Bitter SemiBold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="120"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Update Features</string>
+              <integer>1</integer>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Bitter Bold" familyname="Bitter" stylename="Bold" filename="instance_ufos/Bitter-Bold.ufo" stylemapfamilyname="Bitter" stylemapstylename="bold">
+      <location>
+        <dimension name="Weight" xvalue="140"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Update Features</string>
+              <integer>1</integer>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Bitter ExtraBold" familyname="Bitter" stylename="ExtraBold" filename="instance_ufos/Bitter-ExtraBold.ufo" stylemapfamilyname="Bitter ExtraBold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="170"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Update Features</string>
+              <integer>1</integer>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Bitter Black" familyname="Bitter" stylename="Black" filename="instance_ufos/Bitter-Black.ufo" stylemapfamilyname="Bitter Black" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="200"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Update Features</string>
+              <integer>1</integer>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+  </instances>
+  <lib>
+    <dict>
+      <key>GSDimensionPlugin.Dimensions</key>
+      <dict>
+        <key>075BA79B-D813-4287-A9DD-CCAF2D535ED3</key>
+        <dict>
+          <key>HH</key>
+          <string>19</string>
+          <key>HV</key>
+          <string>20</string>
+          <key>OH</key>
+          <string>20</string>
+          <key>OV</key>
+          <string>22</string>
+          <key>nV</key>
+          <string>20</string>
+          <key>nd</key>
+          <string>19</string>
+          <key>oH</key>
+          <string>19</string>
+          <key>oV</key>
+          <string>21</string>
+          <key>tH</key>
+          <string>19</string>
+        </dict>
+        <key>708C77EA-8E11-4C15-94D7-0069457547BC</key>
+        <dict>
+          <key>nV</key>
+          <string>150</string>
+        </dict>
+        <key>927AED37-E9E6-4F96-A08E-421C3785EFC6</key>
+        <dict>
+          <key>HH</key>
+          <string>145</string>
+          <key>HV</key>
+          <string>205</string>
+          <key>OH</key>
+          <string>155</string>
+          <key>OV</key>
+          <string>220</string>
+          <key>nV</key>
+          <string>200</string>
+          <key>nd</key>
+          <string>150</string>
+          <key>oH</key>
+          <string>140</string>
+          <key>oV</key>
+          <string>208</string>
+          <key>tH</key>
+          <string>130</string>
+        </dict>
+        <key>UUID0</key>
+        <dict>
+          <key>HH</key>
+          <string>80</string>
+          <key>HV</key>
+          <string>105</string>
+          <key>OH</key>
+          <string>85</string>
+          <key>OV</key>
+          <string>115</string>
+          <key>nV</key>
+          <string>100</string>
+          <key>nd</key>
+          <string>85</string>
+          <key>oH</key>
+          <string>80</string>
+          <key>oV</key>
+          <string>105</string>
+          <key>tH</key>
+          <string>75</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</designspace>

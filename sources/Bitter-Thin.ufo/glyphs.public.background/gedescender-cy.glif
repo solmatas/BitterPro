@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gedescender-cy" format="2">
+  <outline>
+    <contour>
+      <point x="157" y="522" type="line"/>
+      <point x="52" y="520" type="line"/>
+      <point x="52" y="505" type="line"/>
+      <point x="142" y="492" type="line"/>
+      <point x="142" y="28" type="line"/>
+      <point x="52" y="15" type="line"/>
+      <point x="52" y="0" type="line"/>
+      <point x="257" y="0" type="line"/>
+      <point x="271" y="-145" type="line"/>
+      <point x="287" y="-145" type="line"/>
+      <point x="287" y="17" type="line"/>
+      <point x="162" y="29" type="line"/>
+      <point x="162" y="503" type="line"/>
+      <point x="404" y="503" type="line"/>
+      <point x="416" y="388" type="line"/>
+      <point x="431" y="388" type="line"/>
+      <point x="432" y="522" type="line"/>
+    </contour>
+  </outline>
+</glyph>

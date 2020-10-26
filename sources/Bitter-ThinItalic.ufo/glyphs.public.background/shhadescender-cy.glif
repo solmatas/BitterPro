@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="shhadescender-cy" format="2">
+  <outline>
+    <component base="shha-cy"/>
+    <component base="descender-cy" xOffset="439"/>
+  </outline>
+</glyph>

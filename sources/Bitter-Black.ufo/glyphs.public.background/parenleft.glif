@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="parenleft" format="2">
+  <outline>
+    <contour>
+      <point x="333" y="816" type="curve"/>
+      <point x="205" y="891" type="line"/>
+      <point x="-63" y="572"/>
+      <point x="-62" y="131"/>
+      <point x="205" y="-187" type="curve"/>
+      <point x="333" y="-112" type="line"/>
+      <point x="153" y="162"/>
+      <point x="153" y="542"/>
+    </contour>
+  </outline>
+</glyph>

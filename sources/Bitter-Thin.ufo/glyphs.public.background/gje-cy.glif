@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gje-cy" format="2">
+  <outline>
+    <contour>
+      <point x="49" y="0" type="line"/>
+      <point x="257" y="0" type="line"/>
+      <point x="257" y="12" type="line"/>
+      <point x="157" y="37" type="line"/>
+      <point x="157" y="501" type="line"/>
+      <point x="391" y="501" type="line"/>
+      <point x="398" y="395" type="line"/>
+      <point x="425" y="395" type="line"/>
+      <point x="430" y="513" type="line"/>
+      <point x="157" y="513" type="line"/>
+      <point x="49" y="508" type="line"/>
+      <point x="49" y="496" type="line"/>
+      <point x="142" y="484" type="line"/>
+      <point x="142" y="37" type="line"/>
+      <point x="49" y="12" type="line"/>
+    </contour>
+    <contour>
+      <point x="170" y="590" type="line"/>
+      <point x="325" y="691" type="line"/>
+      <point x="306" y="717" type="line"/>
+      <point x="158" y="601" type="line"/>
+    </contour>
+  </outline>
+</glyph>

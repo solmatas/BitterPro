@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="k.sc" format="2">
+  <anchor x="346" y="0" name="bottom"/>
+  <anchor x="346" y="593" name="top"/>
+  <outline>
+    <contour>
+      <point x="647" y="102" type="line"/>
+      <point x="483" y="334" type="line"/>
+      <point x="483" y="286" type="line"/>
+      <point x="621" y="492" type="line"/>
+      <point x="580" y="459" type="line"/>
+      <point x="653" y="493" type="line"/>
+      <point x="653" y="593" type="line"/>
+      <point x="370" y="588" type="line"/>
+      <point x="370" y="488" type="line"/>
+      <point x="446" y="465" type="line"/>
+      <point x="434" y="494" type="line"/>
+      <point x="337" y="341" type="line"/>
+      <point x="391" y="369" type="line"/>
+      <point x="259" y="369" type="line"/>
+      <point x="290" y="341" type="line"/>
+      <point x="290" y="501" type="line"/>
+      <point x="267" y="459" type="line"/>
+      <point x="324" y="495" type="line"/>
+      <point x="324" y="593" type="line"/>
+      <point x="27" y="587" type="line"/>
+      <point x="27" y="487" type="line"/>
+      <point x="103" y="459" type="line"/>
+      <point x="84" y="496" type="line"/>
+      <point x="84" y="93" type="line"/>
+      <point x="104" y="129" type="line"/>
+      <point x="27" y="99" type="line"/>
+      <point x="27" y="0" type="line"/>
+      <point x="324" y="0" type="line"/>
+      <point x="324" y="99" type="line"/>
+      <point x="266" y="134" type="line"/>
+      <point x="290" y="93" type="line"/>
+      <point x="290" y="270" type="line"/>
+      <point x="259" y="241" type="line"/>
+      <point x="364" y="241" type="line"/>
+      <point x="317" y="270" type="line"/>
+      <point x="425" y="97" type="line"/>
+      <point x="430" y="130" type="line"/>
+      <point x="379" y="99" type="line"/>
+      <point x="379" y="0" type="line"/>
+      <point x="672" y="0" type="line"/>
+      <point x="672" y="99" type="line"/>
+      <point x="602" y="130" type="line"/>
+    </contour>
+  </outline>
+</glyph>

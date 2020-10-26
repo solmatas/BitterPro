@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="prime" format="2">
+  <advance width="331"/>
+  <outline>
+    <contour>
+      <point x="78" y="477" type="line"/>
+      <point x="206" y="477" type="line"/>
+      <point x="367" y="780" type="line"/>
+      <point x="196" y="780" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>quotesingle</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>quotesingle</string>
+    </dict>
+  </lib>
+</glyph>

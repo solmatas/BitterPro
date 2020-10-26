@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Zhedescender-cy" format="2">
+  <advance width="987"/>
+  <unicode hex="0496"/>
+  <outline>
+    <component base="Zhe-cy"/>
+    <component base="descender-cy.case" xOffset="793"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>X</string>
+      <key>public.markColor</key>
+      <string>0.580,0.129,0.573,1</string>
+    </dict>
+  </lib>
+</glyph>

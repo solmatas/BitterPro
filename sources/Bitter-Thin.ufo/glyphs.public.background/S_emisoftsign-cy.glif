@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Semisoftsign-cy" format="2">
+  <outline>
+    <contour>
+      <point x="72" y="539" type="line"/>
+      <point x="360" y="539" type="line"/>
+      <point x="360" y="558" type="line"/>
+      <point x="72" y="558" type="line"/>
+    </contour>
+    <component base="Softsign-cy" xOffset="14"/>
+  </outline>
+</glyph>

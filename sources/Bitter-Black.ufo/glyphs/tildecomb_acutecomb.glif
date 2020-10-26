@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tildecomb_acutecomb" format="2">
+  <anchor x="243" y="540" name="_top"/>
+  <anchor x="243" y="780" name="top"/>
+  <outline>
+    <contour>
+      <point x="112" y="778" type="line"/>
+      <point x="398" y="870" type="line"/>
+      <point x="327" y="1017" type="line"/>
+      <point x="64" y="884" type="line"/>
+    </contour>
+    <component base="tildecomb.case" xOffset="-2" yOffset="-200"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>485</integer>
+    </dict>
+  </lib>
+</glyph>

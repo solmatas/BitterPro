@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotaccentcomb.case" format="2">
+  <guideline x="211" y="747" angle="0"/>
+  <guideline x="300" y="868" angle="0"/>
+  <guideline x="275" y="831" angle="0"/>
+  <guideline x="232" y="772" angle="0"/>
+  <guideline x="82" y="-14" angle="261"/>
+  <anchor x="194" y="692" name="_top"/>
+  <anchor x="217" y="840" name="top"/>
+  <outline>
+    <component base="dotaccentcomb" xOffset="89" yOffset="109"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>252</integer>
+    </dict>
+  </lib>
+</glyph>

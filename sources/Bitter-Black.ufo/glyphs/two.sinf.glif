@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="two.sinf" format="2">
+  <advance width="381"/>
+  <guideline x="248" y="-90" angle="0" identifier="45PubC75ER"/>
+  <guideline x="248" y="357" angle="0" identifier="5E5MgVkkPx"/>
+  <outline>
+    <component base="two.dnom" yOffset="-90"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <integer>60</integer>
+        <key>width</key>
+        <integer>55</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

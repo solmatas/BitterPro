@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Iishort-cy.loclBGR" format="2">
+  <outline>
+    <contour>
+      <point x="418" y="768" type="curve"/>
+      <point x="481" y="768"/>
+      <point x="531" y="801"/>
+      <point x="533" y="861" type="curve"/>
+      <point x="510" y="859" type="line"/>
+      <point x="508" y="808"/>
+      <point x="471" y="786"/>
+      <point x="420" y="786" type="curve"/>
+      <point x="361" y="786"/>
+      <point x="323" y="812"/>
+      <point x="319" y="861" type="curve"/>
+      <point x="294" y="859" type="line"/>
+      <point x="300" y="801"/>
+      <point x="348" y="768"/>
+    </contour>
+    <contour>
+      <point x="768" y="677" type="line"/>
+      <point x="768" y="692" type="line"/>
+      <point x="548" y="687" type="line"/>
+      <point x="548" y="672" type="line"/>
+      <point x="648" y="665" type="line"/>
+      <point x="648" y="643" type="line"/>
+      <point x="188" y="90" type="line"/>
+      <point x="188" y="664" type="line"/>
+      <point x="288" y="677" type="line"/>
+      <point x="288" y="692" type="line"/>
+      <point x="68" y="687" type="line"/>
+      <point x="68" y="672" type="line"/>
+      <point x="168" y="664" type="line"/>
+      <point x="168" y="28" type="line"/>
+      <point x="68" y="15" type="line"/>
+      <point x="68" y="0" type="line"/>
+      <point x="288" y="0" type="line"/>
+      <point x="288" y="15" type="line"/>
+      <point x="188" y="28" type="line"/>
+      <point x="188" y="62" type="line"/>
+      <point x="648" y="615" type="line"/>
+      <point x="648" y="28" type="line"/>
+      <point x="548" y="15" type="line"/>
+      <point x="548" y="0" type="line"/>
+      <point x="768" y="0" type="line"/>
+      <point x="768" y="15" type="line"/>
+      <point x="668" y="28" type="line"/>
+      <point x="668" y="664" type="line"/>
+    </contour>
+  </outline>
+</glyph>

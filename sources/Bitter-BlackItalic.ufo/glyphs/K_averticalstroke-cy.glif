@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Kaverticalstroke-cy" format="2">
+  <advance width="786"/>
+  <unicode hex="049C"/>
+  <outline>
+    <contour>
+      <point x="-15" y="0" type="line"/>
+      <point x="292" y="0" type="line"/>
+      <point x="307" y="100" type="line"/>
+      <point x="239" y="137" type="line"/>
+      <point x="256" y="95" type="line"/>
+      <point x="289" y="329" type="line"/>
+      <point x="256" y="299" type="line"/>
+      <point x="441" y="299" type="line"/>
+      <point x="405" y="329" type="line"/>
+      <point x="533" y="0" type="line"/>
+      <point x="728" y="0" type="line"/>
+      <point x="743" y="100" type="line"/>
+      <point x="675" y="133" type="line"/>
+      <point x="719" y="91" type="line"/>
+      <point x="571" y="395" type="line"/>
+      <point x="566" y="346" type="line"/>
+      <point x="762" y="607" type="line"/>
+      <point x="716" y="574" type="line"/>
+      <point x="802" y="610" type="line"/>
+      <point x="817" y="710" type="line"/>
+      <point x="531" y="705" type="line"/>
+      <point x="516" y="605" type="line"/>
+      <point x="580" y="580" type="line"/>
+      <point x="568" y="609" type="line"/>
+      <point x="426" y="404" type="line"/>
+      <point x="480" y="434" type="line"/>
+      <point x="280" y="434" type="line"/>
+      <point x="305" y="404" type="line"/>
+      <point x="335" y="616" type="line"/>
+      <point x="307" y="574" type="line"/>
+      <point x="389" y="612" type="line"/>
+      <point x="404" y="710" type="line"/>
+      <point x="96" y="705" type="line"/>
+      <point x="81" y="605" type="line"/>
+      <point x="150" y="575" type="line"/>
+      <point x="137" y="611" type="line"/>
+      <point x="59" y="95" type="line"/>
+      <point x="83" y="132" type="line"/>
+      <point x="0" y="100" type="line"/>
+    </contour>
+    <contour>
+      <point x="299" y="188" type="line"/>
+      <point x="386" y="188" type="line"/>
+      <point x="442" y="545" type="line"/>
+      <point x="356" y="545" type="line"/>
+    </contour>
+  </outline>
+</glyph>

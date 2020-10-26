@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cheverticalstroke-cy" format="2">
+  <outline>
+    <component base="che-cy" xOffset="-6"/>
+    <component base="verticalbar-cy" xOffset="52" yOffset="-25"/>
+  </outline>
+</glyph>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ka-cy" format="2">
+  <anchor x="568" y="0" name="bottomright"/>
+  <anchor x="287" y="345" name="center"/>
+  <anchor x="409" y="691" name="top"/>
+  <outline>
+    <component base="K"/>
+  </outline>
+</glyph>

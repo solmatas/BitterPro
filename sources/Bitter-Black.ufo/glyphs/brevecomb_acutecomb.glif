@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevecomb_acutecomb" format="2">
+  <anchor x="208" y="540" name="_top"/>
+  <anchor x="210" y="900" name="top"/>
+  <outline>
+    <component base="brevecomb.case" xOffset="2" yOffset="-184"/>
+    <component base="acutedbl" xOffset="83" yOffset="139"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>415</integer>
+    </dict>
+  </lib>
+</glyph>

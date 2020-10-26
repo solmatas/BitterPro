@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lcaron.sc" format="2">
+  <outline>
+    <contour>
+      <point x="287" y="439" type="curve"/>
+      <point x="301" y="435" type="line"/>
+      <point x="339" y="483"/>
+      <point x="357" y="529"/>
+      <point x="357" y="570" type="curve"/>
+      <point x="329" y="566" type="line"/>
+      <point x="329" y="525"/>
+      <point x="319" y="490"/>
+    </contour>
+    <component base="l.sc" xOffset="14"/>
+  </outline>
+</glyph>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lj.sc" format="2">
+  <advance width="845"/>
+  <outline>
+    <component base="l.sc"/>
+    <component base="j.sc" xOffset="515"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <integer>83</integer>
+        <key>width</key>
+        <integer>86</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>l.sc</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>j.sc</string>
+    </dict>
+  </lib>
+</glyph>

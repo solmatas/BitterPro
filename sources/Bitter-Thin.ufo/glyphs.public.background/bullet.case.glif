@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bullet.case" format="2">
+  <outline>
+    <component base="period" xScale="1.7" yScale="1.7" xOffset="-105" yOffset="336"/>
+  </outline>
+</glyph>

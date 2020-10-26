@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="macrongravesingle" format="2">
+  <advance width="421"/>
+  <guideline x="141" y="724" angle="0"/>
+  <guideline x="98" y="665" angle="0"/>
+  <guideline x="168" y="762" angle="0"/>
+  <guideline x="72" y="630" angle="0"/>
+  <guideline x="201" y="806" angle="0"/>
+  <guideline x="46" y="594" angle="0"/>
+  <guideline x="121" y="394" angle="261"/>
+  <guideline x="342" y="394" angle="261"/>
+  <guideline x="231" y="394" angle="261"/>
+  <anchor x="251" y="522" name="_top"/>
+  <outline>
+    <contour>
+      <point x="387" y="699" type="line"/>
+      <point x="394" y="715" type="line"/>
+      <point x="210" y="807" type="line"/>
+      <point x="195" y="779" type="line"/>
+    </contour>
+    <component base="macron" xOffset="-8" yOffset="-50"/>
+  </outline>
+</glyph>

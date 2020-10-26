@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iogonek.sc" format="2">
+  <advance width="354"/>
+  <guideline x="280" y="-102" angle="90" identifier="32OZZRc1u8"/>
+  <guideline x="76" y="-102" angle="90" identifier="Bohl6ZnmOz"/>
+  <guideline x="27" y="-102" angle="90" identifier="VFCyDG4b4p"/>
+  <guideline x="329" y="-102" angle="90" identifier="vUKwx7m4cD"/>
+  <outline>
+    <component base="i.sc"/>
+    <component base="ogonekcomb.case.alt" xOffset="51"/>
+  </outline>
+</glyph>

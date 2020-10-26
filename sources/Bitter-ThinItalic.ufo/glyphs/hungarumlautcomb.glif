@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hungarumlautcomb" format="2">
+  <unicode hex="030B"/>
+  <guideline x="141" y="294" angle="77.1483"/>
+  <guideline x="196" y="634" angle="0"/>
+  <anchor x="193" y="522" name="_top"/>
+  <anchor x="232" y="692" name="top"/>
+  <outline>
+    <component base="hungarumlaut" xOffset="-20"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>344</integer>
+    </dict>
+  </lib>
+</glyph>
