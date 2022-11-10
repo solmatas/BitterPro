@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="o.sc" format="2">
+	<advance width="660"/>
+	<anchor x="294" y="0" name="bottom"/>
+	<anchor x="340" y="284" name="center"/>
+	<anchor x="335" y="0" name="ogonek"/>
+	<anchor x="384" y="568" name="top"/>
+	<anchor x="66" y="568" name="topleft"/>
+	<anchor x="523" y="538" name="topright"/>
+	<outline>
+		<contour>
+			<point x="282" y="-5" type="curve" smooth="yes"/>
+			<point x="468" y="-5"/>
+			<point x="602" y="160"/>
+			<point x="602" y="347" type="curve" smooth="yes"/>
+			<point x="602" y="508"/>
+			<point x="502" y="574"/>
+			<point x="382" y="574" type="curve" smooth="yes"/>
+			<point x="191" y="574"/>
+			<point x="66" y="405"/>
+			<point x="66" y="223" type="curve" smooth="yes"/>
+			<point x="66" y="64"/>
+			<point x="162" y="-5"/>
+		</contour>
+		<contour>
+			<point x="284" y="14" type="curve" smooth="yes"/>
+			<point x="175" y="14"/>
+			<point x="87" y="76"/>
+			<point x="87" y="225" type="curve" smooth="yes"/>
+			<point x="87" y="396"/>
+			<point x="203" y="555"/>
+			<point x="380" y="555" type="curve" smooth="yes"/>
+			<point x="492" y="555"/>
+			<point x="581" y="491"/>
+			<point x="581" y="345" type="curve" smooth="yes"/>
+			<point x="581" y="173"/>
+			<point x="459" y="14"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.glyph.userData</key>
+			<dict>
+				<key>RMXScaler</key>
+				<dict>
+					<key>source</key>
+					<string>O</string>
+				</dict>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

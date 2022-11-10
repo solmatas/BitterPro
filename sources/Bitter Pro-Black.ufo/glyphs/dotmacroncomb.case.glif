@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotmacroncomb.case" format="2">
+	<advance width="396"/>
+	<guideline x="232" y="1134" angle="0"/>
+	<guideline y="774"/>
+	<guideline y="968"/>
+	<guideline y="756"/>
+	<guideline y="998"/>
+	<anchor x="198" y="710" name="_top"/>
+	<outline>
+		<component base="dotaccentcomb" xOffset="54" yOffset="154"/>
+		<component base="macroncomb" xOffset="-15" yOffset="328"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>macroncomb</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
+</glyph>

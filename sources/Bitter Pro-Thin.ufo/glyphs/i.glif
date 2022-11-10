@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="i" format="2">
+	<advance width="278"/>
+	<unicode hex="0069"/>
+	<guideline x="162" y="666" angle="90"/>
+	<guideline x="142" y="650" angle="0"/>
+	<guideline x="142" y="666" angle="90"/>
+	<guideline x="142" y="709" angle="0"/>
+	<outline>
+		<component base="idotless"/>
+		<component base="dotaccentcomb" xOffset="85"/>
+	</outline>
+</glyph>

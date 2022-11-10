@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Tbar" format="2">
+	<advance width="538"/>
+	<unicode hex="0166"/>
+	<guideline x="238" y="231" angle="261"/>
+	<guideline x="258" y="231" angle="261"/>
+	<guideline x="399" y="231" angle="261"/>
+	<guideline x="97" y="231" angle="261"/>
+	<outline>
+		<component base="T"/>
+		<component base="strokeshortcomb" xScale="1.0323" xOffset="42" yOffset="55"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>T</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>T</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="parenright.case" format="2">
+	<advance width="299"/>
+	<guideline x="120" y="-94" angle="0"/>
+	<outline>
+		<component base="parenleft.case" xScale="-1" xOffset="299"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>=|parenleft.case</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>=|parenleft.case</string>
+		</dict>
+	</lib>
+</glyph>

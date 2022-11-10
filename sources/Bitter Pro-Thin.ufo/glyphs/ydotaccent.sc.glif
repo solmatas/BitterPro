@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ydotaccent.sc" format="2">
+	<advance width="532"/>
+	<outline>
+		<component base="y.sc"/>
+		<component base="dotaccentcomb" xOffset="209" yOffset="46"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>dotaccentcomb</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
+</glyph>

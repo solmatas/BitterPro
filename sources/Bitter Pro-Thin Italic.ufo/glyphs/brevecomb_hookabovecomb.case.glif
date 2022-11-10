@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="brevecomb_hookabovecomb.case" format="2">
+	<advance width="415"/>
+	<guideline x="171" y="736" angle="0"/>
+	<guideline x="250" y="868" angle="0"/>
+	<guideline x="225" y="834" angle="0"/>
+	<guideline x="182" y="775" angle="0"/>
+	<guideline x="208" y="942" angle="261"/>
+	<guideline x="420" y="932" angle="261"/>
+	<guideline x="315" y="942" angle="261"/>
+	<anchor x="275" y="692" name="_top"/>
+	<anchor x="317" y="961" name="top"/>
+	<outline>
+		<component base="brevecomb.case" xOffset="-3" yOffset="-20"/>
+		<component base="hookabovecomb.case" xOffset="58" yOffset="71"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>brevecomb.case</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>hookabovecomb.case</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tlinebelow" format="2">
+	<advance width="328"/>
+	<unicode hex="1E6F"/>
+	<guideline x="300" y="388" angle="90"/>
+	<outline>
+		<component base="t"/>
+		<component base="macronbelowcomb" xScale="0.9" xOffset="2"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>macronbelowcomb</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
+</glyph>

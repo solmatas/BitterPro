@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tildecomb.case" format="2">
+	<advance width="469"/>
+	<guideline x="305" y="777" angle="0"/>
+	<guideline x="516" y="955" angle="0"/>
+	<guideline x="298" y="822" angle="0"/>
+	<guideline x="549" y="998" angle="0"/>
+	<guideline x="80" y="582" angle="261"/>
+	<guideline x="489" y="582" angle="261"/>
+	<guideline x="284" y="582" angle="261"/>
+	<anchor x="304" y="710" name="_top"/>
+	<anchor x="342" y="950" name="top"/>
+	<outline>
+		<contour>
+			<point x="190" y="777" type="line"/>
+			<point x="214" y="808"/>
+			<point x="230" y="822"/>
+			<point x="250" y="822" type="curve" smooth="yes"/>
+			<point x="295" y="822"/>
+			<point x="336" y="779"/>
+			<point x="391" y="779" type="curve" smooth="yes"/>
+			<point x="445" y="779"/>
+			<point x="495" y="819"/>
+			<point x="538" y="915" type="curve"/>
+			<point x="465" y="958" type="line"/>
+			<point x="442" y="926"/>
+			<point x="423" y="911"/>
+			<point x="400" y="911" type="curve" smooth="yes"/>
+			<point x="361" y="911"/>
+			<point x="312" y="955"/>
+			<point x="256" y="955" type="curve" smooth="yes"/>
+			<point x="204" y="955"/>
+			<point x="161" y="916"/>
+			<point x="119" y="822" type="curve"/>
+		</contour>
+	</outline>
+</glyph>

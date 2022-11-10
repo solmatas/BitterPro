@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="macrondieresiscomb" format="2">
+	<advance width="430"/>
+	<anchor x="214" y="522" name="_top"/>
+	<outline>
+		<component base="dieresismacroncomb" xScale="-1" yScale="-1" xOffset="429" yOffset="1416"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>dieresismacroncomb</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
+</glyph>

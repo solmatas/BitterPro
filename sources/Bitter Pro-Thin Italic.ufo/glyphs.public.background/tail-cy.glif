@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tail-cy" format="2">
+	<advance width="258"/>
+	<anchor x="83" y="0" name="_bottomright"/>
+	<outline>
+		<contour>
+			<point x="-10" y="29" type="line"/>
+			<point x="-15" y="0" type="line"/>
+			<point x="75" y="0" type="line"/>
+			<point x="71" y="9" type="line"/>
+			<point x="21" y="-145" type="line"/>
+			<point x="36" y="-145" type="line"/>
+			<point x="99" y="9" type="line"/>
+			<point x="101" y="19" type="line"/>
+		</contour>
+	</outline>
+</glyph>

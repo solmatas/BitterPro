@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="f_idieresis" format="2">
-  <outline>
-    <component base="f" xOffset="-2"/>
-    <component base="idotless" xOffset="393"/>
-    <component base="dieresiscomb" xScale="0.95" xOffset="340"/>
-  </outline>
-</glyph>

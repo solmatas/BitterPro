@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Reversedze-cy" format="2">
+	<advance width="565"/>
+	<unicode hex="0510"/>
+	<outline>
+		<contour>
+			<point x="86" y="48"/>
+			<point x="161" y="-6"/>
+			<point x="260" y="-6" type="curve" smooth="yes"/>
+			<point x="326" y="-6"/>
+			<point x="402" y="17"/>
+			<point x="474" y="64" type="curve"/>
+			<point x="464" y="81" type="line"/>
+			<point x="395" y="36"/>
+			<point x="323" y="14"/>
+			<point x="262" y="14" type="curve" smooth="yes"/>
+			<point x="173" y="14"/>
+			<point x="107" y="61"/>
+			<point x="107" y="164" type="curve" smooth="yes"/>
+			<point x="107" y="280"/>
+			<point x="193" y="358"/>
+			<point x="332" y="358" type="curve" smooth="yes"/>
+			<point x="399" y="358" type="line"/>
+			<point x="402" y="378" type="line"/>
+			<point x="338" y="378" type="line" smooth="yes"/>
+			<point x="239" y="378"/>
+			<point x="175" y="411"/>
+			<point x="175" y="505" type="curve" smooth="yes"/>
+			<point x="175" y="618"/>
+			<point x="269" y="677"/>
+			<point x="383" y="677" type="curve" smooth="yes"/>
+			<point x="427" y="677"/>
+			<point x="473" y="668"/>
+			<point x="517" y="652" type="curve"/>
+			<point x="514" y="659" type="line"/>
+			<point x="502" y="526" type="line"/>
+			<point x="516" y="526" type="line"/>
+			<point x="543" y="663" type="line"/>
+			<point x="486" y="686"/>
+			<point x="430" y="697"/>
+			<point x="380" y="697" type="curve" smooth="yes"/>
+			<point x="250" y="697"/>
+			<point x="154" y="625"/>
+			<point x="154" y="501" type="curve" smooth="yes"/>
+			<point x="154" y="429"/>
+			<point x="189" y="377"/>
+			<point x="285" y="364" type="curve"/>
+			<point x="284" y="369" type="line"/>
+			<point x="167" y="359"/>
+			<point x="86" y="280"/>
+			<point x="86" y="161" type="curve" smooth="yes"/>
+		</contour>
+	</outline>
+</glyph>

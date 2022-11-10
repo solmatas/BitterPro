@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="enghe-cy" format="2">
+	<advance width="768"/>
+	<unicode hex="04A5"/>
+	<outline>
+		<contour>
+			<point x="451" y="19" type="line"/>
+			<point x="529" y="514" type="line"/>
+			<point x="523" y="503" type="line"/>
+			<point x="761" y="503" type="line"/>
+			<point x="758" y="512" type="line"/>
+			<point x="751" y="388" type="line"/>
+			<point x="765" y="388" type="line"/>
+			<point x="787" y="522" type="line"/>
+			<point x="530" y="522" type="line"/>
+			<point x="424" y="520" type="line"/>
+			<point x="422" y="506" type="line"/>
+			<point x="512" y="495" type="line"/>
+			<point x="508" y="502" type="line"/>
+			<point x="472" y="278" type="line"/>
+			<point x="482" y="284" type="line"/>
+			<point x="138" y="284" type="line"/>
+			<point x="145" y="278" type="line"/>
+			<point x="183" y="523" type="line"/>
+			<point x="78" y="520" type="line"/>
+			<point x="75" y="506" type="line"/>
+			<point x="166" y="495" type="line"/>
+			<point x="161" y="502" type="line"/>
+			<point x="82" y="1" type="line"/>
+			<point x="101" y="1" type="line"/>
+			<point x="144" y="272" type="line"/>
+			<point x="135" y="265" type="line"/>
+			<point x="479" y="265" type="line"/>
+			<point x="471" y="272" type="line"/>
+			<point x="428" y="-2" type="line"/>
+			<point x="535" y="2" type="line"/>
+			<point x="537" y="17" type="line"/>
+			<point x="444" y="29" type="line"/>
+		</contour>
+	</outline>
+</glyph>

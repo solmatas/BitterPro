@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="Kabashkir-cy" format="2">
-  <advance width="726"/>
-  <unicode hex="04A0"/>
-  <outline>
-    <component base="Ka-cy"/>
-  </outline>
-</glyph>

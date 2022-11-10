@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="ccedillaacute.sc" format="2">
-  <advance width="591"/>
-  <outline>
-    <component base="c.sc"/>
-    <component base="cedillacomb" xOffset="165"/>
-    <component base="acutecomb" xOffset="220" yOffset="46"/>
-  </outline>
-</glyph>

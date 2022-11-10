@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kabashkir-cy" format="2">
+	<advance width="715"/>
+	<unicode hex="04A1"/>
+	<outline>
+		<contour>
+			<point x="125" y="0" type="line"/>
+			<point x="317" y="0" type="line"/>
+			<point x="356" y="243" type="line"/>
+			<point x="321" y="222" type="line"/>
+			<point x="419" y="222" type="line"/>
+			<point x="397" y="243" type="line"/>
+			<point x="462" y="0" type="line"/>
+			<point x="661" y="0" type="line"/>
+			<point x="676" y="100" type="line"/>
+			<point x="610" y="123" type="line"/>
+			<point x="624" y="99" type="line"/>
+			<point x="557" y="325" type="line"/>
+			<point x="542" y="284" type="line"/>
+			<point x="687" y="453" type="line"/>
+			<point x="621" y="424" type="line"/>
+			<point x="710" y="445" type="line"/>
+			<point x="726" y="545" type="line"/>
+			<point x="468" y="535" type="line"/>
+			<point x="452" y="435" type="line"/>
+			<point x="498" y="420" type="line"/>
+			<point x="496" y="439" type="line"/>
+			<point x="408" y="336" type="line"/>
+			<point x="462" y="352" type="line"/>
+			<point x="345" y="352" type="line"/>
+			<point x="370" y="335" type="line"/>
+			<point x="403" y="540" type="line"/>
+			<point x="48" y="540" type="line"/>
+			<point x="14" y="325" type="line"/>
+			<point x="130" y="325" type="line"/>
+			<point x="172" y="432" type="line"/>
+			<point x="129" y="395" type="line"/>
+			<point x="224" y="395" type="line"/>
+			<point x="193" y="429" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>te-cy</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>ka-cy</string>
+		</dict>
+	</lib>
+</glyph>

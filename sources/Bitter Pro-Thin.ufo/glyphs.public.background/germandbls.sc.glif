@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="germandbls.sc" format="2">
+	<advance width="630"/>
+	<outline>
+		<contour>
+			<point x="385" y="-5" type="curve" smooth="yes"/>
+			<point x="495" y="-5"/>
+			<point x="579" y="40"/>
+			<point x="579" y="157" type="curve" smooth="yes"/>
+			<point x="579" y="274"/>
+			<point x="491" y="316"/>
+			<point x="342" y="325" type="curve"/>
+			<point x="344" y="317" type="line"/>
+			<point x="513" y="548" type="line"/>
+			<point x="513" y="568" type="line"/>
+			<point x="163" y="568" type="line"/>
+			<point x="56" y="564" type="line"/>
+			<point x="56" y="550" type="line"/>
+			<point x="149" y="541" type="line"/>
+			<point x="142" y="548" type="line"/>
+			<point x="142" y="19" type="line"/>
+			<point x="149" y="26" type="line"/>
+			<point x="56" y="14" type="line"/>
+			<point x="56" y="0" type="line"/>
+			<point x="162" y="0" type="line"/>
+			<point x="162" y="556" type="line"/>
+			<point x="156" y="549" type="line"/>
+			<point x="500" y="550" type="line"/>
+			<point x="499" y="560" type="line"/>
+			<point x="326" y="326" type="line"/>
+			<point x="326" y="309" type="line"/>
+			<point x="473" y="302"/>
+			<point x="558" y="264"/>
+			<point x="558" y="156" type="curve" smooth="yes"/>
+			<point x="558" y="49"/>
+			<point x="482" y="14"/>
+			<point x="385" y="14" type="curve" smooth="yes"/>
+			<point x="352" y="14"/>
+			<point x="316" y="18"/>
+			<point x="279" y="25" type="curve"/>
+			<point x="282" y="18" type="line"/>
+			<point x="273" y="108" type="line"/>
+			<point x="259" y="108" type="line"/>
+			<point x="254" y="12" type="line"/>
+			<point x="299" y="1"/>
+			<point x="344" y="-5"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.glyph.userData</key>
+			<dict>
+				<key>RMXScaler</key>
+				<dict>
+					<key>source</key>
+					<string>Germandbls</string>
+				</dict>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

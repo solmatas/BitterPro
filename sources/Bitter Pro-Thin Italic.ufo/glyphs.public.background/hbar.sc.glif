@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hbar.sc" format="2">
+	<advance width="711"/>
+	<outline>
+		<contour>
+			<point x="81" y="415" type="line"/>
+			<point x="681" y="415" type="line"/>
+			<point x="683" y="434" type="line"/>
+			<point x="83" y="434" type="line"/>
+		</contour>
+		<contour>
+			<point x="15" y="0" type="line"/>
+			<point x="224" y="0" type="line"/>
+			<point x="226" y="14" type="line"/>
+			<point x="122" y="26" type="line"/>
+			<point x="127" y="19" type="line"/>
+			<point x="169" y="286" type="line"/>
+			<point x="161" y="279" type="line"/>
+			<point x="555" y="279" type="line"/>
+			<point x="551" y="286" type="line"/>
+			<point x="509" y="19" type="line"/>
+			<point x="515" y="26" type="line"/>
+			<point x="409" y="14" type="line"/>
+			<point x="406" y="0" type="line"/>
+			<point x="615" y="0" type="line"/>
+			<point x="617" y="14" type="line"/>
+			<point x="523" y="26" type="line"/>
+			<point x="529" y="17" type="line"/>
+			<point x="613" y="548" type="line"/>
+			<point x="604" y="542" type="line"/>
+			<point x="703" y="554" type="line"/>
+			<point x="705" y="568" type="line"/>
+			<point x="496" y="564" type="line"/>
+			<point x="494" y="550" type="line"/>
+			<point x="597" y="543" type="line"/>
+			<point x="593" y="549" type="line"/>
+			<point x="552" y="291" type="line"/>
+			<point x="558" y="298" type="line"/>
+			<point x="165" y="298" type="line"/>
+			<point x="170" y="291" type="line"/>
+			<point x="211" y="549" type="line"/>
+			<point x="203" y="542" type="line"/>
+			<point x="312" y="554" type="line"/>
+			<point x="314" y="568" type="line"/>
+			<point x="104" y="564" type="line"/>
+			<point x="102" y="550" type="line"/>
+			<point x="196" y="542" type="line"/>
+			<point x="190" y="549" type="line"/>
+			<point x="106" y="19" type="line"/>
+			<point x="115" y="26" type="line"/>
+			<point x="17" y="14" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.glyph.userData</key>
+			<dict>
+				<key>RMXScaler</key>
+				<dict>
+					<key>source</key>
+					<string>Hbar</string>
+				</dict>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

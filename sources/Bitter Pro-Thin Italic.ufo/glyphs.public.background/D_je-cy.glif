@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Dje-cy" format="2">
+	<advance width="704"/>
+	<outline>
+		<contour>
+			<point x="429" y="-5" type="curve" smooth="yes"/>
+			<point x="576" y="-5"/>
+			<point x="627" y="126"/>
+			<point x="627" y="247" type="curve" smooth="yes"/>
+			<point x="627" y="367"/>
+			<point x="576" y="407"/>
+			<point x="483" y="407" type="curve" smooth="yes"/>
+			<point x="424" y="407"/>
+			<point x="349" y="391"/>
+			<point x="283" y="366" type="curve"/>
+			<point x="291" y="363" type="line"/>
+			<point x="341" y="680" type="line"/>
+			<point x="333" y="673" type="line"/>
+			<point x="560" y="673" type="line"/>
+			<point x="553" y="680" type="line"/>
+			<point x="547" y="547" type="line"/>
+			<point x="561" y="547" type="line"/>
+			<point x="584" y="692" type="line"/>
+			<point x="102" y="692" type="line"/>
+			<point x="79" y="547" type="line"/>
+			<point x="94" y="547" type="line"/>
+			<point x="129" y="680" type="line"/>
+			<point x="120" y="673" type="line"/>
+			<point x="328" y="673" type="line"/>
+			<point x="322" y="680" type="line"/>
+			<point x="218" y="21" type="line"/>
+			<point x="226" y="29" type="line"/>
+			<point x="116" y="15" type="line"/>
+			<point x="114" y="0" type="line"/>
+			<point x="234" y="0" type="line"/>
+			<point x="290" y="357" type="line"/>
+			<point x="281" y="348" type="line"/>
+			<point x="346" y="371"/>
+			<point x="420" y="388"/>
+			<point x="479" y="388" type="curve" smooth="yes"/>
+			<point x="562" y="388"/>
+			<point x="606" y="354"/>
+			<point x="606" y="246" type="curve" smooth="yes"/>
+			<point x="606" y="138"/>
+			<point x="562" y="15"/>
+			<point x="442" y="15" type="curve" smooth="yes"/>
+			<point x="433" y="15"/>
+			<point x="425" y="15"/>
+			<point x="416" y="15" type="curve"/>
+			<point x="411" y="-4" type="line"/>
+			<point x="428" y="-5"/>
+			<point x="423" y="-5"/>
+		</contour>
+	</outline>
+</glyph>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Tetse-cy.bolder" format="2">
+	<advance width="955"/>
+	<outline>
+		<contour>
+			<point x="424" y="596" type="line"/>
+			<point x="384" y="565" type="line"/>
+			<point x="485" y="565" type="line"/>
+			<point x="448" y="595" type="line"/>
+			<point x="476" y="474" type="line"/>
+			<point x="593" y="474" type="line"/>
+			<point x="593" y="710" type="line"/>
+			<point x="14" y="710" type="line"/>
+			<point x="14" y="474" type="line"/>
+			<point x="134" y="474" type="line"/>
+			<point x="166" y="603" type="line"/>
+			<point x="122" y="565" type="line"/>
+			<point x="259" y="565" type="line"/>
+			<point x="219" y="595" type="line"/>
+			<point x="219" y="95" type="line"/>
+			<point x="244" y="134" type="line"/>
+			<point x="159" y="100" type="line"/>
+			<point x="159" y="0" type="line"/>
+			<point x="786" y="0" type="line"/>
+			<point x="766" y="18" type="line"/>
+			<point x="827" y="-200" type="line"/>
+			<point x="947" y="-200" type="line"/>
+			<point x="945" y="135" type="line"/>
+			<point x="819" y="145" type="line"/>
+			<point x="845" y="95" type="line"/>
+			<point x="845" y="611" type="line"/>
+			<point x="819" y="570" type="line"/>
+			<point x="905" y="610" type="line"/>
+			<point x="905" y="710" type="line"/>
+			<point x="640" y="705" type="line"/>
+			<point x="640" y="95" type="line"/>
+			<point x="677" y="145" type="line"/>
+			<point x="400" y="145" type="line"/>
+			<point x="424" y="95" type="line"/>
+		</contour>
+	</outline>
+</glyph>

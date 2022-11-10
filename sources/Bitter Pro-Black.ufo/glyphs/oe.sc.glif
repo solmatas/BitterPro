@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="oe.sc" format="2">
+	<advance width="874"/>
+	<outline>
+		<contour>
+			<point x="310" y="-7" type="curve" smooth="yes"/>
+			<point x="362" y="-7"/>
+			<point x="487" y="0"/>
+			<point x="532" y="0" type="curve" smooth="yes"/>
+			<point x="842" y="0" type="line"/>
+			<point x="844" y="189" type="line"/>
+			<point x="724" y="189" type="line"/>
+			<point x="702" y="106" type="line"/>
+			<point x="730" y="138" type="line"/>
+			<point x="565" y="138" type="line"/>
+			<point x="596" y="106" type="line"/>
+			<point x="596" y="269" type="line"/>
+			<point x="565" y="237" type="line"/>
+			<point x="756" y="237" type="line"/>
+			<point x="756" y="363" type="line"/>
+			<point x="565" y="363" type="line"/>
+			<point x="596" y="334" type="line"/>
+			<point x="596" y="482" type="line"/>
+			<point x="565" y="453" type="line"/>
+			<point x="724" y="453" type="line"/>
+			<point x="693" y="478" type="line"/>
+			<point x="713" y="407" type="line"/>
+			<point x="833" y="407" type="line"/>
+			<point x="833" y="593" type="line"/>
+			<point x="598" y="593" type="line" smooth="yes"/>
+			<point x="557" y="593"/>
+			<point x="401" y="598"/>
+			<point x="350" y="598" type="curve" smooth="yes"/>
+			<point x="132" y="598"/>
+			<point x="17" y="505"/>
+			<point x="17" y="290" type="curve" smooth="yes"/>
+			<point x="17" y="95"/>
+			<point x="111" y="-7"/>
+		</contour>
+		<contour>
+			<point x="393" y="97" type="line"/>
+			<point x="425" y="149" type="line"/>
+			<point x="408" y="145"/>
+			<point x="364" y="138"/>
+			<point x="332" y="138" type="curve" smooth="yes"/>
+			<point x="256" y="138"/>
+			<point x="228" y="175"/>
+			<point x="228" y="293" type="curve" smooth="yes"/>
+			<point x="228" y="424"/>
+			<point x="263" y="453"/>
+			<point x="326" y="453" type="curve" smooth="yes"/>
+			<point x="357" y="453"/>
+			<point x="419" y="446"/>
+			<point x="442" y="443" type="curve"/>
+			<point x="393" y="481" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>RMXScaler</key>
+			<dict>
+				<key>height</key>
+				<integer>83</integer>
+				<key>width</key>
+				<integer>86</integer>
+			</dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>o.sc</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>e.sc</string>
+			<key>com.schriftgestaltung.glyph.userData</key>
+			<dict>
+				<key>RMXScaler</key>
+				<dict>
+					<key>source</key>
+					<string>OE</string>
+				</dict>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

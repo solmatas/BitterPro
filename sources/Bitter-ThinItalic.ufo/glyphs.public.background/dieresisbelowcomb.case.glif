@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="dieresisbelowcomb.case" format="2">
-  <anchor x="128" y="0" name="_bottom"/>
-  <anchor x="103" y="-153" name="bottom"/>
-  <outline>
-    <component base="dieresisbelowcomb"/>
-  </outline>
-</glyph>

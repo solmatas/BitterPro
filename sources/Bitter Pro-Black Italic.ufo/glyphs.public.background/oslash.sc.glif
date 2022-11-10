@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="oslash.sc" format="2">
+	<advance width="662"/>
+	<outline>
+		<contour>
+			<point x="98" y="-86" type="line"/>
+			<point x="650" y="620" type="line"/>
+			<point x="565" y="677" type="line"/>
+			<point x="12" y="-29" type="line"/>
+		</contour>
+		<contour>
+			<point x="275" y="-15" type="curve" smooth="yes"/>
+			<point x="512" y="-15"/>
+			<point x="651" y="155"/>
+			<point x="651" y="357" type="curve" smooth="yes"/>
+			<point x="651" y="520"/>
+			<point x="560" y="606"/>
+			<point x="388" y="606" type="curve" smooth="yes"/>
+			<point x="151" y="606"/>
+			<point x="22" y="442"/>
+			<point x="22" y="237" type="curve" smooth="yes"/>
+			<point x="22" y="65"/>
+			<point x="112" y="-15"/>
+		</contour>
+		<contour>
+			<point x="300" y="130" type="curve" smooth="yes"/>
+			<point x="245" y="130"/>
+			<point x="225" y="163"/>
+			<point x="225" y="235" type="curve" smooth="yes"/>
+			<point x="225" y="329"/>
+			<point x="259" y="461"/>
+			<point x="372" y="461" type="curve" smooth="yes"/>
+			<point x="427" y="461"/>
+			<point x="448" y="429"/>
+			<point x="448" y="358" type="curve" smooth="yes"/>
+			<point x="448" y="265"/>
+			<point x="412" y="130"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.glyph.userData</key>
+			<dict>
+				<key>RMXScaler</key>
+				<dict>
+					<key>source</key>
+					<string>Oslash</string>
+				</dict>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

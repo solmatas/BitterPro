@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="idotless-cy" format="2">
+	<advance width="321"/>
+	<guideline x="59" y="231" angle="261"/>
+	<guideline x="251" y="231" angle="261"/>
+	<guideline x="4" y="231" angle="261"/>
+	<guideline x="306" y="231" angle="261"/>
+	<guideline x="450" y="666" angle="261"/>
+	<guideline x="642" y="666" angle="261"/>
+	<anchor x="119" y="0" name="bottom"/>
+	<anchor x="216" y="0" name="ogonek"/>
+	<anchor x="204" y="540" name="top"/>
+	<outline>
+		<contour>
+			<point x="21" y="-6" type="line"/>
+			<point x="279" y="0" type="line"/>
+			<point x="295" y="100" type="line"/>
+			<point x="151" y="157" type="line"/>
+			<point x="219" y="30" type="line"/>
+			<point x="300" y="540" type="line"/>
+			<point x="107" y="540" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.Export</key>
+			<false/>
+		</dict>
+	</lib>
+</glyph>

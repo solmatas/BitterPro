@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="a.sc.ogonekAccent" format="2">
+	<advance width="678"/>
+	<anchor x="322" y="0" name="bottom"/>
+	<anchor x="564" y="0" name="ogonek"/>
+	<anchor x="347" y="591" name="top"/>
+	<outline>
+		<contour>
+			<point x="650" y="91" type="line"/>
+			<point x="459" y="596" type="line"/>
+			<point x="235" y="591" type="line"/>
+			<point x="35" y="99" type="line"/>
+			<point x="75" y="130" type="line"/>
+			<point x="-3" y="100" type="line"/>
+			<point x="-3" y="0" type="line"/>
+			<point x="280" y="0" type="line"/>
+			<point x="280" y="100" type="line"/>
+			<point x="227" y="130" type="line"/>
+			<point x="229" y="106" type="line"/>
+			<point x="250" y="174" type="line"/>
+			<point x="230" y="151" type="line"/>
+			<point x="420" y="151" type="line"/>
+			<point x="394" y="179" type="line"/>
+			<point x="445" y="0" type="line"/>
+			<point x="681" y="0" type="line"/>
+			<point x="681" y="100" type="line"/>
+			<point x="606" y="132" type="line"/>
+		</contour>
+		<contour>
+			<point x="270" y="246" type="line"/>
+			<point x="351" y="489" type="line"/>
+			<point x="314" y="490" type="line"/>
+			<point x="376" y="244" type="line"/>
+			<point x="386" y="277" type="line"/>
+			<point x="268" y="277" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>RMXScaler</key>
+			<dict>
+				<key>height</key>
+				<integer>83</integer>
+				<key>width</key>
+				<integer>87</integer>
+			</dict>
+			<key>com.schriftgestaltung.Glyphs.Export</key>
+			<false/>
+			<key>com.schriftgestaltung.glyph.userData</key>
+			<dict>
+				<key>RMXScaler</key>
+				<dict>
+					<key>source</key>
+					<string>A</string>
+				</dict>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

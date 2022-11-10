@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="macronacutesingle.case" format="2">
+	<advance width="416"/>
+	<guideline x="40" y="780" angle="90"/>
+	<guideline x="376" y="780" angle="90"/>
+	<guideline y="774"/>
+	<guideline y="968"/>
+	<guideline y="756"/>
+	<guideline y="998"/>
+	<anchor x="208" y="710" name="_top"/>
+	<outline>
+		<component base="macron" xOffset="-5" yOffset="105"/>
+		<component base="acutecomb.case" xOffset="8" yOffset="153"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>macron</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
+</glyph>

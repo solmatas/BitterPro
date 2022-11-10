@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bar" format="2">
+	<advance width="341"/>
+	<unicode hex="007C"/>
+	<guideline x="-220" y="-91" angle="0"/>
+	<guideline x="428" y="795" angle="0"/>
+	<guideline x="195" y="472" angle="261"/>
+	<outline>
+		<contour>
+			<point x="246" y="795" type="line"/>
+			<point x="106" y="-91" type="line"/>
+			<point x="125" y="-91" type="line"/>
+			<point x="266" y="795" type="line"/>
+		</contour>
+	</outline>
+</glyph>

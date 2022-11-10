@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tildecomb_acutecomb" format="2">
+	<advance width="477"/>
+	<anchor x="238" y="522" name="_top"/>
+	<anchor x="238" y="692" name="top"/>
+	<outline>
+		<component base="acutecomb" xScale="0.9816" xyScale="-0.1908" yScale="0.9816" yxScale="0.1908" xOffset="-55" yOffset="94"/>
+		<component base="tildecomb.case" xOffset="-2" yOffset="-166"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>acutecomb</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>tildecomb.case</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
+</glyph>

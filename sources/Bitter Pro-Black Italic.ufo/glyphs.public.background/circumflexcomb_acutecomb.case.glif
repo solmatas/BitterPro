@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflexcomb_acutecomb.case" format="2">
+	<advance width="644"/>
+	<guideline x="321" y="811" angle="261"/>
+	<anchor x="305" y="710" name="_top"/>
+	<anchor x="352" y="1018" name="top"/>
+	<outline>
+		<component base="circumflexcomb.case" xOffset="-3" yOffset="-20"/>
+		<component base="acutedbl" xScale="0.9975" xyScale="-0.0698" yScale="0.9975" yxScale="0.0698" xOffset="349" yOffset="268"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>circumflexcomb.case</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>acutedbl</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
+</glyph>

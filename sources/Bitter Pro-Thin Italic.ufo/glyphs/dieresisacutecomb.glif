@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresisacutecomb" format="2">
+	<advance width="417"/>
+	<guideline x="361" y="724" angle="0"/>
+	<guideline x="317" y="665" angle="0"/>
+	<guideline x="379" y="762" angle="0"/>
+	<guideline x="278" y="624" angle="0"/>
+	<guideline x="297" y="820" angle="261"/>
+	<guideline x="397" y="820" angle="261"/>
+	<guideline x="197" y="820" angle="261"/>
+	<anchor x="250" y="522" name="_top"/>
+	<outline>
+		<contour>
+			<point x="353" y="624" type="curve" smooth="yes"/>
+			<point x="367" y="624"/>
+			<point x="381" y="637"/>
+			<point x="381" y="660" type="curve" smooth="yes"/>
+			<point x="381" y="674"/>
+			<point x="373" y="683"/>
+			<point x="360" y="683" type="curve" smooth="yes"/>
+			<point x="346" y="683"/>
+			<point x="332" y="671"/>
+			<point x="332" y="649" type="curve" smooth="yes"/>
+			<point x="332" y="634"/>
+			<point x="340" y="624"/>
+		</contour>
+		<contour>
+			<point x="183" y="624" type="curve" smooth="yes"/>
+			<point x="197" y="624"/>
+			<point x="211" y="637"/>
+			<point x="211" y="660" type="curve" smooth="yes"/>
+			<point x="211" y="674"/>
+			<point x="203" y="683"/>
+			<point x="190" y="683" type="curve" smooth="yes"/>
+			<point x="175" y="683"/>
+			<point x="162" y="671"/>
+			<point x="162" y="647" type="curve" smooth="yes"/>
+			<point x="162" y="633"/>
+			<point x="170" y="624"/>
+		</contour>
+		<contour>
+			<point x="269" y="671" type="line"/>
+			<point x="392" y="774" type="line"/>
+			<point x="372" y="794" type="line"/>
+			<point x="258" y="684" type="line"/>
+		</contour>
+	</outline>
+</glyph>

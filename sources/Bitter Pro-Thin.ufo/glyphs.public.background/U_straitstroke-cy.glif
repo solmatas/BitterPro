@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ustraitstroke-cy" format="2">
+	<advance width="635"/>
+	<outline>
+		<contour>
+			<point x="162" y="243" type="line"/>
+			<point x="472" y="243" type="line"/>
+			<point x="472" y="262" type="line"/>
+			<point x="162" y="262" type="line"/>
+		</contour>
+		<contour>
+			<point x="207" y="0" type="line"/>
+			<point x="427" y="0" type="line"/>
+			<point x="427" y="15" type="line"/>
+			<point x="320" y="29" type="line"/>
+			<point x="327" y="21" type="line"/>
+			<point x="327" y="268" type="line"/>
+			<point x="323" y="251" type="line"/>
+			<point x="538" y="670" type="line"/>
+			<point x="528" y="663" type="line"/>
+			<point x="630" y="677" type="line"/>
+			<point x="630" y="692" type="line"/>
+			<point x="398" y="687" type="line"/>
+			<point x="398" y="672" type="line"/>
+			<point x="522" y="664" type="line"/>
+			<point x="518" y="670" type="line"/>
+			<point x="315" y="275" type="line"/>
+			<point x="321" y="275" type="line"/>
+			<point x="119" y="670" type="line"/>
+			<point x="115" y="663" type="line"/>
+			<point x="240" y="677" type="line"/>
+			<point x="240" y="692" type="line"/>
+			<point x="5" y="687" type="line"/>
+			<point x="5" y="672" type="line"/>
+			<point x="108" y="663" type="line"/>
+			<point x="98" y="670" type="line"/>
+			<point x="311" y="251" type="line"/>
+			<point x="307" y="268" type="line"/>
+			<point x="307" y="21" type="line"/>
+			<point x="314" y="29" type="line"/>
+			<point x="207" y="15" type="line"/>
+		</contour>
+	</outline>
+</glyph>

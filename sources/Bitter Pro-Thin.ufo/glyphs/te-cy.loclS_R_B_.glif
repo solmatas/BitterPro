@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="te-cy.loclSRB" format="2">
+	<advance width="963"/>
+	<outline>
+		<component base="sha-cy.loclBGR" xOffset="12"/>
+		<component base="macroncomb" xScale="2" xOffset="36"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
+			<string>==+12</string>
+			<key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+			<string>==+12</string>
+		</dict>
+	</lib>
+</glyph>

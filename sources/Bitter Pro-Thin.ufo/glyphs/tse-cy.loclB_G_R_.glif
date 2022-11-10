@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tse-cy.loclBGR" format="2">
+	<advance width="626"/>
+	<outline>
+		<component base="u"/>
+		<component base="descender-cy" xOffset="415"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+			<string>==+18</string>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>u</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>endescender-cy</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="idieresisacute.sc" format="2">
-  <outline>
-    <component base="i.sc"/>
-    <component base="dieresisacutecomb" xOffset="-73" yOffset="53"/>
-  </outline>
-</glyph>

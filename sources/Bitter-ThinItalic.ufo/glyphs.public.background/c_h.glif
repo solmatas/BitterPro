@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="c_h" format="2">
-  <outline>
-    <component base="c" xOffset="6"/>
-    <component base="h" xOffset="470"/>
-  </outline>
-</glyph>

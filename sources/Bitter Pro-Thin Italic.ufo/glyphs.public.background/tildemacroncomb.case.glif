@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tildemacroncomb.case" format="2">
+	<advance width="469"/>
+	<anchor x="297" y="692" name="_top"/>
+	<outline>
+		<component base="macroncomb" xOffset="47" yOffset="177"/>
+		<component base="tildecomb.case" xOffset="-14" yOffset="-36"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>macroncomb</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>tildecomb.case</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
+</glyph>

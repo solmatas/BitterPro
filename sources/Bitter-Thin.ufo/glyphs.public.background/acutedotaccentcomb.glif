@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="acutedotaccentcomb" format="2">
-  <anchor x="183" y="522" name="_top"/>
-  <outline>
-    <component base="dotaccentcomb" xOffset="100" yOffset="71"/>
-    <component base="acutecomb" xOffset="13" yOffset="-32"/>
-  </outline>
-</glyph>

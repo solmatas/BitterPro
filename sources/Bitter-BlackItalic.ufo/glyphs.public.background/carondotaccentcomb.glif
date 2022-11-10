@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="carondotaccentcomb" format="2">
-  <anchor x="270" y="540" name="_top"/>
-  <outline>
-    <component base="caroncomb" xOffset="-3" yOffset="-19"/>
-    <component base="dotaccentcomb" xScale="0.9" yScale="0.9" xOffset="153" yOffset="219"/>
-  </outline>
-</glyph>

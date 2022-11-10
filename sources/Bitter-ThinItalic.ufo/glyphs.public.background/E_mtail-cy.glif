@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="Emtail-cy" format="2">
-  <outline>
-    <component base="Em-cy" xOffset="-1"/>
-    <component base="tail-cy.case" xOffset="655"/>
-  </outline>
-</glyph>

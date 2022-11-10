@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yeru-cy" format="2">
+	<advance width="851"/>
+	<anchor x="460" y="540" name="top"/>
+	<outline>
+		<component base="softsign-cy"/>
+		<component base="idotless-cy" xOffset="524"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>idotless-cy</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
+</glyph>

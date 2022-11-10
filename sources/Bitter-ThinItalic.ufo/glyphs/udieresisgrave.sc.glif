@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="udieresisgrave.sc" format="2">
-  <advance width="660"/>
-  <guideline x="539" y="629" angle="0"/>
-  <outline>
-    <component base="u.sc"/>
-    <component base="dieresisgravecomb" xOffset="128" yOffset="46"/>
-  </outline>
-</glyph>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Tetse-cy" format="2">
+	<advance width="855"/>
+	<outline>
+		<contour>
+			<point x="717" y="-163" type="line"/>
+			<point x="732" y="-163" type="line"/>
+			<point x="760" y="19" type="line"/>
+			<point x="650" y="19" type="line"/>
+			<point x="654" y="8" type="line"/>
+			<point x="759" y="671" type="line"/>
+			<point x="750" y="663" type="line"/>
+			<point x="857" y="677" type="line"/>
+			<point x="859" y="692" type="line"/>
+			<point x="649" y="687" type="line"/>
+			<point x="647" y="672" type="line"/>
+			<point x="744" y="663" type="line"/>
+			<point x="739" y="671" type="line"/>
+			<point x="635" y="14" type="line"/>
+			<point x="644" y="19" type="line"/>
+			<point x="230" y="19" type="line"/>
+			<point x="237" y="14" type="line"/>
+			<point x="342" y="678" type="line"/>
+			<point x="334" y="673" type="line"/>
+			<point x="523" y="673" type="line"/>
+			<point x="516" y="680" type="line"/>
+			<point x="511" y="547" type="line"/>
+			<point x="525" y="547" type="line"/>
+			<point x="547" y="692" type="line"/>
+			<point x="102" y="692" type="line"/>
+			<point x="79" y="547" type="line"/>
+			<point x="94" y="547" type="line"/>
+			<point x="129" y="680" type="line"/>
+			<point x="120" y="673" type="line"/>
+			<point x="329" y="673" type="line"/>
+			<point x="322" y="678" type="line"/>
+			<point x="218" y="21" type="line"/>
+			<point x="226" y="29" type="line"/>
+			<point x="121" y="15" type="line"/>
+			<point x="119" y="0" type="line"/>
+			<point x="731" y="0" type="line"/>
+			<point x="728" y="3" type="line"/>
+		</contour>
+	</outline>
+</glyph>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflexcomb" format="2">
+	<advance width="462"/>
+	<unicode hex="0302"/>
+	<guideline x="207" y="637" angle="0"/>
+	<guideline x="304" y="770" angle="0"/>
+	<guideline x="150" y="724" angle="0"/>
+	<guideline x="107" y="665" angle="0"/>
+	<guideline x="310" y="772" angle="261"/>
+	<anchor x="270" y="522" name="_top"/>
+	<anchor x="298" y="692" name="top"/>
+	<outline>
+		<component base="circumflex"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>circumflex</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
+</glyph>

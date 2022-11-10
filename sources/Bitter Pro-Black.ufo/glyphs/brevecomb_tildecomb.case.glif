@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="brevecomb_tildecomb.case" format="2">
+	<advance width="469"/>
+	<guideline x="215" y="780" angle="0"/>
+	<guideline x="215" y="1134" angle="0"/>
+	<guideline y="774"/>
+	<guideline y="968"/>
+	<guideline y="756"/>
+	<guideline y="998"/>
+	<guideline x="49" y="823" angle="90"/>
+	<guideline x="424" y="823" angle="90"/>
+	<anchor x="235" y="710" name="_top"/>
+	<anchor x="234" y="1100" name="top"/>
+	<outline>
+		<component base="brevecomb.case" xOffset="29" yOffset="-30"/>
+		<component base="tildecomb.case" xScale="0.95" xOffset="4" yOffset="174"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>tildecomb.case</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
+</glyph>

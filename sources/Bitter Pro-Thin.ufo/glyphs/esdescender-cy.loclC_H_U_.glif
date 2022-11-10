@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="esdescender-cy.loclCHU" format="2">
+	<advance width="533"/>
+	<outline>
+		<component base="ccedilla" xOffset="12"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
+			<string>==+12</string>
+			<key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+			<string>==+12</string>
+		</dict>
+	</lib>
+</glyph>

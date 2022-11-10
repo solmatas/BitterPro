@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="m.sc" format="2">
+	<advance width="811"/>
+	<anchor x="406" y="0" name="bottom"/>
+	<anchor x="406" y="568" name="top"/>
+	<outline>
+		<contour>
+			<point x="757" y="554" type="line"/>
+			<point x="757" y="568" type="line"/>
+			<point x="641" y="564" type="line"/>
+			<point x="400" y="166" type="line"/>
+			<point x="405" y="166" type="line"/>
+			<point x="170" y="568" type="line"/>
+			<point x="54" y="564" type="line"/>
+			<point x="54" y="550" type="line"/>
+			<point x="151" y="542" type="line"/>
+			<point x="144" y="549" type="line"/>
+			<point x="144" y="19" type="line"/>
+			<point x="151" y="26" type="line"/>
+			<point x="54" y="14" type="line"/>
+			<point x="54" y="0" type="line"/>
+			<point x="267" y="0" type="line"/>
+			<point x="267" y="14" type="line"/>
+			<point x="157" y="26" type="line"/>
+			<point x="163" y="19" type="line"/>
+			<point x="163" y="548" type="line"/>
+			<point x="157" y="548" type="line"/>
+			<point x="393" y="146" type="line"/>
+			<point x="411" y="149" type="line"/>
+			<point x="654" y="547" type="line"/>
+			<point x="648" y="547" type="line"/>
+			<point x="648" y="19" type="line"/>
+			<point x="653" y="26" type="line"/>
+			<point x="543" y="14" type="line"/>
+			<point x="543" y="0" type="line"/>
+			<point x="757" y="0" type="line"/>
+			<point x="757" y="14" type="line"/>
+			<point x="660" y="26" type="line"/>
+			<point x="668" y="19" type="line"/>
+			<point x="668" y="549" type="line"/>
+			<point x="660" y="542" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.glyph.userData</key>
+			<dict>
+				<key>RMXScaler</key>
+				<dict>
+					<key>source</key>
+					<string>M</string>
+				</dict>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

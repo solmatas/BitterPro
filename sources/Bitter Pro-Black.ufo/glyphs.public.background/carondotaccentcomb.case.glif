@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="carondotaccentcomb.case" format="2">
+	<advance width="490"/>
+	<anchor x="245" y="710" name="_top"/>
+	<outline>
+		<component base="caroncomb.case" xOffset="-9" yOffset="-11"/>
+		<component base="dotaccentcomb" xScale="0.9" yScale="0.9" xOffset="115" yOffset="410"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>caroncomb.case</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>dotaccentcomb</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
+</glyph>

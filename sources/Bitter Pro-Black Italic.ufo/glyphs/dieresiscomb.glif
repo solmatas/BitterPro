@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresiscomb" format="2">
+	<advance width="468"/>
+	<unicode hex="0308"/>
+	<guideline x="434" y="798" angle="0"/>
+	<guideline x="224" y="633" angle="0"/>
+	<guideline x="498" y="864" angle="0"/>
+	<guideline x="213" y="604" angle="0"/>
+	<guideline x="273" y="516" angle="261"/>
+	<guideline x="473" y="516" angle="261"/>
+	<guideline x="73" y="516" angle="261"/>
+	<anchor x="277" y="540" name="_top"/>
+	<anchor x="315" y="780" name="top"/>
+	<outline>
+		<component base="dieresis"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>dieresis</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
+</glyph>

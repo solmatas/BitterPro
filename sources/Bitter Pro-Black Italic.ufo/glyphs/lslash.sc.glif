@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lslash.sc" format="2">
+	<advance width="532"/>
+	<guideline x="14" y="60" angle="261"/>
+	<guideline x="478" y="60" angle="261"/>
+	<guideline x="161" y="60" angle="261"/>
+	<outline>
+		<contour>
+			<point x="5" y="0" type="line"/>
+			<point x="472" y="0" type="line"/>
+			<point x="509" y="237" type="line"/>
+			<point x="393" y="237" type="line"/>
+			<point x="345" y="105" type="line"/>
+			<point x="377" y="138" type="line"/>
+			<point x="241" y="138" type="line"/>
+			<point x="265" y="106" type="line"/>
+			<point x="326" y="495" type="line"/>
+			<point x="301" y="459" type="line"/>
+			<point x="375" y="493" type="line"/>
+			<point x="391" y="593" type="line"/>
+			<point x="98" y="589" type="line"/>
+			<point x="82" y="489" type="line"/>
+			<point x="145" y="459" type="line"/>
+			<point x="131" y="495" type="line"/>
+			<point x="68" y="93" type="line"/>
+			<point x="95" y="129" type="line"/>
+			<point x="21" y="100" type="line"/>
+		</contour>
+		<contour>
+			<point x="46" y="180" type="line"/>
+			<point x="427" y="355" type="line"/>
+			<point x="394" y="438" type="line"/>
+			<point x="13" y="263" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>RMXScaler</key>
+			<dict>
+				<key>height</key>
+				<integer>83</integer>
+				<key>width</key>
+				<integer>86</integer>
+			</dict>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>l.sc</string>
+			<key>com.schriftgestaltung.glyph.userData</key>
+			<dict>
+				<key>RMXScaler</key>
+				<dict>
+					<key>source</key>
+					<string>Lslash</string>
+				</dict>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="brevebelowcomb" format="2">
+	<advance width="420"/>
+	<unicode hex="032E"/>
+	<guideline x="-653" y="-40" angle="0"/>
+	<guideline x="90" y="648" angle="261"/>
+	<guideline x="269" y="648" angle="261"/>
+	<guideline x="-892" y="-265" angle="0"/>
+	<anchor x="166" y="0" name="_bottom"/>
+	<anchor x="126" y="-253" name="bottom"/>
+	<outline>
+		<component base="brevecomb" xOffset="-139" yOffset="-880"/>
+	</outline>
+</glyph>

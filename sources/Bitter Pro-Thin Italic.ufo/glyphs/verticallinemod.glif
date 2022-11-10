@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="verticallinemod" format="2">
+	<advance width="222"/>
+	<unicode hex="02C8"/>
+	<guideline x="261" y="634" angle="0"/>
+	<guideline x="358" y="770" angle="0"/>
+	<guideline x="204" y="724" angle="0"/>
+	<guideline x="161" y="665" angle="0"/>
+	<guideline x="239" y="607" angle="0"/>
+	<guideline x="152" y="517" angle="261"/>
+	<anchor x="152" y="522" name="_top"/>
+	<outline>
+		<contour>
+			<point x="160" y="634" type="line"/>
+			<point x="181" y="634" type="line"/>
+			<point x="209" y="809" type="line"/>
+			<point x="187" y="809" type="line"/>
+		</contour>
+	</outline>
+</glyph>

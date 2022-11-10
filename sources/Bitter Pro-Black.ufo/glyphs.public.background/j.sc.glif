@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="j.sc" format="2">
+	<advance width="343"/>
+	<anchor x="179" y="0" name="bottom"/>
+	<anchor x="179" y="591" name="top"/>
+	<outline>
+		<contour>
+			<point x="25" y="589" type="line"/>
+			<point x="25" y="489" type="line"/>
+			<point x="99" y="458" type="line"/>
+			<point x="77" y="495" type="line"/>
+			<point x="77" y="68" type="line" smooth="yes"/>
+			<point x="77" y="3"/>
+			<point x="57" y="-22"/>
+			<point x="2" y="-22" type="curve" smooth="yes"/>
+			<point x="-9" y="-22"/>
+			<point x="-14" y="-21"/>
+			<point x="-31" y="-18" type="curve"/>
+			<point x="-47" y="-160" type="line"/>
+			<point x="-8" y="-167"/>
+			<point x="17" y="-171"/>
+			<point x="50" y="-171" type="curve" smooth="yes"/>
+			<point x="209" y="-171"/>
+			<point x="280" y="-77"/>
+			<point x="280" y="148" type="curve" smooth="yes"/>
+			<point x="280" y="495" type="line"/>
+			<point x="260" y="456" type="line"/>
+			<point x="330" y="493" type="line"/>
+			<point x="330" y="593" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.glyph.userData</key>
+			<dict>
+				<key>RMXScaler</key>
+				<dict>
+					<key>source</key>
+					<string>J</string>
+				</dict>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

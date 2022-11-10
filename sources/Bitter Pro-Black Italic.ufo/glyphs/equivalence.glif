@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="equivalence" format="2">
+	<advance width="609"/>
+	<unicode hex="2261"/>
+	<guideline x="109" y="472" angle="261"/>
+	<guideline x="564" y="472" angle="261"/>
+	<outline>
+		<component base="minus"/>
+		<component base="minus" xOffset="28" yOffset="180"/>
+		<component base="minus" xOffset="-29" yOffset="-180"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>minus</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>minus</string>
+		</dict>
+	</lib>
+</glyph>

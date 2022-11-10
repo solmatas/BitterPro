@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gravedbl" format="2">
+	<advance width="235"/>
+	<guideline x="429" y="827" angle="0"/>
+	<guideline x="215" y="633" angle="0"/>
+	<guideline x="488" y="864" angle="0"/>
+	<guideline x="189" y="596" angle="180"/>
+	<anchor x="130" y="522" name="_top"/>
+	<anchor x="116" y="522" name="_topright"/>
+	<outline>
+		<contour>
+			<point x="223" y="602" type="line"/>
+			<point x="306" y="679" type="line"/>
+			<point x="175" y="851" type="line"/>
+			<point x="67" y="750" type="line"/>
+		</contour>
+	</outline>
+</glyph>

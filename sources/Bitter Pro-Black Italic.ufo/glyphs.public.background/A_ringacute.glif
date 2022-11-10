@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Aringacute" format="2">
+	<advance width="699"/>
+	<outline>
+		<component base="A"/>
+		<component base="ringacutecomb" xOffset="186" yOffset="160"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>ringacutecomb</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
+</glyph>

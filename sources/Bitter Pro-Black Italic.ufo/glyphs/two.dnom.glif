@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="two.dnom" format="2">
+	<advance width="371"/>
+	<outline>
+		<contour>
+			<point x="-19" y="0" type="line"/>
+			<point x="308" y="0" type="line"/>
+			<point x="328" y="125" type="line"/>
+			<point x="166" y="125" type="line"/>
+			<point x="165" y="106" type="line"/>
+			<point x="221" y="131"/>
+			<point x="359" y="216"/>
+			<point x="359" y="333" type="curve" smooth="yes"/>
+			<point x="359" y="411"/>
+			<point x="297" y="447"/>
+			<point x="206" y="447" type="curve" smooth="yes"/>
+			<point x="158" y="447"/>
+			<point x="98" y="437"/>
+			<point x="45" y="426" type="curve"/>
+			<point x="31" y="278" type="line"/>
+			<point x="127" y="278" type="line"/>
+			<point x="149" y="345" type="line"/>
+			<point x="126" y="318" type="line"/>
+			<point x="138" y="323"/>
+			<point x="152" y="328"/>
+			<point x="164" y="328" type="curve" smooth="yes"/>
+			<point x="179" y="328"/>
+			<point x="191" y="322"/>
+			<point x="191" y="301" type="curve" smooth="yes"/>
+			<point x="191" y="240"/>
+			<point x="88" y="170"/>
+			<point x="-1" y="118" type="curve"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.glyph.userData</key>
+			<dict>
+				<key>RMXScaler</key>
+				<dict>
+					<key>source</key>
+					<string>two</string>
+				</dict>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tshe-cy" format="2">
+	<advance width="576"/>
+	<unicode hex="045B"/>
+	<guideline x="75" y="574" angle="261"/>
+	<outline>
+		<contour>
+			<point x="409" y="-2" type="line"/>
+			<point x="516" y="2" type="line"/>
+			<point x="518" y="17" type="line"/>
+			<point x="425" y="29" type="line"/>
+			<point x="432" y="19" type="line"/>
+			<point x="474" y="293" type="line" smooth="yes"/>
+			<point x="492" y="410"/>
+			<point x="437" y="461"/>
+			<point x="364" y="461" type="curve" smooth="yes"/>
+			<point x="286" y="461"/>
+			<point x="181" y="403"/>
+			<point x="118" y="234" type="curve"/>
+			<point x="123" y="235" type="line"/>
+			<point x="211" y="765" type="line"/>
+			<point x="104" y="760" type="line"/>
+			<point x="102" y="745" type="line"/>
+			<point x="193" y="732" type="line"/>
+			<point x="187" y="742" type="line"/>
+			<point x="69" y="0" type="line"/>
+			<point x="89" y="0" type="line"/>
+			<point x="108" y="120" type="line" smooth="yes"/>
+			<point x="144" y="346"/>
+			<point x="273" y="442"/>
+			<point x="364" y="442" type="curve" smooth="yes"/>
+			<point x="424" y="442"/>
+			<point x="470" y="400"/>
+			<point x="454" y="294" type="curve" smooth="yes"/>
+		</contour>
+		<contour>
+			<point x="78" y="585" type="line"/>
+			<point x="338" y="585" type="line"/>
+			<point x="341" y="604" type="line"/>
+			<point x="81" y="604" type="line"/>
+		</contour>
+	</outline>
+</glyph>

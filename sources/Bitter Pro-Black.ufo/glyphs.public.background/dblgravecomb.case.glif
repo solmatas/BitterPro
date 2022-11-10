@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dblgravecomb.case" format="2">
+	<advance width="480"/>
+	<anchor x="256" y="710" name="_top"/>
+	<anchor x="266" y="970" name="top"/>
+	<outline>
+		<component base="hungarumlautcomb" xScale="-1" xOffset="446" yOffset="149"/>
+	</outline>
+</glyph>

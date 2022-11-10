@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ae.sc" format="2">
+	<advance width="836"/>
+	<guideline x="450" y="726" angle="261"/>
+	<guideline x="645" y="726" angle="261"/>
+	<guideline x="784" y="726" angle="261"/>
+	<guideline x="873" y="726" angle="261"/>
+	<anchor x="381" y="0" name="bottom"/>
+	<anchor x="522" y="591" name="top"/>
+	<outline>
+		<contour>
+			<point x="-41" y="0" type="line"/>
+			<point x="236" y="0" type="line"/>
+			<point x="251" y="100" type="line"/>
+			<point x="190" y="130" type="line"/>
+			<point x="196" y="89" type="line"/>
+			<point x="244" y="185" type="line"/>
+			<point x="200" y="161" type="line"/>
+			<point x="390" y="161" type="line"/>
+			<point x="364" y="184" type="line"/>
+			<point x="351" y="102" type="line"/>
+			<point x="379" y="133" type="line"/>
+			<point x="301" y="100" type="line"/>
+			<point x="285" y="0" type="line"/>
+			<point x="758" y="0" type="line"/>
+			<point x="788" y="188" type="line"/>
+			<point x="671" y="188" type="line"/>
+			<point x="640" y="102" type="line"/>
+			<point x="677" y="138" type="line"/>
+			<point x="523" y="138" type="line"/>
+			<point x="546" y="102" type="line"/>
+			<point x="572" y="264" type="line"/>
+			<point x="536" y="237" type="line"/>
+			<point x="706" y="237" type="line"/>
+			<point x="726" y="363" type="line"/>
+			<point x="558" y="363" type="line"/>
+			<point x="584" y="339" type="line"/>
+			<point x="605" y="474" type="line"/>
+			<point x="570" y="453" type="line"/>
+			<point x="713" y="453" type="line"/>
+			<point x="689" y="491" type="line"/>
+			<point x="700" y="408" type="line"/>
+			<point x="814" y="408" type="line"/>
+			<point x="843" y="591" type="line"/>
+			<point x="429" y="591" type="line"/>
+			<point x="194" y="587" type="line"/>
+			<point x="179" y="489" type="line"/>
+			<point x="257" y="453" type="line"/>
+			<point x="238" y="483" type="line"/>
+			<point x="3" y="90" type="line"/>
+			<point x="57" y="130" type="line"/>
+			<point x="-26" y="100" type="line"/>
+		</contour>
+		<contour>
+			<point x="289" y="265" type="line"/>
+			<point x="395" y="473" type="line"/>
+			<point x="364" y="456" type="line"/>
+			<point x="437" y="456" type="line"/>
+			<point x="410" y="474" type="line"/>
+			<point x="377" y="266" type="line"/>
+			<point x="413" y="287" type="line"/>
+			<point x="276" y="287" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>RMXScaler</key>
+			<dict>
+				<key>height</key>
+				<integer>83</integer>
+				<key>width</key>
+				<integer>86</integer>
+			</dict>
+			<key>com.schriftgestaltung.glyph.userData</key>
+			<dict>
+				<key>RMXScaler</key>
+				<dict>
+					<key>source</key>
+					<string>AE</string>
+				</dict>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

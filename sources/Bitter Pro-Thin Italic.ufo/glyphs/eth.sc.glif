@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eth.sc" format="2">
+	<advance width="637"/>
+	<guideline x="5" y="-51" angle="261"/>
+	<outline>
+		<contour>
+			<point x="13" y="0" type="line"/>
+			<point x="255" y="0" type="line" smooth="yes"/>
+			<point x="449" y="0"/>
+			<point x="580" y="161"/>
+			<point x="580" y="343" type="curve" smooth="yes"/>
+			<point x="580" y="506"/>
+			<point x="476" y="568"/>
+			<point x="352" y="568" type="curve" smooth="yes"/>
+			<point x="237" y="568" type="line"/>
+			<point x="102" y="564" type="line"/>
+			<point x="100" y="550" type="line"/>
+			<point x="193" y="541" type="line"/>
+			<point x="189" y="548" type="line"/>
+			<point x="105" y="19" type="line"/>
+			<point x="112" y="26" type="line"/>
+			<point x="15" y="14" type="line"/>
+		</contour>
+		<contour>
+			<point x="124" y="11" type="line"/>
+			<point x="211" y="557" type="line"/>
+			<point x="200" y="549" type="line"/>
+			<point x="349" y="549" type="line" smooth="yes"/>
+			<point x="467" y="549"/>
+			<point x="559" y="488"/>
+			<point x="559" y="340" type="curve" smooth="yes"/>
+			<point x="559" y="172"/>
+			<point x="440" y="19"/>
+			<point x="257" y="19" type="curve" smooth="yes"/>
+			<point x="117" y="19" type="line"/>
+		</contour>
+		<contour>
+			<point x="58" y="280" type="line"/>
+			<point x="338" y="280" type="line"/>
+			<point x="341" y="299" type="line"/>
+			<point x="61" y="299" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>RMXScaler</key>
+			<dict>
+				<key>height</key>
+				<integer>82</integer>
+				<key>width</key>
+				<integer>86</integer>
+			</dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>d.sc</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>d.sc</string>
+			<key>com.schriftgestaltung.glyph.userData</key>
+			<dict>
+				<key>RMXScaler</key>
+				<dict>
+					<key>source</key>
+					<string>Eth</string>
+				</dict>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

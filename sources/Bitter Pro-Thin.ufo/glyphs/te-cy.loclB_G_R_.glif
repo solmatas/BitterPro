@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="te-cy.loclBGR" format="2">
+	<advance width="983"/>
+	<outline>
+		<component base="m" xOffset="18"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
+			<string>==+18</string>
+			<key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+			<string>==+11</string>
+		</dict>
+	</lib>
+</glyph>

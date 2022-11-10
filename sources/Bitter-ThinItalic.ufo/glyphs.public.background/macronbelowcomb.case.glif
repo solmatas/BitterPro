@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="macronbelowcomb.case" format="2">
-  <anchor x="135" y="0" name="_bottom"/>
-  <anchor x="114" y="-134" name="bottom"/>
-  <outline>
-    <component base="macronbelowcomb" xScale="1.05"/>
-  </outline>
-</glyph>

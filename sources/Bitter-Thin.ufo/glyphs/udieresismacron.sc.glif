@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="udieresismacron.sc" format="2">
-  <advance width="676"/>
-  <outline>
-    <component base="u.sc"/>
-    <component base="dieresismacroncomb" xOffset="123" yOffset="46"/>
-  </outline>
-</glyph>

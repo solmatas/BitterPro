@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Haabkhasian-cy" format="2">
+	<advance width="822"/>
+	<unicode hex="04A8"/>
+	<outline>
+		<contour>
+			<point x="394" y="-6" type="curve" smooth="yes"/>
+			<point x="564" y="-6"/>
+			<point x="726" y="113"/>
+			<point x="726" y="339" type="curve" smooth="yes"/>
+			<point x="726" y="499"/>
+			<point x="644" y="589"/>
+			<point x="527" y="589" type="curve" smooth="yes"/>
+			<point x="404" y="589"/>
+			<point x="315" y="490"/>
+			<point x="315" y="335" type="curve" smooth="yes"/>
+			<point x="315" y="140"/>
+			<point x="456" y="-6"/>
+			<point x="600" y="-6" type="curve" smooth="yes"/>
+			<point x="653" y="-6"/>
+			<point x="706" y="14"/>
+			<point x="753" y="58" type="curve"/>
+			<point x="739" y="73" type="line"/>
+			<point x="698" y="33"/>
+			<point x="650" y="14"/>
+			<point x="601" y="14" type="curve" smooth="yes"/>
+			<point x="470" y="14"/>
+			<point x="337" y="152"/>
+			<point x="337" y="337" type="curve" smooth="yes"/>
+			<point x="337" y="477"/>
+			<point x="413" y="569"/>
+			<point x="524" y="569" type="curve" smooth="yes"/>
+			<point x="631" y="569"/>
+			<point x="704" y="484"/>
+			<point x="704" y="336" type="curve" smooth="yes"/>
+			<point x="704" y="124"/>
+			<point x="555" y="14"/>
+			<point x="398" y="14" type="curve" smooth="yes"/>
+			<point x="248" y="14"/>
+			<point x="101" y="114"/>
+			<point x="101" y="346" type="curve" smooth="yes"/>
+			<point x="101" y="567"/>
+			<point x="235" y="678"/>
+			<point x="382" y="678" type="curve"/>
+			<point x="383" y="698" type="line"/>
+			<point x="225" y="698"/>
+			<point x="79" y="578"/>
+			<point x="79" y="343" type="curve" smooth="yes"/>
+			<point x="79" y="100"/>
+			<point x="234" y="-6"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>O</string>
+		</dict>
+	</lib>
+</glyph>

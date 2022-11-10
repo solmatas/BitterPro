@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="semicolon" format="2">
+	<advance width="170"/>
+	<unicode hex="003B"/>
+	<guideline x="-26" y="351" angle="90"/>
+	<guideline x="-66" y="351" angle="90"/>
+	<guideline x="64" y="46" angle="0"/>
+	<outline>
+		<component base="comma" xOffset="6"/>
+		<component base="period" xOffset="62" yOffset="390"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>period</string>
+		</dict>
+	</lib>
+</glyph>

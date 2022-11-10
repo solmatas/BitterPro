@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="l.sc" format="2">
+	<advance width="515"/>
+	<guideline x="151" y="726" angle="261"/>
+	<guideline x="346" y="726" angle="261"/>
+	<guideline x="103" y="726" angle="261"/>
+	<guideline x="395" y="726" angle="261"/>
+	<guideline x="570" y="726" angle="261"/>
+	<anchor x="220" y="0" name="bottom"/>
+	<anchor x="450" y="382" name="center"/>
+	<anchor x="228" y="591" name="top"/>
+	<anchor x="402" y="591" name="topright"/>
+	<outline>
+		<contour>
+			<point x="376" y="237" type="line"/>
+			<point x="328" y="105" type="line"/>
+			<point x="360" y="138" type="line"/>
+			<point x="224" y="138" type="line"/>
+			<point x="248" y="106" type="line"/>
+			<point x="309" y="495" type="line"/>
+			<point x="284" y="459" type="line"/>
+			<point x="358" y="493" type="line"/>
+			<point x="374" y="593" type="line"/>
+			<point x="81" y="589" type="line"/>
+			<point x="65" y="489" type="line"/>
+			<point x="128" y="459" type="line"/>
+			<point x="114" y="495" type="line"/>
+			<point x="51" y="93" type="line"/>
+			<point x="78" y="129" type="line"/>
+			<point x="4" y="100" type="line"/>
+			<point x="-12" y="0" type="line"/>
+			<point x="455" y="0" type="line"/>
+			<point x="492" y="237" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>RMXScaler</key>
+			<dict>
+				<key>height</key>
+				<integer>83</integer>
+				<key>width</key>
+				<integer>86</integer>
+			</dict>
+			<key>com.schriftgestaltung.glyph.userData</key>
+			<dict>
+				<key>RMXScaler</key>
+				<dict>
+					<key>source</key>
+					<string>L</string>
+				</dict>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

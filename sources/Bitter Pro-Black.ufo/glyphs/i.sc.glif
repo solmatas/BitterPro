@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="i.sc" format="2">
+	<advance width="354"/>
+	<anchor x="178" y="0" name="bottom"/>
+	<anchor x="281" y="0" name="ogonek"/>
+	<anchor x="178" y="591" name="top"/>
+	<outline>
+		<contour>
+			<point x="329" y="493" type="line"/>
+			<point x="329" y="593" type="line"/>
+			<point x="26" y="587" type="line"/>
+			<point x="26" y="487" type="line"/>
+			<point x="100" y="457" type="line"/>
+			<point x="76" y="485" type="line"/>
+			<point x="76" y="103" type="line"/>
+			<point x="93" y="128" type="line"/>
+			<point x="26" y="100" type="line"/>
+			<point x="26" y="0" type="line"/>
+			<point x="329" y="0" type="line"/>
+			<point x="329" y="100" type="line"/>
+			<point x="259" y="129" type="line"/>
+			<point x="279" y="103" type="line"/>
+			<point x="279" y="485" type="line"/>
+			<point x="259" y="458" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>RMXScaler</key>
+			<dict>
+				<key>height</key>
+				<integer>83</integer>
+				<key>width</key>
+				<integer>86</integer>
+			</dict>
+			<key>com.schriftgestaltung.glyph.userData</key>
+			<dict>
+				<key>RMXScaler</key>
+				<dict>
+					<key>source</key>
+					<string>I</string>
+				</dict>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

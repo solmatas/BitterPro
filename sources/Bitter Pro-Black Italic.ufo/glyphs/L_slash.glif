@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lslash" format="2">
+	<advance width="589"/>
+	<unicode hex="0141"/>
+	<guideline x="62" y="542" angle="359.2052"/>
+	<guideline x="89" y="484" angle="261"/>
+	<outline>
+		<contour>
+			<point x="19" y="321" type="line"/>
+			<point x="52" y="223" type="line"/>
+			<point x="490" y="417" type="line"/>
+			<point x="457" y="515" type="line"/>
+		</contour>
+		<contour>
+			<point x="449" y="245" type="line"/>
+			<point x="400" y="114" type="line"/>
+			<point x="431" y="145" type="line"/>
+			<point x="269" y="145" type="line"/>
+			<point x="288" y="105" type="line"/>
+			<point x="367" y="600" type="line"/>
+			<point x="345" y="572" type="line"/>
+			<point x="428" y="610" type="line"/>
+			<point x="444" y="710" type="line"/>
+			<point x="127" y="705" type="line"/>
+			<point x="111" y="605" type="line"/>
+			<point x="189" y="571" type="line"/>
+			<point x="170" y="600" type="line"/>
+			<point x="91" y="105" type="line"/>
+			<point x="115" y="131" type="line"/>
+			<point x="31" y="100" type="line"/>
+			<point x="15" y="0" type="line"/>
+			<point x="523" y="0" type="line"/>
+			<point x="565" y="245" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>L</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tbar.sc" format="2">
+	<advance width="576"/>
+	<guideline x="90" y="164" angle="90"/>
+	<outline>
+		<component base="t.sc"/>
+		<component base="strokeshortcomb" xScale="0.9" xOffset="48" yOffset="-13"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>RMXScaler</key>
+			<dict>
+				<key>height</key>
+				<integer>83</integer>
+				<key>width</key>
+				<integer>86</integer>
+			</dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>t.sc</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>t.sc</string>
+			<key>com.schriftgestaltung.glyph.userData</key>
+			<dict>
+				<key>RMXScaler</key>
+				<dict>
+					<key>source</key>
+					<string>Tbar</string>
+				</dict>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

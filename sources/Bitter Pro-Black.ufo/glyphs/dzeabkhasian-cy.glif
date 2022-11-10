@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dzeabkhasian-cy" format="2">
+	<advance width="521"/>
+	<unicode hex="04E1"/>
+	<guideline x="518" y="395" angle="90"/>
+	<guideline x="-11" y="398" angle="90"/>
+	<outline>
+		<contour>
+			<point x="238" y="-245" type="curve" smooth="yes"/>
+			<point x="410" y="-245"/>
+			<point x="515" y="-141"/>
+			<point x="515" y="8" type="curve" smooth="yes"/>
+			<point x="515" y="130"/>
+			<point x="446" y="215"/>
+			<point x="319" y="215" type="curve" smooth="yes"/>
+			<point x="294" y="215" type="line"/>
+			<point x="328" y="163" type="line"/>
+			<point x="479" y="414" type="line"/>
+			<point x="479" y="540" type="line"/>
+			<point x="25" y="540" type="line"/>
+			<point x="31" y="340" type="line"/>
+			<point x="151" y="340" type="line"/>
+			<point x="178" y="448" type="line"/>
+			<point x="118" y="400" type="line"/>
+			<point x="330" y="400" type="line"/>
+			<point x="304" y="445" type="line"/>
+			<point x="178" y="197" type="line"/>
+			<point x="209" y="217" type="line"/>
+			<point x="119" y="202" type="line"/>
+			<point x="119" y="78" type="line"/>
+			<point x="211" y="78" type="line" smooth="yes"/>
+			<point x="245" y="78"/>
+			<point x="311" y="78"/>
+			<point x="311" y="-4" type="curve" smooth="yes"/>
+			<point x="311" y="-66"/>
+			<point x="271" y="-91"/>
+			<point x="213" y="-91" type="curve" smooth="yes"/>
+			<point x="165" y="-91"/>
+			<point x="106" y="-75"/>
+			<point x="46" y="-51" type="curve"/>
+			<point x="0" y="-191" type="line"/>
+			<point x="83" y="-226"/>
+			<point x="165" y="-245"/>
+		</contour>
+	</outline>
+</glyph>

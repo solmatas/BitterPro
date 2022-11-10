@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ogonekcomb.case" format="2">
+	<advance width="282"/>
+	<anchor x="225" y="0" name="_ogonek"/>
+	<outline>
+		<component base="ogonek"/>
+	</outline>
+</glyph>

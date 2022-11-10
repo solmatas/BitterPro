@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="germandbls.sc" format="2">
+	<advance width="663"/>
+	<outline>
+		<contour>
+			<point x="429" y="-11" type="curve" smooth="yes"/>
+			<point x="557" y="-11"/>
+			<point x="656" y="41"/>
+			<point x="656" y="168" type="curve" smooth="yes"/>
+			<point x="656" y="289"/>
+			<point x="563" y="319"/>
+			<point x="472" y="348" type="curve"/>
+			<point x="496" y="324" type="line"/>
+			<point x="598" y="457" type="line"/>
+			<point x="598" y="591" type="line"/>
+			<point x="274" y="591" type="line"/>
+			<point x="27" y="589" type="line"/>
+			<point x="27" y="489" type="line"/>
+			<point x="98" y="458" type="line"/>
+			<point x="74" y="495" type="line"/>
+			<point x="74" y="98" type="line"/>
+			<point x="98" y="131" type="line"/>
+			<point x="27" y="99" type="line"/>
+			<point x="27" y="0" type="line"/>
+			<point x="280" y="0" type="line"/>
+			<point x="280" y="478" type="line"/>
+			<point x="250" y="449" type="line"/>
+			<point x="445" y="449" type="line"/>
+			<point x="449" y="501" type="line"/>
+			<point x="339" y="356" type="line"/>
+			<point x="341" y="250" type="line"/>
+			<point x="421" y="244"/>
+			<point x="458" y="218"/>
+			<point x="458" y="179" type="curve" smooth="yes"/>
+			<point x="458" y="151"/>
+			<point x="440" y="132"/>
+			<point x="413" y="132" type="curve" smooth="yes"/>
+			<point x="404" y="132"/>
+			<point x="395" y="134"/>
+			<point x="385" y="138" type="curve"/>
+			<point x="428" y="110" type="line"/>
+			<point x="414" y="172" type="line"/>
+			<point x="311" y="172" type="line"/>
+			<point x="301" y="4" type="line"/>
+			<point x="345" y="-6"/>
+			<point x="388" y="-11"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>RMXScaler</key>
+			<dict>
+				<key>height</key>
+				<integer>83</integer>
+				<key>width</key>
+				<integer>88</integer>
+			</dict>
+			<key>com.schriftgestaltung.glyph.userData</key>
+			<dict>
+				<key>RMXScaler</key>
+				<dict>
+					<key>source</key>
+					<string>Germandbls</string>
+				</dict>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

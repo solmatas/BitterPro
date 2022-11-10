@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="c.sc" format="2">
+	<advance width="600"/>
+	<anchor x="332" y="0" name="bottom"/>
+	<anchor x="332" y="568" name="top"/>
+	<outline>
+		<contour>
+			<point x="327" y="-6" type="curve" smooth="yes"/>
+			<point x="398" y="-6"/>
+			<point x="477" y="20"/>
+			<point x="550" y="76" type="curve"/>
+			<point x="539" y="92" type="line"/>
+			<point x="470" y="39"/>
+			<point x="397" y="14"/>
+			<point x="330" y="14" type="curve" smooth="yes"/>
+			<point x="196" y="14"/>
+			<point x="88" y="113"/>
+			<point x="88" y="283" type="curve" smooth="yes"/>
+			<point x="88" y="461"/>
+			<point x="197" y="555"/>
+			<point x="349" y="555" type="curve" smooth="yes"/>
+			<point x="401" y="555"/>
+			<point x="459" y="543"/>
+			<point x="518" y="521" type="curve"/>
+			<point x="512" y="528" type="line"/>
+			<point x="522" y="418" type="line"/>
+			<point x="537" y="418" type="line"/>
+			<point x="541" y="533" type="line"/>
+			<point x="475" y="560"/>
+			<point x="411" y="574"/>
+			<point x="351" y="574" type="curve" smooth="yes"/>
+			<point x="189" y="574"/>
+			<point x="66" y="475"/>
+			<point x="66" y="282" type="curve" smooth="yes"/>
+			<point x="66" y="99"/>
+			<point x="183" y="-6"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.glyph.userData</key>
+			<dict>
+				<key>RMXScaler</key>
+				<dict>
+					<key>source</key>
+					<string>C</string>
+				</dict>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

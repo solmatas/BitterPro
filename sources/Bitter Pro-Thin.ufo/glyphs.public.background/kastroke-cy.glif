@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kastroke-cy" format="2">
+	<advance width="541"/>
+	<outline>
+		<contour>
+			<point x="33" y="602" type="line"/>
+			<point x="303" y="602" type="line"/>
+			<point x="303" y="621" type="line"/>
+			<point x="33" y="621" type="line"/>
+		</contour>
+		<contour>
+			<point x="33" y="0" type="line"/>
+			<point x="233" y="0" type="line"/>
+			<point x="233" y="15" type="line"/>
+			<point x="136" y="29" type="line"/>
+			<point x="143" y="21" type="line"/>
+			<point x="143" y="290" type="line"/>
+			<point x="136" y="283" type="line"/>
+			<point x="289" y="283" type="line"/>
+			<point x="279" y="289" type="line"/>
+			<point x="449" y="0" type="line"/>
+			<point x="537" y="0" type="line"/>
+			<point x="537" y="14" type="line"/>
+			<point x="448" y="31" type="line"/>
+			<point x="458" y="24" type="line"/>
+			<point x="292" y="304" type="line"/>
+			<point x="295" y="292" type="line"/>
+			<point x="418" y="502" type="line"/>
+			<point x="408" y="495" type="line"/>
+			<point x="504" y="511" type="line"/>
+			<point x="504" y="525" type="line"/>
+			<point x="308" y="520" type="line"/>
+			<point x="308" y="506" type="line"/>
+			<point x="402" y="495" type="line"/>
+			<point x="399" y="502" type="line"/>
+			<point x="276" y="296" type="line"/>
+			<point x="284" y="302" type="line"/>
+			<point x="136" y="302" type="line"/>
+			<point x="143" y="295" type="line"/>
+			<point x="143" y="765" type="line"/>
+			<point x="33" y="760" type="line"/>
+			<point x="33" y="745" type="line"/>
+			<point x="130" y="731" type="line"/>
+			<point x="123" y="739" type="line"/>
+			<point x="123" y="21" type="line"/>
+			<point x="130" y="29" type="line"/>
+			<point x="33" y="15" type="line"/>
+		</contour>
+	</outline>
+</glyph>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="macrongravesingle.case" format="2">
+	<advance width="430"/>
+	<guideline y="747"/>
+	<guideline y="868"/>
+	<guideline y="834"/>
+	<guideline y="773"/>
+	<guideline x="100" y="780" angle="90"/>
+	<guideline x="330" y="780" angle="90"/>
+	<guideline y="797"/>
+	<anchor x="215" y="692" name="_top"/>
+	<outline>
+		<component base="macron" xOffset="-1" yOffset="63"/>
+		<component base="gravecomb.case" xScale="0.9976" xyScale="0.0698" yScale="0.9976" yxScale="-0.0698" xOffset="101" yOffset="34"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>macron</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>gravecomb.case</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
+</glyph>

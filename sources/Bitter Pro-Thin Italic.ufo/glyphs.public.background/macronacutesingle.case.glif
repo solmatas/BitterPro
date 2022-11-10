@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="macronacutesingle.case" format="2">
+	<advance width="421"/>
+	<anchor x="279" y="692" name="_top"/>
+	<outline>
+		<component base="macron" xOffset="9" yOffset="63"/>
+		<component base="acutecomb.case" xScale="0.9976" xyScale="-0.0698" yScale="0.9976" yxScale="0.0698" xOffset="-31" yOffset="58"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>macron</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>acutecomb.case</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="braceright.case" format="2">
+	<advance width="320"/>
+	<guideline x="120" y="-94" angle="0"/>
+	<outline>
+		<component base="braceleft.case" xScale="-1" xOffset="320"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>=|braceleft.case</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>=|braceleft.case</string>
+		</dict>
+	</lib>
+</glyph>

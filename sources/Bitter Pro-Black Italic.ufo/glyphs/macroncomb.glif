@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="macroncomb" format="2">
+	<advance width="383"/>
+	<unicode hex="0304"/>
+	<guideline x="501" y="898" angle="0"/>
+	<guideline x="437" y="827" angle="0"/>
+	<guideline x="222" y="633" angle="0"/>
+	<guideline x="496" y="864" angle="0"/>
+	<guideline x="197" y="596" angle="0"/>
+	<guideline x="85" y="611" angle="261"/>
+	<guideline x="407" y="611" angle="261"/>
+	<guideline x="246" y="611" angle="261"/>
+	<anchor x="235" y="540" name="_top"/>
+	<anchor x="273" y="780" name="top"/>
+	<outline>
+		<component base="macron"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>macron</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
+</glyph>

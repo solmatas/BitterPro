@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="divide" format="2">
+	<advance width="609"/>
+	<unicode hex="00F7"/>
+	<guideline x="126" y="472" angle="261"/>
+	<guideline x="543" y="472" angle="261"/>
+	<guideline x="335" y="472" angle="261"/>
+	<outline>
+		<component base="minus"/>
+		<component base="period" xOffset="162" yOffset="56"/>
+		<component base="period" xOffset="227" yOffset="466"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>minus</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>minus</string>
+		</dict>
+	</lib>
+</glyph>

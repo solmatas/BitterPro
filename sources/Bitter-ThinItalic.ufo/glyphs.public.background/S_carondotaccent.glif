@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="Scarondotaccent" format="2">
-  <outline>
-    <component base="S"/>
-    <component base="carondotaccentcomb.case" xOffset="128" yOffset="-1"/>
-  </outline>
-</glyph>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Hbar" format="2">
+	<advance width="789"/>
+	<unicode hex="0126"/>
+	<guideline x="29" y="540" angle="90"/>
+	<guideline x="760" y="540" angle="90"/>
+	<outline>
+		<contour>
+			<point x="29" y="460" type="line"/>
+			<point x="760" y="460" type="line"/>
+			<point x="760" y="555" type="line"/>
+			<point x="29" y="555" type="line"/>
+		</contour>
+		<contour>
+			<point x="29" y="0" type="line"/>
+			<point x="354" y="0" type="line"/>
+			<point x="354" y="100" type="line"/>
+			<point x="270" y="134" type="line"/>
+			<point x="294" y="95" type="line"/>
+			<point x="294" y="305" type="line"/>
+			<point x="264" y="275" type="line"/>
+			<point x="525" y="275" type="line"/>
+			<point x="495" y="305" type="line"/>
+			<point x="495" y="95" type="line"/>
+			<point x="519" y="134" type="line"/>
+			<point x="435" y="100" type="line"/>
+			<point x="435" y="0" type="line"/>
+			<point x="760" y="0" type="line"/>
+			<point x="760" y="100" type="line"/>
+			<point x="674" y="134" type="line"/>
+			<point x="700" y="95" type="line"/>
+			<point x="700" y="611" type="line"/>
+			<point x="674" y="570" type="line"/>
+			<point x="760" y="610" type="line"/>
+			<point x="760" y="710" type="line"/>
+			<point x="435" y="705" type="line"/>
+			<point x="435" y="605" type="line"/>
+			<point x="525" y="569" type="line"/>
+			<point x="495" y="610" type="line"/>
+			<point x="495" y="385" type="line"/>
+			<point x="525" y="415" type="line"/>
+			<point x="264" y="415" type="line"/>
+			<point x="294" y="385" type="line"/>
+			<point x="294" y="611" type="line"/>
+			<point x="265" y="569" type="line"/>
+			<point x="354" y="610" type="line"/>
+			<point x="354" y="710" type="line"/>
+			<point x="29" y="705" type="line"/>
+			<point x="29" y="605" type="line"/>
+			<point x="121" y="569" type="line"/>
+			<point x="89" y="610" type="line"/>
+			<point x="89" y="95" type="line"/>
+			<point x="114" y="134" type="line"/>
+			<point x="29" y="100" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>=H+5</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>=H+5</string>
+		</dict>
+	</lib>
+</glyph>

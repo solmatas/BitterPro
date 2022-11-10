@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="three.sinf" format="2">
+	<advance width="378"/>
+	<outline>
+		<component base="three.dnom" yOffset="-90"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.glyph.userData</key>
+			<dict>
+				<key>RMXScaler</key>
+				<dict>
+					<key>source</key>
+					<string>three</string>
+				</dict>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gje-cy.loclMKD" format="2">
+	<advance width="329"/>
+	<outline>
+		<component base="idotless"/>
+		<component base="macronacutesingle" xScale="0.92" xOffset="-19"/>
+	</outline>
+</glyph>

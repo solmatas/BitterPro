@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="y.sc" format="2">
+	<advance width="564"/>
+	<guideline x="224" y="561" angle="261"/>
+	<guideline x="419" y="561" angle="261"/>
+	<guideline x="170" y="561" angle="261"/>
+	<guideline x="471" y="561" angle="261"/>
+	<anchor x="238" y="0" name="bottom"/>
+	<anchor x="337" y="591" name="top"/>
+	<anchor x="55" y="591" name="topleft"/>
+	<outline>
+		<contour>
+			<point x="81" y="0" type="line"/>
+			<point x="382" y="0" type="line"/>
+			<point x="398" y="100" type="line"/>
+			<point x="324" y="132" type="line"/>
+			<point x="345" y="93" type="line"/>
+			<point x="369" y="243" type="line"/>
+			<point x="339" y="180" type="line"/>
+			<point x="573" y="494" type="line"/>
+			<point x="531" y="461" type="line"/>
+			<point x="594" y="493" type="line"/>
+			<point x="609" y="593" type="line"/>
+			<point x="375" y="589" type="line"/>
+			<point x="360" y="489" type="line"/>
+			<point x="424" y="456" type="line"/>
+			<point x="406" y="490" type="line"/>
+			<point x="271" y="293" type="line"/>
+			<point x="306" y="293" type="line"/>
+			<point x="237" y="499" type="line"/>
+			<point x="217" y="461" type="line"/>
+			<point x="290" y="493" type="line"/>
+			<point x="305" y="593" type="line"/>
+			<point x="54" y="589" type="line"/>
+			<point x="39" y="489" type="line"/>
+			<point x="86" y="463" type="line"/>
+			<point x="60" y="488" type="line"/>
+			<point x="181" y="180" type="line"/>
+			<point x="174" y="243" type="line"/>
+			<point x="150" y="93" type="line"/>
+			<point x="182" y="132" type="line"/>
+			<point x="97" y="100" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>RMXScaler</key>
+			<dict>
+				<key>height</key>
+				<integer>83</integer>
+				<key>width</key>
+				<integer>86</integer>
+			</dict>
+			<key>com.schriftgestaltung.glyph.userData</key>
+			<dict>
+				<key>RMXScaler</key>
+				<dict>
+					<key>source</key>
+					<string>Y</string>
+				</dict>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

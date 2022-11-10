@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lcaron.sc" format="2">
+	<advance width="470"/>
+	<outline>
+		<component base="l.sc"/>
+		<component base="caroncomb.alt" xOffset="211" yOffset="-194"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.glyph.userData</key>
+			<dict>
+				<key>RMXScaler</key>
+				<dict>
+					<key>source</key>
+					<string>Lcaron</string>
+				</dict>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

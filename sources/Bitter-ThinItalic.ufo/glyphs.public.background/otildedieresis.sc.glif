@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="otildedieresis.sc" format="2">
-  <outline>
-    <component base="o.sc"/>
-    <component base="dieresistildecomb" xOffset="121" yOffset="46"/>
-  </outline>
-</glyph>

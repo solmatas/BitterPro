@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quotedblright.sc" format="2">
+	<advance width="273"/>
+	<outline>
+		<component base="quotedblbase" xOffset="85" yOffset="561"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>quotesinglbase</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>quotesinglbase</string>
+		</dict>
+	</lib>
+</glyph>

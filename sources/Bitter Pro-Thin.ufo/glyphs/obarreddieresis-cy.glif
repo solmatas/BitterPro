@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="obarreddieresis-cy" format="2">
+	<advance width="620"/>
+	<unicode hex="04EB"/>
+	<outline>
+		<component base="obarred-cy" xOffset="12"/>
+		<component base="dieresiscomb" xOffset="101"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.layer.leftMetricsKey</key>
+			<string>==+12</string>
+			<key>com.schriftgestaltung.Glyphs.layer.rightMetricsKey</key>
+			<string>==+11</string>
+		</dict>
+	</lib>
+</glyph>

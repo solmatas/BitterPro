@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tildecomb" format="2">
+	<advance width="476"/>
+	<unicode hex="0303"/>
+	<guideline x="212" y="637" angle="0"/>
+	<guideline x="309" y="770" angle="0"/>
+	<guideline x="155" y="724" angle="0"/>
+	<guideline x="112" y="657" angle="0"/>
+	<guideline x="326" y="820" angle="261"/>
+	<guideline x="456" y="820" angle="261"/>
+	<guideline x="196" y="820" angle="261"/>
+	<anchor x="279" y="522" name="_top"/>
+	<anchor x="306" y="692" name="top"/>
+	<outline>
+		<component base="tilde"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>tilde</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
+</glyph>

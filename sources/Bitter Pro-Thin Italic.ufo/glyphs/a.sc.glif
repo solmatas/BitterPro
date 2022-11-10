@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="a.sc" format="2">
+	<advance width="582"/>
+	<anchor x="247" y="0" name="bottom"/>
+	<anchor x="545" y="0" name="ogonek"/>
+	<anchor x="345" y="568" name="top"/>
+	<outline>
+		<contour>
+			<point x="468" y="20" type="line"/>
+			<point x="356" y="570" type="line"/>
+			<point x="335" y="568" type="line"/>
+			<point x="34" y="20" type="line"/>
+			<point x="46" y="26" type="line"/>
+			<point x="-45" y="14" type="line"/>
+			<point x="-47" y="0" type="line"/>
+			<point x="151" y="0" type="line"/>
+			<point x="153" y="14" type="line"/>
+			<point x="53" y="26" type="line"/>
+			<point x="55" y="20" type="line"/>
+			<point x="139" y="174" type="line"/>
+			<point x="128" y="168" type="line"/>
+			<point x="422" y="168" type="line"/>
+			<point x="417" y="177" type="line"/>
+			<point x="449" y="20" type="line"/>
+			<point x="451" y="26" type="line"/>
+			<point x="345" y="14" type="line"/>
+			<point x="343" y="0" type="line"/>
+			<point x="545" y="0" type="line"/>
+			<point x="548" y="14" type="line"/>
+			<point x="460" y="26" type="line"/>
+		</contour>
+		<contour>
+			<point x="143" y="181" type="line"/>
+			<point x="348" y="557" type="line"/>
+			<point x="341" y="556" type="line"/>
+			<point x="417" y="180" type="line"/>
+			<point x="417" y="187" type="line"/>
+			<point x="139" y="187" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>RMXScaler</key>
+			<dict>
+				<key>height</key>
+				<integer>82</integer>
+				<key>width</key>
+				<integer>86</integer>
+			</dict>
+			<key>com.schriftgestaltung.glyph.userData</key>
+			<dict>
+				<key>RMXScaler</key>
+				<dict>
+					<key>source</key>
+					<string>A</string>
+				</dict>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="iogonek.sc" format="2">
-  <advance width="307"/>
-  <guideline x="116" y="-69" angle="261"/>
-  <outline>
-    <component base="i.sc"/>
-    <component base="ogonekcomb.case.alt" xOffset="-25"/>
-  </outline>
-</glyph>

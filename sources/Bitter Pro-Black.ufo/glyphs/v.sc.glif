@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="v.sc" format="2">
+	<advance width="660"/>
+	<outline>
+		<contour>
+			<point x="217" y="0" type="line"/>
+			<point x="443" y="0" type="line"/>
+			<point x="630" y="495" type="line"/>
+			<point x="588" y="460" type="line"/>
+			<point x="655" y="493" type="line"/>
+			<point x="655" y="593" type="line"/>
+			<point x="396" y="589" type="line"/>
+			<point x="396" y="489" type="line"/>
+			<point x="461" y="457" type="line"/>
+			<point x="455" y="496" type="line"/>
+			<point x="330" y="136" type="line"/>
+			<point x="356" y="136" type="line"/>
+			<point x="240" y="509" type="line"/>
+			<point x="226" y="455" type="line"/>
+			<point x="301" y="493" type="line"/>
+			<point x="301" y="593" type="line"/>
+			<point x="5" y="589" type="line"/>
+			<point x="5" y="489" type="line"/>
+			<point x="73" y="457" type="line"/>
+			<point x="36" y="490" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>RMXScaler</key>
+			<dict>
+				<key>height</key>
+				<integer>83</integer>
+				<key>width</key>
+				<integer>86</integer>
+			</dict>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>=|</string>
+			<key>com.schriftgestaltung.glyph.userData</key>
+			<dict>
+				<key>RMXScaler</key>
+				<dict>
+					<key>source</key>
+					<string>V</string>
+				</dict>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="l.sc" format="2">
+	<advance width="485"/>
+	<anchor x="272" y="0" name="bottom"/>
+	<anchor x="391" y="313" name="center"/>
+	<anchor x="150" y="568" name="top"/>
+	<anchor x="354" y="568" name="topright"/>
+	<outline>
+		<contour>
+			<point x="448" y="121" type="line"/>
+			<point x="434" y="12" type="line"/>
+			<point x="442" y="18" type="line"/>
+			<point x="157" y="18" type="line"/>
+			<point x="164" y="12" type="line"/>
+			<point x="164" y="548" type="line"/>
+			<point x="157" y="541" type="line"/>
+			<point x="267" y="554" type="line"/>
+			<point x="267" y="568" type="line"/>
+			<point x="53" y="564" type="line"/>
+			<point x="53" y="550" type="line"/>
+			<point x="150" y="541" type="line"/>
+			<point x="144" y="548" type="line"/>
+			<point x="144" y="19" type="line"/>
+			<point x="150" y="26" type="line"/>
+			<point x="53" y="14" type="line"/>
+			<point x="53" y="0" type="line"/>
+			<point x="464" y="0" type="line"/>
+			<point x="464" y="121" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.glyph.userData</key>
+			<dict>
+				<key>RMXScaler</key>
+				<dict>
+					<key>source</key>
+					<string>L</string>
+				</dict>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

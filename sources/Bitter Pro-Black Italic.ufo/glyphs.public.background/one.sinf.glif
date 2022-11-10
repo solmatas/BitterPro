@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="one.sinf" format="2">
+	<advance width="305"/>
+	<outline>
+		<component base="one.dnom" xOffset="-14" yOffset="-90"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.glyph.userData</key>
+			<dict>
+				<key>RMXScaler</key>
+				<dict>
+					<key>source</key>
+					<string>one</string>
+				</dict>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

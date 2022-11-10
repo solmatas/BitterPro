@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quotesingle.sc" format="2">
+	<advance width="256"/>
+	<outline>
+		<component base="quotesingle" xOffset="-23" yOffset="-119"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>quotesingle</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>quotesingle</string>
+		</dict>
+	</lib>
+</glyph>

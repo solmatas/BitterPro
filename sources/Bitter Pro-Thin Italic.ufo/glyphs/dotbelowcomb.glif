@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotbelowcomb" format="2">
+	<advance width="252"/>
+	<unicode hex="0323"/>
+	<guideline x="-321" y="-82" angle="0"/>
+	<guideline x="82" y="-14" angle="261"/>
+	<anchor x="84" y="0" name="_bottom"/>
+	<anchor x="62" y="-140" name="bottom"/>
+	<outline>
+		<component base="dotaccentcomb" xOffset="-56" yOffset="-806"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>dotaccentcomb</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
+</glyph>

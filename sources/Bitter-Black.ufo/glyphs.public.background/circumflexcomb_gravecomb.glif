@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<glyph name="circumflexcomb_gravecomb" format="2">
-  <anchor x="253" y="540" name="_top"/>
-  <anchor x="253" y="987" name="top"/>
-  <outline>
-    <component base="circumflexcomb.case" xOffset="-1" yOffset="-136"/>
-    <component base="gravedbl" xScale="0.9962" xyScale="-0.0872" yxScale="0.0872" yScale="0.9962" xOffset="199" yOffset="182"/>
-  </outline>
-</glyph>

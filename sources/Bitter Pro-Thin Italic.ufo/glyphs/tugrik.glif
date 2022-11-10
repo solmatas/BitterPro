@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tugrik" format="2">
+	<advance width="645"/>
+	<unicode hex="20AE"/>
+	<guideline x="145" y="505" angle="90"/>
+	<guideline x="464" y="505" angle="90"/>
+	<outline>
+		<contour>
+			<point x="179" y="332" type="line"/>
+			<point x="515" y="454" type="line"/>
+			<point x="518" y="473" type="line"/>
+			<point x="352" y="413" type="line"/>
+			<point x="359" y="408" type="line"/>
+			<point x="402" y="680" type="line"/>
+			<point x="393" y="673" type="line"/>
+			<point x="604" y="673" type="line"/>
+			<point x="598" y="680" type="line"/>
+			<point x="591" y="547" type="line"/>
+			<point x="606" y="547" type="line"/>
+			<point x="629" y="692" type="line"/>
+			<point x="159" y="692" type="line"/>
+			<point x="136" y="547" type="line"/>
+			<point x="150" y="547" type="line"/>
+			<point x="186" y="680" type="line"/>
+			<point x="177" y="673" type="line"/>
+			<point x="387" y="673" type="line"/>
+			<point x="382" y="680" type="line"/>
+			<point x="338" y="401" type="line"/>
+			<point x="345" y="410" type="line"/>
+			<point x="182" y="351" type="line"/>
+		</contour>
+		<contour>
+			<point x="164" y="0" type="line"/>
+			<point x="405" y="0" type="line"/>
+			<point x="407" y="15" type="line"/>
+			<point x="291" y="29" type="line"/>
+			<point x="298" y="21" type="line"/>
+			<point x="342" y="303" type="line"/>
+			<point x="330" y="288" type="line"/>
+			<point x="498" y="349" type="line"/>
+			<point x="501" y="368" type="line"/>
+			<point x="165" y="246" type="line"/>
+			<point x="162" y="227" type="line"/>
+			<point x="326" y="287" type="line"/>
+			<point x="321" y="292" type="line"/>
+			<point x="278" y="21" type="line"/>
+			<point x="286" y="29" type="line"/>
+			<point x="166" y="15" type="line"/>
+		</contour>
+	</outline>
+</glyph>

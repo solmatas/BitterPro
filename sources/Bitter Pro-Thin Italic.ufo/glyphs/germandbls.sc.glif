@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="germandbls.sc" format="2">
+	<advance width="625"/>
+	<guideline x="157" y="231" angle="261"/>
+	<guideline x="137" y="234" angle="261"/>
+	<guideline x="48" y="234" angle="261"/>
+	<outline>
+		<contour>
+			<point x="337" y="-5" type="curve" smooth="yes"/>
+			<point x="471" y="-5"/>
+			<point x="559" y="62"/>
+			<point x="559" y="177" type="curve" smooth="yes"/>
+			<point x="559" y="279"/>
+			<point x="491" y="315"/>
+			<point x="347" y="325" type="curve"/>
+			<point x="348" y="317" type="line"/>
+			<point x="553" y="548" type="line"/>
+			<point x="555" y="568" type="line"/>
+			<point x="212" y="568" type="line"/>
+			<point x="105" y="564" type="line"/>
+			<point x="103" y="550" type="line"/>
+			<point x="194" y="541" type="line"/>
+			<point x="188" y="548" type="line"/>
+			<point x="104" y="19" type="line"/>
+			<point x="113" y="26" type="line"/>
+			<point x="18" y="14" type="line"/>
+			<point x="15" y="0" type="line"/>
+			<point x="121" y="0" type="line"/>
+			<point x="209" y="556" type="line"/>
+			<point x="202" y="549" type="line"/>
+			<point x="541" y="550" type="line"/>
+			<point x="540" y="560" type="line"/>
+			<point x="331" y="326" type="line"/>
+			<point x="328" y="309" type="line"/>
+			<point x="469" y="302"/>
+			<point x="538" y="271"/>
+			<point x="538" y="176" type="curve" smooth="yes"/>
+			<point x="538" y="75"/>
+			<point x="461" y="14"/>
+			<point x="339" y="14" type="curve" smooth="yes"/>
+			<point x="308" y="14"/>
+			<point x="272" y="18"/>
+			<point x="236" y="25" type="curve"/>
+			<point x="238" y="18" type="line"/>
+			<point x="244" y="108" type="line"/>
+			<point x="230" y="108" type="line"/>
+			<point x="209" y="12" type="line"/>
+			<point x="253" y="1"/>
+			<point x="297" y="-5"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>RMXScaler</key>
+			<dict>
+				<key>height</key>
+				<integer>82</integer>
+				<key>width</key>
+				<integer>87</integer>
+			</dict>
+			<key>com.schriftgestaltung.glyph.userData</key>
+			<dict>
+				<key>RMXScaler</key>
+				<dict>
+					<key>source</key>
+					<string>Germandbls</string>
+				</dict>
+			</dict>
+		</dict>
+	</lib>
+</glyph>
