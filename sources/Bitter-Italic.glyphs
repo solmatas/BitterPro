@@ -1,5 +1,5 @@
 {
-.appVersion = "3207";
+.appVersion = "3151";
 .formatVersion = 3;
 DisplayStrings = (
 "/.notdef"
@@ -52,8 +52,8 @@ wght = {
 };
 }
 );
-date = "2022-11-10 12:44:31 +0000";
-familyName = "Bitter Pro";
+date = "2024-04-09 09:13:42 +0000";
+familyName = Bitter;
 featurePrefixes = (
 {
 automatic = 1;
@@ -159,28 +159,7 @@ script latn;
 lookup ccmp_latn_1;
 lookup ccmp_latn_2;
 ";
-notes = "# Add at beginning:
-lookup latinPresentationForms {
-	sub dz by d z;
-	sub Dz by D z;
-	sub DZ by D Z;
-	sub Dzcaron by D zcaron;
-	sub DZcaron by D Zcaron;
-	sub dzcaron by d zcaron;
-	sub fi by f i;
-	sub fl by f l;
-	sub ldot by l periodcentered.loclCAT;
-	sub Ldot by L periodcentered.loclCAT.case;
-	sub lj by l j;
-	sub Lj by L j;
-	sub LJ by L J;
-	sub napostrophe by quoteright n;
-	sub Nj by N j;
-	sub nj by n j;
-	sub NJ by N J;
-} latinPresentationForms;
-
-";
+notes = "# Add at beginning:\012lookup latinPresentationForms {\012	sub dz by d z;\012	sub Dz by D z;\012	sub DZ by D Z;\012	sub Dzcaron by D zcaron;\012	sub DZcaron by D Zcaron;\012	sub dzcaron by d zcaron;\012	sub fi by f i;\012	sub fl by f l;\012	sub ldot by l periodcentered.loclCAT;\012	sub Ldot by L periodcentered.loclCAT.case;\012	sub lj by l j;\012	sub Lj by L j;\012	sub LJ by L J;\012	sub napostrophe by quoteright n;\012	sub Nj by N j;\012	sub nj by n j;\012	sub NJ by N J;\012} latinPresentationForms;\012\012";
 tag = ccmp;
 },
 {
@@ -206,28 +185,7 @@ lookup latinPresentationForms {
 } latinPresentationForms;
 # END Decompose presentation forms
 ";
-notes = "# Add at beginning:
-lookup latinPresentationForms {
-	sub dz by d z;
-	sub Dz by D z;
-	sub DZ by D Z;
-	sub Dzcaron by D zcaron;
-	sub DZcaron by D Zcaron;
-	sub dzcaron by d zcaron;
-	sub fi by f i;
-	sub fl by f l;
-	sub ldot by l periodcentered.loclCAT;
-	sub Ldot by L periodcentered.loclCAT.case;
-	sub lj by l j;
-	sub Lj by L j;
-	sub LJ by L J;
-	sub napostrophe by quoteright n;
-	sub Nj by N j;
-	sub nj by n j;
-	sub NJ by N J;
-} latinPresentationForms;
-
-";
+notes = "# Add at beginning:\012lookup latinPresentationForms {\012	sub dz by d z;\012	sub Dz by D z;\012	sub DZ by D Z;\012	sub Dzcaron by D zcaron;\012	sub DZcaron by D Zcaron;\012	sub dzcaron by d zcaron;\012	sub fi by f i;\012	sub fl by f l;\012	sub ldot by l periodcentered.loclCAT;\012	sub Ldot by L periodcentered.loclCAT.case;\012	sub lj by l j;\012	sub Lj by L j;\012	sub LJ by L J;\012	sub napostrophe by quoteright n;\012	sub Nj by N j;\012	sub nj by n j;\012	sub NJ by N J;\012} latinPresentationForms;\012\012";
 tag = ccmp;
 },
 {
@@ -357,15 +315,7 @@ lookup locl_cyrl_4 {
 	sub te-cy by te-cy.loclSRB;
 } locl_cyrl_4;
 ";
-notes = "# Add at end:
-lookup NLD {
-	language NLD;
-	sub iacute j' by jacute;
-	ignore sub J' [@Markscomb @MarkscombCase];
-	sub Iacute J' by Jacute;
-} NLD;
-
-";
+notes = "# Add at end:\012lookup NLD {\012	language NLD;\012	sub iacute j' by jacute;\012	ignore sub J' [@Markscomb @MarkscombCase];\012	sub Iacute J' by Jacute;\012} NLD;\012\012";
 tag = locl;
 },
 {
@@ -742,15 +692,7 @@ sub quotedbl by quotedbl.sc;
 sub quotesingle by quotesingle.sc;
 sub ampersand by ampersand.sc;
 ";
-notes = "# Add at beginning:
-lookup latinPresentationForms;
-
-# Add at beginning:
-lookup capMarksToSC {
-	sub @MarkscombCase by @Markscomb;
-} capMarksToSC;
-
-";
+notes = "# Add at beginning:\012lookup latinPresentationForms;\012\012# Add at beginning:\012lookup capMarksToSC {\012	sub @MarkscombCase by @Markscomb;\012} capMarksToSC;\012\012";
 tag = c2sc;
 },
 {
@@ -1028,14 +970,7 @@ sub jdotless by j.sc;
 sub longs by s.sc;
 # END Alternate small-cap mappings
 ";
-notes = "# Add at beginning:
-lookup latinPresentationForms;
-
-# Add at end:
-sub jdotless by j.sc;
-sub longs by s.sc;
-
-";
+notes = "# Add at beginning:\012lookup latinPresentationForms;\012\012# Add at end:\012sub jdotless by j.sc;\012sub longs by s.sc;\012\012";
 tag = smcp;
 },
 {
@@ -1344,8 +1279,7 @@ sub f f by f_f;
 sub f i by fi;
 sub f l by fl;
 ";
-notes = "
-";
+notes = "\012";
 tag = liga;
 },
 {
@@ -142891,7 +142825,8 @@ pos = (64,195);
 );
 hints = (
 {
-place = (389.327,0);
+place = (389.327, 0);
+place = (389.327, 0);
 type = Stem;
 }
 );
@@ -173086,6 +173021,9 @@ width = 321;
 );
 instances = (
 {
+axesValues = (
+0
+);
 customParameters = (
 {
 name = "Remove Features";
@@ -173095,6 +173033,9 @@ mark
 );
 }
 );
+instanceInterpolations = {
+"075BA79B-D813-4287-A9DD-CCAF2D535ED3" = 1;
+};
 name = Thin;
 type = variable;
 },
@@ -176950,6 +176891,6 @@ tH = "75";
 };
 };
 };
-versionMajor = 1;
-versionMinor = 11;
+versionMajor = 3;
+versionMinor = 19;
 }
