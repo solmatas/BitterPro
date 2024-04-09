@@ -11,7 +11,7 @@ nńŉňņṅṇǌṉñ/nacute.loclPLK/pe-cy.loclBGR
 "ṉ/nmacronbelow.bolder",
 "Һ/Shha-cy.bolder jЦԦjhhhһԧ/shhadescender-cy.bolder",
 "/questiondown.case/periodcentered.case/periodcentered.case/periodcentered.case/periodcentered.case/bullet.case/periodcentered.loclCAT.case/periodcentered.loclCAT.case/periodcentered.loclCAT.case/periodcentered.loclCAT.case/hyphen.case/hyphen.case/hyphentwo.case/hyphentwo.case/dotaccentcomb.case/dotaccentcomb.case/hungarumlautcomb.case/hungarumlautcomb.case/hungarumlautcomb.case/hungarumlautcomb.case/caroncomb.case/caroncomb.case/ringcomb.case/ringcomb.case/ringcomb.case/dblgravecomb.case/dblgravecomb.case/dblgravecomb.case/dblgravecomb.case/breveinvertedcomb.case/breveinvertedcomb.case",
-"/.notdef Đ"
+"/.notdef"
 );
 axes = (
 {
@@ -158577,7 +158577,7 @@ pos = (206,522);
 shapes = (
 {
 alignment = -1;
-angle = 5.99851;
+angle = 5.99839;
 pos = (305,87);
 ref = acutedbl;
 },
@@ -158592,7 +158592,7 @@ layerId = "075BA79B-D813-4287-A9DD-CCAF2D535ED3";
 shapes = (
 {
 alignment = -1;
-angle = 5.99851;
+angle = 5.99839;
 pos = (305,87);
 ref = acutedbl;
 },
@@ -158621,7 +158621,7 @@ pos = (253,540);
 shapes = (
 {
 alignment = -1;
-angle = 5.99851;
+angle = 5.99839;
 pos = (375,131);
 ref = acutedbl;
 },
@@ -158636,7 +158636,7 @@ layerId = "927AED37-E9E6-4F96-A08E-421C3785EFC6";
 shapes = (
 {
 alignment = -1;
-angle = 5.99851;
+angle = 5.99839;
 pos = (375,131);
 ref = acutedbl;
 },
@@ -158670,7 +158670,7 @@ pos = (206,522);
 shapes = (
 {
 alignment = -1;
-angle = -5.0025;
+angle = -5.00255;
 pos = (72,112);
 ref = gravedbl;
 },
@@ -158685,7 +158685,7 @@ layerId = "075BA79B-D813-4287-A9DD-CCAF2D535ED3";
 shapes = (
 {
 alignment = -1;
-angle = -5.0025;
+angle = -5.00255;
 pos = (72,112);
 ref = gravedbl;
 },
@@ -158714,7 +158714,7 @@ pos = (249,540);
 shapes = (
 {
 alignment = -1;
-angle = -2.99803;
+angle = -2.99794;
 pos = (208,153);
 ref = gravedbl;
 },
@@ -158729,7 +158729,7 @@ layerId = "927AED37-E9E6-4F96-A08E-421C3785EFC6";
 shapes = (
 {
 alignment = -1;
-angle = -2.99803;
+angle = -2.99794;
 pos = (208,153);
 ref = gravedbl;
 },
@@ -160694,7 +160694,7 @@ pos = (238,692);
 shapes = (
 {
 alignment = -1;
-angle = -10.99979;
+angle = -11.00003;
 pos = (-55,94);
 ref = acutecomb;
 },
@@ -160709,7 +160709,7 @@ layerId = "075BA79B-D813-4287-A9DD-CCAF2D535ED3";
 shapes = (
 {
 alignment = -1;
-angle = -10.99979;
+angle = -11.00003;
 pos = (-55,94);
 ref = acutecomb;
 },
@@ -160746,7 +160746,7 @@ pos = (243,780);
 shapes = (
 {
 alignment = -1;
-angle = -10.99979;
+angle = -11.00003;
 pos = (-117,219);
 ref = acutecomb;
 },
@@ -160761,7 +160761,7 @@ layerId = "927AED37-E9E6-4F96-A08E-421C3785EFC6";
 shapes = (
 {
 alignment = -1;
-angle = -10.99979;
+angle = -11.00003;
 pos = (-117,219);
 ref = acutecomb;
 },
@@ -162942,7 +162942,7 @@ ref = circumflexcomb.case;
 },
 {
 alignment = -1;
-angle = -5.0025;
+angle = -5.00255;
 pos = (205,277);
 ref = gravedbl;
 }
@@ -162968,7 +162968,7 @@ ref = circumflexcomb.case;
 },
 {
 alignment = -1;
-angle = -5.0025;
+angle = -5.00255;
 pos = (205,277);
 ref = gravedbl;
 }
@@ -163010,7 +163010,7 @@ ref = circumflexcomb.case;
 },
 {
 alignment = -1;
-angle = -4.00274;
+angle = -4.0025;
 pos = (219,235);
 ref = acutedbl;
 }
@@ -163046,7 +163046,7 @@ ref = circumflexcomb.case;
 },
 {
 alignment = -1;
-angle = -4.00274;
+angle = -4.0025;
 pos = (219,235);
 ref = acutedbl;
 }
@@ -163083,7 +163083,7 @@ ref = circumflexcomb.case;
 },
 {
 alignment = -1;
-angle = -4.00274;
+angle = -4.0025;
 pos = (283,267);
 ref = acutedbl;
 }
@@ -163110,7 +163110,7 @@ ref = circumflexcomb.case;
 },
 {
 alignment = -1;
-angle = -4.00274;
+angle = -4.0025;
 pos = (283,267);
 ref = acutedbl;
 }
@@ -164490,7 +164490,7 @@ ref = tildecomb.case;
 },
 {
 alignment = -1;
-angle = -7.00207;
+angle = -7.00236;
 pos = (-30,106);
 ref = acutecomb.case;
 }
@@ -164519,7 +164519,7 @@ ref = tildecomb.case;
 },
 {
 alignment = -1;
-angle = -7.00207;
+angle = -7.00236;
 pos = (-30,106);
 ref = acutecomb.case;
 }
@@ -164556,7 +164556,7 @@ ref = tildecomb.case;
 },
 {
 alignment = -1;
-angle = -5.0025;
+angle = -5.00255;
 pos = (-43,189);
 ref = acutecomb.case;
 }
@@ -164585,7 +164585,7 @@ ref = tildecomb.case;
 },
 {
 alignment = -1;
-angle = -5.0025;
+angle = -5.00255;
 pos = (-43,189);
 ref = acutecomb.case;
 }
@@ -168769,7 +168769,7 @@ ref = dotaccentcomb;
 },
 {
 alignment = -1;
-angle = -2.00001;
+angle = -2.00003;
 pos = (-10,-31);
 ref = acutecomb;
 }
@@ -168784,7 +168784,7 @@ ref = dotaccentcomb;
 },
 {
 alignment = -1;
-angle = -2.00001;
+angle = -2.00003;
 pos = (-10,-31);
 ref = acutecomb;
 }
@@ -168814,7 +168814,7 @@ scale = (0.9,0.9);
 },
 {
 alignment = -1;
-angle = -7.9956;
+angle = -7.99576;
 pos = (-125,-12);
 ref = acutecomb;
 }
@@ -168830,7 +168830,7 @@ scale = (0.9,0.9);
 },
 {
 alignment = -1;
-angle = -7.9956;
+angle = -7.99576;
 pos = (-125,-12);
 ref = acutecomb;
 }
@@ -169996,7 +169996,7 @@ ref = macron;
 },
 {
 alignment = -1;
-angle = -4.00234;
+angle = -4.0025;
 pos = (-17,-43);
 ref = acutecomb.case;
 }
@@ -170039,7 +170039,7 @@ ref = macron;
 },
 {
 alignment = -1;
-angle = -4.00234;
+angle = -4.0025;
 pos = (-17,-43);
 ref = acutecomb.case;
 }
@@ -170202,7 +170202,7 @@ ref = macron;
 },
 {
 alignment = -1;
-angle = 4.00234;
+angle = 4.0025;
 pos = (101,-67);
 ref = gravecomb.case;
 }
@@ -170245,7 +170245,7 @@ ref = macron;
 },
 {
 alignment = -1;
-angle = 4.00234;
+angle = 4.0025;
 pos = (101,-67);
 ref = gravecomb.case;
 }
@@ -170403,7 +170403,7 @@ ref = ringcomb;
 },
 {
 alignment = -1;
-angle = -4.00234;
+angle = -4.0025;
 pos = (-22,-5);
 ref = acutecomb.case;
 }
@@ -170418,7 +170418,7 @@ ref = ringcomb;
 },
 {
 alignment = -1;
-angle = -4.00234;
+angle = -4.0025;
 pos = (-22,-5);
 ref = acutecomb.case;
 }
@@ -170642,7 +170642,7 @@ pos = (185,692);
 shapes = (
 {
 alignment = -1;
-angle = -4.00234;
+angle = -4.0025;
 pos = (-53,-8);
 ref = acutecomb.case;
 },
@@ -170671,7 +170671,7 @@ layerId = "075BA79B-D813-4287-A9DD-CCAF2D535ED3";
 shapes = (
 {
 alignment = -1;
-angle = -4.00234;
+angle = -4.0025;
 pos = (-53,-8);
 ref = acutecomb.case;
 },
@@ -170700,7 +170700,7 @@ pos = (195,710);
 shapes = (
 {
 alignment = -1;
-angle = -2.99803;
+angle = -2.99794;
 pos = (-44,-16);
 ref = acutecomb.case;
 },
@@ -170730,7 +170730,7 @@ layerId = "927AED37-E9E6-4F96-A08E-421C3785EFC6";
 shapes = (
 {
 alignment = -1;
-angle = -2.99803;
+angle = -2.99794;
 pos = (-44,-16);
 ref = acutecomb.case;
 },
@@ -172496,39 +172496,25 @@ axesValues = (
 );
 customParameters = (
 {
-name = "Remove Features";
-value = (
-mkmk,
-mark
-);
-}
-);
-instanceInterpolations = {
-"075BA79B-D813-4287-A9DD-CCAF2D535ED3" = 1;
-};
-name = Thin;
-type = variable;
-},
-{
-axesValues = (
-20
-);
-customParameters = (
-{
 name = "Update Features";
 value = 1;
-},
-{
-name = "Remove Glyphs";
-value = (
-"*.bolder"
-);
 }
 );
 instanceInterpolations = {
 "075BA79B-D813-4287-A9DD-CCAF2D535ED3" = 1;
 };
 name = Thin;
+properties = (
+{
+key = familyNames;
+values = (
+{
+language = dflt;
+value = Bitter;
+}
+);
+}
+);
 weightClass = 250;
 },
 {
@@ -172539,12 +172525,6 @@ customParameters = (
 {
 name = "Update Features";
 value = 1;
-},
-{
-name = "Remove Glyphs";
-value = (
-"*.bolder"
-);
 }
 );
 instanceInterpolations = {
@@ -172562,12 +172542,6 @@ customParameters = (
 {
 name = "Update Features";
 value = 1;
-},
-{
-name = "Remove Glyphs";
-value = (
-"*.bolder"
-);
 }
 );
 instanceInterpolations = {
@@ -172585,12 +172559,6 @@ customParameters = (
 {
 name = "Update Features";
 value = 1;
-},
-{
-name = "Remove Glyphs";
-value = (
-"*.bolder"
-);
 }
 );
 instanceInterpolations = {
@@ -172607,12 +172575,6 @@ customParameters = (
 {
 name = "Update Features";
 value = 1;
-},
-{
-name = "Remove Glyphs";
-value = (
-"*.bolder"
-);
 }
 );
 instanceInterpolations = {
@@ -172630,12 +172592,6 @@ customParameters = (
 {
 name = "Update Features";
 value = 1;
-},
-{
-name = "Remove Glyphs";
-value = (
-"*.bolder"
-);
 }
 );
 instanceInterpolations = {
@@ -172653,12 +172609,6 @@ customParameters = (
 {
 name = "Update Features";
 value = 1;
-},
-{
-name = "Remove Glyphs";
-value = (
-"*.bolder"
-);
 }
 );
 instanceInterpolations = {
@@ -172678,51 +172628,6 @@ customParameters = (
 {
 name = "Update Features";
 value = 1;
-},
-{
-name = "Rename Glyphs";
-value = (
-"dcroat=dcroat.bolder",
-"h=h.bolder",
-"hbar=hbar.bolder",
-"hbrevebelow=hbrevebelow.bolder",
-"hcircumflex=hcircumflex.bolder",
-"hdotbelow=hdotbelow.bolder",
-"shha-cy=shha-cy.bolder",
-"m=m.bolder",
-"mdotbelow=mdotbelow.bolder",
-"te-cy.loclBGR=te-cy.loclBGR.bolder",
-"n=n.bolder",
-"nacute=nacute.bolder",
-"napostrophe=napostrophe.bolder",
-"ncaron=ncaron.bolder",
-"ncommaaccent=ncommaaccent.bolder",
-"ndotaccent=ndotaccent.bolder",
-"ndotbelow=ndotbelow.bolder",
-"nlinebelow=nmacronbelow.bolder",
-"ntilde=ntilde.bolder",
-"nacute.loclPLK=nacute.loclPLK.bolder",
-"pe-cy.loclBGR=pe-cy.loclBGR.bolder",
-"c_h=c_h.bolder",
-"c_t=c_t.bolder",
-"f_h=f_h.bolder",
-"T_h=T_h.bolder",
-"Tetse-cy=Tetse-cy.bolder",
-"tetse-cy=tetse-cy.bolder",
-"Shhadescender-cy=Shhadescender-cy.bolder",
-"shhadescender-cy=shhadescender-cy.bolder",
-"nmod=nmod.bolder",
-"naira=naira.bolder",
-"peseta=peseta.bolder",
-"peso=peso.bolder",
-"won=won.bolder"
-);
-},
-{
-name = "Remove Glyphs";
-value = (
-"*.bolder"
-);
 }
 );
 instanceInterpolations = {
@@ -172740,51 +172645,6 @@ customParameters = (
 {
 name = "Update Features";
 value = 1;
-},
-{
-name = "Rename Glyphs";
-value = (
-"dcroat=dcroat.bolder",
-"h=h.bolder",
-"hbar=hbar.bolder",
-"hbrevebelow=hbrevebelow.bolder",
-"hcircumflex=hcircumflex.bolder",
-"hdotbelow=hdotbelow.bolder",
-"shha-cy=shha-cy.bolder",
-"m=m.bolder",
-"mdotbelow=mdotbelow.bolder",
-"te-cy.loclBGR=te-cy.loclBGR.bolder",
-"n=n.bolder",
-"nacute=nacute.bolder",
-"napostrophe=napostrophe.bolder",
-"ncaron=ncaron.bolder",
-"ncommaaccent=ncommaaccent.bolder",
-"ndotaccent=ndotaccent.bolder",
-"ndotbelow=ndotbelow.bolder",
-"nlinebelow=nmacronbelow.bolder",
-"ntilde=ntilde.bolder",
-"nacute.loclPLK=nacute.loclPLK.bolder",
-"pe-cy.loclBGR=pe-cy.loclBGR.bolder",
-"c_h=c_h.bolder",
-"c_t=c_t.bolder",
-"f_h=f_h.bolder",
-"T_h=T_h.bolder",
-"Tetse-cy=Tetse-cy.bolder",
-"tetse-cy=tetse-cy.bolder",
-"Shhadescender-cy=Shhadescender-cy.bolder",
-"shhadescender-cy=shhadescender-cy.bolder",
-"nmod=nmod.bolder",
-"naira=naira.bolder",
-"peseta=peseta.bolder",
-"peso=peso.bolder",
-"won=won.bolder"
-);
-},
-{
-name = "Remove Glyphs";
-value = (
-"*.bolder"
-);
 }
 );
 instanceInterpolations = {
@@ -172792,6 +172652,22 @@ instanceInterpolations = {
 };
 name = Black;
 weightClass = 900;
+},
+{
+axesValues = (
+0
+);
+customParameters = (
+{
+name = "Variable Font Origin";
+value = "075BA79B-D813-4287-A9DD-CCAF2D535ED3";
+}
+);
+instanceInterpolations = {
+"075BA79B-D813-4287-A9DD-CCAF2D535ED3" = 1;
+};
+name = Thin;
+type = variable;
 }
 );
 kerningLTR = {
