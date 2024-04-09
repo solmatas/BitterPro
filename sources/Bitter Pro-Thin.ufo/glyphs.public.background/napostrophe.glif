@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="napostrophe" format="2">
-	<advance width="684"/>
-	<outline>
-		<component base="apostrophemod" xOffset="-39"/>
-		<component base="n" xOffset="61"/>
-	</outline>
-</glyph>

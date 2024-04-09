@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="underscoredbl" format="2">
-	<advance width="469"/>
-	<unicode hex="2017"/>
-	<outline>
-		<component base="underscore"/>
-		<component base="underscore" xOffset="-32" yOffset="-200"/>
-	</outline>
-</glyph>

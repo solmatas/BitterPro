@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="u-cy" format="2">
-	<advance width="569"/>
-	<anchor x="312" y="540" name="top"/>
-	<outline>
-		<component base="y"/>
-	</outline>
-</glyph>

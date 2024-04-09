@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="dotbelowcomb.case" format="2">
-	<advance width="110"/>
-	<anchor x="55" y="0" name="_bottom"/>
-	<anchor x="53" y="-140" name="bottom"/>
-	<outline>
-		<component base="dotbelowcomb"/>
-	</outline>
-</glyph>

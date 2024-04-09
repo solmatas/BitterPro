@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ii-cy.loclBGR" format="2">
-	<advance width="626"/>
-	<anchor x="556" y="0" name="bottomright"/>
-	<anchor x="354" y="540" name="top"/>
-	<outline>
-		<component base="u"/>
-	</outline>
-</glyph>

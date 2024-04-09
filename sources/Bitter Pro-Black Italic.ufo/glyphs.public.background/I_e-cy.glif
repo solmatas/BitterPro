@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Ie-cy" format="2">
-	<advance width="585"/>
-	<anchor x="361" y="710" name="top"/>
-	<outline>
-		<component base="E"/>
-	</outline>
-</glyph>

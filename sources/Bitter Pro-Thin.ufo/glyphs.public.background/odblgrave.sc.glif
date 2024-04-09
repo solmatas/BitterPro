@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="odblgrave.sc" format="2">
-	<advance width="680"/>
-	<outline>
-		<component base="o.sc"/>
-		<component base="dblgravecomb" xOffset="114" yOffset="46"/>
-	</outline>
-</glyph>

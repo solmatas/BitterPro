@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="eldescender-cy" format="2">
-	<advance width="558"/>
-	<outline>
-		<component base="el-cy"/>
-		<component base="descender-cy" xOffset="348"/>
-	</outline>
-</glyph>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Pedescender-cy" format="2">
-	<advance width="765"/>
-	<unicode hex="0524"/>
-	<outline>
-		<component base="Pe-cy"/>
-		<component base="descender-cy.case" xOffset="591"/>
-	</outline>
-</glyph>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="sdotbelowdotaccent" format="2">
-	<advance width="475"/>
-	<outline>
-		<component base="s"/>
-		<component base="dotaccentcomb" xOffset="196"/>
-		<component base="dotbelowcomb.case" xOffset="189"/>
-	</outline>
-</glyph>

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ydotaccent" format="2">
-	<advance width="502"/>
-	<outline>
-		<component base="y"/>
-		<component base="dotaccentcomb" xOffset="194"/>
-	</outline>
-</glyph>

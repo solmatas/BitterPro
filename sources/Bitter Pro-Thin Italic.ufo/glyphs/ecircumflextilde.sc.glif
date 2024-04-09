@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ecircumflextilde.sc" format="2">
-	<advance width="557"/>
-	<outline>
-		<component base="e.sc"/>
-		<component base="circumflexcomb_tildecomb" xOffset="71" yOffset="46"/>
-	</outline>
-</glyph>

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="rlinebelow" format="2">
-	<advance width="376"/>
-	<outline>
-		<component base="r"/>
-		<component base="macronbelowcomb" xScale="0.98" xOffset="-66"/>
-	</outline>
-</glyph>
