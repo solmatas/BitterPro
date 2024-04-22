@@ -67,3 +67,8 @@ stat:
       values:
         - name: Italic
           value: 1
+
+buildVariable: True
+buildOTF: false
+buildTTF: false
+buildWebfont: false
