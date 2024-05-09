@@ -5,7 +5,7 @@ axisOrder:
   - wght
   - ital
 familyName: "Bitter"
-flattenComponents: True
+flattenComponents: true
 stat:
   Bitter[wght].ttf:
     - name: Weight

@@ -1,5 +1,5 @@
 {
-.appVersion = "3151";
+.appVersion = "3259";
 .formatVersion = 3;
 DisplayStrings = (
 "/.notdef",
@@ -48,18 +48,19 @@ name = "Use Line Breaks";
 value = 1;
 },
 {
+disabled = 1;
 name = "Axis Mappings";
 value = {
 wght = {
-20 = 100;
-33 = 200;
-48 = 300;
-80 = 400;
-100 = 500;
-120 = 600;
-140 = 700;
-170 = 800;
-200 = 900;
+100 = 20;
+200 = 33;
+300 = 48;
+400 = 80;
+500 = 100;
+600 = 120;
+700 = 140;
+800 = 170;
+900 = 200;
 };
 };
 },
@@ -175,7 +176,28 @@ script latn;
 lookup ccmp_latn_1;
 lookup ccmp_latn_2;
 ";
-notes = "# Add at beginning:\012lookup latinPresentationForms {\012	sub dz by d z;\012	sub Dz by D z;\012	sub DZ by D Z;\012	sub Dzcaron by D zcaron;\012	sub DZcaron by D Zcaron;\012	sub dzcaron by d zcaron;\012	sub fi by f i;\012	sub fl by f l;\012	sub ldot by l periodcentered.loclCAT;\012	sub Ldot by L periodcentered.loclCAT.case;\012	sub lj by l j;\012	sub Lj by L j;\012	sub LJ by L J;\012	sub napostrophe by quoteright n;\012	sub Nj by N j;\012	sub nj by n j;\012	sub NJ by N J;\012} latinPresentationForms;\012\012";
+notes = "# Add at beginning:
+lookup latinPresentationForms {
+	sub dz by d z;
+	sub Dz by D z;
+	sub DZ by D Z;
+	sub Dzcaron by D zcaron;
+	sub DZcaron by D Zcaron;
+	sub dzcaron by d zcaron;
+	sub fi by f i;
+	sub fl by f l;
+	sub ldot by l periodcentered.loclCAT;
+	sub Ldot by L periodcentered.loclCAT.case;
+	sub lj by l j;
+	sub Lj by L j;
+	sub LJ by L J;
+	sub napostrophe by quoteright n;
+	sub Nj by N j;
+	sub nj by n j;
+	sub NJ by N J;
+} latinPresentationForms;
+
+";
 tag = ccmp;
 },
 {
@@ -201,7 +223,28 @@ lookup latinPresentationForms {
 } latinPresentationForms;
 # END Decompose presentation forms
 ";
-notes = "# Add at beginning:\012lookup latinPresentationForms {\012	sub dz by d z;\012	sub Dz by D z;\012	sub DZ by D Z;\012	sub Dzcaron by D zcaron;\012	sub DZcaron by D Zcaron;\012	sub dzcaron by d zcaron;\012	sub fi by f i;\012	sub fl by f l;\012	sub ldot by l periodcentered.loclCAT;\012	sub Ldot by L periodcentered.loclCAT.case;\012	sub lj by l j;\012	sub Lj by L j;\012	sub LJ by L J;\012	sub napostrophe by quoteright n;\012	sub Nj by N j;\012	sub nj by n j;\012	sub NJ by N J;\012} latinPresentationForms;\012\012";
+notes = "# Add at beginning:
+lookup latinPresentationForms {
+	sub dz by d z;
+	sub Dz by D z;
+	sub DZ by D Z;
+	sub Dzcaron by D zcaron;
+	sub DZcaron by D Zcaron;
+	sub dzcaron by d zcaron;
+	sub fi by f i;
+	sub fl by f l;
+	sub ldot by l periodcentered.loclCAT;
+	sub Ldot by L periodcentered.loclCAT.case;
+	sub lj by l j;
+	sub Lj by L j;
+	sub LJ by L J;
+	sub napostrophe by quoteright n;
+	sub Nj by N j;
+	sub nj by n j;
+	sub NJ by N J;
+} latinPresentationForms;
+
+";
 tag = ccmp;
 },
 {
@@ -329,7 +372,15 @@ lookup locl_cyrl_4 {
 	sub te-cy by te-cy.loclSRB;
 } locl_cyrl_4;
 ";
-notes = "# Add at end:\012lookup NLD {\012	language NLD;\012	sub iacute j' by jacute;\012	ignore sub J' [@Markscomb @MarkscombCase];\012	sub Iacute J' by Jacute;\012} NLD;\012\012";
+notes = "# Add at end:
+lookup NLD {
+	language NLD;
+	sub iacute j' by jacute;
+	ignore sub J' [@Markscomb @MarkscombCase];
+	sub Iacute J' by Jacute;
+} NLD;
+
+";
 tag = locl;
 },
 {
@@ -706,7 +757,15 @@ sub quotedbl by quotedbl.sc;
 sub quotesingle by quotesingle.sc;
 sub ampersand by ampersand.sc;
 ";
-notes = "# Add at beginning:\012lookup latinPresentationForms;\012\012# Add at beginning:\012lookup capMarksToSC {\012	sub @MarkscombCase by @Markscomb;\012} capMarksToSC;\012\012";
+notes = "# Add at beginning:
+lookup latinPresentationForms;
+
+# Add at beginning:
+lookup capMarksToSC {
+	sub @MarkscombCase by @Markscomb;
+} capMarksToSC;
+
+";
 tag = c2sc;
 },
 {
@@ -984,7 +1043,14 @@ sub jdotless by j.sc;
 sub longs by s.sc;
 # END Alternate small-cap mappings
 ";
-notes = "# Add at beginning:\012lookup latinPresentationForms;\012\012# Add at end:\012sub jdotless by j.sc;\012sub longs by s.sc;\012\012";
+notes = "# Add at beginning:
+lookup latinPresentationForms;
+
+# Add at end:
+sub jdotless by j.sc;
+sub longs by s.sc;
+
+";
 tag = smcp;
 },
 {
@@ -1296,7 +1362,8 @@ sub f f by f_f;
 sub f i by fi;
 sub f l by fl;
 ";
-notes = "\012";
+notes = "
+";
 tag = liga;
 },
 {
@@ -1367,11 +1434,11 @@ axesValues = (
 customParameters = (
 {
 name = hheaDescender;
-value = -376;
+value = -265;
 },
 {
 name = typoDescender;
-value = -376;
+value = -265;
 },
 {
 name = hheaLineGap;
@@ -1391,11 +1458,11 @@ value = 376;
 },
 {
 name = hheaAscender;
-value = 1255;
+value = 935;
 },
 {
 name = typoAscender;
-value = 1255;
+value = 935;
 },
 {
 name = paramArea;
@@ -1494,11 +1561,11 @@ axesValues = (
 customParameters = (
 {
 name = hheaDescender;
-value = -376;
+value = -265;
 },
 {
 name = typoDescender;
-value = -376;
+value = -265;
 },
 {
 name = hheaLineGap;
@@ -1518,11 +1585,11 @@ value = 376;
 },
 {
 name = hheaAscender;
-value = 1255;
+value = 935;
 },
 {
 name = typoAscender;
-value = 1255;
+value = 935;
 },
 {
 name = paramArea;
@@ -88756,7 +88823,7 @@ associatedMasterId = "075BA79B-D813-4287-A9DD-CCAF2D535ED3";
 attr = {
 axisRules = (
 {
-min = "145";
+min = 145;
 }
 );
 };
@@ -88810,7 +88877,7 @@ associatedMasterId = "927AED37-E9E6-4F96-A08E-421C3785EFC6";
 attr = {
 axisRules = (
 {
-min = "145";
+min = 145;
 }
 );
 };
@@ -146379,7 +146446,7 @@ associatedMasterId = "075BA79B-D813-4287-A9DD-CCAF2D535ED3";
 attr = {
 axisRules = (
 {
-min = "130";
+min = 130;
 }
 );
 };
@@ -146455,7 +146522,7 @@ associatedMasterId = "927AED37-E9E6-4F96-A08E-421C3785EFC6";
 attr = {
 axisRules = (
 {
-min = "130";
+min = 130;
 }
 );
 };
@@ -169688,7 +169755,7 @@ value = Bitter;
 );
 }
 );
-weightClass = 250;
+weightClass = 100;
 },
 {
 axesValues = (
@@ -169705,7 +169772,7 @@ instanceInterpolations = {
 "927AED37-E9E6-4F96-A08E-421C3785EFC6" = 0.07222;
 };
 name = ExtraLight;
-weightClass = 275;
+weightClass = 200;
 },
 {
 axesValues = (
@@ -169827,19 +169894,12 @@ name = Black;
 weightClass = 900;
 },
 {
-axesValues = (
-0
-);
 customParameters = (
 {
 name = "Variable Font Origin";
 value = "075BA79B-D813-4287-A9DD-CCAF2D535ED3";
 }
 );
-instanceInterpolations = {
-"075BA79B-D813-4287-A9DD-CCAF2D535ED3" = 1.11111;
-"927AED37-E9E6-4F96-A08E-421C3785EFC6" = -0.11111;
-};
 name = Thin;
 type = variable;
 }
@@ -173647,19 +173707,6 @@ key = designerURL;
 value = "https://www.solmatas.com/";
 },
 {
-key = manufacturers;
-values = (
-{
-language = dflt;
-value = "Sol Matas";
-}
-);
-},
-{
-key = manufacturerURL;
-value = "https://www.solmatas.com/";
-},
-{
 key = licenses;
 values = (
 {
@@ -173671,6 +173718,19 @@ value = "This Font Software is licensed under the SIL Open Font License, Version
 {
 key = licenseURL;
 value = "http://scripts.sil.org/OFL";
+},
+{
+key = manufacturers;
+values = (
+{
+language = dflt;
+value = "Sol Matas";
+}
+);
+},
+{
+key = manufacturerURL;
+value = "https://www.solmatas.com/";
 },
 {
 key = trademarks;
