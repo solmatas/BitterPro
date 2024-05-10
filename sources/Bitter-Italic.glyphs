@@ -177273,7 +177273,7 @@ key = copyrights;
 values = (
 {
 language = dflt;
-value = "Copyright 2011 The Bitter Project Authors (https://github.com/solmatas/bitter)";
+value = "Copyright 2011 The Bitter Project Authors (https://github.com/solmatas/BitterPro)";
 }
 );
 },
