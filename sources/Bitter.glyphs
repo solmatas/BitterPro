@@ -111198,12 +111198,6 @@ kernLeft = o;
 kernRight = o;
 layers = (
 {
-anchors = (
-{
-name = top;
-pos = (28,522);
-}
-);
 background = {
 anchors = (
 {
@@ -111232,12 +111226,6 @@ ref = e;
 width = 569;
 },
 {
-anchors = (
-{
-name = top;
-pos = (280,540);
-}
-);
 background = {
 anchors = (
 {
@@ -111293,7 +111281,7 @@ pos = (11,0);
 ref = "schwa-cy";
 },
 {
-pos = (-180,0);
+pos = (73,0);
 ref = dieresiscomb;
 }
 );
@@ -111835,12 +111823,6 @@ kernLeft = o;
 kernRight = o;
 layers = (
 {
-anchors = (
-{
-name = top;
-pos = (54,522);
-}
-);
 background = {
 anchors = (
 {
@@ -111867,12 +111849,6 @@ ref = "fita-cy";
 width = 597;
 },
 {
-anchors = (
-{
-name = top;
-pos = (293,540);
-}
-);
 background = {
 anchors = (
 {
@@ -111924,7 +111900,7 @@ pos = (12,0);
 ref = "obarred-cy";
 },
 {
-pos = (-153,0);
+pos = (92,0);
 ref = dieresiscomb;
 }
 );
@@ -111948,7 +111924,7 @@ shapes = (
 ref = "obarred-cy";
 },
 {
-pos = (53,0);
+pos = (49,0);
 ref = dieresiscomb;
 }
 );
