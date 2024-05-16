@@ -216,7 +216,7 @@ lookup latinPresentationForms {
 	sub lj by l j;
 	sub Lj by L j;
 	sub LJ by L J;
-	sub napostrophe by quoteright n;
+#	sub napostrophe by quoteright n; # this caused distorted rendering, napostrophe is completely fine as a glyph to use
 	sub Nj by N j;
 	sub nj by n j;
 	sub NJ by N J;
