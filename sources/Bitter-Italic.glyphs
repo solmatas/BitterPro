@@ -1,5 +1,5 @@
 {
-.appVersion = "3259";
+.appVersion = "3260";
 .formatVersion = 3;
 axes = (
 {
@@ -1360,7 +1360,7 @@ code = "sub x by x.ss01;
 labels = (
 {
 language = dflt;
-value = "";
+value = "Alternative x shape";
 }
 );
 tag = ss01;
