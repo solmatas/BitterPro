@@ -2,7 +2,7 @@
 .appVersion = "3337";
 .formatVersion = 3;
 DisplayStrings = (
-"v.w.y.k.x.z.
+"◇v.w.y.k.x.z.
 V.W.Y.K.X.Z.
 v:w:y:k:x:z:
 V:W:Y:K:X:Z:"
@@ -154681,14 +154681,14 @@ nodes = (
 {
 closed = 1;
 nodes = (
+(370,136,l),
 (177,377,l),
 (168,257,l),
 (410,475,l),
 (296,482,l),
 (489,240,l),
 (498,360,l),
-(256,143,l),
-(370,136,l)
+(256,143,l)
 );
 }
 );
