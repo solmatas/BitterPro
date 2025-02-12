@@ -110,7 +110,6 @@ feature ss01;
 tag = aalt;
 },
 {
-automatic = 1;
 code = "lookup ccmp_DFLT_1 {
 	@CombiningTopAccents = [acutecomb brevecomb breveinvertedcomb caroncomb circumflexcomb commaturnedabovecomb dblgravecomb dieresiscomb dotaccentcomb gravecomb hookabovecomb hungarumlautcomb macroncomb ringcomb tildecomb];
 	lookupflag UseMarkFilteringSet @CombiningTopAccents;
@@ -151,7 +150,7 @@ lookup ccmp_latn_1 {
 	sub fl by f l;
 	sub Ldot by L periodcentered.loclCAT.case;
 	sub ldot by l periodcentered.loclCAT;
-	sub napostrophe by apostrophemod n;
+#	sub napostrophe by apostrophemod n;
 	sub lj by l j;
 	sub Lj by L j;
 	sub LJ by L J;
@@ -209,7 +208,7 @@ lookup latinPresentationForms {
 	sub lj by l j;
 	sub Lj by L j;
 	sub LJ by L J;
-	sub napostrophe by quoteright n;
+#	sub napostrophe by quoteright n;
 	sub Nj by N j;
 	sub nj by n j;
 	sub NJ by N J;
