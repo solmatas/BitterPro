@@ -949,6 +949,19 @@ sub longs by s.sc;
 tag = smcp;
 },
 {
+automatic = 1;
+code = "lookupflag IgnoreMarks;
+sub f f i by f_f_i;
+sub f f l by f_f_l;
+sub f f by f_f;
+sub f i by fi;
+sub f l by fl;
+";
+notes = "
+";
+tag = liga;
+},
+{
 code = "sub germandbls' @Uppercase by germandbls.calt;
 sub @Uppercase @Uppercase germandbls' by germandbls.calt;
 
@@ -1250,19 +1263,6 @@ sub f t by f_t;
 sub s t by s_t;
 ";
 tag = dlig;
-},
-{
-automatic = 1;
-code = "lookupflag IgnoreMarks;
-sub f f i by f_f_i;
-sub f f l by f_f_l;
-sub f f by f_f;
-sub f i by fi;
-sub f l by fl;
-";
-notes = "
-";
-tag = liga;
 },
 {
 automatic = 1;
