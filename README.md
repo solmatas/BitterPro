@@ -20,7 +20,7 @@ Designed by Sol Matas
 
 ### Copyright
 
-Copyright (c) 2011-2020, Sol Matas (www.solmatas.com), with Reserved Font Name "Bitter Pro". Copyright (c) Bitter Pro project Authors
+Copyright (c) 2011-2020, Sol Matas (www.solmatas.xyz), with Reserved Font Name "Bitter Pro". Copyright (c) Bitter Pro project Authors
 
 ### License
 
